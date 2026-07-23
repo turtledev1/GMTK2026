@@ -41,7 +41,6 @@ public class GameManager : MonoBehaviour {
     }
 
     void Update() {
-        Debug.Log("Current Time Left: " + currentTimeLeftSeconds);
         switch (state) {
             case State.WaitingToStart:
                 break;

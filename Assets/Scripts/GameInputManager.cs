@@ -12,7 +12,6 @@ public class GameInputManager : MonoBehaviour {
 
     public static GameInputManager Instance { get; private set; }
 
-    public event EventHandler OnJumpAction;
     public event EventHandler OnInteractAction;
     public event EventHandler OnPauseAction;
 
@@ -21,9 +20,7 @@ public class GameInputManager : MonoBehaviour {
         MoveDown,
         MoveLeft,
         MoveRight,
-        Jump,
         Interact,
-        Reset,
         Pause,
     }
 
@@ -38,24 +35,19 @@ public class GameInputManager : MonoBehaviour {
 
         inputSystemActions.Player.Enable();
 
-        inputSystemActions.Player.Jump.performed += Jump_performed;
         inputSystemActions.Player.Interact.performed += Interact_performed;
         inputSystemActions.Player.Pause.performed += Pause_performed;
     }
 
     private void OnDestroy() {
-        inputSystemActions.Player.Jump.performed -= Jump_performed;
         inputSystemActions.Player.Interact.performed -= Interact_performed;
         inputSystemActions.Player.Pause.performed -= Pause_performed;
 
         inputSystemActions.Dispose();
     }
 
-    private void Jump_performed(UnityEngine.InputSystem.InputAction.CallbackContext obj) {
-        OnJumpAction?.Invoke(this, EventArgs.Empty);
-    }
-
-    private void Interact_performed(UnityEngine.InputSystem.InputAction.CallbackContext obj) {
+    private void Interact_performed(InputAction.CallbackContext obj) {
+        Debug.Log("Interact performed");
         OnInteractAction?.Invoke(this, EventArgs.Empty);
     }
 
