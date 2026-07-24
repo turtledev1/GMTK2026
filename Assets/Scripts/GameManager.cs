@@ -24,17 +24,24 @@ public class GameManager : MonoBehaviour {
     private void Awake() {
         Instance = this;
 
+        UpAndRunningSystems.ResetSystems();
         state = State.GamePlaying;
-        currentTimeLeftSeconds = maxTimeMinute * 60;
+        currentTimeLeftSeconds = GetGameDuration();
     }
 
-    void Start() {
+    private void Start() {
         GameInputManager.Instance.OnPauseAction += GameInputManager_OnPauseAction;
     }
 
     private void GameInputManager_OnPauseAction(object sender, EventArgs e) {
         if (state == State.GamePlaying) {
-            ChangeState(State.Paused);
+            if (!RepairsManagerUI.Instance.IsRepairing()) {
+                Debug.Log("Pausing game");
+                ChangeState(State.Paused);
+            } else {
+                Debug.Log("Repair UI opened, closing it instead");
+                RepairsManagerUI.Instance.CloseRepair();
+            }
         } else if (state == State.Paused) {
             Unpause();
         }
@@ -79,5 +86,9 @@ public class GameManager : MonoBehaviour {
 
     public float GetTime() {
         return currentTimeLeftSeconds;
+    }
+
+    public float GetGameDuration() {
+        return maxTimeMinute * 60;
     }
 }

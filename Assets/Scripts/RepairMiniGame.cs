@@ -7,11 +7,5 @@ public abstract class RepairMiniGame : MonoBehaviour {
     protected void Complete() {
         Debug.Log("Repair mini-game completed!");
         OnCompleted?.Invoke();
-        Close();
-    }
-
-    protected void Close() {
-        Player.Instance.SetIsInteracting(false);
-        Destroy(gameObject);
     }
 }

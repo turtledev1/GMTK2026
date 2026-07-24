@@ -6,7 +6,6 @@ public class FuelMiniGameUI : RepairMiniGame {
     [SerializeField] private GameObject screen;
     [SerializeField] private HoldButton fillButton;
     [SerializeField] private Image fuelFillImage;
-    [SerializeField] private Button closeButton;
     [SerializeField] private float fillSpeed = 0.5f;
 
     private bool isFilling = false;
@@ -15,10 +14,6 @@ public class FuelMiniGameUI : RepairMiniGame {
     private void Awake() {
         fillButton.OnHoldStart += () => isFilling = true;
         fillButton.OnHoldEnd += () => isFilling = false;
-
-        closeButton.onClick.AddListener(() => {
-            Close();
-        });
     }
 
     private void Update() {

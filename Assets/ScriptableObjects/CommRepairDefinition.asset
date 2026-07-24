@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RepairDefinitionSO
   type: 4
   repairMiniGame: {fileID: 2850716344242520323, guid: 87bd3d11693f4a4429b11ecc70230bee, type: 3}
+  repairTime: 20
+  priority: 5

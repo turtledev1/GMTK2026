@@ -13,7 +13,7 @@ public class Player : MonoBehaviour {
     private bool canMove = true;
     private bool isWalking = false;
     private bool isInteracting = false;
-    private readonly List<Interactable> nearbyInteractables = new();
+    private readonly List<RocketSystem> nearbyInteractables = new();
 
     private void Awake() {
         Instance = this;
@@ -62,7 +62,7 @@ public class Player : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D other) {
         Debug.Log("OnTriggerEnter2D: " + other.name);
-        Interactable interactable = other.GetComponent<Interactable>();
+        RocketSystem interactable = other.GetComponent<RocketSystem>();
 
         if (interactable != null) {
             nearbyInteractables.Add(interactable);
@@ -71,7 +71,7 @@ public class Player : MonoBehaviour {
 
     private void OnTriggerExit2D(Collider2D other) {
         Debug.Log("OnTriggerExit2D: " + other.name);
-        Interactable interactable = other.GetComponent<Interactable>();
+        RocketSystem interactable = other.GetComponent<RocketSystem>();
 
         if (interactable != null) {
             nearbyInteractables.Remove(interactable);
@@ -86,10 +86,10 @@ public class Player : MonoBehaviour {
             return;
         }
 
-        Interactable nearestInteractable = null;
+        RocketSystem nearestInteractable = null;
         float closestDistance = float.MaxValue;
 
-        foreach (Interactable interactable in nearbyInteractables) {
+        foreach (RocketSystem interactable in nearbyInteractables) {
             float distance = Vector2.Distance(transform.position, interactable.transform.position);
 
             if (distance < closestDistance) {
@@ -99,8 +99,7 @@ public class Player : MonoBehaviour {
         }
 
         if (nearestInteractable != null) {
-            nearestInteractable.Interact();
-            isInteracting = true;
+            isInteracting = nearestInteractable.Interact();
         }
     }
 
