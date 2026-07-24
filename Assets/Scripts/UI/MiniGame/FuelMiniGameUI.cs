@@ -35,12 +35,6 @@ public class FuelMiniGameUI : RepairMiniGame {
             isFilling = false;
 
             Complete();
-            Close();
         }
-    }
-
-    private void Close() {
-        Player.Instance.SetIsInteracting(false);
-        Destroy(gameObject);
     }
 }

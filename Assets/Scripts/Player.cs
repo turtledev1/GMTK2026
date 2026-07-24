@@ -79,23 +79,28 @@ public class Player : MonoBehaviour {
     }
 
     private void Interact() {
-        if (GameManager.Instance.IsGamePlaying()) {
-            Interactable nearestInteractable = null;
-            float closestDistance = float.MaxValue;
+        if (isInteracting) {
+            return;
+        }
+        if (!GameManager.Instance.IsGamePlaying()) {
+            return;
+        }
 
-            foreach (Interactable interactable in nearbyInteractables) {
-                float distance = Vector2.Distance(transform.position, interactable.transform.position);
+        Interactable nearestInteractable = null;
+        float closestDistance = float.MaxValue;
 
-                if (distance < closestDistance) {
-                    closestDistance = distance;
-                    nearestInteractable = interactable;
-                }
+        foreach (Interactable interactable in nearbyInteractables) {
+            float distance = Vector2.Distance(transform.position, interactable.transform.position);
+
+            if (distance < closestDistance) {
+                closestDistance = distance;
+                nearestInteractable = interactable;
             }
+        }
 
-            if (nearestInteractable != null) {
-                nearestInteractable.Interact();
-                isInteracting = true;
-            }
+        if (nearestInteractable != null) {
+            nearestInteractable.Interact();
+            isInteracting = true;
         }
     }
 

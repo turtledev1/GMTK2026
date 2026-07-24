@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e6a3dfe8a729d4cb4d604fe5ff33b3, type: 3}
+  m_Name: CargoRepairDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::RepairDefinitionSO
+  type: 5
+  repairMiniGame: {fileID: 6168180490689739544, guid: d7179e296a10d494a9e87a0ada2e8f8c, type: 3}

@@ -1,10 +1,13 @@
 using UnityEngine;
 
 public class Interactable : MonoBehaviour {
-    [SerializeField] private Transform canvasTransform;
-    [SerializeField] private Object miniGameUIPrefab;
+    [SerializeField] private RepairDefinitionSO repairDefinitionSO;
 
     public void Interact() {
-        Instantiate(miniGameUIPrefab, canvasTransform);
+        RepairsManagerUI.Instance.OpenRepair(this);
+    }
+
+    public RepairMiniGame GetMiniGamePrefab() {
+        return repairDefinitionSO.repairMiniGame;
     }
 }
