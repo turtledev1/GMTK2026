@@ -15,7 +15,6 @@ public class GameManager : MonoBehaviour {
         WaitingToStart,
         GamePlaying,
         Paused,
-        LaunchSequence,
         Ending,
     }
 
@@ -55,12 +54,10 @@ public class GameManager : MonoBehaviour {
                 currentTimeLeftSeconds -= Time.deltaTime;
                 if (currentTimeLeftSeconds <= 0) {
                     currentTimeLeftSeconds = 0;
-                    ChangeState(State.LaunchSequence);
+                    ChangeState(State.Ending);
                 }
                 break;
             case State.Paused:
-                break;
-            case State.LaunchSequence:
                 break;
             case State.Ending:
                 break;
@@ -82,6 +79,10 @@ public class GameManager : MonoBehaviour {
 
     public bool IsGamePaused() {
         return state == State.Paused;
+    }
+
+    public bool IsGameEnding() {
+        return state == State.Ending;
     }
 
     public float GetTime() {

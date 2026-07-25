@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Windows;
@@ -7,12 +8,15 @@ public class Player : MonoBehaviour {
 
     public static Player Instance { get; private set; }
 
+    public event EventHandler OnInteractableChanged;
+
     private Rigidbody2D rb;
 
     private bool interactPressedThisFrame;
     private bool canMove = true;
     private bool isWalking = false;
     private bool isInteracting = false;
+    private Vector2 movementVector = Vector2.zero;
     private readonly List<RocketSystem> nearbyInteractables = new();
 
     private void Awake() {
@@ -43,17 +47,23 @@ public class Player : MonoBehaviour {
 
     private void FixedUpdate() {
         if (!canMove) {
+            movementVector = Vector2.zero;
             return;
         }
         if (isInteracting) {
+            movementVector = Vector2.zero;
             return;
         }
 
-        Vector2 movementInput = GameInputManager.Instance.GetMovementVectorNormalized();
+        movementVector = GameInputManager.Instance.GetMovementVectorNormalized();
 
-        rb.MovePosition(rb.position + movementInput * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movementVector * moveSpeed * Time.fixedDeltaTime);
 
-        isWalking = movementInput != Vector2.zero;
+        isWalking = movementVector != Vector2.zero;
+    }
+
+    public Vector2 GetMovement() {
+        return movementVector;
     }
 
     private void GameInputManager_OnInteractAction(object sender, System.EventArgs e) {
@@ -66,6 +76,7 @@ public class Player : MonoBehaviour {
 
         if (interactable != null) {
             nearbyInteractables.Add(interactable);
+            OnInteractableChanged?.Invoke(this, EventArgs.Empty);
         }
     }
 
@@ -75,6 +86,7 @@ public class Player : MonoBehaviour {
 
         if (interactable != null) {
             nearbyInteractables.Remove(interactable);
+            OnInteractableChanged?.Invoke(this, EventArgs.Empty);
         }
     }
 
@@ -109,5 +121,9 @@ public class Player : MonoBehaviour {
 
     public void SetIsInteracting(bool isInteracting) {
         this.isInteracting = isInteracting;
+    }
+
+    public List<RocketSystem> GetNearbyInteractables() {
+        return nearbyInteractables;
     }
 }
