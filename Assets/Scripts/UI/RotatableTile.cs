@@ -4,6 +4,7 @@ using UnityEngine.EventSystems;
 
 public class RotatableTile : MonoBehaviour, IPointerClickHandler {
     [SerializeField] private float rotationDuration = 0.15f;
+    [SerializeField] private int[] validAngles;
 
     private bool isRotating;
 
@@ -12,6 +13,17 @@ public class RotatableTile : MonoBehaviour, IPointerClickHandler {
             return;
 
         StartCoroutine(Rotate90());
+    }
+
+    public bool IsCorrectAngle() {
+        float currentAngle = transform.localEulerAngles.z;
+
+        foreach (float validAngle in validAngles) {
+            if (Mathf.Abs(Mathf.DeltaAngle(currentAngle, validAngle)) < 1f)
+                return true;
+        }
+
+        return false;
     }
 
     private IEnumerator Rotate90() {
@@ -37,5 +49,17 @@ public class RotatableTile : MonoBehaviour, IPointerClickHandler {
         transform.localRotation = endRotation;
 
         isRotating = false;
+    }
+
+    private float NormalizeAngle(float angle) {
+        angle %= 360f;
+
+        if (angle > 180f)
+            angle -= 360f;
+
+        if (angle < -180f)
+            angle += 360f;
+
+        return angle;
     }
 }

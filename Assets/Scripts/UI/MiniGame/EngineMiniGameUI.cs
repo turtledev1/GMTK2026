@@ -2,16 +2,9 @@ using UnityEngine;
 
 public class EngineMiniGameUI : RepairMiniGame {
     [SerializeField] private RectTransform[] allTiles;
-    [SerializeField] private RectTransform[] solutionTiles;
+    [SerializeField] private RotatableTile[] solutionTiles;
 
     private void Awake() {
-        for (int i = 0; i < allTiles.Length; i++) {
-            Debug.Log($"All tile {i}: {allTiles[i]}");
-        }
-
-        for (int i = 0; i < solutionTiles.Length; i++) {
-            Debug.Log($"Solution tile {i}: {solutionTiles[i]}");
-        }
         RandomizeTiles();
     }
 
@@ -30,24 +23,12 @@ public class EngineMiniGameUI : RepairMiniGame {
     }
 
     private bool IsSolved() {
-        foreach (RectTransform tile in solutionTiles) {
-            float rotation = NormalizeAngle(tile.localEulerAngles.z);
-
-            if (!Mathf.Approximately(rotation, 0f)) {
+        foreach (RotatableTile tile in solutionTiles) {
+            if (!tile.IsCorrectAngle()) {
                 return false;
             }
         }
 
         return true;
-    }
-
-    private float NormalizeAngle(float angle) {
-        angle %= 360f;
-
-        if (angle < 0) {
-            angle += 360f;
-        }
-
-        return angle;
     }
 }

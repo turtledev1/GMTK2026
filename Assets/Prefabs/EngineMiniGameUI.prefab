@@ -89,6 +89,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &260261130297750818
 GameObject:
   m_ObjectHideFlags: 0
@@ -178,6 +179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &278054556662624930
 GameObject:
   m_ObjectHideFlags: 0
@@ -267,6 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000b4000000
 --- !u!1 &310983116361343084
 GameObject:
   m_ObjectHideFlags: 0
@@ -493,6 +496,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000
 --- !u!1 &1382621250384660663
 GameObject:
   m_ObjectHideFlags: 0
@@ -582,6 +586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000
 --- !u!1 &1440210551284048820
 GameObject:
   m_ObjectHideFlags: 0
@@ -821,6 +826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000b4000000
 --- !u!1 &3298399170109743544
 GameObject:
   m_ObjectHideFlags: 0
@@ -910,6 +916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000b4000000
 --- !u!1 &3469207318346304807
 GameObject:
   m_ObjectHideFlags: 0
@@ -999,6 +1006,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &3501877659328124570
 GameObject:
   m_ObjectHideFlags: 0
@@ -1088,6 +1096,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000
 --- !u!1 &3677431067780027038
 GameObject:
   m_ObjectHideFlags: 0
@@ -1177,6 +1186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &5264771193128263207
 GameObject:
   m_ObjectHideFlags: 0
@@ -1266,6 +1276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &5725102611144943188
 GameObject:
   m_ObjectHideFlags: 0
@@ -1355,6 +1366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000b4000000
 --- !u!1 &6739739869087213280
 GameObject:
   m_ObjectHideFlags: 0
@@ -1581,6 +1593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &7223755297803801675
 GameObject:
   m_ObjectHideFlags: 0
@@ -1670,6 +1683,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 00000000
 --- !u!1 &7631786548790256680
 GameObject:
   m_ObjectHideFlags: 0
@@ -1759,6 +1773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &7884479710646671143
 GameObject:
   m_ObjectHideFlags: 0
@@ -1848,6 +1863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &8010605550384870907
 GameObject:
   m_ObjectHideFlags: 0
@@ -1910,14 +1926,14 @@ MonoBehaviour:
   - {fileID: 78754021294592137}
   - {fileID: 4330556951056623787}
   solutionTiles:
-  - {fileID: 6088597150114835185}
-  - {fileID: 7926314442255944450}
-  - {fileID: 4745464978947378804}
-  - {fileID: 6879539366456556948}
-  - {fileID: 5102779499360143710}
-  - {fileID: 6321244056888909608}
-  - {fileID: 7376795993505417312}
-  - {fileID: 3833984836988952991}
+  - {fileID: 1926350685026035300}
+  - {fileID: 3021784808980443527}
+  - {fileID: 5341774700849445231}
+  - {fileID: 1133991045849586144}
+  - {fileID: 6804207728065850243}
+  - {fileID: 825578227715152401}
+  - {fileID: 1165625534020590218}
+  - {fileID: 8890677111149627477}
 --- !u!1 &8060495354765807547
 GameObject:
   m_ObjectHideFlags: 0
@@ -2007,6 +2023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &9146385606787126925
 GameObject:
   m_ObjectHideFlags: 0
@@ -2096,6 +2113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RotatableTile
   rotationDuration: 0.15
+  validAngles: 
 --- !u!1 &9183685400405314038
 GameObject:
   m_ObjectHideFlags: 0
