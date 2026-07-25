@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class RocketSystem : MonoBehaviour {
     [SerializeField] private RepairDefinitionSO repairDefinitionSO;
+    [SerializeField] private BreakingTimerUI timerUI;
 
     public bool IsBroken { get; private set; }
     public bool IsPermanentlyBroken { get; private set; }
@@ -35,6 +36,7 @@ public class RocketSystem : MonoBehaviour {
         }
         IsBroken = true;
         BrokenIndicatorsUI.Instance.ImBroken(this);
+        timerUI.Initialize(this);
 
         TimeRemaining = RepairTime + Random.Range(-3f, 3f);
         // just in case I mess something up

@@ -107,6 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Interactable
   repairDefinitionSO: {fileID: 11400000, guid: 63c3fb4b21ca3554f9fc4cad9c0dbdcc, type: 2}
+  timerUI: {fileID: 5090427721890916802}
 --- !u!61 &6288116464333334563
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -431,10 +432,42 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8385905152988520135, guid: 8149563557b236e47bf7562de2f29fbf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5090427721890916802}
   m_SourcePrefab: {fileID: 100100000, guid: 8149563557b236e47bf7562de2f29fbf, type: 3}
 --- !u!224 &788544916251047822 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 411666542386031397, guid: 8149563557b236e47bf7562de2f29fbf, type: 3}
   m_PrefabInstance: {fileID: 1101114605909859499}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4638008655781217540 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5699997655544273327, guid: 8149563557b236e47bf7562de2f29fbf, type: 3}
+  m_PrefabInstance: {fileID: 1101114605909859499}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+--- !u!1 &8874142576890856044 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8385905152988520135, guid: 8149563557b236e47bf7562de2f29fbf, type: 3}
+  m_PrefabInstance: {fileID: 1101114605909859499}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5090427721890916802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8874142576890856044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2d914c2f4684314ea95a831131c9432, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BreakingTimerUI
+  timerText: {fileID: 4638008655781217540}
