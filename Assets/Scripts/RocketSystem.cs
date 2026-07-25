@@ -10,7 +10,7 @@ public class RocketSystem : MonoBehaviour {
     public float TimeRemaining { get; private set; }
 
     private float RepairTime => repairDefinitionSO.repairTime;
-    private RocketSystemType Type => repairDefinitionSO.type;
+    public RocketSystemType Type => repairDefinitionSO.type;
     public int Priority => repairDefinitionSO.priority;
 
     private void Start() {

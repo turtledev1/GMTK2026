@@ -16,3 +16,4 @@ MonoBehaviour:
   repairMiniGame: {fileID: 6966594936329013735, guid: 8c6af89f3b0bf3c4ba63e8955708f9dd, type: 3}
   repairTime: 15
   priority: 2
+  failureEndingType: 2
