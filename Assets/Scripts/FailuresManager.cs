@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,8 @@ public class FailuresManager : MonoBehaviour {
 
     [SerializeField] private float endMinDelay = 5f;
     [SerializeField] private float endMaxDelay = 10f;
+
+    public event EventHandler OnSomethingBroke;
 
     private readonly List<RocketSystem> systems = new();
 
@@ -37,6 +40,10 @@ public class FailuresManager : MonoBehaviour {
         systems.Remove(system);
     }
 
+    public bool IsSomethingBroken() {
+        return systems.Any(s => s.IsBroken);
+    }
+
     private IEnumerator FailureLoop() {
         while (true) {
             float delay = GetNextDelay();
@@ -58,13 +65,15 @@ public class FailuresManager : MonoBehaviour {
         float min = Mathf.Lerp(startMinDelay, endMinDelay, progress);
         float max = Mathf.Lerp(startMaxDelay, endMaxDelay, progress);
 
-        return Random.Range(min, max);
+        return UnityEngine.Random.Range(min, max);
     }
 
     private void BreakRandomSystem() {
         List<RocketSystem> candidates = systems
-            .Where(s => !s.IsBroken && s != lastBroken)
+            .Where(s => !s.IsBroken && s != lastBroken && s != s.IsPermanentlyBroken)
             .ToList();
+
+        Debug.Log($"Candidates for breaking: {string.Join(", ", candidates.Select(s => s.GetSystemName()))}");
 
         if (candidates.Count == 0) {
             candidates = systems
@@ -77,9 +86,10 @@ public class FailuresManager : MonoBehaviour {
             return;
         }
 
-        RocketSystem chosen = candidates[Random.Range(0, candidates.Count)];
+        RocketSystem chosen = candidates[UnityEngine.Random.Range(0, candidates.Count)];
 
         chosen.Break();
+        OnSomethingBroke?.Invoke(this, EventArgs.Empty);
 
         lastBroken = chosen;
     }

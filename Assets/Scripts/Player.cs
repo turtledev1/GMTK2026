@@ -71,7 +71,6 @@ public class Player : MonoBehaviour {
     }
 
     private void OnTriggerEnter2D(Collider2D other) {
-        Debug.Log("OnTriggerEnter2D: " + other.name);
         RocketSystem interactable = other.GetComponent<RocketSystem>();
 
         if (interactable != null) {
@@ -81,7 +80,6 @@ public class Player : MonoBehaviour {
     }
 
     private void OnTriggerExit2D(Collider2D other) {
-        Debug.Log("OnTriggerExit2D: " + other.name);
         RocketSystem interactable = other.GetComponent<RocketSystem>();
 
         if (interactable != null) {
