@@ -418,7 +418,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -428,11 +428,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -497,12 +497,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 729
-        width: 50
-        height: 32
+        x: 48
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -519,12 +519,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_1
       rect:
         serializedVersion: 2
-        x: 151
-        y: 625
-        width: 32
-        height: 143
+        x: 96
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,12 +541,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_2
       rect:
         serializedVersion: 2
-        x: 199
-        y: 625
-        width: 176
-        height: 143
+        x: 144
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -563,12 +563,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_3
       rect:
         serializedVersion: 2
-        x: 384
-        y: 733
-        width: 50
-        height: 35
+        x: 192
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,12 +585,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_4
       rect:
         serializedVersion: 2
-        x: 433
-        y: 757
-        width: 24
-        height: 11
+        x: 240
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,12 +607,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_5
       rect:
         serializedVersion: 2
-        x: 457
-        y: 757
-        width: 24
-        height: 11
+        x: 288
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -629,12 +629,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_6
       rect:
         serializedVersion: 2
-        x: 481
-        y: 751
-        width: 33
-        height: 17
+        x: 336
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -651,12 +651,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_7
       rect:
         serializedVersion: 2
-        x: 518
-        y: 745
-        width: 12
-        height: 23
+        x: 384
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -673,12 +673,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_8
       rect:
         serializedVersion: 2
-        x: 534
-        y: 719
-        width: 35
-        height: 41
+        x: 432
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_9
       rect:
         serializedVersion: 2
-        x: 577
-        y: 719
-        width: 45
-        height: 45
+        x: 480
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,12 +717,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_10
       rect:
         serializedVersion: 2
-        x: 625
-        y: 678
-        width: 45
-        height: 90
+        x: 528
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,12 +739,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_11
       rect:
         serializedVersion: 2
-        x: 7
-        y: 431
-        width: 128
-        height: 308
+        x: 576
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -761,12 +761,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_12
       rect:
         serializedVersion: 2
-        x: 389
-        y: 701
-        width: 111
-        height: 21
+        x: 624
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -783,12 +783,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_13
       rect:
         serializedVersion: 2
-        x: 413
-        y: 679
-        width: 111
-        height: 23
+        x: 672
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -805,12 +805,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_14
       rect:
         serializedVersion: 2
-        x: 534
-        y: 651
-        width: 37
-        height: 59
+        x: 720
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -827,12 +827,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_15
       rect:
         serializedVersion: 2
-        x: 589
-        y: 674
-        width: 23
-        height: 30
+        x: 0
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -849,12 +849,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_16
       rect:
         serializedVersion: 2
-        x: 678
-        y: 677
-        width: 85
-        height: 75
+        x: 48
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -871,12 +871,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_17
       rect:
         serializedVersion: 2
-        x: 384
-        y: 624
-        width: 145
-        height: 46
+        x: 96
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -893,12 +893,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_18
       rect:
         serializedVersion: 2
-        x: 575
-        y: 626
-        width: 50
-        height: 30
+        x: 144
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -915,12 +915,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_19
       rect:
         serializedVersion: 2
-        x: 625
-        y: 633
-        width: 45
-        height: 40
+        x: 192
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -937,12 +937,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_20
       rect:
         serializedVersion: 2
-        x: 674
-        y: 628
-        width: 92
-        height: 45
+        x: 240
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -959,12 +959,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_21
       rect:
         serializedVersion: 2
-        x: 152
-        y: 601
-        width: 32
-        height: 15
+        x: 288
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -981,12 +981,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_22
       rect:
         serializedVersion: 2
-        x: 159
-        y: 587
-        width: 17
-        height: 15
+        x: 336
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1003,12 +1003,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_23
       rect:
         serializedVersion: 2
-        x: 191
-        y: 562
-        width: 194
-        height: 55
+        x: 384
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1025,12 +1025,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_24
       rect:
         serializedVersion: 2
-        x: 527
-        y: 592
-        width: 50
-        height: 27
+        x: 432
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1047,12 +1047,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_25
       rect:
         serializedVersion: 2
-        x: 592
-        y: 479
-        width: 81
-        height: 138
+        x: 480
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1069,12 +1069,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_26
       rect:
         serializedVersion: 2
-        x: 688
-        y: 575
-        width: 61
-        height: 42
+        x: 528
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1091,12 +1091,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_27
       rect:
         serializedVersion: 2
-        x: 47
-        y: 505
-        width: 90
-        height: 58
+        x: 576
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1113,12 +1113,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_28
       rect:
         serializedVersion: 2
-        x: 149
-        y: 541
-        width: 38
-        height: 36
+        x: 624
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1135,12 +1135,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_29
       rect:
         serializedVersion: 2
-        x: 398
-        y: 546
-        width: 112
-        height: 54
+        x: 672
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1157,12 +1157,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_30
       rect:
         serializedVersion: 2
-        x: 527
-        y: 531
-        width: 50
-        height: 40
+        x: 720
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1179,12 +1179,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_31
       rect:
         serializedVersion: 2
-        x: 679
-        y: 544
-        width: 89
-        height: 24
+        x: 0
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1201,12 +1201,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_32
       rect:
         serializedVersion: 2
-        x: 144
-        y: 508
-        width: 13
-        height: 13
+        x: 48
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1223,12 +1223,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_33
       rect:
         serializedVersion: 2
-        x: 145
-        y: 492
-        width: 12
-        height: 16
+        x: 96
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1245,12 +1245,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_34
       rect:
         serializedVersion: 2
-        x: 156
-        y: 508
-        width: 10
-        height: 13
+        x: 144
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1267,12 +1267,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_35
       rect:
         serializedVersion: 2
-        x: 165
-        y: 508
-        width: 9
-        height: 13
+        x: 192
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1289,12 +1289,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_36
       rect:
         serializedVersion: 2
-        x: 173
-        y: 508
-        width: 19
-        height: 13
+        x: 240
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1311,12 +1311,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_37
       rect:
         serializedVersion: 2
-        x: 191
-        y: 466
-        width: 194
-        height: 55
+        x: 288
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1333,12 +1333,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_38
       rect:
         serializedVersion: 2
-        x: 414
-        y: 432
-        width: 79
-        height: 97
+        x: 336
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1355,12 +1355,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_39
       rect:
         serializedVersion: 2
-        x: 527
-        y: 383
-        width: 98
-        height: 145
+        x: 384
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1377,12 +1377,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_40
       rect:
         serializedVersion: 2
-        x: 679
-        y: 496
-        width: 89
-        height: 24
+        x: 432
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1399,12 +1399,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_41
       rect:
         serializedVersion: 2
-        x: 156
-        y: 492
-        width: 9
-        height: 13
+        x: 480
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1421,12 +1421,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_42
       rect:
         serializedVersion: 2
-        x: 164
-        y: 492
-        width: 10
-        height: 13
+        x: 528
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1443,12 +1443,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_43
       rect:
         serializedVersion: 2
-        x: 172
-        y: 492
-        width: 11
-        height: 13
+        x: 576
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1465,12 +1465,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_44
       rect:
         serializedVersion: 2
-        x: 182
-        y: 492
-        width: 9
-        height: 13
+        x: 624
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1487,12 +1487,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_45
       rect:
         serializedVersion: 2
-        x: 47
-        y: 431
-        width: 90
-        height: 36
+        x: 672
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1509,12 +1509,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_46
       rect:
         serializedVersion: 2
-        x: 143
-        y: 442
-        width: 50
-        height: 34
+        x: 720
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1531,12 +1531,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_47
       rect:
         serializedVersion: 2
-        x: 632
-        y: 335
-        width: 118
-        height: 110
+        x: 0
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1553,12 +1553,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 370
-        width: 385
-        height: 55
+        x: 48
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1575,12 +1575,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_49
       rect:
         serializedVersion: 2
-        x: 395
-        y: 336
-        width: 116
-        height: 97
+        x: 96
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1597,12 +1597,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_50
       rect:
         serializedVersion: 2
-        x: 529
-        y: 337
-        width: 91
-        height: 44
+        x: 144
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1619,12 +1619,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_51
       rect:
         serializedVersion: 2
-        x: 123
-        y: 297
-        width: 7
-        height: 18
+        x: 192
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1641,12 +1641,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_52
       rect:
         serializedVersion: 2
-        x: 144
-        y: 293
-        width: 10
-        height: 21
+        x: 240
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1663,12 +1663,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_53
       rect:
         serializedVersion: 2
-        x: 191
-        y: 274
-        width: 194
-        height: 55
+        x: 288
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1685,12 +1685,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_54
       rect:
         serializedVersion: 2
-        x: 385
-        y: 306
-        width: 46
-        height: 31
+        x: 336
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1707,12 +1707,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_55
       rect:
         serializedVersion: 2
-        x: 433
-        y: 310
-        width: 92
-        height: 27
+        x: 384
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1729,12 +1729,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_56
       rect:
         serializedVersion: 2
-        x: 553
-        y: 300
-        width: 24
-        height: 37
+        x: 432
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1751,12 +1751,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_57
       rect:
         serializedVersion: 2
-        x: 576
-        y: 287
+        x: 480
+        y: 576
         width: 48
-        height: 46
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1773,12 +1773,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_58
       rect:
         serializedVersion: 2
-        x: 639
-        y: 287
-        width: 19
-        height: 46
+        x: 528
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1795,12 +1795,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_59
       rect:
         serializedVersion: 2
-        x: 673
-        y: 294
-        width: 45
-        height: 18
+        x: 576
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1817,12 +1817,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_60
       rect:
         serializedVersion: 2
-        x: 725
-        y: 291
-        width: 37
-        height: 38
+        x: 624
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1839,12 +1839,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_61
       rect:
         serializedVersion: 2
-        x: 36
-        y: 299
-        width: 6
-        height: 10
+        x: 672
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1861,12 +1861,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_62
       rect:
         serializedVersion: 2
-        x: 41
-        y: 293
-        width: 6
-        height: 9
+        x: 720
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1883,12 +1883,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_63
       rect:
         serializedVersion: 2
-        x: 49
-        y: 290
-        width: 6
-        height: 10
+        x: 0
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1905,12 +1905,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_64
       rect:
         serializedVersion: 2
-        x: 55
-        y: 293
-        width: 6
-        height: 10
+        x: 48
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1927,12 +1927,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_65
       rect:
         serializedVersion: 2
-        x: 83
-        y: 296
-        width: 6
-        height: 10
+        x: 96
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1949,12 +1949,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_66
       rect:
         serializedVersion: 2
-        x: 118
-        y: 295
-        width: 6
-        height: 10
+        x: 144
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1971,12 +1971,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_67
       rect:
         serializedVersion: 2
-        x: 34
-        y: 256
-        width: 14
-        height: 16
+        x: 192
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1993,12 +1993,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_68
       rect:
         serializedVersion: 2
-        x: 48
-        y: 259
-        width: 9
-        height: 17
+        x: 240
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2015,12 +2015,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_69
       rect:
         serializedVersion: 2
-        x: 56
-        y: 258
-        width: 6
-        height: 10
+        x: 288
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2037,12 +2037,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_70
       rect:
         serializedVersion: 2
-        x: 63
-        y: 260
-        width: 6
-        height: 9
+        x: 336
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2059,12 +2059,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_71
       rect:
         serializedVersion: 2
-        x: 79
-        y: 256
-        width: 6
-        height: 18
+        x: 384
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2081,12 +2081,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_72
       rect:
         serializedVersion: 2
-        x: 86
-        y: 257
-        width: 6
-        height: 10
+        x: 432
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2103,12 +2103,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_73
       rect:
         serializedVersion: 2
-        x: 102
-        y: 261
-        width: 6
-        height: 10
+        x: 480
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2125,12 +2125,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_74
       rect:
         serializedVersion: 2
-        x: 107
-        y: 264
-        width: 7
-        height: 14
+        x: 528
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2147,12 +2147,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_75
       rect:
         serializedVersion: 2
-        x: 109
-        y: 255
-        width: 6
-        height: 10
+        x: 576
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2169,12 +2169,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_76
       rect:
         serializedVersion: 2
-        x: 159
-        y: 258
-        width: 6
-        height: 9
+        x: 624
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2191,12 +2191,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_77
       rect:
         serializedVersion: 2
-        x: 167
-        y: 258
-        width: 8
-        height: 14
+        x: 672
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2213,12 +2213,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_78
       rect:
         serializedVersion: 2
-        x: 393
-        y: 239
-        width: 23
-        height: 39
+        x: 720
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2235,12 +2235,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_79
       rect:
         serializedVersion: 2
-        x: 445
-        y: 243
-        width: 24
-        height: 27
+        x: 0
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2257,12 +2257,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_80
       rect:
         serializedVersion: 2
-        x: 496
-        y: 248
-        width: 65
-        height: 41
+        x: 48
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2279,12 +2279,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_81
       rect:
         serializedVersion: 2
-        x: 679
-        y: 202
-        width: 9
-        height: 77
+        x: 96
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2301,12 +2301,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_82
       rect:
         serializedVersion: 2
-        x: 690
-        y: 202
-        width: 12
-        height: 67
+        x: 144
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2323,12 +2323,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_83
       rect:
         serializedVersion: 2
-        x: 722
-        y: 247
-        width: 20
-        height: 25
+        x: 192
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2345,12 +2345,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_84
       rect:
         serializedVersion: 2
-        x: 726
-        y: 251
-        width: 40
-        height: 33
+        x: 240
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2367,12 +2367,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_85
       rect:
         serializedVersion: 2
-        x: 34
-        y: 224
-        width: 13
-        height: 17
+        x: 288
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2389,12 +2389,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_86
       rect:
         serializedVersion: 2
-        x: 80
-        y: 225
-        width: 10
-        height: 15
+        x: 336
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2411,12 +2411,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_87
       rect:
         serializedVersion: 2
-        x: 96
-        y: 225
-        width: 6
-        height: 10
+        x: 384
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2433,12 +2433,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_88
       rect:
         serializedVersion: 2
-        x: 124
-        y: 222
-        width: 11
-        height: 16
+        x: 432
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2455,12 +2455,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_89
       rect:
         serializedVersion: 2
-        x: 134
-        y: 226
-        width: 7
-        height: 14
+        x: 480
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2477,12 +2477,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_90
       rect:
         serializedVersion: 2
-        x: 146
-        y: 222
-        width: 6
-        height: 10
+        x: 528
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2499,12 +2499,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_91
       rect:
         serializedVersion: 2
-        x: 152
-        y: 224
-        width: 6
-        height: 10
+        x: 576
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2521,12 +2521,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_92
       rect:
         serializedVersion: 2
-        x: 191
-        y: 178
-        width: 194
-        height: 55
+        x: 624
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2543,12 +2543,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_93
       rect:
         serializedVersion: 2
-        x: 385
-        y: 89
-        width: 187
-        height: 142
+        x: 672
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2565,12 +2565,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_94
       rect:
         serializedVersion: 2
-        x: 479
-        y: 200
-        width: 98
-        height: 41
+        x: 720
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2587,12 +2587,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_95
       rect:
         serializedVersion: 2
-        x: 592
-        y: 191
-        width: 65
-        height: 70
+        x: 0
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2609,12 +2609,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_96
       rect:
         serializedVersion: 2
-        x: 719
-        y: 134
-        width: 49
-        height: 107
+        x: 48
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2631,12 +2631,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_97
       rect:
         serializedVersion: 2
-        x: 5
-        y: 175
-        width: 8
-        height: 11
+        x: 96
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2653,12 +2653,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_98
       rect:
         serializedVersion: 2
-        x: 11
-        y: 175
-        width: 9
-        height: 11
+        x: 144
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2675,12 +2675,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_99
       rect:
         serializedVersion: 2
-        x: 19
-        y: 175
-        width: 22
-        height: 11
+        x: 192
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2697,12 +2697,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_100
       rect:
         serializedVersion: 2
-        x: 54
-        y: 174
-        width: 10
-        height: 14
+        x: 240
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2719,12 +2719,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_101
       rect:
         serializedVersion: 2
-        x: 63
-        y: 174
-        width: 8
-        height: 14
+        x: 288
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2741,12 +2741,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_102
       rect:
         serializedVersion: 2
-        x: 70
-        y: 174
-        width: 9
-        height: 14
+        x: 336
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2763,12 +2763,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_103
       rect:
         serializedVersion: 2
-        x: 78
-        y: 174
-        width: 10
-        height: 14
+        x: 384
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2785,12 +2785,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_104
       rect:
         serializedVersion: 2
-        x: 108
-        y: 174
-        width: 8
-        height: 14
+        x: 432
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2807,12 +2807,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_105
       rect:
         serializedVersion: 2
-        x: 115
-        y: 174
-        width: 9
-        height: 14
+        x: 480
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2829,12 +2829,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_106
       rect:
         serializedVersion: 2
-        x: 123
-        y: 174
-        width: 8
-        height: 14
+        x: 528
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2851,12 +2851,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_107
       rect:
         serializedVersion: 2
-        x: 143
-        y: 167
-        width: 50
-        height: 15
+        x: 576
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2873,12 +2873,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_108
       rect:
         serializedVersion: 2
-        x: 582
-        y: 168
-        width: 132
-        height: 25
+        x: 624
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2895,12 +2895,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_109
       rect:
         serializedVersion: 2
-        x: 59
-        y: 160
-        width: 12
-        height: 14
+        x: 672
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2917,12 +2917,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_110
       rect:
         serializedVersion: 2
-        x: 70
-        y: 160
-        width: 8
-        height: 14
+        x: 720
+        y: 432
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2939,12 +2939,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_111
       rect:
         serializedVersion: 2
-        x: 77
-        y: 160
-        width: 8
-        height: 14
+        x: 0
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2961,12 +2961,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_112
       rect:
         serializedVersion: 2
-        x: 0
-        y: 100
-        width: 145
-        height: 45
+        x: 48
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2983,12 +2983,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_113
       rect:
         serializedVersion: 2
-        x: 151
-        y: 47
-        width: 32
-        height: 93
+        x: 96
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3005,12 +3005,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_114
       rect:
         serializedVersion: 2
-        x: 191
-        y: 82
-        width: 194
-        height: 55
+        x: 144
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3027,12 +3027,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_115
       rect:
         serializedVersion: 2
-        x: 582
-        y: 115
-        width: 132
-        height: 28
+        x: 192
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3049,12 +3049,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_116
       rect:
         serializedVersion: 2
-        x: 61
-        y: 22
-        width: 68
-        height: 49
+        x: 240
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3071,12 +3071,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_117
       rect:
         serializedVersion: 2
-        x: 387
-        y: 65
-        width: 43
-        height: 19
+        x: 288
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3093,12 +3093,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_118
       rect:
         serializedVersion: 2
-        x: 596
-        y: 16
-        width: 147
-        height: 75
+        x: 336
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3115,12 +3115,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_119
       rect:
         serializedVersion: 2
-        x: 0
-        y: 38
+        x: 384
+        y: 384
         width: 48
-        height: 21
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3137,12 +3137,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_120
       rect:
         serializedVersion: 2
-        x: 160
-        y: 3
-        width: 25
-        height: 37
+        x: 432
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3159,12 +3159,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_121
       rect:
         serializedVersion: 2
-        x: 199
-        y: 0
-        width: 29
-        height: 40
+        x: 480
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3181,12 +3181,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_122
       rect:
         serializedVersion: 2
-        x: 244
-        y: 0
-        width: 30
-        height: 47
+        x: 528
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3203,12 +3203,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_123
       rect:
         serializedVersion: 2
-        x: 295
-        y: 0
-        width: 29
-        height: 49
+        x: 576
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3225,12 +3225,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_124
       rect:
         serializedVersion: 2
-        x: 350
-        y: 0
-        width: 30
-        height: 47
+        x: 624
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3247,12 +3247,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_125
       rect:
         serializedVersion: 2
-        x: 383
-        y: 0
-        width: 146
-        height: 49
+        x: 672
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3269,12 +3269,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_126
       rect:
         serializedVersion: 2
-        x: 534
-        y: 38
-        width: 24
-        height: 9
+        x: 720
+        y: 384
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3291,12 +3291,12 @@ TextureImporter:
       name: Tileset_SciFi_Club_Rasak_127
       rect:
         serializedVersion: 2
-        x: 536
-        y: 16
-        width: 37
-        height: 31
+        x: 0
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3309,11 +3309,2805 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c91e6d2718314790511ea951668dc
+      internalID: 862246999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f3ce24e38a8e4bab075110bb582b9
+      internalID: -673594689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fffb5adb86ee48b553af1caf0d824
+      internalID: 1159352392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d704e3b0556a14c8f9fc8d25d131e9
+      internalID: 75881134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9b261c66a34849ac71debbfca2ff0
+      internalID: -1559771120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a21949f1cad042bb7c410a526fc7d
+      internalID: -1692897899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a78423b5709af4c907e532c1a4124d
+      internalID: -797374277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b54d5c2184e6408d28a800c57e7e8
+      internalID: -1938313638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059254e026fe7e438a09b850c28dcd0
+      internalID: -230997930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79c0742f067854b9e4d6f3b2d6ba26
+      internalID: 852539794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c84f3554ed04489fd920310f4b7f8
+      internalID: -784535491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eebe7ff3e65ea745815634d418cca5e
+      internalID: 617423175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e52ac0b59a9a04eba6a116a1e2a899
+      internalID: 26071927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87722597a331e804f9222685865386a9
+      internalID: 1109527561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b92d6ebe3445c4aad6e78ce7777974
+      internalID: -1335007617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7066151b239b54897d4c25f9ec1e32
+      internalID: -2124340218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ccc3c894f792419d6aa5cdde6c5d3
+      internalID: 1587239104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a818b7c0d0593499084cb83f8d9ceb
+      internalID: -1674428151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255de469ef9d09c4495cafa75fe95e10
+      internalID: 1808239333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a741acde933b9468a94a4bfa93e1df
+      internalID: 324251975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca259d0806bdf4c959006db89095dd
+      internalID: 365682876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa269d5ed7a9a34a9ea256c8519b0df
+      internalID: 1907427396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45683f9e350814fb7cde26356943fc
+      internalID: -1517343708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6edb31164ff357428e118647e1813e5
+      internalID: -1178505268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863d8ca07bb1c84c8e1adb4883d2231
+      internalID: 968854359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac34ba64f87c0448cdebd193aa9d3f
+      internalID: -1633180170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8fce4c93a676b42a6d5264f1981187
+      internalID: 823266101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1086eba6ac924194e297006b6dbc7
+      internalID: 1317043651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e0013b148dc74581cb17a324fc4ed
+      internalID: -2028529416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec43b65eb30644fa453c5ef76977f0
+      internalID: 483813127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e5c72177b5c4043a61a9a08c5d83a6
+      internalID: -686206577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136ba41fd610f94db9f9c5c3a99e6ae
+      internalID: 252381313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877490633efd74c4695602d57c6df224
+      internalID: 1446368978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de44515e62d22c41b2bcf96ab1bdeb7
+      internalID: 491305553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813214e3b263b4468991875539da334
+      internalID: 658234388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48e9f479902dc4d88d12445e128ab4
+      internalID: -1439782358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1571ce3f4d5c4cb7d687d09f55c2b
+      internalID: 1348208571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcd074b6a6661047a837145e43b7944
+      internalID: -769100872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f680b99e182a949a945695b1805447
+      internalID: -1597590768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2fa18b8cc87e040b00764dd048249c
+      internalID: -908148234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d526bd78c60d746988bb98f9f8167f
+      internalID: 1690223330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a480a769f52731429335482e1eb7367
+      internalID: 1075788278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f859f0dd73290534da56b2f0693fd61a
+      internalID: -157807325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049e08615932e243b50b76d11d5b1d5
+      internalID: 1292403963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb4af3e4d48b34493f2e7a3a9b74b4
+      internalID: 1128023771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7e0ff16d9e544091ab3c727f5845a
+      internalID: 596990372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af593ce577b5c849b8987de88657a4e
+      internalID: 1739080333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2078d51450217438022d0a604958c3
+      internalID: -819808775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87b05fbcff8a546bf9577b1a0a4d5d
+      internalID: -1263809316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d29fa709652c4aba26faaaed63289
+      internalID: 1782976119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b993c70c363344a99b081337e0276
+      internalID: 1617270074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007216db80a899e41bcf82ac3db3d4bd
+      internalID: 1399962198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22361a91f707cc546bd2d4fe14174cfe
+      internalID: 257519370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41b09ff5dc6b44497de3b988ceb2b8
+      internalID: 2010039156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a22107bc4f949b47beb32cc8fc29e31
+      internalID: 494050359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59debc76549c6dd45a205905e97d7d39
+      internalID: -362993037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e52aff7f1794746a4fd1f8007d4b5c
+      internalID: -206477634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cec587c3fd80e468a1922a67452d81
+      internalID: 1710780197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1a5c743f2c8b4ca4ca33bc643d43c
+      internalID: -833258430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcfe957f85a03c479f075c2dafb270f
+      internalID: 1103098776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683d247c27006f4dbf70d57f555fe0d
+      internalID: -1352651242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1659ff19b5d0ce4391f0be50cfea045
+      internalID: 164882458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef859df5b69a314b900ad47001f67f0
+      internalID: 2067867252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e877d2cc0caff0844bc1e8896eaa4f42
+      internalID: 1528279460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3efdc2cc433374692b0de72af11010
+      internalID: 140009877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97f4abd2eb14046aa9ccbd0cada451
+      internalID: 974738211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f89a5f58d99f48b8df881c1587b9b
+      internalID: 1478533514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124a05bf63d98f4f8246655bdd8b209
+      internalID: -435123515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b64befef2c76c94cac3c472dfa814e0
+      internalID: -1334983290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156e1b1b7393bf4ab8928287e811576
+      internalID: -1006441787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_198
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621a98d449de314999fe96fbf3d7cf4
+      internalID: -1313488241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_199
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dfff04fa592f140a1822d06e878471
+      internalID: 1882874065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_200
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c885b8a51ee54e8048685f98aad44
+      internalID: 148179495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999863125ac3294468a7111d7f22ec2a
+      internalID: -733634215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_202
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4b50aeb7a5f74aa9adb5d791cc171
+      internalID: -1235520593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a95d0dd0972724f8bbe40ddbdf8b85
+      internalID: -1251116205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_204
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6074ab87e4703468adc0fc59a49a87
+      internalID: -1097202865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_205
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdbc29ce7b403545b0f06d6be1108ca
+      internalID: -2015031807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_206
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719ef92a83cc4fd4289072e179c964b3
+      internalID: 626522086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923a7b3b38f4aeb43bc39c15676bfc84
+      internalID: 66014527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c544f0702b59c5458438451426709d0
+      internalID: -1503102189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91316f55d359f294ab0b66092ab5dc53
+      internalID: -1262553320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_210
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed499ebd7a5966e4983adb98490a8be9
+      internalID: 1121224064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713823064f76505458c4afe644c9e0df
+      internalID: 920160154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18b17de2f624b4baff376a78a85179
+      internalID: -1215267603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_213
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedce9191655efe488d203094cace2f2
+      internalID: 1720469742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_214
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cb241b16e2184e9b97817af2a0838
+      internalID: 705890268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6717d1ebcb26eb24b8ea9033faf57e7f
+      internalID: 755602098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_216
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826d99cc74b14e143b5b3ffd23503739
+      internalID: 762163010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ed08d278165c4ab4adaf269b0226d
+      internalID: -1752067079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_218
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548997d8b83be245b2e2e567d49314a
+      internalID: -746651570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_219
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779efd2f744a8b448b2ef8611bc4b9ed
+      internalID: 153793573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_220
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a50df469ab10b4439b62f7373224701
+      internalID: -191375156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_221
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253274e8156460440a34026206e1d054
+      internalID: 1965102963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_222
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eec9a1284247641a30974dd8c4d31b
+      internalID: -1854382274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa2dd040505f4a46845774267ddbfeb
+      internalID: -1829586758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_224
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786fd9001e7a06b46bdd5bfd73acd969
+      internalID: 517778115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_225
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf837d74f6029d49b6003dbd801bd89
+      internalID: 1818952791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_226
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2505bc41ad4ef9140b464d877c7eb955
+      internalID: -962247097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2de77302d519459749fa273553625
+      internalID: 1767735410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_228
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905853c3538aab74683c3900da69646d
+      internalID: -1353259485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9447d4fd2f62b4f8daa055c391c6fd
+      internalID: -1810446388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_230
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e53292b13b5f44184250628ac95820
+      internalID: 1523718338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f1af80f38140c459ced5d3be483275
+      internalID: -190375485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_232
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e306ded596387e48ab5d3a2f0d5d6f9
+      internalID: -1007227548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_233
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8af5de426268964f8423d5a10d0d4c2
+      internalID: -1425426865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_234
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b92a4488d84045b14cb4fe45a6c74
+      internalID: 572351773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_235
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d29c28f0f5d046a87a6ff3e7e03fe
+      internalID: 335770179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_236
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a073b96ad2a474282d94af462274ef
+      internalID: 906735225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4501a39b18a44a9f1edfb9b3fde9c
+      internalID: 1623475313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_238
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146abe5d48614da4ca1691ae63073d13
+      internalID: 1498632563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c26660164fa859498faba33a4d4647b
+      internalID: -1246174324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_240
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b87074b146784ba37f2ed06f653be
+      internalID: 347174428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25809e33db23f4e8b6aa055dcfc549
+      internalID: 29272613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_242
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79c83d97ae326447b031d9cc2d7dd68
+      internalID: 1772814063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab44af2c8448a6478366ef445085fc8
+      internalID: 1982447813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_244
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13da2c21d1ac2743bae0a9ff7a9b649
+      internalID: -547971333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_245
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc94ab5f613342479eeb50c452c9dbb
+      internalID: 1885190868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_246
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368b03c72903034fad719fef442fbfd
+      internalID: 523713060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_247
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee4a4d6059a5e41bb4b6fe1b5976a7
+      internalID: -1989569922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_248
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf87f45e034d2b41a00e6c1e4c85ec7
+      internalID: 1475341117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfade7811ff6f46979d95593bf99c9
+      internalID: 724273841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_250
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288bebd147150944b6f64ed3478f4d7
+      internalID: -1322606609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_251
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261fd96fdbee1b45ae21ebfb2e58db2
+      internalID: -2026388782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_252
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849d5f7386c27445925640c75692575
+      internalID: 1721013009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_253
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02572ed68c6318d449c3f56d13b1af23
+      internalID: 2010448157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Club_Rasak_254
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d34b0ba1271b468cfa58f7d482095
+      internalID: 391507276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 423c6a3a204a42c499e8951a764cdab6
     internalID: 0
     vertices: []
     indices: 
@@ -3321,7 +6115,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Tileset_SciFi_Club_Rasak_0: 4167222648444842194
       Tileset_SciFi_Club_Rasak_1: -2186978369916680040
@@ -3356,20 +6152,147 @@ TextureImporter:
       Tileset_SciFi_Club_Rasak_125: 4595397946870005388
       Tileset_SciFi_Club_Rasak_126: 1319141403769422267
       Tileset_SciFi_Club_Rasak_127: -222736518786258031
+      Tileset_SciFi_Club_Rasak_128: 862246999
+      Tileset_SciFi_Club_Rasak_129: -673594689
       Tileset_SciFi_Club_Rasak_13: -7618639274206062687
+      Tileset_SciFi_Club_Rasak_130: 1159352392
+      Tileset_SciFi_Club_Rasak_131: 75881134
+      Tileset_SciFi_Club_Rasak_132: -1559771120
+      Tileset_SciFi_Club_Rasak_133: -1692897899
+      Tileset_SciFi_Club_Rasak_134: -797374277
+      Tileset_SciFi_Club_Rasak_135: -1938313638
+      Tileset_SciFi_Club_Rasak_136: -230997930
+      Tileset_SciFi_Club_Rasak_137: 852539794
+      Tileset_SciFi_Club_Rasak_138: -784535491
+      Tileset_SciFi_Club_Rasak_139: 617423175
       Tileset_SciFi_Club_Rasak_14: -4077690206945869316
+      Tileset_SciFi_Club_Rasak_140: 26071927
+      Tileset_SciFi_Club_Rasak_141: 1109527561
+      Tileset_SciFi_Club_Rasak_142: -1335007617
+      Tileset_SciFi_Club_Rasak_143: -2124340218
+      Tileset_SciFi_Club_Rasak_144: 1587239104
+      Tileset_SciFi_Club_Rasak_145: -1674428151
+      Tileset_SciFi_Club_Rasak_146: 1808239333
+      Tileset_SciFi_Club_Rasak_147: 324251975
+      Tileset_SciFi_Club_Rasak_148: 365682876
+      Tileset_SciFi_Club_Rasak_149: 1907427396
       Tileset_SciFi_Club_Rasak_15: 1453293680415983179
+      Tileset_SciFi_Club_Rasak_150: -1517343708
+      Tileset_SciFi_Club_Rasak_151: -1178505268
+      Tileset_SciFi_Club_Rasak_152: 968854359
+      Tileset_SciFi_Club_Rasak_153: -1633180170
+      Tileset_SciFi_Club_Rasak_154: 823266101
+      Tileset_SciFi_Club_Rasak_155: 1317043651
+      Tileset_SciFi_Club_Rasak_156: -2028529416
+      Tileset_SciFi_Club_Rasak_157: 483813127
+      Tileset_SciFi_Club_Rasak_158: -686206577
+      Tileset_SciFi_Club_Rasak_159: 252381313
       Tileset_SciFi_Club_Rasak_16: 2489001479771732980
+      Tileset_SciFi_Club_Rasak_160: 1446368978
+      Tileset_SciFi_Club_Rasak_161: 491305553
+      Tileset_SciFi_Club_Rasak_162: 658234388
+      Tileset_SciFi_Club_Rasak_163: -1439782358
+      Tileset_SciFi_Club_Rasak_164: 1348208571
+      Tileset_SciFi_Club_Rasak_165: -769100872
+      Tileset_SciFi_Club_Rasak_166: -1597590768
+      Tileset_SciFi_Club_Rasak_167: -908148234
+      Tileset_SciFi_Club_Rasak_168: 1690223330
+      Tileset_SciFi_Club_Rasak_169: 1075788278
       Tileset_SciFi_Club_Rasak_17: 4945134193438071526
+      Tileset_SciFi_Club_Rasak_170: -157807325
+      Tileset_SciFi_Club_Rasak_171: 1292403963
+      Tileset_SciFi_Club_Rasak_172: 1128023771
+      Tileset_SciFi_Club_Rasak_173: 596990372
+      Tileset_SciFi_Club_Rasak_174: 1739080333
+      Tileset_SciFi_Club_Rasak_175: -819808775
+      Tileset_SciFi_Club_Rasak_176: -1263809316
+      Tileset_SciFi_Club_Rasak_177: 1782976119
+      Tileset_SciFi_Club_Rasak_178: 1617270074
+      Tileset_SciFi_Club_Rasak_179: 1399962198
       Tileset_SciFi_Club_Rasak_18: -6597675418406034548
+      Tileset_SciFi_Club_Rasak_180: 257519370
+      Tileset_SciFi_Club_Rasak_181: 2010039156
+      Tileset_SciFi_Club_Rasak_182: 494050359
+      Tileset_SciFi_Club_Rasak_183: -362993037
+      Tileset_SciFi_Club_Rasak_184: -206477634
+      Tileset_SciFi_Club_Rasak_185: 1710780197
+      Tileset_SciFi_Club_Rasak_186: -833258430
+      Tileset_SciFi_Club_Rasak_187: 1103098776
+      Tileset_SciFi_Club_Rasak_188: -1352651242
+      Tileset_SciFi_Club_Rasak_189: 164882458
       Tileset_SciFi_Club_Rasak_19: 7072484126244891069
+      Tileset_SciFi_Club_Rasak_190: 2067867252
+      Tileset_SciFi_Club_Rasak_191: 1528279460
+      Tileset_SciFi_Club_Rasak_192: 140009877
+      Tileset_SciFi_Club_Rasak_193: 974738211
+      Tileset_SciFi_Club_Rasak_194: 1478533514
+      Tileset_SciFi_Club_Rasak_195: -435123515
+      Tileset_SciFi_Club_Rasak_196: -1334983290
+      Tileset_SciFi_Club_Rasak_197: -1006441787
+      Tileset_SciFi_Club_Rasak_198: -1313488241
+      Tileset_SciFi_Club_Rasak_199: 1882874065
       Tileset_SciFi_Club_Rasak_2: 973113970682932557
       Tileset_SciFi_Club_Rasak_20: 7082512618628591063
+      Tileset_SciFi_Club_Rasak_200: 148179495
+      Tileset_SciFi_Club_Rasak_201: -733634215
+      Tileset_SciFi_Club_Rasak_202: -1235520593
+      Tileset_SciFi_Club_Rasak_203: -1251116205
+      Tileset_SciFi_Club_Rasak_204: -1097202865
+      Tileset_SciFi_Club_Rasak_205: -2015031807
+      Tileset_SciFi_Club_Rasak_206: 626522086
+      Tileset_SciFi_Club_Rasak_207: 66014527
+      Tileset_SciFi_Club_Rasak_208: -1503102189
+      Tileset_SciFi_Club_Rasak_209: -1262553320
       Tileset_SciFi_Club_Rasak_21: 2379940098352453080
+      Tileset_SciFi_Club_Rasak_210: 1121224064
+      Tileset_SciFi_Club_Rasak_211: 920160154
+      Tileset_SciFi_Club_Rasak_212: -1215267603
+      Tileset_SciFi_Club_Rasak_213: 1720469742
+      Tileset_SciFi_Club_Rasak_214: 705890268
+      Tileset_SciFi_Club_Rasak_215: 755602098
+      Tileset_SciFi_Club_Rasak_216: 762163010
+      Tileset_SciFi_Club_Rasak_217: -1752067079
+      Tileset_SciFi_Club_Rasak_218: -746651570
+      Tileset_SciFi_Club_Rasak_219: 153793573
       Tileset_SciFi_Club_Rasak_22: -7765881466681087441
+      Tileset_SciFi_Club_Rasak_220: -191375156
+      Tileset_SciFi_Club_Rasak_221: 1965102963
+      Tileset_SciFi_Club_Rasak_222: -1854382274
+      Tileset_SciFi_Club_Rasak_223: -1829586758
+      Tileset_SciFi_Club_Rasak_224: 517778115
+      Tileset_SciFi_Club_Rasak_225: 1818952791
+      Tileset_SciFi_Club_Rasak_226: -962247097
+      Tileset_SciFi_Club_Rasak_227: 1767735410
+      Tileset_SciFi_Club_Rasak_228: -1353259485
+      Tileset_SciFi_Club_Rasak_229: -1810446388
       Tileset_SciFi_Club_Rasak_23: 8975748006403674719
+      Tileset_SciFi_Club_Rasak_230: 1523718338
+      Tileset_SciFi_Club_Rasak_231: -190375485
+      Tileset_SciFi_Club_Rasak_232: -1007227548
+      Tileset_SciFi_Club_Rasak_233: -1425426865
+      Tileset_SciFi_Club_Rasak_234: 572351773
+      Tileset_SciFi_Club_Rasak_235: 335770179
+      Tileset_SciFi_Club_Rasak_236: 906735225
+      Tileset_SciFi_Club_Rasak_237: 1623475313
+      Tileset_SciFi_Club_Rasak_238: 1498632563
+      Tileset_SciFi_Club_Rasak_239: -1246174324
       Tileset_SciFi_Club_Rasak_24: -1502742657712820063
+      Tileset_SciFi_Club_Rasak_240: 347174428
+      Tileset_SciFi_Club_Rasak_241: 29272613
+      Tileset_SciFi_Club_Rasak_242: 1772814063
+      Tileset_SciFi_Club_Rasak_243: 1982447813
+      Tileset_SciFi_Club_Rasak_244: -547971333
+      Tileset_SciFi_Club_Rasak_245: 1885190868
+      Tileset_SciFi_Club_Rasak_246: 523713060
+      Tileset_SciFi_Club_Rasak_247: -1989569922
+      Tileset_SciFi_Club_Rasak_248: 1475341117
+      Tileset_SciFi_Club_Rasak_249: 724273841
       Tileset_SciFi_Club_Rasak_25: 8627072480750022496
+      Tileset_SciFi_Club_Rasak_250: -1322606609
+      Tileset_SciFi_Club_Rasak_251: -2026388782
+      Tileset_SciFi_Club_Rasak_252: 1721013009
+      Tileset_SciFi_Club_Rasak_253: 2010448157
+      Tileset_SciFi_Club_Rasak_254: 391507276
       Tileset_SciFi_Club_Rasak_26: 815146577287860438
       Tileset_SciFi_Club_Rasak_27: 9187345800253999532
       Tileset_SciFi_Club_Rasak_28: -223515045646718531

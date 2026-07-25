@@ -301,7 +301,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -311,13 +311,13 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -380,12 +380,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 728
-        width: 38
-        height: 14
+        x: 48
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +402,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 741
-        width: 33
-        height: 26
+        x: 96
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 722
-        width: 38
-        height: 45
+        x: 144
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,12 +446,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_3
       rect:
         serializedVersion: 2
-        x: 173
-        y: 701
-        width: 39
-        height: 61
+        x: 192
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,12 +468,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_4
       rect:
         serializedVersion: 2
-        x: 239
-        y: 676
-        width: 146
-        height: 65
+        x: 240
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,12 +490,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_5
       rect:
         serializedVersion: 2
-        x: 385
-        y: 673
-        width: 94
-        height: 87
+        x: 288
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,12 +512,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_6
       rect:
         serializedVersion: 2
-        x: 503
-        y: 721
-        width: 26
-        height: 42
+        x: 336
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,12 +534,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_7
       rect:
         serializedVersion: 2
-        x: 551
-        y: 721
-        width: 26
-        height: 42
+        x: 384
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,12 +556,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_8
       rect:
         serializedVersion: 2
-        x: 597
-        y: 722
-        width: 54
-        height: 36
+        x: 432
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,12 +578,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_9
       rect:
         serializedVersion: 2
-        x: 693
-        y: 722
-        width: 54
-        height: 38
+        x: 480
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,12 +600,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 681
-        width: 23
-        height: 15
+        x: 528
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,12 +622,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_11
       rect:
         serializedVersion: 2
-        x: 2
-        y: 675
-        width: 95
-        height: 44
+        x: 576
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,12 +644,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_12
       rect:
         serializedVersion: 2
-        x: 98
-        y: 685
-        width: 44
-        height: 33
+        x: 624
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -666,12 +666,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_13
       rect:
         serializedVersion: 2
-        x: 487
-        y: 673
-        width: 84
+        x: 672
+        y: 720
+        width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -688,12 +688,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_14
       rect:
         serializedVersion: 2
-        x: 580
-        y: 680
-        width: 45
-        height: 27
+        x: 720
+        y: 720
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -710,12 +710,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_15
       rect:
         serializedVersion: 2
-        x: 628
-        y: 680
-        width: 45
-        height: 34
+        x: 0
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -732,12 +732,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_16
       rect:
         serializedVersion: 2
-        x: 671
-        y: 674
-        width: 43
-        height: 43
+        x: 48
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -754,12 +754,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_17
       rect:
         serializedVersion: 2
-        x: 719
-        y: 674
-        width: 43
-        height: 47
+        x: 96
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -776,12 +776,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 580
-        width: 385
-        height: 67
+        x: 144
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -798,12 +798,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_19
       rect:
         serializedVersion: 2
-        x: 144
-        y: 630
-        width: 41
-        height: 30
+        x: 192
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -820,12 +820,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_20
       rect:
         serializedVersion: 2
-        x: 386
-        y: 594
-        width: 143
+        x: 240
+        y: 672
+        width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -842,12 +842,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_21
       rect:
         serializedVersion: 2
-        x: 529
-        y: 589
-        width: 143
-        height: 59
+        x: 288
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -864,12 +864,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_22
       rect:
         serializedVersion: 2
-        x: 675
-        y: 552
-        width: 85
-        height: 96
+        x: 336
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -886,12 +886,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_23
       rect:
         serializedVersion: 2
-        x: 4
-        y: 509
-        width: 44
-        height: 44
+        x: 384
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -908,12 +908,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_24
       rect:
         serializedVersion: 2
-        x: 62
-        y: 506
-        width: 18
-        height: 44
+        x: 432
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,12 +930,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_25
       rect:
         serializedVersion: 2
-        x: 95
-        y: 479
-        width: 290
-        height: 70
+        x: 480
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -952,12 +952,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_26
       rect:
         serializedVersion: 2
-        x: 383
-        y: 527
-        width: 34
-        height: 50
+        x: 528
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -974,12 +974,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_27
       rect:
         serializedVersion: 2
-        x: 441
-        y: 527
-        width: 40
-        height: 50
+        x: 576
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -996,12 +996,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_28
       rect:
         serializedVersion: 2
-        x: 517
-        y: 535
-        width: 60
-        height: 41
+        x: 624
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1018,12 +1018,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_29
       rect:
         serializedVersion: 2
-        x: 584
-        y: 530
-        width: 33
-        height: 38
+        x: 672
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1040,12 +1040,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_30
       rect:
         serializedVersion: 2
-        x: 629
-        y: 530
-        width: 41
-        height: 42
+        x: 720
+        y: 672
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1062,12 +1062,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_31
       rect:
         serializedVersion: 2
-        x: 386
-        y: 480
-        width: 92
-        height: 32
+        x: 0
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1084,12 +1084,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_32
       rect:
         serializedVersion: 2
-        x: 482
-        y: 480
-        width: 44
-        height: 32
+        x: 48
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1106,12 +1106,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_33
       rect:
         serializedVersion: 2
-        x: 529
-        y: 443
-        width: 142
-        height: 57
+        x: 96
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1128,12 +1128,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_34
       rect:
         serializedVersion: 2
-        x: 677
-        y: 483
-        width: 38
-        height: 35
+        x: 144
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1150,12 +1150,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_35
       rect:
         serializedVersion: 2
-        x: 730
-        y: 487
-        width: 29
-        height: 38
+        x: 192
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1172,12 +1172,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 383
-        width: 385
-        height: 98
+        x: 240
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1194,12 +1194,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_37
       rect:
         serializedVersion: 2
-        x: 386
-        y: 432
-        width: 92
-        height: 32
+        x: 288
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1216,12 +1216,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_38
       rect:
         serializedVersion: 2
-        x: 482
-        y: 432
-        width: 44
-        height: 32
+        x: 336
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1238,12 +1238,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_39
       rect:
         serializedVersion: 2
-        x: 672
-        y: 357
-        width: 96
-        height: 110
+        x: 384
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1260,12 +1260,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_40
       rect:
         serializedVersion: 2
-        x: 388
-        y: 410
-        width: 39
-        height: 17
+        x: 432
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1282,12 +1282,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_41
       rect:
         serializedVersion: 2
-        x: 437
-        y: 410
-        width: 39
-        height: 17
+        x: 480
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1304,12 +1304,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_42
       rect:
         serializedVersion: 2
-        x: 479
-        y: 335
-        width: 98
-        height: 87
+        x: 528
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1326,12 +1326,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_43
       rect:
         serializedVersion: 2
-        x: 577
-        y: 361
-        width: 95
-        height: 58
+        x: 576
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1348,12 +1348,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_44
       rect:
         serializedVersion: 2
-        x: 0
-        y: 97
-        width: 481
-        height: 286
+        x: 624
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1370,12 +1370,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_45
       rect:
         serializedVersion: 2
-        x: 596
-        y: 312
-        width: 15
-        height: 15
+        x: 672
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1392,12 +1392,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_46
       rect:
         serializedVersion: 2
-        x: 635
-        y: 311
-        width: 9
-        height: 11
+        x: 720
+        y: 624
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1414,12 +1414,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_47
       rect:
         serializedVersion: 2
-        x: 698
-        y: 321
-        width: 23
-        height: 30
+        x: 0
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1436,12 +1436,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_48
       rect:
         serializedVersion: 2
-        x: 726
-        y: 300
-        width: 37
-        height: 30
+        x: 48
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1458,12 +1458,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_49
       rect:
         serializedVersion: 2
-        x: 497
-        y: 309
-        width: 11
-        height: 11
+        x: 96
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1480,12 +1480,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_50
       rect:
         serializedVersion: 2
-        x: 549
-        y: 298
-        width: 9
-        height: 9
+        x: 144
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1502,12 +1502,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_51
       rect:
         serializedVersion: 2
-        x: 501
-        y: 247
-        width: 17
-        height: 41
+        x: 192
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1524,12 +1524,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_52
       rect:
         serializedVersion: 2
-        x: 539
-        y: 247
-        width: 17
-        height: 41
+        x: 240
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1546,12 +1546,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_53
       rect:
         serializedVersion: 2
-        x: 597
-        y: 247
-        width: 17
-        height: 41
+        x: 288
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1568,12 +1568,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_54
       rect:
         serializedVersion: 2
-        x: 635
-        y: 247
-        width: 17
-        height: 41
+        x: 336
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1590,12 +1590,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_55
       rect:
         serializedVersion: 2
-        x: 693
-        y: 247
-        width: 17
-        height: 41
+        x: 384
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1612,12 +1612,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_56
       rect:
         serializedVersion: 2
-        x: 731
-        y: 247
-        width: 17
-        height: 41
+        x: 432
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1634,12 +1634,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_57
       rect:
         serializedVersion: 2
-        x: 490
-        y: 206
-        width: 24
-        height: 28
+        x: 480
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1656,12 +1656,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_58
       rect:
         serializedVersion: 2
-        x: 540
-        y: 206
-        width: 25
-        height: 32
+        x: 528
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1678,12 +1678,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_59
       rect:
         serializedVersion: 2
-        x: 589
-        y: 214
-        width: 21
-        height: 20
+        x: 576
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1700,12 +1700,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_60
       rect:
         serializedVersion: 2
-        x: 631
-        y: 218
-        width: 37
-        height: 19
+        x: 624
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1722,12 +1722,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_61
       rect:
         serializedVersion: 2
-        x: 680
-        y: 204
-        width: 31
-        height: 33
+        x: 672
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1744,12 +1744,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_62
       rect:
         serializedVersion: 2
-        x: 730
-        y: 213
-        width: 27
-        height: 26
+        x: 720
+        y: 576
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1766,12 +1766,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_63
       rect:
         serializedVersion: 2
-        x: 494
-        y: 182
-        width: 19
-        height: 11
+        x: 0
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1788,12 +1788,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_64
       rect:
         serializedVersion: 2
-        x: 532
-        y: 177
-        width: 40
-        height: 14
+        x: 48
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1810,12 +1810,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_65
       rect:
         serializedVersion: 2
-        x: 599
-        y: 156
-        width: 17
-        height: 37
+        x: 96
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1832,12 +1832,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_66
       rect:
         serializedVersion: 2
-        x: 623
-        y: 156
-        width: 16
-        height: 37
+        x: 144
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1854,12 +1854,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_67
       rect:
         serializedVersion: 2
-        x: 482
-        y: 134
-        width: 19
-        height: 11
+        x: 192
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1876,12 +1876,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_68
       rect:
         serializedVersion: 2
-        x: 506
-        y: 134
-        width: 19
-        height: 11
+        x: 240
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1898,12 +1898,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_69
       rect:
         serializedVersion: 2
-        x: 530
-        y: 98
-        width: 17
-        height: 37
+        x: 288
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1920,12 +1920,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_70
       rect:
         serializedVersion: 2
-        x: 609
-        y: 108
-        width: 16
-        height: 37
+        x: 336
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1942,12 +1942,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_71
       rect:
         serializedVersion: 2
-        x: 657
-        y: 104
-        width: 16
-        height: 37
+        x: 384
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1964,12 +1964,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_72
       rect:
         serializedVersion: 2
-        x: 675
-        y: 124
-        width: 45
-        height: 46
+        x: 432
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1986,12 +1986,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_73
       rect:
         serializedVersion: 2
-        x: 741
-        y: 130
-        width: 27
-        height: 44
+        x: 480
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2008,12 +2008,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_74
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 174
-        height: 111
+        x: 528
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2030,12 +2030,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_75
       rect:
         serializedVersion: 2
-        x: 196
-        y: 23
-        width: 71
-        height: 74
+        x: 576
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2052,12 +2052,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_76
       rect:
         serializedVersion: 2
-        x: 292
-        y: 23
-        width: 71
-        height: 88
+        x: 624
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2074,12 +2074,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_77
       rect:
         serializedVersion: 2
-        x: 393
-        y: 30
-        width: 25
-        height: 60
+        x: 672
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2096,12 +2096,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_78
       rect:
         serializedVersion: 2
-        x: 431
-        y: 31
-        width: 44
-        height: 51
+        x: 720
+        y: 528
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2118,12 +2118,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_79
       rect:
         serializedVersion: 2
-        x: 488
-        y: 29
-        width: 32
-        height: 64
+        x: 0
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2140,12 +2140,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_80
       rect:
         serializedVersion: 2
-        x: 545
-        y: 31
-        width: 32
-        height: 58
+        x: 48
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2162,12 +2162,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_81
       rect:
         serializedVersion: 2
-        x: 589
-        y: 62
-        width: 24
-        height: 23
+        x: 96
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2184,12 +2184,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_82
       rect:
         serializedVersion: 2
-        x: 637
-        y: 62
-        width: 28
-        height: 35
+        x: 144
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2206,12 +2206,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_83
       rect:
         serializedVersion: 2
-        x: 685
-        y: 62
-        width: 28
-        height: 35
+        x: 192
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2228,12 +2228,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_84
       rect:
         serializedVersion: 2
-        x: 733
-        y: 62
-        width: 28
-        height: 35
+        x: 240
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2250,12 +2250,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_85
       rect:
         serializedVersion: 2
-        x: 706
-        y: 26
-        width: 8
-        height: 16
+        x: 288
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2272,12 +2272,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_86
       rect:
         serializedVersion: 2
-        x: 726
-        y: 26
-        width: 8
-        height: 16
+        x: 336
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2294,12 +2294,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_87
       rect:
         serializedVersion: 2
-        x: 588
-        y: 5
-        width: 18
-        height: 7
+        x: 384
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2316,12 +2316,12 @@ TextureImporter:
       name: Tileset_SciFi_Arpartment_1_Rasak_88
       rect:
         serializedVersion: 2
-        x: 656
-        y: 4
-        width: 17
-        height: 13
+        x: 432
+        y: 480
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2334,11 +2334,3663 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ebc1064d6037459f74d7a0aaaa0d8
+      internalID: -369366004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be33c00e29e07584dad7717ca34b7526
+      internalID: 293921374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d09ace96563b449a20e0d37d362c6
+      internalID: -1400304814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76080e40c48afe4f83db2df43caa7b5
+      internalID: 1248126915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076852cb62fe63447a69c45c68f13692
+      internalID: -1790044701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdf36d14781944ab8c93bb79edbb44
+      internalID: 1585541243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1478936a29a2f648bf9506d4f57c3bb
+      internalID: -1189555776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96366c9a8b33c947972919d6e541b72
+      internalID: -1860642394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06cd3e2b5089f84ab68e1c15c11b043
+      internalID: 171522165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69909961197fde4eb6756fd16b49803
+      internalID: -29231441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661c3a9aeaec3c47a39d4414fb545a3
+      internalID: -987709383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e460172de0031246ae818f8bee60bcc
+      internalID: 1264189427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131dba0b7051c9c43ad733f55e26d5cb
+      internalID: 643376568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688af6305316ef3478e29a8dd30d5953
+      internalID: -404097435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6817036108fc4d84cac84a448f974
+      internalID: -1678417726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d643e0e24b496b04287a61fbda1173e1
+      internalID: 1631193330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca253b6afde80438cdbb55ee120ca3
+      internalID: -262345096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71059ac4c958e0140bb5d56c63071fe2
+      internalID: -1550394103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe14c96fa41c842a7dd8441dd0930c
+      internalID: -2007601682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f4d2fc149ead4da93064db6bf1b5f
+      internalID: 1562709073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a19099c9ea505b4a8cbd91768b8c364
+      internalID: 1237607776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e47ed9b3004846a0a6d165b976318
+      internalID: 464787450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a58c6cccdc3744882542246c480386
+      internalID: -76205226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859216111a5a2343a9f337715873763
+      internalID: -917740947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f148b78a3efcb948b631f8c7fd8cd15
+      internalID: -1263459460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e132bfe125104b8a5b5f14d8b0fd0
+      internalID: -1437574250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eefbc3f99758634da53a535a423b4a2
+      internalID: 532271522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338d094245e46fc4c8429664c892077b
+      internalID: -1781754781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714968af9b83564ab875988d37637b7
+      internalID: -2134475690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe31d44c5f9f7a439b155a9a228428f
+      internalID: 503278746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331247201a8bb9c4a9b6ccbac1c19867
+      internalID: -316439736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec08bd94838fc4a4da079173efc717bc
+      internalID: -1549473567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a564cb1ea1474bbab7ab34bed220a
+      internalID: -1248377847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26fb3dd6014f314299081b6a27d188c
+      internalID: -1273693776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b96061392fa8c43b3531e1646880dc
+      internalID: 1642663917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aad264c12823746963748e1ffea89b
+      internalID: 469460893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb772e1c8520cb646af5ae036aea631c
+      internalID: 1298548127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8c21badb7fcf4794a7286a958bd94
+      internalID: -869369067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36632539fe9494d9b95595121d9849
+      internalID: 2008521680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c35728857b3d347ba3cd4b52113c04
+      internalID: -294846687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb68ef71421474baf6f383d47b8879
+      internalID: 922377194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055356f9a347e4b458c6fed86694b997
+      internalID: -498209379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81865a740883c6d4c92a28ca818facea
+      internalID: 40236012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42385153b3788b947abfe47e740ce9c5
+      internalID: 736060019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a60b51aff3254da0e282e0b857183
+      internalID: 994894171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63cd0dd46565084e8bd07afd3e5b872
+      internalID: 1850143177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4b5c86a61d894a818267a0bd5d60b
+      internalID: 1484087782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c890734a759c43863cb5d7a248d29
+      internalID: 603252988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc1f00a2f9270418c073364172472d
+      internalID: 523560105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b11815731d0ea44ba3d7209c94792b
+      internalID: -500029096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20e68fe1ab3f64d8d8f0e74ffdd2f2
+      internalID: 1913243861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049a590e386c1624a94584368a33492c
+      internalID: 1816476657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc58ac9d6b662b94abff519711088873
+      internalID: 870973186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ebb4d625a91154dae4fd2d89eb9863
+      internalID: 451759929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8043dd8ec6939479b3a6663b3bf44f
+      internalID: 546560211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03df3903cf8b874d83e322ce1f498f8
+      internalID: 1560775229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56b78045cacfd4baf26fbf60457466
+      internalID: -1402901098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c93e0f9bbe59fc49bd462d6f5b33797
+      internalID: 1423305488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b7b89039b98f4d89abd0d2d7550af
+      internalID: -155924953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80225414c60eca54dab9dd02c2177b73
+      internalID: -1638899351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba156814efc62040a9b511ce692a1c6
+      internalID: -306822829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc0fddb1cd0abf48bb94a517ffb3e3b
+      internalID: -288481784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe018d1e6a709244b09031dfd7c2265
+      internalID: -1626972057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d80d5757ba0a48800872bebba5cb4
+      internalID: 2104128999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a00c94eb955134e81cd97d8f1a4a7f
+      internalID: -562694878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58990b3a15e36a3408af3c29bf43809f
+      internalID: 2100850667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc3f3952aef8048b2d22e1ab608e05
+      internalID: 102546851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24e1b1d6becc8419831eb086d5c44d
+      internalID: 2005830024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871530a18cfb47469433036286bb5bb
+      internalID: -1485515521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df3345797b2f745ae1eb5d44f28f6c
+      internalID: 656129521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9716089e589c49bf6c0304baec5bd
+      internalID: -1463733976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c608d295286912e46b54223340966c40
+      internalID: 1413024276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345d282a7f64814d87de58c2f89bd35
+      internalID: -451616195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c787048f4574eae4dbffdf2081dd95f8
+      internalID: 2085631065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a42808eb1552459977bcb19ea199e
+      internalID: -2132263900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c1beec8835f5409cd89db58757662
+      internalID: -1575275847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fce0105d60523043864c127d6325efe
+      internalID: 1929323253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7641a55725da1f14a8ceef6ee7ebbc6b
+      internalID: 1866763949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c10b584b86f0948a0e5a5bbc568dc5
+      internalID: -1412770705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60e94bafd8cbf42a27c4ab9ab7978e
+      internalID: -571752371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c05f42f4a6354d90ed26cef994812
+      internalID: -1826865786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18836a6ae914d0f4a8f43d0fad865dd6
+      internalID: 1820343299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fe9c8778bac4345b8d180bed16bff5
+      internalID: 860386100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740fe77d819ffc409f6eedfaed8b53c
+      internalID: -1671612559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d493568f0d5abf48bde64c97ba3716f
+      internalID: 422092824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cef51dd4494214f9484922f61250c9
+      internalID: 1233351945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b39db5e784ea4cb5cc057fc3822a6
+      internalID: 50642472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e37f12e77e9c49b3b4313b7aacf39
+      internalID: 1799389201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f252a56dd28698e4f9ac1736356b7b0a
+      internalID: 751780102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c9e5512c2f3e4fbf769c5e4eee3d3
+      internalID: 771345582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e2813d7ab4dd4bb768bb8cc83c01c
+      internalID: 832565313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d7931c857dd84981d9d367f9f0420
+      internalID: -887446502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe0c0d44f9a7241b8d300c8ea9b212
+      internalID: -1749289975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e42899d2dd5a5409d1626c1482b209
+      internalID: 23202306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991322dda909d84a956e42ecc0537b6
+      internalID: -313100570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6809a124c23fbce4797f6be7de7dd519
+      internalID: -1902481564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3328cb85f871143bed62caeb9067d2
+      internalID: -2079788445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cc9baf469d35646a7639fc058df709
+      internalID: 12238019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00a54f408c2d14bbd3a8695d821cd3
+      internalID: -851663968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60c18c68ced5b542881c12c1c45b8f2
+      internalID: 1187561903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a594670f749547add0766a3808402
+      internalID: -89245340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807cbc03e350f734f89e2e2d7c404506
+      internalID: 1580443354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a64c387a6cf0145bfd44f0b38bf4bf
+      internalID: 36001229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45dc3faf867e4499e927f23115029c
+      internalID: 1261462575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938bc39319c02694fbcfba54dd4fff5e
+      internalID: 11006274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70919d882ae934e9a3799f9e3d8bdc
+      internalID: 1634713816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbe5f6c6bcb4fa4c8fe60ce5a0513a4
+      internalID: 1676388738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630056f88815dad498ada08f5dba431d
+      internalID: -853963874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734eb5d20a528f4ca96f0eed5c81398
+      internalID: 1514166764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_198
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f072910e4e2d2934785f3cc7b7fde216
+      internalID: 570053687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_199
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c2efed4bebc1a42819a33d92007022
+      internalID: 317255805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_200
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece2d7bcc6c21446958e159855480e8
+      internalID: -1355339274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2af5066f14bc84c9ffdd954843005f
+      internalID: -555613894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_202
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25caca5439f69c2429c4e8546a2316ab
+      internalID: -344835027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179141cdd9462fe4292d5ba0748cc616
+      internalID: 1085582925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_204
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935efff057858ff449de7711f5f9e075
+      internalID: 1071935019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_205
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cb5e71d3ebeb447987b2de63a0067b
+      internalID: 1392624940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_206
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d6488766332f4449232dd75fba5a09
+      internalID: 2060468342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897a80a7f61b7a449ed0d10b482d714
+      internalID: -318648460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da895a5455da548a1ef1cb020ca14f
+      internalID: -1019008958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2205a1ed17051747812e12e07c089c0
+      internalID: -1471326057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_210
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f357adc980d924cbdf8718aa419d43
+      internalID: 1035250655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932279ac12264e440a4186b1438b0b92
+      internalID: -332936720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4ac1e28dec334ebf2a7cfd3f4b79c
+      internalID: -588649739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_213
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed35d4221cb9246a435d3b34ba592b
+      internalID: -1019220443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_214
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b5038bbb80ad47a2e65a4ebcb4d35
+      internalID: 139128507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d9c22c84a1ef43a841a31d2a06cd4
+      internalID: -273386156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_216
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f71eb260da434da39d44fd0485af7
+      internalID: 105049545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_217
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208528753d14f8d4696ffa3ef9733c7e
+      internalID: -894812456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_218
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc6fb532899b4a42a0df8c6f0c8e054
+      internalID: -1213726028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_219
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49e33797fb1924e99cd2683fd03a8a
+      internalID: 722994523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_220
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c271f113c3af4d745ada5acec56fd024
+      internalID: -602079811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_221
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a8528626b42fc4fa09e37cff2779f6
+      internalID: -618753164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_222
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9ba96cefb5224fb16ddf396b7eefc
+      internalID: 480229902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b147b8790b9e144be39f0aa337eb76
+      internalID: -498287353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_224
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc37fc60a624674bb9f7c700bbcb13e
+      internalID: -1037053216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_225
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bee6aeb4dffc944abff26ae5fc4cb8
+      internalID: 1308058370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_226
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2eea7c02071d64c96db182841fb5c9
+      internalID: 1850441655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea38e00929e7842875d548f88b56e3
+      internalID: -944706784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_228
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc89744b944fb4f941c35da13faf1a
+      internalID: 1297332519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_229
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deabb426e679d748be44ea0804d91d2
+      internalID: 1076626408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_230
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820ae53746777a4da401363b7815bed
+      internalID: 1566843410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621c2340a65ebe4baecd710143dbbcc
+      internalID: 1695677137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_232
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc76065ffcc4845a86bfc1a2b2a98b
+      internalID: 1529393711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_233
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7214ce8d7ceaf4fb2bda7a0000ce6d
+      internalID: -1843414058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_234
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37906101e97c4c44fb3bddebc118cf16
+      internalID: 1708778142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_235
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd779404cf6f6b4a8d828edf76212a1
+      internalID: 415329883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_236
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46420ad1d182aa4db3bf38d1779585f
+      internalID: 359961178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a20bb6bffedb43a05afc8e4ee7c16
+      internalID: 1531723117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_238
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0e3bb3bc3be140b7ce92ea1f82dba
+      internalID: 1818949338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397a9661301a4ac49a9b1e2754ac6238
+      internalID: 822594476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_240
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdff210803afcc42ad5c1ef2b83988e
+      internalID: -1384094436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_241
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999c8f1c39f57e46bdff14ae59ef8ae
+      internalID: 552557229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_242
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e49cba3208c2474c9c678aba8f1ca4b
+      internalID: -660386868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1dd2be065d18f4b9f1b2de62b70d4e
+      internalID: -1975000851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_244
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f85af694fb50634e924db34dfde0640
+      internalID: 992880248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_245
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716c96cd66e55e419c9fef10c76c04a
+      internalID: 791573575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_246
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d0e3f24cb6a2488b0a5028f85bc7a
+      internalID: 634486711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_247
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a061eafbe2c974b948e3f76ce4b1ff
+      internalID: 698979322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_248
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888cce0ccc7afb44b9a0944ab83afbc
+      internalID: -1797627642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2114ef56f2173648ab7fbf45fff3bc5
+      internalID: -1322424809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_250
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e60370420d9e44483d3b30b2a2074e
+      internalID: 267430613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_251
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a96973d6bd604ea63bfd1207e21fd
+      internalID: -1919146449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_252
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efac9bb42c40145bed64e05c09f48a
+      internalID: -2040582418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_253
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88edfd905a5a9344ca594be0fbf1d847
+      internalID: -961548994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Arpartment_1_Rasak_254
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b060b353490f864982028ed58d13de3
+      internalID: 651790572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a9978144ad730aa4ab0027c3de1fe9d3
     internalID: 0
     vertices: []
     indices: 
@@ -2346,27 +5998,184 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Tileset_SciFi_Arpartment_1_Rasak_0: 8726540415175938882
       Tileset_SciFi_Arpartment_1_Rasak_1: 4734389349248593182
       Tileset_SciFi_Arpartment_1_Rasak_10: 2516370259236076113
+      Tileset_SciFi_Arpartment_1_Rasak_100: 1264189427
+      Tileset_SciFi_Arpartment_1_Rasak_101: 643376568
+      Tileset_SciFi_Arpartment_1_Rasak_102: -404097435
+      Tileset_SciFi_Arpartment_1_Rasak_103: -1678417726
+      Tileset_SciFi_Arpartment_1_Rasak_104: 1631193330
+      Tileset_SciFi_Arpartment_1_Rasak_105: -262345096
+      Tileset_SciFi_Arpartment_1_Rasak_106: -1550394103
+      Tileset_SciFi_Arpartment_1_Rasak_107: -2007601682
+      Tileset_SciFi_Arpartment_1_Rasak_108: 1562709073
+      Tileset_SciFi_Arpartment_1_Rasak_109: 1237607776
       Tileset_SciFi_Arpartment_1_Rasak_11: -8079800639040342903
+      Tileset_SciFi_Arpartment_1_Rasak_110: 464787450
+      Tileset_SciFi_Arpartment_1_Rasak_111: -76205226
+      Tileset_SciFi_Arpartment_1_Rasak_112: -917740947
+      Tileset_SciFi_Arpartment_1_Rasak_113: -1263459460
+      Tileset_SciFi_Arpartment_1_Rasak_114: -1437574250
+      Tileset_SciFi_Arpartment_1_Rasak_115: 532271522
+      Tileset_SciFi_Arpartment_1_Rasak_116: -1781754781
+      Tileset_SciFi_Arpartment_1_Rasak_117: -2134475690
+      Tileset_SciFi_Arpartment_1_Rasak_118: 503278746
+      Tileset_SciFi_Arpartment_1_Rasak_119: -316439736
       Tileset_SciFi_Arpartment_1_Rasak_12: 6220388798834115758
+      Tileset_SciFi_Arpartment_1_Rasak_120: -1549473567
+      Tileset_SciFi_Arpartment_1_Rasak_121: -1248377847
+      Tileset_SciFi_Arpartment_1_Rasak_122: -1273693776
+      Tileset_SciFi_Arpartment_1_Rasak_123: 1642663917
+      Tileset_SciFi_Arpartment_1_Rasak_124: 469460893
+      Tileset_SciFi_Arpartment_1_Rasak_125: 1298548127
+      Tileset_SciFi_Arpartment_1_Rasak_126: -869369067
+      Tileset_SciFi_Arpartment_1_Rasak_127: 2008521680
+      Tileset_SciFi_Arpartment_1_Rasak_128: -294846687
+      Tileset_SciFi_Arpartment_1_Rasak_129: 922377194
       Tileset_SciFi_Arpartment_1_Rasak_13: 316876692738382121
+      Tileset_SciFi_Arpartment_1_Rasak_130: -498209379
+      Tileset_SciFi_Arpartment_1_Rasak_131: 40236012
+      Tileset_SciFi_Arpartment_1_Rasak_132: 736060019
+      Tileset_SciFi_Arpartment_1_Rasak_133: 994894171
+      Tileset_SciFi_Arpartment_1_Rasak_134: 1850143177
+      Tileset_SciFi_Arpartment_1_Rasak_135: 1484087782
+      Tileset_SciFi_Arpartment_1_Rasak_136: 603252988
+      Tileset_SciFi_Arpartment_1_Rasak_137: 523560105
+      Tileset_SciFi_Arpartment_1_Rasak_138: -500029096
+      Tileset_SciFi_Arpartment_1_Rasak_139: 1913243861
       Tileset_SciFi_Arpartment_1_Rasak_14: -6509320535685686511
+      Tileset_SciFi_Arpartment_1_Rasak_140: 1816476657
+      Tileset_SciFi_Arpartment_1_Rasak_141: 870973186
+      Tileset_SciFi_Arpartment_1_Rasak_142: 451759929
+      Tileset_SciFi_Arpartment_1_Rasak_143: 546560211
+      Tileset_SciFi_Arpartment_1_Rasak_144: 1560775229
+      Tileset_SciFi_Arpartment_1_Rasak_145: -1402901098
+      Tileset_SciFi_Arpartment_1_Rasak_146: 1423305488
+      Tileset_SciFi_Arpartment_1_Rasak_147: -155924953
+      Tileset_SciFi_Arpartment_1_Rasak_148: -1638899351
+      Tileset_SciFi_Arpartment_1_Rasak_149: -306822829
       Tileset_SciFi_Arpartment_1_Rasak_15: 3325715479946368489
+      Tileset_SciFi_Arpartment_1_Rasak_150: -288481784
+      Tileset_SciFi_Arpartment_1_Rasak_151: -1626972057
+      Tileset_SciFi_Arpartment_1_Rasak_152: 2104128999
+      Tileset_SciFi_Arpartment_1_Rasak_153: -562694878
+      Tileset_SciFi_Arpartment_1_Rasak_154: 2100850667
+      Tileset_SciFi_Arpartment_1_Rasak_155: 102546851
+      Tileset_SciFi_Arpartment_1_Rasak_156: 2005830024
+      Tileset_SciFi_Arpartment_1_Rasak_157: -1485515521
+      Tileset_SciFi_Arpartment_1_Rasak_158: 656129521
+      Tileset_SciFi_Arpartment_1_Rasak_159: -1463733976
       Tileset_SciFi_Arpartment_1_Rasak_16: 2224174607015913145
+      Tileset_SciFi_Arpartment_1_Rasak_160: 1413024276
+      Tileset_SciFi_Arpartment_1_Rasak_161: -451616195
+      Tileset_SciFi_Arpartment_1_Rasak_162: 2085631065
+      Tileset_SciFi_Arpartment_1_Rasak_163: -2132263900
+      Tileset_SciFi_Arpartment_1_Rasak_164: -1575275847
+      Tileset_SciFi_Arpartment_1_Rasak_165: 1929323253
+      Tileset_SciFi_Arpartment_1_Rasak_166: 1866763949
+      Tileset_SciFi_Arpartment_1_Rasak_167: -1412770705
+      Tileset_SciFi_Arpartment_1_Rasak_168: -571752371
+      Tileset_SciFi_Arpartment_1_Rasak_169: -1826865786
       Tileset_SciFi_Arpartment_1_Rasak_17: -5795003822362616088
+      Tileset_SciFi_Arpartment_1_Rasak_170: 1820343299
+      Tileset_SciFi_Arpartment_1_Rasak_171: 860386100
+      Tileset_SciFi_Arpartment_1_Rasak_172: -1671612559
+      Tileset_SciFi_Arpartment_1_Rasak_173: 422092824
+      Tileset_SciFi_Arpartment_1_Rasak_174: 1233351945
+      Tileset_SciFi_Arpartment_1_Rasak_175: 50642472
+      Tileset_SciFi_Arpartment_1_Rasak_176: 1799389201
+      Tileset_SciFi_Arpartment_1_Rasak_177: 751780102
+      Tileset_SciFi_Arpartment_1_Rasak_178: 771345582
+      Tileset_SciFi_Arpartment_1_Rasak_179: 832565313
       Tileset_SciFi_Arpartment_1_Rasak_18: -5564763011173624411
+      Tileset_SciFi_Arpartment_1_Rasak_180: -887446502
+      Tileset_SciFi_Arpartment_1_Rasak_181: -1749289975
+      Tileset_SciFi_Arpartment_1_Rasak_182: 23202306
+      Tileset_SciFi_Arpartment_1_Rasak_183: -313100570
+      Tileset_SciFi_Arpartment_1_Rasak_184: -1902481564
+      Tileset_SciFi_Arpartment_1_Rasak_185: -2079788445
+      Tileset_SciFi_Arpartment_1_Rasak_186: 12238019
+      Tileset_SciFi_Arpartment_1_Rasak_187: -851663968
+      Tileset_SciFi_Arpartment_1_Rasak_188: 1187561903
+      Tileset_SciFi_Arpartment_1_Rasak_189: -89245340
       Tileset_SciFi_Arpartment_1_Rasak_19: 6489167009062971459
+      Tileset_SciFi_Arpartment_1_Rasak_190: 1580443354
+      Tileset_SciFi_Arpartment_1_Rasak_191: 36001229
+      Tileset_SciFi_Arpartment_1_Rasak_192: 1261462575
+      Tileset_SciFi_Arpartment_1_Rasak_193: 11006274
+      Tileset_SciFi_Arpartment_1_Rasak_194: 1634713816
+      Tileset_SciFi_Arpartment_1_Rasak_195: 1676388738
+      Tileset_SciFi_Arpartment_1_Rasak_196: -853963874
+      Tileset_SciFi_Arpartment_1_Rasak_197: 1514166764
+      Tileset_SciFi_Arpartment_1_Rasak_198: 570053687
+      Tileset_SciFi_Arpartment_1_Rasak_199: 317255805
       Tileset_SciFi_Arpartment_1_Rasak_2: 3514492815113929497
       Tileset_SciFi_Arpartment_1_Rasak_20: 1425273566626004143
+      Tileset_SciFi_Arpartment_1_Rasak_200: -1355339274
+      Tileset_SciFi_Arpartment_1_Rasak_201: -555613894
+      Tileset_SciFi_Arpartment_1_Rasak_202: -344835027
+      Tileset_SciFi_Arpartment_1_Rasak_203: 1085582925
+      Tileset_SciFi_Arpartment_1_Rasak_204: 1071935019
+      Tileset_SciFi_Arpartment_1_Rasak_205: 1392624940
+      Tileset_SciFi_Arpartment_1_Rasak_206: 2060468342
+      Tileset_SciFi_Arpartment_1_Rasak_207: -318648460
+      Tileset_SciFi_Arpartment_1_Rasak_208: -1019008958
+      Tileset_SciFi_Arpartment_1_Rasak_209: -1471326057
       Tileset_SciFi_Arpartment_1_Rasak_21: -2073004085105496279
+      Tileset_SciFi_Arpartment_1_Rasak_210: 1035250655
+      Tileset_SciFi_Arpartment_1_Rasak_211: -332936720
+      Tileset_SciFi_Arpartment_1_Rasak_212: -588649739
+      Tileset_SciFi_Arpartment_1_Rasak_213: -1019220443
+      Tileset_SciFi_Arpartment_1_Rasak_214: 139128507
+      Tileset_SciFi_Arpartment_1_Rasak_215: -273386156
+      Tileset_SciFi_Arpartment_1_Rasak_216: 105049545
+      Tileset_SciFi_Arpartment_1_Rasak_217: -894812456
+      Tileset_SciFi_Arpartment_1_Rasak_218: -1213726028
+      Tileset_SciFi_Arpartment_1_Rasak_219: 722994523
       Tileset_SciFi_Arpartment_1_Rasak_22: 7825320946311965573
+      Tileset_SciFi_Arpartment_1_Rasak_220: -602079811
+      Tileset_SciFi_Arpartment_1_Rasak_221: -618753164
+      Tileset_SciFi_Arpartment_1_Rasak_222: 480229902
+      Tileset_SciFi_Arpartment_1_Rasak_223: -498287353
+      Tileset_SciFi_Arpartment_1_Rasak_224: -1037053216
+      Tileset_SciFi_Arpartment_1_Rasak_225: 1308058370
+      Tileset_SciFi_Arpartment_1_Rasak_226: 1850441655
+      Tileset_SciFi_Arpartment_1_Rasak_227: -944706784
+      Tileset_SciFi_Arpartment_1_Rasak_228: 1297332519
+      Tileset_SciFi_Arpartment_1_Rasak_229: 1076626408
       Tileset_SciFi_Arpartment_1_Rasak_23: 1426006009575661131
+      Tileset_SciFi_Arpartment_1_Rasak_230: 1566843410
+      Tileset_SciFi_Arpartment_1_Rasak_231: 1695677137
+      Tileset_SciFi_Arpartment_1_Rasak_232: 1529393711
+      Tileset_SciFi_Arpartment_1_Rasak_233: -1843414058
+      Tileset_SciFi_Arpartment_1_Rasak_234: 1708778142
+      Tileset_SciFi_Arpartment_1_Rasak_235: 415329883
+      Tileset_SciFi_Arpartment_1_Rasak_236: 359961178
+      Tileset_SciFi_Arpartment_1_Rasak_237: 1531723117
+      Tileset_SciFi_Arpartment_1_Rasak_238: 1818949338
+      Tileset_SciFi_Arpartment_1_Rasak_239: 822594476
       Tileset_SciFi_Arpartment_1_Rasak_24: -5995236293885473782
+      Tileset_SciFi_Arpartment_1_Rasak_240: -1384094436
+      Tileset_SciFi_Arpartment_1_Rasak_241: 552557229
+      Tileset_SciFi_Arpartment_1_Rasak_242: -660386868
+      Tileset_SciFi_Arpartment_1_Rasak_243: -1975000851
+      Tileset_SciFi_Arpartment_1_Rasak_244: 992880248
+      Tileset_SciFi_Arpartment_1_Rasak_245: 791573575
+      Tileset_SciFi_Arpartment_1_Rasak_246: 634486711
+      Tileset_SciFi_Arpartment_1_Rasak_247: 698979322
+      Tileset_SciFi_Arpartment_1_Rasak_248: -1797627642
+      Tileset_SciFi_Arpartment_1_Rasak_249: -1322424809
       Tileset_SciFi_Arpartment_1_Rasak_25: -4492881327553334658
+      Tileset_SciFi_Arpartment_1_Rasak_250: 267430613
+      Tileset_SciFi_Arpartment_1_Rasak_251: -1919146449
+      Tileset_SciFi_Arpartment_1_Rasak_252: -2040582418
+      Tileset_SciFi_Arpartment_1_Rasak_253: -961548994
+      Tileset_SciFi_Arpartment_1_Rasak_254: 651790572
       Tileset_SciFi_Arpartment_1_Rasak_26: -1956989232942360265
       Tileset_SciFi_Arpartment_1_Rasak_27: 1209894575041188282
       Tileset_SciFi_Arpartment_1_Rasak_28: 363403596469218231
@@ -2436,7 +6245,18 @@ TextureImporter:
       Tileset_SciFi_Arpartment_1_Rasak_86: -7434999333198272556
       Tileset_SciFi_Arpartment_1_Rasak_87: -8914906952538559514
       Tileset_SciFi_Arpartment_1_Rasak_88: 7571527058036384667
+      Tileset_SciFi_Arpartment_1_Rasak_89: -369366004
       Tileset_SciFi_Arpartment_1_Rasak_9: -8517940011189939322
+      Tileset_SciFi_Arpartment_1_Rasak_90: 293921374
+      Tileset_SciFi_Arpartment_1_Rasak_91: -1400304814
+      Tileset_SciFi_Arpartment_1_Rasak_92: 1248126915
+      Tileset_SciFi_Arpartment_1_Rasak_93: -1790044701
+      Tileset_SciFi_Arpartment_1_Rasak_94: 1585541243
+      Tileset_SciFi_Arpartment_1_Rasak_95: -1189555776
+      Tileset_SciFi_Arpartment_1_Rasak_96: -1860642394
+      Tileset_SciFi_Arpartment_1_Rasak_97: 171522165
+      Tileset_SciFi_Arpartment_1_Rasak_98: -29231441
+      Tileset_SciFi_Arpartment_1_Rasak_99: -987709383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
