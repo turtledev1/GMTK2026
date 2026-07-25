@@ -34,6 +34,7 @@ public class RocketSystem : MonoBehaviour {
             return;
         }
         IsBroken = true;
+        BrokenIndicatorsUI.Instance.ImBroken(this);
 
         TimeRemaining = RepairTime + Random.Range(-3f, 3f);
         // just in case I mess something up
@@ -45,6 +46,7 @@ public class RocketSystem : MonoBehaviour {
     public void Repair() {
         Debug.Log($"{Type} repaired!");
         IsBroken = false;
+        BrokenIndicatorsUI.Instance.ImRepaired(this);
         TimeRemaining = 0f;
     }
 
@@ -65,6 +67,7 @@ public class RocketSystem : MonoBehaviour {
     private void PermanentlyBreak() {
         IsBroken = false;
         IsPermanentlyBroken = true;
+        BrokenIndicatorsUI.Instance.ImRepaired(this);
 
         Debug.Log($"{Type} permanently failed!");
 
