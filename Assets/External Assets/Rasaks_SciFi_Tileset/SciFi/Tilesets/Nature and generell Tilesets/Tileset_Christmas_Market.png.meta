@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: d8683fd28fdd47646b990da30fa43e41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8449081135624994000
+    second: Tileset_Christmas_Market_0
+  - first:
+      213: 3721578273831868594
+    second: Tileset_Christmas_Market_1
+  - first:
+      213: -8098723658615166056
+    second: Tileset_Christmas_Market_2
+  - first:
+      213: -3002181559189228398
+    second: Tileset_Christmas_Market_3
+  - first:
+      213: 3277425061037538232
+    second: Tileset_Christmas_Market_4
+  - first:
+      213: 9129715378716734195
+    second: Tileset_Christmas_Market_5
+  - first:
+      213: 7628833568063363657
+    second: Tileset_Christmas_Market_6
+  - first:
+      213: 4287053983430315621
+    second: Tileset_Christmas_Market_7
+  - first:
+      213: 1486569480674052348
+    second: Tileset_Christmas_Market_8
+  - first:
+      213: 1093494348983588265
+    second: Tileset_Christmas_Market_9
+  - first:
+      213: 3051312961247311564
+    second: Tileset_Christmas_Market_10
+  - first:
+      213: 9212141132587208651
+    second: Tileset_Christmas_Market_11
+  - first:
+      213: -5923887422605862738
+    second: Tileset_Christmas_Market_12
+  - first:
+      213: 1133984363048218739
+    second: Tileset_Christmas_Market_13
+  - first:
+      213: -6761994472203975574
+    second: Tileset_Christmas_Market_14
+  - first:
+      213: -2962292075583378161
+    second: Tileset_Christmas_Market_15
+  - first:
+      213: 1755574186982848354
+    second: Tileset_Christmas_Market_16
+  - first:
+      213: 4446941692699274596
+    second: Tileset_Christmas_Market_17
+  - first:
+      213: 23789441731894606
+    second: Tileset_Christmas_Market_18
+  - first:
+      213: 5408824744725178333
+    second: Tileset_Christmas_Market_19
+  - first:
+      213: -449619885265047598
+    second: Tileset_Christmas_Market_20
+  - first:
+      213: -6955256195255953297
+    second: Tileset_Christmas_Market_21
+  - first:
+      213: -5581325119000525377
+    second: Tileset_Christmas_Market_22
+  - first:
+      213: -379264517409586419
+    second: Tileset_Christmas_Market_23
+  - first:
+      213: -1067889643831579991
+    second: Tileset_Christmas_Market_24
+  - first:
+      213: 5529678239625393763
+    second: Tileset_Christmas_Market_25
+  - first:
+      213: 8863049123765063743
+    second: Tileset_Christmas_Market_26
+  - first:
+      213: -7064598947240247498
+    second: Tileset_Christmas_Market_27
+  - first:
+      213: -3562992844570805014
+    second: Tileset_Christmas_Market_28
+  - first:
+      213: 6970691304671488180
+    second: Tileset_Christmas_Market_29
+  - first:
+      213: 8670738161318451788
+    second: Tileset_Christmas_Market_30
+  - first:
+      213: -35341545756469508
+    second: Tileset_Christmas_Market_31
+  - first:
+      213: 477973166917885047
+    second: Tileset_Christmas_Market_32
+  - first:
+      213: 5566723784478101959
+    second: Tileset_Christmas_Market_33
+  - first:
+      213: 2982516716075331327
+    second: Tileset_Christmas_Market_34
+  - first:
+      213: 581481171828743376
+    second: Tileset_Christmas_Market_35
+  - first:
+      213: -3463553560882866947
+    second: Tileset_Christmas_Market_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 745
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb167178a214570800000000000000
+      internalID: 8449081135624994000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 748
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b85f87e8b3b5a330800000000000000
+      internalID: 3721578273831868594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 732
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be03acdbd8b9f80800000000000000
+      internalID: -8098723658615166056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 736
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2943c4537cb1656d0800000000000000
+      internalID: -3002181559189228398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 745
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbfa1d7ab0cb7d20800000000000000
+      internalID: 3277425061037538232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 577
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f4d004c343be70800000000000000
+      internalID: 9129715378716734195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 726
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1efaf5bf0fd960800000000000000
+      internalID: 7628833568063363657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 729
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e894752ecae7b30800000000000000
+      internalID: 4287053983430315621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 729
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf88385011b51a410800000000000000
+      internalID: 1486569480674052348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 677
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5501b115fdc2f00800000000000000
+      internalID: 1093494348983588265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 694
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6f0b1c8f0785a20800000000000000
+      internalID: 3051312961247311564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 675
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf00a45d8918df70800000000000000
+      internalID: 9212141132587208651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 681
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85c2676cf1acda0800000000000000
+      internalID: -5923887422605862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 678
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370365425c8bcbf00800000000000000
+      internalID: 1133984363048218739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 685
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a648027aad19822a0800000000000000
+      internalID: -6761994472203975574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 678
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de5e95d03d3e6d0800000000000000
+      internalID: -2962292075583378161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 694
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26735ffeb6d0d5810800000000000000
+      internalID: 1755574186982848354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 629
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de63a98e5b6bd30800000000000000
+      internalID: 4446941692699274596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 629
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d95d70f54845000800000000000000
+      internalID: 23789441731894606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 629
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7efa9b271001b40800000000000000
+      internalID: 5408824744725178333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 632
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df23d6b811a2c9f0800000000000000
+      internalID: -449619885265047598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 593
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681fe74757f97f90800000000000000
+      internalID: -6955256195255953297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 593
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5420a10662b82b0800000000000000
+      internalID: -5581325119000525377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 545
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0344eb4ee49cbaf0800000000000000
+      internalID: -379264517409586419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 545
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa910e6081e21f0800000000000000
+      internalID: -1067889643831579991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 497
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366341bbf0d5dbc40800000000000000
+      internalID: 5529678239625393763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 497
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309ad83830effa70800000000000000
+      internalID: 8863049123765063743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 449
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7525ffa085fd90800000000000000
+      internalID: -7064598947240247498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 449
+        width: 107
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec391aa2e4bd8ec0800000000000000
+      internalID: -3562992844570805014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 293
+        width: 70
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b829dd2fcedcb060800000000000000
+      internalID: 6970691304671488180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 389
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5fcd0b66a45870800000000000000
+      internalID: 8670738161318451788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 293
+        width: 70
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf65f572d01728ff0800000000000000
+      internalID: -35341545756469508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149
+        width: 70
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c1f4a101a12a600800000000000000
+      internalID: 477973166917885047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 245
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c11988c9c9f04d40800000000000000
+      internalID: 5566723784478101959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 70
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea556b627046920800000000000000
+      internalID: 2982516716075331327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 101
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc1e628b06d11800800000000000000
+      internalID: 581481171828743376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Christmas_Market_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df49907136cfeefc0800000000000000
+      internalID: -3463553560882866947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Christmas_Market_0: 8449081135624994000
+      Tileset_Christmas_Market_1: 3721578273831868594
+      Tileset_Christmas_Market_10: 3051312961247311564
+      Tileset_Christmas_Market_11: 9212141132587208651
+      Tileset_Christmas_Market_12: -5923887422605862738
+      Tileset_Christmas_Market_13: 1133984363048218739
+      Tileset_Christmas_Market_14: -6761994472203975574
+      Tileset_Christmas_Market_15: -2962292075583378161
+      Tileset_Christmas_Market_16: 1755574186982848354
+      Tileset_Christmas_Market_17: 4446941692699274596
+      Tileset_Christmas_Market_18: 23789441731894606
+      Tileset_Christmas_Market_19: 5408824744725178333
+      Tileset_Christmas_Market_2: -8098723658615166056
+      Tileset_Christmas_Market_20: -449619885265047598
+      Tileset_Christmas_Market_21: -6955256195255953297
+      Tileset_Christmas_Market_22: -5581325119000525377
+      Tileset_Christmas_Market_23: -379264517409586419
+      Tileset_Christmas_Market_24: -1067889643831579991
+      Tileset_Christmas_Market_25: 5529678239625393763
+      Tileset_Christmas_Market_26: 8863049123765063743
+      Tileset_Christmas_Market_27: -7064598947240247498
+      Tileset_Christmas_Market_28: -3562992844570805014
+      Tileset_Christmas_Market_29: 6970691304671488180
+      Tileset_Christmas_Market_3: -3002181559189228398
+      Tileset_Christmas_Market_30: 8670738161318451788
+      Tileset_Christmas_Market_31: -35341545756469508
+      Tileset_Christmas_Market_32: 477973166917885047
+      Tileset_Christmas_Market_33: 5566723784478101959
+      Tileset_Christmas_Market_34: 2982516716075331327
+      Tileset_Christmas_Market_35: 581481171828743376
+      Tileset_Christmas_Market_36: -3463553560882866947
+      Tileset_Christmas_Market_4: 3277425061037538232
+      Tileset_Christmas_Market_5: 9129715378716734195
+      Tileset_Christmas_Market_6: 7628833568063363657
+      Tileset_Christmas_Market_7: 4287053983430315621
+      Tileset_Christmas_Market_8: 1486569480674052348
+      Tileset_Christmas_Market_9: 1093494348983588265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: de31f1cb0fc837a458632a233def3ffb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3803608271136221552
+    second: Transporter_Ambulance_0
+  - first:
+      213: 988640781551974820
+    second: Transporter_Ambulance_1
+  - first:
+      213: -1926351273193851474
+    second: Transporter_Ambulance_2
+  - first:
+      213: 5715088923408551984
+    second: Transporter_Ambulance_3
+  - first:
+      213: 536452961674146074
+    second: Transporter_Ambulance_4
+  - first:
+      213: 5739623091274456436
+    second: Transporter_Ambulance_5
+  - first:
+      213: 8305562271850264169
+    second: Transporter_Ambulance_6
+  - first:
+      213: 2429462438200421282
+    second: Transporter_Ambulance_7
+  - first:
+      213: 1570931195918846829
+    second: Transporter_Ambulance_8
+  - first:
+      213: 7282681989066521603
+    second: Transporter_Ambulance_9
+  - first:
+      213: -3756201286343314013
+    second: Transporter_Ambulance_10
+  - first:
+      213: -1723710909131801041
+    second: Transporter_Ambulance_11
+  - first:
+      213: -722177705520507109
+    second: Transporter_Ambulance_12
+  - first:
+      213: 6072143577730170855
+    second: Transporter_Ambulance_13
+  - first:
+      213: -7489445545513662239
+    second: Transporter_Ambulance_14
+  - first:
+      213: -1142385696787004614
+    second: Transporter_Ambulance_15
+  - first:
+      213: 9213689996235715528
+    second: Transporter_Ambulance_16
+  - first:
+      213: 8311438227281730708
+    second: Transporter_Ambulance_17
+  - first:
+      213: 7540837300793549988
+    second: Transporter_Ambulance_18
+  - first:
+      213: 4275498873255670830
+    second: Transporter_Ambulance_19
+  - first:
+      213: -6050301342781851704
+    second: Transporter_Ambulance_20
+  - first:
+      213: 8092403109404216922
+    second: Transporter_Ambulance_21
+  - first:
+      213: 231097637001587281
+    second: Transporter_Ambulance_22
+  - first:
+      213: -6326441456524483602
+    second: Transporter_Ambulance_23
+  - first:
+      213: 4223776256387717545
+    second: Transporter_Ambulance_24
+  - first:
+      213: -6383010014786167395
+    second: Transporter_Ambulance_25
+  - first:
+      213: -2720882948572465190
+    second: Transporter_Ambulance_26
+  - first:
+      213: 2793111892374710724
+    second: Transporter_Ambulance_27
+  - first:
+      213: 408568315113989805
+    second: Transporter_Ambulance_28
+  - first:
+      213: -8537864904388326969
+    second: Transporter_Ambulance_29
+  - first:
+      213: -1491028460402696199
+    second: Transporter_Ambulance_30
+  - first:
+      213: -2251238818259945002
+    second: Transporter_Ambulance_31
+  - first:
+      213: -8857749227728228047
+    second: Transporter_Ambulance_32
+  - first:
+      213: -8531014543586503421
+    second: Transporter_Ambulance_33
+  - first:
+      213: -4031725781647425515
+    second: Transporter_Ambulance_34
+  - first:
+      213: 179872762951184390
+    second: Transporter_Ambulance_35
+  - first:
+      213: -1484445169782557022
+    second: Transporter_Ambulance_36
+  - first:
+      213: -896610625128987818
+    second: Transporter_Ambulance_37
+  - first:
+      213: -1376262415048484428
+    second: Transporter_Ambulance_38
+  - first:
+      213: -7556544660563940499
+    second: Transporter_Ambulance_39
+  - first:
+      213: 6553942261869077172
+    second: Transporter_Ambulance_40
+  - first:
+      213: 10401541617689033
+    second: Transporter_Ambulance_41
+  - first:
+      213: -3499658240231474079
+    second: Transporter_Ambulance_42
+  - first:
+      213: 7015044765433156266
+    second: Transporter_Ambulance_43
+  - first:
+      213: 4637990649647113147
+    second: Transporter_Ambulance_44
+  - first:
+      213: 8754091279297100156
+    second: Transporter_Ambulance_45
+  - first:
+      213: -730774933152513280
+    second: Transporter_Ambulance_46
+  - first:
+      213: 6934387566215354178
+    second: Transporter_Ambulance_47
+  - first:
+      213: -8635674320670441278
+    second: Transporter_Ambulance_48
+  - first:
+      213: 5638570313158570623
+    second: Transporter_Ambulance_49
+  - first:
+      213: -4758529141663355064
+    second: Transporter_Ambulance_50
+  - first:
+      213: -818656525712794826
+    second: Transporter_Ambulance_51
+  - first:
+      213: -3065057486471702886
+    second: Transporter_Ambulance_52
+  - first:
+      213: 1332888523394473503
+    second: Transporter_Ambulance_53
+  - first:
+      213: -6047725733446521607
+    second: Transporter_Ambulance_54
+  - first:
+      213: -2518992608725340421
+    second: Transporter_Ambulance_55
+  - first:
+      213: -4766657887739718523
+    second: Transporter_Ambulance_56
+  - first:
+      213: -7850609703508979523
+    second: Transporter_Ambulance_57
+  - first:
+      213: 4794640329107172485
+    second: Transporter_Ambulance_58
+  - first:
+      213: -6852380824474520675
+    second: Transporter_Ambulance_59
+  - first:
+      213: -1145976966011596915
+    second: Transporter_Ambulance_60
+  - first:
+      213: -3176963518938918872
+    second: Transporter_Ambulance_61
+  - first:
+      213: -3875645432713877022
+    second: Transporter_Ambulance_62
+  - first:
+      213: -3589411703260583206
+    second: Transporter_Ambulance_63
+  - first:
+      213: -6453281518579625309
+    second: Transporter_Ambulance_64
+  - first:
+      213: 5529861234183796011
+    second: Transporter_Ambulance_65
+  - first:
+      213: 6881637209739553427
+    second: Transporter_Ambulance_66
+  - first:
+      213: -9007722354805192150
+    second: Transporter_Ambulance_67
+  - first:
+      213: -4933828726349273757
+    second: Transporter_Ambulance_68
+  - first:
+      213: 6703789114751741674
+    second: Transporter_Ambulance_69
+  - first:
+      213: 3466892568413114682
+    second: Transporter_Ambulance_70
+  - first:
+      213: -2024420236428683079
+    second: Transporter_Ambulance_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Transporter_Ambulance_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079efc9f19129c430800000000000000
+      internalID: 3803608271136221552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9bed28d8b58bd00800000000000000
+      internalID: 988640781551974820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b8a829b93445e0800000000000000
+      internalID: -1926351273193851474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03059839813105f40800000000000000
+      internalID: 5715088923408551984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a113b4b502dd17700800000000000000
+      internalID: 536452961674146074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d1b0caacc37af40800000000000000
+      internalID: 5739623091274456436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667589a1e8434370800000000000000
+      internalID: 8305562271850264169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_7
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2718373f27b120800000000000000
+      internalID: 2429462438200421282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_8
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b825b79911dc510800000000000000
+      internalID: 1570931195918846829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_9
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cf17a0fa8411560800000000000000
+      internalID: 7282681989066521603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_10
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a534aec4da4fdbc0800000000000000
+      internalID: -3756201286343314013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_11
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ebbbd8f062418e0800000000000000
+      internalID: -1723710909131801041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b175ebdf33f4af5f0800000000000000
+      internalID: -722177705520507109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efb6cf8966944450800000000000000
+      internalID: 6072143577730170855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1195
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c60705f4201890800000000000000
+      internalID: -7489445545513662239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33068ae24e6520f0800000000000000
+      internalID: -1142385696787004614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_16
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c333304c3a9ddf70800000000000000
+      internalID: 9213689996235715528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_17
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1194
+        width: 207
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cdab52809285370800000000000000
+      internalID: 8311438227281730708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_18
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4a0de629f66a860800000000000000
+      internalID: 7540837300793549988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_19
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24bcf9929f955b30800000000000000
+      internalID: 4275498873255670830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_20
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1195
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73b6f0cf2090ca0800000000000000
+      internalID: -6050301342781851704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_21
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0e4ba0cdfd4070800000000000000
+      internalID: 8092403109404216922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_22
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a69e19316053300800000000000000
+      internalID: 231097637001587281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_23
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1194
+        width: 207
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ad83a307f338a0800000000000000
+      internalID: -6326441456524483602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a918bc602edd9a30800000000000000
+      internalID: 4223776256387717545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd8eec53efa67a0800000000000000
+      internalID: -6383010014786167395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7bbe6cf5b7d3ad0800000000000000
+      internalID: -2720882948572465190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_27
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e9e2b77023c620800000000000000
+      internalID: 2793111892374710724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da669d8c7b68ba500800000000000000
+      internalID: 408568315113989805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_29
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9c8a1ea19638980800000000000000
+      internalID: -8537864904388326969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_30
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff13bbd38dce4be0800000000000000
+      internalID: -1491028460402696199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_31
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9bb0de83ef1c0e0800000000000000
+      internalID: -2251238818259945002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_32
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b4cbf104f21580800000000000000
+      internalID: -8857749227728228047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_33
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305d5dbc87fbb9980800000000000000
+      internalID: -8531014543586503421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_34
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5100f1933ce6c08c0800000000000000
+      internalID: -4031725781647425515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_35
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600397c23590f7200800000000000000
+      internalID: 179872762951184390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f096abf0366be0800000000000000
+      internalID: -1484445169782557022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653885b03699e83f0800000000000000
+      internalID: -896610625128987818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9505110a886ece0800000000000000
+      internalID: -1376262415048484428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b26b1eaa2c12790800000000000000
+      internalID: -7556544660563940499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_40
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2602d43c744fa50800000000000000
+      internalID: 6553942261869077172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c12d31a524f42000800000000000000
+      internalID: 10401541617689033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_42
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cfbbb5f57be6fc0800000000000000
+      internalID: -3499658240231474079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_43
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa25b1ffb027a5160800000000000000
+      internalID: 7015044765433156266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_44
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3acc73ce37d5040800000000000000
+      internalID: 4637990649647113147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_45
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7939d923a7cc7970800000000000000
+      internalID: 8754091279297100156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_46
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0034fa2f114cbd5f0800000000000000
+      internalID: -730774933152513280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_47
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247d62360c4eb3060800000000000000
+      internalID: 6934387566215354178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 579
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c97885fbe72880800000000000000
+      internalID: -8635674320670441278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 578
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7231ec43d9304e40800000000000000
+      internalID: 5638570313158570623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 577
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fafc915fe46fdb0800000000000000
+      internalID: -4758529141663355064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_51
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 579
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b55df2a3c83a4f0800000000000000
+      internalID: -818656525712794826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_52
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 578
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96d3b6947ab675d0800000000000000
+      internalID: -3065057486471702886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_53
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 577
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e5f12dc0f5f7210800000000000000
+      internalID: 1332888523394473503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 425
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6ee6dc79221ca0800000000000000
+      internalID: -6047725733446521607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 426
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe671d819dba0dd0800000000000000
+      internalID: -2518992608725340421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_56
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 427
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d57be7ed69ddb0800000000000000
+      internalID: -4766657887739718523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_57
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 425
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0dc18a1180d0390800000000000000
+      internalID: -7850609703508979523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_58
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 426
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ce13ae9fbf98240800000000000000
+      internalID: 4794640329107172485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_59
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 426
+        width: 207
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d937f7312f377e0a0800000000000000
+      internalID: -6852380824474520675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 235
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f4914650ca810f0800000000000000
+      internalID: -1145976966011596915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 234
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8205545038829e3d0800000000000000
+      internalID: -3176963518938918872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 233
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e969b35301f63ac0800000000000000
+      internalID: -3875645432713877022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_63
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 235
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae58ac219df2ec0800000000000000
+      internalID: -3589411703260583206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_64
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 234
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2d77956a65176a0800000000000000
+      internalID: -6453281518579625309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_65
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 233
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257ab87e730ebc40800000000000000
+      internalID: 5529861234183796011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae2afe49c708f50800000000000000
+      internalID: 6881637209739553427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2acd764e342ef280800000000000000
+      internalID: -9007722354805192150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_68
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 9
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656557f9e4878bb0800000000000000
+      internalID: -4933828726349273757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_69
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee68e18ea4a80d50800000000000000
+      internalID: 6703789114751741674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_70
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 8
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3194be2c60ec1030800000000000000
+      internalID: 3466892568413114682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Ambulance_71
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 9
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85e835580d7e3e0800000000000000
+      internalID: -2024420236428683079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Transporter_Ambulance_0: 3803608271136221552
+      Transporter_Ambulance_1: 988640781551974820
+      Transporter_Ambulance_10: -3756201286343314013
+      Transporter_Ambulance_11: -1723710909131801041
+      Transporter_Ambulance_12: -722177705520507109
+      Transporter_Ambulance_13: 6072143577730170855
+      Transporter_Ambulance_14: -7489445545513662239
+      Transporter_Ambulance_15: -1142385696787004614
+      Transporter_Ambulance_16: 9213689996235715528
+      Transporter_Ambulance_17: 8311438227281730708
+      Transporter_Ambulance_18: 7540837300793549988
+      Transporter_Ambulance_19: 4275498873255670830
+      Transporter_Ambulance_2: -1926351273193851474
+      Transporter_Ambulance_20: -6050301342781851704
+      Transporter_Ambulance_21: 8092403109404216922
+      Transporter_Ambulance_22: 231097637001587281
+      Transporter_Ambulance_23: -6326441456524483602
+      Transporter_Ambulance_24: 4223776256387717545
+      Transporter_Ambulance_25: -6383010014786167395
+      Transporter_Ambulance_26: -2720882948572465190
+      Transporter_Ambulance_27: 2793111892374710724
+      Transporter_Ambulance_28: 408568315113989805
+      Transporter_Ambulance_29: -8537864904388326969
+      Transporter_Ambulance_3: 5715088923408551984
+      Transporter_Ambulance_30: -1491028460402696199
+      Transporter_Ambulance_31: -2251238818259945002
+      Transporter_Ambulance_32: -8857749227728228047
+      Transporter_Ambulance_33: -8531014543586503421
+      Transporter_Ambulance_34: -4031725781647425515
+      Transporter_Ambulance_35: 179872762951184390
+      Transporter_Ambulance_36: -1484445169782557022
+      Transporter_Ambulance_37: -896610625128987818
+      Transporter_Ambulance_38: -1376262415048484428
+      Transporter_Ambulance_39: -7556544660563940499
+      Transporter_Ambulance_4: 536452961674146074
+      Transporter_Ambulance_40: 6553942261869077172
+      Transporter_Ambulance_41: 10401541617689033
+      Transporter_Ambulance_42: -3499658240231474079
+      Transporter_Ambulance_43: 7015044765433156266
+      Transporter_Ambulance_44: 4637990649647113147
+      Transporter_Ambulance_45: 8754091279297100156
+      Transporter_Ambulance_46: -730774933152513280
+      Transporter_Ambulance_47: 6934387566215354178
+      Transporter_Ambulance_48: -8635674320670441278
+      Transporter_Ambulance_49: 5638570313158570623
+      Transporter_Ambulance_5: 5739623091274456436
+      Transporter_Ambulance_50: -4758529141663355064
+      Transporter_Ambulance_51: -818656525712794826
+      Transporter_Ambulance_52: -3065057486471702886
+      Transporter_Ambulance_53: 1332888523394473503
+      Transporter_Ambulance_54: -6047725733446521607
+      Transporter_Ambulance_55: -2518992608725340421
+      Transporter_Ambulance_56: -4766657887739718523
+      Transporter_Ambulance_57: -7850609703508979523
+      Transporter_Ambulance_58: 4794640329107172485
+      Transporter_Ambulance_59: -6852380824474520675
+      Transporter_Ambulance_6: 8305562271850264169
+      Transporter_Ambulance_60: -1145976966011596915
+      Transporter_Ambulance_61: -3176963518938918872
+      Transporter_Ambulance_62: -3875645432713877022
+      Transporter_Ambulance_63: -3589411703260583206
+      Transporter_Ambulance_64: -6453281518579625309
+      Transporter_Ambulance_65: 5529861234183796011
+      Transporter_Ambulance_66: 6881637209739553427
+      Transporter_Ambulance_67: -9007722354805192150
+      Transporter_Ambulance_68: -4933828726349273757
+      Transporter_Ambulance_69: 6703789114751741674
+      Transporter_Ambulance_7: 2429462438200421282
+      Transporter_Ambulance_70: 3466892568413114682
+      Transporter_Ambulance_71: -2024420236428683079
+      Transporter_Ambulance_8: 1570931195918846829
+      Transporter_Ambulance_9: 7282681989066521603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

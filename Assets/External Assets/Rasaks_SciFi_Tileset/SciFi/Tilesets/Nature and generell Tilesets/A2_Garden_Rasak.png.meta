@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 5e408fc003deee443a755dfb9ef114bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5142247811520352684
+    second: A2_Garden_Rasak_0
+  - first:
+      213: -4699505338074405819
+    second: A2_Garden_Rasak_1
+  - first:
+      213: 2532774039571748368
+    second: A2_Garden_Rasak_2
+  - first:
+      213: -1832267577197015954
+    second: A2_Garden_Rasak_3
+  - first:
+      213: -6610992859900903695
+    second: A2_Garden_Rasak_4
+  - first:
+      213: -4130112051415015792
+    second: A2_Garden_Rasak_5
+  - first:
+      213: -8625839920052274286
+    second: A2_Garden_Rasak_6
+  - first:
+      213: 803029351322666493
+    second: A2_Garden_Rasak_7
+  - first:
+      213: 4347724944825347245
+    second: A2_Garden_Rasak_8
+  - first:
+      213: 1200940778688037862
+    second: A2_Garden_Rasak_9
+  - first:
+      213: 2275071713460786039
+    second: A2_Garden_Rasak_10
+  - first:
+      213: -2181755587826618008
+    second: A2_Garden_Rasak_11
+  - first:
+      213: -9155045718474966693
+    second: A2_Garden_Rasak_12
+  - first:
+      213: -6217020328306380023
+    second: A2_Garden_Rasak_13
+  - first:
+      213: -8742371539691631732
+    second: A2_Garden_Rasak_14
+  - first:
+      213: 6978731244486485345
+    second: A2_Garden_Rasak_15
+  - first:
+      213: 5360541196132012178
+    second: A2_Garden_Rasak_16
+  - first:
+      213: -1872879797013046926
+    second: A2_Garden_Rasak_17
+  - first:
+      213: 3524578866480474503
+    second: A2_Garden_Rasak_18
+  - first:
+      213: 6824221486088787773
+    second: A2_Garden_Rasak_19
+  - first:
+      213: -1712253437481785111
+    second: A2_Garden_Rasak_20
+  - first:
+      213: -7435602077201440887
+    second: A2_Garden_Rasak_21
+  - first:
+      213: 1951235830091189047
+    second: A2_Garden_Rasak_22
+  - first:
+      213: 6048545301132131813
+    second: A2_Garden_Rasak_23
+  - first:
+      213: 1142187516812315701
+    second: A2_Garden_Rasak_24
+  - first:
+      213: 5960416456953806140
+    second: A2_Garden_Rasak_25
+  - first:
+      213: -2567082378812000622
+    second: A2_Garden_Rasak_26
+  - first:
+      213: 2323008015952191259
+    second: A2_Garden_Rasak_27
+  - first:
+      213: -2310568697985852328
+    second: A2_Garden_Rasak_28
+  - first:
+      213: -4300960956563066382
+    second: A2_Garden_Rasak_29
+  - first:
+      213: -7494194645251321037
+    second: A2_Garden_Rasak_30
+  - first:
+      213: 6777683399411489794
+    second: A2_Garden_Rasak_31
+  - first:
+      213: -3767277629289075225
+    second: A2_Garden_Rasak_32
+  - first:
+      213: -603338645969578032
+    second: A2_Garden_Rasak_33
+  - first:
+      213: -1383654502830003708
+    second: A2_Garden_Rasak_34
+  - first:
+      213: 697361100159658521
+    second: A2_Garden_Rasak_35
+  - first:
+      213: 4255236495276385715
+    second: A2_Garden_Rasak_36
+  - first:
+      213: -2780497422749373172
+    second: A2_Garden_Rasak_37
+  - first:
+      213: -454202692959464133
+    second: A2_Garden_Rasak_38
+  - first:
+      213: -7358625085708819041
+    second: A2_Garden_Rasak_39
+  - first:
+      213: 4931122988489329247
+    second: A2_Garden_Rasak_40
+  - first:
+      213: -8302163444968239364
+    second: A2_Garden_Rasak_41
+  - first:
+      213: -3338992827162443676
+    second: A2_Garden_Rasak_42
+  - first:
+      213: -7229490651486919499
+    second: A2_Garden_Rasak_43
+  - first:
+      213: -1057236990987194366
+    second: A2_Garden_Rasak_44
+  - first:
+      213: -3071785224178789428
+    second: A2_Garden_Rasak_45
+  - first:
+      213: -3327925521781819108
+    second: A2_Garden_Rasak_46
+  - first:
+      213: 1788119060722050179
+    second: A2_Garden_Rasak_47
+  - first:
+      213: -4292961106979298924
+    second: A2_Garden_Rasak_48
+  - first:
+      213: 6493652886730622607
+    second: A2_Garden_Rasak_49
+  - first:
+      213: 2591821784776006136
+    second: A2_Garden_Rasak_50
+  - first:
+      213: -8148563941741695365
+    second: A2_Garden_Rasak_51
+  - first:
+      213: 1108843032021572136
+    second: A2_Garden_Rasak_52
+  - first:
+      213: 440857728901582805
+    second: A2_Garden_Rasak_53
+  - first:
+      213: -3553477881144638106
+    second: A2_Garden_Rasak_54
+  - first:
+      213: 6019133109967835121
+    second: A2_Garden_Rasak_55
+  - first:
+      213: -1112379640207841794
+    second: A2_Garden_Rasak_56
+  - first:
+      213: 2219291081862052684
+    second: A2_Garden_Rasak_57
+  - first:
+      213: -1019907011125388964
+    second: A2_Garden_Rasak_58
+  - first:
+      213: -3822771471109010475
+    second: A2_Garden_Rasak_59
+  - first:
+      213: -6649921417844108228
+    second: A2_Garden_Rasak_60
+  - first:
+      213: -6731465390994785296
+    second: A2_Garden_Rasak_61
+  - first:
+      213: 4151553404980011209
+    second: A2_Garden_Rasak_62
+  - first:
+      213: -1711419836877563197
+    second: A2_Garden_Rasak_63
+  - first:
+      213: -8079358193730320206
+    second: A2_Garden_Rasak_64
+  - first:
+      213: -1813559498124400074
+    second: A2_Garden_Rasak_65
+  - first:
+      213: 8641290802760952794
+    second: A2_Garden_Rasak_66
+  - first:
+      213: -1347103883399765105
+    second: A2_Garden_Rasak_67
+  - first:
+      213: -4175351108943901564
+    second: A2_Garden_Rasak_68
+  - first:
+      213: 5431365730663183253
+    second: A2_Garden_Rasak_69
+  - first:
+      213: 7915855555422406683
+    second: A2_Garden_Rasak_70
+  - first:
+      213: -8823505974917081919
+    second: A2_Garden_Rasak_71
+  - first:
+      213: 5020722854527438116
+    second: A2_Garden_Rasak_72
+  - first:
+      213: -1301110957520192494
+    second: A2_Garden_Rasak_73
+  - first:
+      213: -8175240557446097626
+    second: A2_Garden_Rasak_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eac473cd013a8b0800000000000000
+      internalID: -5142247811520352684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 539
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544e5084bc008ceb0800000000000000
+      internalID: -4699505338074405819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 527
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016510dd198362320800000000000000
+      internalID: 2532774039571748368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 564
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc4b7a85a7296e0800000000000000
+      internalID: -1832267577197015954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 563
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe76fc35090144a0800000000000000
+      internalID: -6610992859900903695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 552
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e19d4b8f4eea6c0800000000000000
+      internalID: -4130112051415015792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 560
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b76eb5b4cda4880800000000000000
+      internalID: -8625839920052274286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5cccdb0fee42b00800000000000000
+      internalID: 803029351322666493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 383
+        width: 90
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac6b655dc8365c30800000000000000
+      internalID: 4347724944825347245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 97
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e34bfd76499aa010800000000000000
+      internalID: 1200940778688037862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 553
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739e576bada29f10800000000000000
+      internalID: 2275071713460786039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 540
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861fed03ad8d8b1e0800000000000000
+      internalID: -2181755587826618008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 535
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59b6dfac6eb2f080800000000000000
+      internalID: -9155045718474966693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 536
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037ae953f4b8b9a0800000000000000
+      internalID: -6217020328306380023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 540
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b023a576bdca680800000000000000
+      internalID: -8742371539691631732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 530
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165698a871f69d060800000000000000
+      internalID: 6978731244486485345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 529
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290db4701d7746a40800000000000000
+      internalID: 5360541196132012178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27918006fb13206e0800000000000000
+      internalID: -1872879797013046926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 518
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789ea671ec1d9e030800000000000000
+      internalID: 3524578866480474503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 507
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3719ea094184be50800000000000000
+      internalID: 6824221486088787773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 516
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e47d029adc38e0800000000000000
+      internalID: -1712253437481785111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 504
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f50496e4f6fc890800000000000000
+      internalID: -7435602077201440887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 506
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b899d36ae241b10800000000000000
+      internalID: 1951235830091189047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 482
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb6d1a7efb0f350800000000000000
+      internalID: 6048545301132131813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 492
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccb76be7dd9df00800000000000000
+      internalID: 1142187516812315701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 491
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dbf1e1037a7b250800000000000000
+      internalID: 5960416456953806140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 480
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296febd6d24ef5cd0800000000000000
+      internalID: -2567082378812000622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 486
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f17319b7bfc3020800000000000000
+      internalID: 2323008015952191259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 473
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9a67d2063fefd0800000000000000
+      internalID: -2310568697985852328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1fb372ccaef44c0800000000000000
+      internalID: -4300960956563066382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 456
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33319241da54ff790800000000000000
+      internalID: -7494194645251321037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 463
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cdbfd542b2f0e50800000000000000
+      internalID: 6777683399411489794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 464
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ede2ffb4f0f7bbc0800000000000000
+      internalID: -3767277629289075225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 461
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d7b7b2b280a7f0800000000000000
+      internalID: -603338645969578032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 440
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa2f28f854ccce0800000000000000
+      internalID: -1383654502830003708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 443
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a213fc9368da900800000000000000
+      internalID: 697361100159658521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 448
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b52a381c03ad0b30800000000000000
+      internalID: 4255236495276385715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 395
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d62226350b969d0800000000000000
+      internalID: -2780497422749373172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 383
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b351026ae0952b9f0800000000000000
+      internalID: -454202692959464133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 420
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f952c03e879e0e990800000000000000
+      internalID: -7358625085708819041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 383
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a4ba85b3ede6440800000000000000
+      internalID: 4931122988489329247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 419
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe4f63655ac8cc80800000000000000
+      internalID: -8302163444968239364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 383
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c765e6b389a1d0800000000000000
+      internalID: -3338992827162443676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 420
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b46d135e80bbab90800000000000000
+      internalID: -7229490651486919499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 397
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003ec4ee80f351f0800000000000000
+      internalID: -1057236990987194366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 389
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc397861d93de55d0800000000000000
+      internalID: -3071785224178789428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 397
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19fc3bbe55d0d1d0800000000000000
+      internalID: -3327925521781819108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846176dfcca0d810800000000000000
+      internalID: 1788119060722050179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4916ee74e965c64c0800000000000000
+      internalID: -4292961106979298924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 371
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c44845e61e1a50800000000000000
+      internalID: 6493652886730622607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f951b26e2008f320800000000000000
+      internalID: 2591821784776006136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 371
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eede6944c7aee80800000000000000
+      internalID: -8148563941741695365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a105bdcd6636f00800000000000000
+      internalID: 1108843032021572136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0aa7c4cd3e1600800000000000000
+      internalID: 440857728901582805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 325
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6658a29b1b28faec0800000000000000
+      internalID: -3553477881144638106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 325
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffcc6b3ca1488350800000000000000
+      internalID: 6019133109967835121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5e8026c980090f0800000000000000
+      internalID: -1112379640207841794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 293
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b749b0b718cce10800000000000000
+      internalID: 2219291081862052684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59d0f12aff88d1f0800000000000000
+      internalID: -1019907011125388964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 293
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbcc07d999c2fac0800000000000000
+      internalID: -3822771471109010475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 239
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d32904bbb6b3a0800000000000000
+      internalID: -6649921417844108228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb7be744e70592a0800000000000000
+      internalID: -6731465390994785296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a5e173d74d9930800000000000000
+      internalID: 4151553404980011209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca1b51d9b0df38e0800000000000000
+      internalID: -1711419836877563197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 143
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b80091778a50ef80800000000000000
+      internalID: -8079358193730320206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 250
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a624fbe31f4d6e0800000000000000
+      internalID: -1813559498124400074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 244
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbaa6b93380ce770800000000000000
+      internalID: 8641290802760952794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 152
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836862c7202e4de0800000000000000
+      internalID: -1347103883399765105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 148
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c8dd2d94c2e06c0800000000000000
+      internalID: -4175351108943901564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 106
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593b86dfa56106b40800000000000000
+      internalID: 5431365730663183253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18414a00b4cadd60800000000000000
+      internalID: 7915855555422406683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 103
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d783901c9c8580800000000000000
+      internalID: -8823505974917081919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0bc3d5d03da540800000000000000
+      internalID: 5020722854527438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf3ab4a7681fde0800000000000000
+      internalID: -1301110957520192494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Garden_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251f0cf606bb8e80800000000000000
+      internalID: -8175240557446097626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A2_Garden_Rasak_0: -5142247811520352684
+      A2_Garden_Rasak_1: -4699505338074405819
+      A2_Garden_Rasak_10: 2275071713460786039
+      A2_Garden_Rasak_11: -2181755587826618008
+      A2_Garden_Rasak_12: -9155045718474966693
+      A2_Garden_Rasak_13: -6217020328306380023
+      A2_Garden_Rasak_14: -8742371539691631732
+      A2_Garden_Rasak_15: 6978731244486485345
+      A2_Garden_Rasak_16: 5360541196132012178
+      A2_Garden_Rasak_17: -1872879797013046926
+      A2_Garden_Rasak_18: 3524578866480474503
+      A2_Garden_Rasak_19: 6824221486088787773
+      A2_Garden_Rasak_2: 2532774039571748368
+      A2_Garden_Rasak_20: -1712253437481785111
+      A2_Garden_Rasak_21: -7435602077201440887
+      A2_Garden_Rasak_22: 1951235830091189047
+      A2_Garden_Rasak_23: 6048545301132131813
+      A2_Garden_Rasak_24: 1142187516812315701
+      A2_Garden_Rasak_25: 5960416456953806140
+      A2_Garden_Rasak_26: -2567082378812000622
+      A2_Garden_Rasak_27: 2323008015952191259
+      A2_Garden_Rasak_28: -2310568697985852328
+      A2_Garden_Rasak_29: -4300960956563066382
+      A2_Garden_Rasak_3: -1832267577197015954
+      A2_Garden_Rasak_30: -7494194645251321037
+      A2_Garden_Rasak_31: 6777683399411489794
+      A2_Garden_Rasak_32: -3767277629289075225
+      A2_Garden_Rasak_33: -603338645969578032
+      A2_Garden_Rasak_34: -1383654502830003708
+      A2_Garden_Rasak_35: 697361100159658521
+      A2_Garden_Rasak_36: 4255236495276385715
+      A2_Garden_Rasak_37: -2780497422749373172
+      A2_Garden_Rasak_38: -454202692959464133
+      A2_Garden_Rasak_39: -7358625085708819041
+      A2_Garden_Rasak_4: -6610992859900903695
+      A2_Garden_Rasak_40: 4931122988489329247
+      A2_Garden_Rasak_41: -8302163444968239364
+      A2_Garden_Rasak_42: -3338992827162443676
+      A2_Garden_Rasak_43: -7229490651486919499
+      A2_Garden_Rasak_44: -1057236990987194366
+      A2_Garden_Rasak_45: -3071785224178789428
+      A2_Garden_Rasak_46: -3327925521781819108
+      A2_Garden_Rasak_47: 1788119060722050179
+      A2_Garden_Rasak_48: -4292961106979298924
+      A2_Garden_Rasak_49: 6493652886730622607
+      A2_Garden_Rasak_5: -4130112051415015792
+      A2_Garden_Rasak_50: 2591821784776006136
+      A2_Garden_Rasak_51: -8148563941741695365
+      A2_Garden_Rasak_52: 1108843032021572136
+      A2_Garden_Rasak_53: 440857728901582805
+      A2_Garden_Rasak_54: -3553477881144638106
+      A2_Garden_Rasak_55: 6019133109967835121
+      A2_Garden_Rasak_56: -1112379640207841794
+      A2_Garden_Rasak_57: 2219291081862052684
+      A2_Garden_Rasak_58: -1019907011125388964
+      A2_Garden_Rasak_59: -3822771471109010475
+      A2_Garden_Rasak_6: -8625839920052274286
+      A2_Garden_Rasak_60: -6649921417844108228
+      A2_Garden_Rasak_61: -6731465390994785296
+      A2_Garden_Rasak_62: 4151553404980011209
+      A2_Garden_Rasak_63: -1711419836877563197
+      A2_Garden_Rasak_64: -8079358193730320206
+      A2_Garden_Rasak_65: -1813559498124400074
+      A2_Garden_Rasak_66: 8641290802760952794
+      A2_Garden_Rasak_67: -1347103883399765105
+      A2_Garden_Rasak_68: -4175351108943901564
+      A2_Garden_Rasak_69: 5431365730663183253
+      A2_Garden_Rasak_7: 803029351322666493
+      A2_Garden_Rasak_70: 7915855555422406683
+      A2_Garden_Rasak_71: -8823505974917081919
+      A2_Garden_Rasak_72: 5020722854527438116
+      A2_Garden_Rasak_73: -1301110957520192494
+      A2_Garden_Rasak_74: -8175240557446097626
+      A2_Garden_Rasak_8: 4347724944825347245
+      A2_Garden_Rasak_9: 1200940778688037862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

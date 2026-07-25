@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: c4ff6745832c36c47bc03a632a4fd56d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1011079350998245685
+    second: Animal_Fox_0
+  - first:
+      213: 5913558641930407100
+    second: Animal_Fox_1
+  - first:
+      213: 8855816739640590020
+    second: Animal_Fox_2
+  - first:
+      213: 7106302775428056093
+    second: Animal_Fox_3
+  - first:
+      213: -3193826848682574011
+    second: Animal_Fox_4
+  - first:
+      213: 276335117692578244
+    second: Animal_Fox_5
+  - first:
+      213: -4428695162659929094
+    second: Animal_Fox_6
+  - first:
+      213: 4714278269433567373
+    second: Animal_Fox_7
+  - first:
+      213: 2721530557654040774
+    second: Animal_Fox_8
+  - first:
+      213: 1552850312394450465
+    second: Animal_Fox_9
+  - first:
+      213: -8310262083982840907
+    second: Animal_Fox_10
+  - first:
+      213: 5742782883391830964
+    second: Animal_Fox_11
+  - first:
+      213: 6478252415178031049
+    second: Animal_Fox_12
+  - first:
+      213: -4282410576239123047
+    second: Animal_Fox_13
+  - first:
+      213: -6158842952206785197
+    second: Animal_Fox_14
+  - first:
+      213: 5541791030679378549
+    second: Animal_Fox_15
+  - first:
+      213: -8838293775893472066
+    second: Animal_Fox_16
+  - first:
+      213: -1189468696867201537
+    second: Animal_Fox_17
+  - first:
+      213: -4992164374046717580
+    second: Animal_Fox_18
+  - first:
+      213: -8234444814219279000
+    second: Animal_Fox_19
+  - first:
+      213: 59542564681416538
+    second: Animal_Fox_20
+  - first:
+      213: 8592364865718952311
+    second: Animal_Fox_21
+  - first:
+      213: 4907511729235926947
+    second: Animal_Fox_22
+  - first:
+      213: 1413709060343413261
+    second: Animal_Fox_23
+  - first:
+      213: -3510621301753798469
+    second: Animal_Fox_24
+  - first:
+      213: -6644117916691051803
+    second: Animal_Fox_25
+  - first:
+      213: -4408890178706688495
+    second: Animal_Fox_26
+  - first:
+      213: 8807339300897155060
+    second: Animal_Fox_27
+  - first:
+      213: 1993012107153970943
+    second: Animal_Fox_28
+  - first:
+      213: 7661911188548000507
+    second: Animal_Fox_29
+  - first:
+      213: -6355432651127966693
+    second: Animal_Fox_30
+  - first:
+      213: 5927208557347083612
+    second: Animal_Fox_31
+  - first:
+      213: 8122093586959938472
+    second: Animal_Fox_32
+  - first:
+      213: 1133581868998220011
+    second: Animal_Fox_33
+  - first:
+      213: 7402921842962915266
+    second: Animal_Fox_34
+  - first:
+      213: 218261804203538995
+    second: Animal_Fox_35
+  - first:
+      213: 7390232254887089973
+    second: Animal_Fox_36
+  - first:
+      213: -2733035742909107361
+    second: Animal_Fox_37
+  - first:
+      213: 1178100189605939568
+    second: Animal_Fox_38
+  - first:
+      213: 6319624388781084416
+    second: Animal_Fox_39
+  - first:
+      213: -8664685480647723905
+    second: Animal_Fox_40
+  - first:
+      213: -3740693036998033486
+    second: Animal_Fox_41
+  - first:
+      213: 1749757915269537896
+    second: Animal_Fox_42
+  - first:
+      213: -1328746127062453818
+    second: Animal_Fox_43
+  - first:
+      213: 7581308339352150628
+    second: Animal_Fox_44
+  - first:
+      213: 4223064277193075479
+    second: Animal_Fox_45
+  - first:
+      213: 3286896274498367387
+    second: Animal_Fox_46
+  - first:
+      213: 17604019098243052
+    second: Animal_Fox_47
+  - first:
+      213: 6535137318701698083
+    second: Animal_Fox_48
+  - first:
+      213: -5054017273222865966
+    second: Animal_Fox_49
+  - first:
+      213: -796712350461092447
+    second: Animal_Fox_50
+  - first:
+      213: 1993786884850924503
+    second: Animal_Fox_51
+  - first:
+      213: -6275752071259459319
+    second: Animal_Fox_52
+  - first:
+      213: -5599309226773132145
+    second: Animal_Fox_53
+  - first:
+      213: 6442454532570142391
+    second: Animal_Fox_54
+  - first:
+      213: -1322653026079913030
+    second: Animal_Fox_55
+  - first:
+      213: 2811321427950909600
+    second: Animal_Fox_56
+  - first:
+      213: -4535084623585880383
+    second: Animal_Fox_57
+  - first:
+      213: 8159708285466036513
+    second: Animal_Fox_58
+  - first:
+      213: -366208966040201986
+    second: Animal_Fox_59
+  - first:
+      213: 9043677574424558393
+    second: Animal_Fox_60
+  - first:
+      213: -8797650631405666401
+    second: Animal_Fox_61
+  - first:
+      213: 862360111379411379
+    second: Animal_Fox_62
+  - first:
+      213: -3288624731756927781
+    second: Animal_Fox_63
+  - first:
+      213: -6836690172000660566
+    second: Animal_Fox_64
+  - first:
+      213: 4626347842912937776
+    second: Animal_Fox_65
+  - first:
+      213: 1510378556825571723
+    second: Animal_Fox_66
+  - first:
+      213: -1790502249906603282
+    second: Animal_Fox_67
+  - first:
+      213: 1408597888206734058
+    second: Animal_Fox_68
+  - first:
+      213: -3229087482712955073
+    second: Animal_Fox_69
+  - first:
+      213: 4191570980190248177
+    second: Animal_Fox_70
+  - first:
+      213: 1427391938899421033
+    second: Animal_Fox_71
+  - first:
+      213: -1766198269155438795
+    second: Animal_Fox_72
+  - first:
+      213: 9176981811992312229
+    second: Animal_Fox_73
+  - first:
+      213: 2272683949711384883
+    second: Animal_Fox_74
+  - first:
+      213: 527909691731253522
+    second: Animal_Fox_75
+  - first:
+      213: -5797419759170842163
+    second: Animal_Fox_76
+  - first:
+      213: -2463497191057145933
+    second: Animal_Fox_77
+  - first:
+      213: -2929968536676417218
+    second: Animal_Fox_78
+  - first:
+      213: -3683855774609243182
+    second: Animal_Fox_79
+  - first:
+      213: -1440627793106410711
+    second: Animal_Fox_80
+  - first:
+      213: 2481391331063658174
+    second: Animal_Fox_81
+  - first:
+      213: -3712377097690246633
+    second: Animal_Fox_82
+  - first:
+      213: 4484518916769621771
+    second: Animal_Fox_83
+  - first:
+      213: 3706360955826235536
+    second: Animal_Fox_84
+  - first:
+      213: -6458863153866171070
+    second: Animal_Fox_85
+  - first:
+      213: 8298479372346243201
+    second: Animal_Fox_86
+  - first:
+      213: 7875280310220272100
+    second: Animal_Fox_87
+  - first:
+      213: 3330828378183185638
+    second: Animal_Fox_88
+  - first:
+      213: 8101776695524299695
+    second: Animal_Fox_89
+  - first:
+      213: 5632443433118418718
+    second: Animal_Fox_90
+  - first:
+      213: -2310802002306576398
+    second: Animal_Fox_91
+  - first:
+      213: 7745957380005823482
+    second: Animal_Fox_92
+  - first:
+      213: 495352972063424537
+    second: Animal_Fox_93
+  - first:
+      213: -2131460238922196174
+    second: Animal_Fox_94
+  - first:
+      213: 7719742251275626791
+    second: Animal_Fox_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Fox_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531abf31053180e00800000000000000
+      internalID: 1011079350998245685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc04b2e04e211250800000000000000
+      internalID: 5913558641930407100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce3c32976e26ea70800000000000000
+      internalID: 8855816739640590020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 338
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1403c339b8ae9260800000000000000
+      internalID: 7106302775428056093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 339
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f7b2a176f3da3d0800000000000000
+      internalID: -3193826848682574011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 338
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c92801535db5d300800000000000000
+      internalID: 276335117692578244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af30a2bb63d1a82c0800000000000000
+      internalID: -4428695162659929094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d885ee5db1b7c6140800000000000000
+      internalID: 4714278269433567373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 339
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c007567f91d4c520800000000000000
+      internalID: 2721530557654040774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 338
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12620abb125dc8510800000000000000
+      internalID: 1552850312394450465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 339
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb2ecd0aa40cac80800000000000000
+      internalID: -8310262083982840907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 338
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb73ca1b9672bf40800000000000000
+      internalID: 5742782883391830964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb0049f3067e950800000000000000
+      internalID: 6478252415178031049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 293
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99524e42542d194c0800000000000000
+      internalID: -4282410576239123047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 293
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355eb4647f4678aa0800000000000000
+      internalID: -6158842952206785197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 294
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a171ba49568ec40800000000000000
+      internalID: 5541791030679378549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 294
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcd25b53a2185580800000000000000
+      internalID: -8838293775893472066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 294
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd98c3b5882e7fe0800000000000000
+      internalID: -1189468696867201537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 293
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479c59093f448bab0800000000000000
+      internalID: -4992164374046717580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 293
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86507e5c11069bd80800000000000000
+      internalID: -8234444814219279000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 293
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ff9d8a5a983d000800000000000000
+      internalID: 59542564681416538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 294
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771a9b132563e3770800000000000000
+      internalID: 8592364865718952311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 294
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af9b28aaebfa1440800000000000000
+      internalID: 4907511729235926947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 294
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a358576e08e9310800000000000000
+      internalID: 1413709060343413261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 245
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ab00b684c74fc0800000000000000
+      internalID: -3510621301753798469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 245
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea42d1f4f95bc3a0800000000000000
+      internalID: -6644117916691051803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 245
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116ba74edb970d2c0800000000000000
+      internalID: -4408890178706688495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7ef4e4e64f93a70800000000000000
+      internalID: 8807339300897155060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff617f7b3f998ab10800000000000000
+      internalID: 1993012107153970943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 246
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa9ef5a1a3945a60800000000000000
+      internalID: 7661911188548000507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 245
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1439932da7fcc7a0800000000000000
+      internalID: -6355432651127966693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 245
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55145a77cca14250800000000000000
+      internalID: 5927208557347083612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 245
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3b93ba51977b070800000000000000
+      internalID: 8122093586959938472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 246
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8567134ba4bbf00800000000000000
+      internalID: 1133581868998220011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 246
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd8cd91367cb660800000000000000
+      internalID: 7402921842962915266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 246
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a769b54fb670300800000000000000
+      internalID: 218261804203538995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537dd28a4116f8660800000000000000
+      internalID: 7390232254887089973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53f479d87e421ad0800000000000000
+      internalID: -2733035742909107361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079484f61e3795010800000000000000
+      internalID: 1178100189605939568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f013716e0d3b750800000000000000
+      internalID: 6319624388781084416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 191
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74f18b767ad0c780800000000000000
+      internalID: -8664685480647723905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf74fb7083661cc0800000000000000
+      internalID: -3740693036998033486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a196ad83684810800000000000000
+      internalID: 1749757915269537896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c134cbff685f8de0800000000000000
+      internalID: -1328746127062453818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462aac364c7363960800000000000000
+      internalID: 7581308339352150628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 192
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b2cb9d5965b9a30800000000000000
+      internalID: 4223064277193075479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_46
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 191
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fa7073fb66d9d20800000000000000
+      internalID: 3286896274498367387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_47
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 192
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef48f813ca8e3000800000000000000
+      internalID: 17604019098243052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0d9744c871ba50800000000000000
+      internalID: 6535137318701698083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbdcdc31168cd9b0800000000000000
+      internalID: -5054017273222865966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad9992a65281f4f0800000000000000
+      internalID: -796712350461092447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 146
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db3f55bb9a5bab10800000000000000
+      internalID: 1993786884850924503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9017826ddbc08e8a0800000000000000
+      internalID: -6275752071259459319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_53
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 146
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cce96bce14b42b0800000000000000
+      internalID: -5599309226773132145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d2778342386950800000000000000
+      internalID: 6442454532570142391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb496b941ef4ade0800000000000000
+      internalID: -1322653026079913030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 147
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8357691f1d30720800000000000000
+      internalID: 2811321427950909600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 146
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d3d010942011c0800000000000000
+      internalID: -4535084623585880383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 147
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c302247b1d3170800000000000000
+      internalID: 8159708285466036513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 146
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45c99b2e6faeaf0800000000000000
+      internalID: -366208966040201986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bfdb6a6d8918d70800000000000000
+      internalID: 9043677574424558393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ff219dc5778e580800000000000000
+      internalID: -8797650631405666401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b17c3bc3f7b7fb00800000000000000
+      internalID: 862360111379411379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 102
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd46018fa357c52d0800000000000000
+      internalID: -3288624731756927781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 102
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31f7ac2823f11a0800000000000000
+      internalID: -6836690172000660566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 102
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03768380ad6143040800000000000000
+      internalID: 4626347842912937776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8194fb8b41f5f410800000000000000
+      internalID: 1510378556825571723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea77c0b0bbd627e0800000000000000
+      internalID: -1790502249906603282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_68
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae28de5f0585c8310800000000000000
+      internalID: 1408597888206734058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 102
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37eb3cfa0aff23d0800000000000000
+      internalID: -3229087482712955073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 102
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc531d39937b2a30800000000000000
+      internalID: 4191570980190248177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_71
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 102
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9672b51e76d1fc310800000000000000
+      internalID: 1427391938899421033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f841c28043d77e0800000000000000
+      internalID: -1766198269155438795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9b50616503b5f70800000000000000
+      internalID: 9176981811992312229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3316745d2023a8f10800000000000000
+      internalID: 2272683949711384883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 54
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21990215113835700800000000000000
+      internalID: 527909691731253522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 54
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc19ac0f17d6b8fa0800000000000000
+      internalID: -5797419759170842163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfbddd5b56efcdd0800000000000000
+      internalID: -2463497191057145933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c458b329a657d0800000000000000
+      internalID: -2929968536676417218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_79
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305aed0b050ecc0800000000000000
+      internalID: -3683855774609243182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_80
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 53
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923665aa7acd10ce0800000000000000
+      internalID: -1440627793106410711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_81
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 54
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb678c4c44caf6220800000000000000
+      internalID: 2481391331063658174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 54
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71290ebd2bcfa7cc0800000000000000
+      internalID: -3712377097690246633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_83
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 54
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a29ed1363c3e30800000000000000
+      internalID: 4484518916769621771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0986665f6a3af6330800000000000000
+      internalID: 3706360955826235536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d92fc9e228d56a0800000000000000
+      internalID: -6458863153866171070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ba9c950f1a2370800000000000000
+      internalID: 8298479372346243201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1be4597bd9a4d60800000000000000
+      internalID: 7875280310220272100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_88
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4366133ca793e20800000000000000
+      internalID: 3330828378183185638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa39342cafa4f6070800000000000000
+      internalID: 8101776695524299695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e174180e5757a2e40800000000000000
+      internalID: 5632443433118418718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff414272d16eefd0800000000000000
+      internalID: -2310802002306576398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_92
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af30090823b2f7b60800000000000000
+      internalID: 7745957380005823482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910464257e8dfd600800000000000000
+      internalID: 495352972063424537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b5c26a4388b62e0800000000000000
+      internalID: -2131460238922196174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Fox_95
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729abd43da8022b60800000000000000
+      internalID: 7719742251275626791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Fox_0: 1011079350998245685
+      Animal_Fox_1: 5913558641930407100
+      Animal_Fox_10: -8310262083982840907
+      Animal_Fox_11: 5742782883391830964
+      Animal_Fox_12: 6478252415178031049
+      Animal_Fox_13: -4282410576239123047
+      Animal_Fox_14: -6158842952206785197
+      Animal_Fox_15: 5541791030679378549
+      Animal_Fox_16: -8838293775893472066
+      Animal_Fox_17: -1189468696867201537
+      Animal_Fox_18: -4992164374046717580
+      Animal_Fox_19: -8234444814219279000
+      Animal_Fox_2: 8855816739640590020
+      Animal_Fox_20: 59542564681416538
+      Animal_Fox_21: 8592364865718952311
+      Animal_Fox_22: 4907511729235926947
+      Animal_Fox_23: 1413709060343413261
+      Animal_Fox_24: -3510621301753798469
+      Animal_Fox_25: -6644117916691051803
+      Animal_Fox_26: -4408890178706688495
+      Animal_Fox_27: 8807339300897155060
+      Animal_Fox_28: 1993012107153970943
+      Animal_Fox_29: 7661911188548000507
+      Animal_Fox_3: 7106302775428056093
+      Animal_Fox_30: -6355432651127966693
+      Animal_Fox_31: 5927208557347083612
+      Animal_Fox_32: 8122093586959938472
+      Animal_Fox_33: 1133581868998220011
+      Animal_Fox_34: 7402921842962915266
+      Animal_Fox_35: 218261804203538995
+      Animal_Fox_36: 7390232254887089973
+      Animal_Fox_37: -2733035742909107361
+      Animal_Fox_38: 1178100189605939568
+      Animal_Fox_39: 6319624388781084416
+      Animal_Fox_4: -3193826848682574011
+      Animal_Fox_40: -8664685480647723905
+      Animal_Fox_41: -3740693036998033486
+      Animal_Fox_42: 1749757915269537896
+      Animal_Fox_43: -1328746127062453818
+      Animal_Fox_44: 7581308339352150628
+      Animal_Fox_45: 4223064277193075479
+      Animal_Fox_46: 3286896274498367387
+      Animal_Fox_47: 17604019098243052
+      Animal_Fox_48: 6535137318701698083
+      Animal_Fox_49: -5054017273222865966
+      Animal_Fox_5: 276335117692578244
+      Animal_Fox_50: -796712350461092447
+      Animal_Fox_51: 1993786884850924503
+      Animal_Fox_52: -6275752071259459319
+      Animal_Fox_53: -5599309226773132145
+      Animal_Fox_54: 6442454532570142391
+      Animal_Fox_55: -1322653026079913030
+      Animal_Fox_56: 2811321427950909600
+      Animal_Fox_57: -4535084623585880383
+      Animal_Fox_58: 8159708285466036513
+      Animal_Fox_59: -366208966040201986
+      Animal_Fox_6: -4428695162659929094
+      Animal_Fox_60: 9043677574424558393
+      Animal_Fox_61: -8797650631405666401
+      Animal_Fox_62: 862360111379411379
+      Animal_Fox_63: -3288624731756927781
+      Animal_Fox_64: -6836690172000660566
+      Animal_Fox_65: 4626347842912937776
+      Animal_Fox_66: 1510378556825571723
+      Animal_Fox_67: -1790502249906603282
+      Animal_Fox_68: 1408597888206734058
+      Animal_Fox_69: -3229087482712955073
+      Animal_Fox_7: 4714278269433567373
+      Animal_Fox_70: 4191570980190248177
+      Animal_Fox_71: 1427391938899421033
+      Animal_Fox_72: -1766198269155438795
+      Animal_Fox_73: 9176981811992312229
+      Animal_Fox_74: 2272683949711384883
+      Animal_Fox_75: 527909691731253522
+      Animal_Fox_76: -5797419759170842163
+      Animal_Fox_77: -2463497191057145933
+      Animal_Fox_78: -2929968536676417218
+      Animal_Fox_79: -3683855774609243182
+      Animal_Fox_8: 2721530557654040774
+      Animal_Fox_80: -1440627793106410711
+      Animal_Fox_81: 2481391331063658174
+      Animal_Fox_82: -3712377097690246633
+      Animal_Fox_83: 4484518916769621771
+      Animal_Fox_84: 3706360955826235536
+      Animal_Fox_85: -6458863153866171070
+      Animal_Fox_86: 8298479372346243201
+      Animal_Fox_87: 7875280310220272100
+      Animal_Fox_88: 3330828378183185638
+      Animal_Fox_89: 8101776695524299695
+      Animal_Fox_9: 1552850312394450465
+      Animal_Fox_90: 5632443433118418718
+      Animal_Fox_91: -2310802002306576398
+      Animal_Fox_92: 7745957380005823482
+      Animal_Fox_93: 495352972063424537
+      Animal_Fox_94: -2131460238922196174
+      Animal_Fox_95: 7719742251275626791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

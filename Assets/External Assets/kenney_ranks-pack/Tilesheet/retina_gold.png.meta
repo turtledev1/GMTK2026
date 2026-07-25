@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 2ed945abf18ad8e4e8c878ec5c4e485d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6852073894137212157
+    second: retina_gold_0
+  - first:
+      213: 5192557647712760795
+    second: retina_gold_1
+  - first:
+      213: 2284970116477540294
+    second: retina_gold_2
+  - first:
+      213: -3106898901082680365
+    second: retina_gold_3
+  - first:
+      213: -4060691971912610144
+    second: retina_gold_4
+  - first:
+      213: 3699873621643803105
+    second: retina_gold_5
+  - first:
+      213: -641182758066148314
+    second: retina_gold_6
+  - first:
+      213: 3560268930146594635
+    second: retina_gold_7
+  - first:
+      213: 2608805825782690448
+    second: retina_gold_8
+  - first:
+      213: -5784765453140073824
+    second: retina_gold_9
+  - first:
+      213: 7879658002911648654
+    second: retina_gold_10
+  - first:
+      213: -3975262504054743245
+    second: retina_gold_11
+  - first:
+      213: -8163625571258151385
+    second: retina_gold_12
+  - first:
+      213: 89087495936591768
+    second: retina_gold_13
+  - first:
+      213: -1174956920570574636
+    second: retina_gold_14
+  - first:
+      213: -6309980411468879727
+    second: retina_gold_15
+  - first:
+      213: 1297844323868496908
+    second: retina_gold_16
+  - first:
+      213: 9148902155809833030
+    second: retina_gold_17
+  - first:
+      213: 2524055010921020009
+    second: retina_gold_18
+  - first:
+      213: -2255504758106618868
+    second: retina_gold_19
+  - first:
+      213: 3268330091281789512
+    second: retina_gold_20
+  - first:
+      213: 8415006784119176487
+    second: retina_gold_21
+  - first:
+      213: 1483244338426264305
+    second: retina_gold_22
+  - first:
+      213: -3103005460713110258
+    second: retina_gold_23
+  - first:
+      213: 1788259404851188931
+    second: retina_gold_24
+  - first:
+      213: 2345984342683588684
+    second: retina_gold_25
+  - first:
+      213: 6620132868713820706
+    second: retina_gold_26
+  - first:
+      213: 7289375830318061511
+    second: retina_gold_27
+  - first:
+      213: 2022976562266045259
+    second: retina_gold_28
+  - first:
+      213: -4668886027419659466
+    second: retina_gold_29
+  - first:
+      213: 7673412341735964703
+    second: retina_gold_30
+  - first:
+      213: -1133014389868076623
+    second: retina_gold_31
+  - first:
+      213: 5638763936796975957
+    second: retina_gold_32
+  - first:
+      213: -2830000118157016136
+    second: retina_gold_33
+  - first:
+      213: -3248102952532508711
+    second: retina_gold_34
+  - first:
+      213: 3469348530819512072
+    second: retina_gold_35
+  - first:
+      213: 3760412201692422336
+    second: retina_gold_36
+  - first:
+      213: -4231696944861721342
+    second: retina_gold_37
+  - first:
+      213: 2213547133213369831
+    second: retina_gold_38
+  - first:
+      213: 1708413736597556461
+    second: retina_gold_39
+  - first:
+      213: 397589402332396939
+    second: retina_gold_40
+  - first:
+      213: 7773330294539936825
+    second: retina_gold_41
+  - first:
+      213: 6830095873631494370
+    second: retina_gold_42
+  - first:
+      213: 6164108194499164026
+    second: retina_gold_43
+  - first:
+      213: -3293625170912424769
+    second: retina_gold_44
+  - first:
+      213: -3217641614240569867
+    second: retina_gold_45
+  - first:
+      213: 8962160289593342338
+    second: retina_gold_46
+  - first:
+      213: 6707588731909079600
+    second: retina_gold_47
+  - first:
+      213: 1488075478239928671
+    second: retina_gold_48
+  - first:
+      213: -6244553006524948409
+    second: retina_gold_49
+  - first:
+      213: -8952138013981111516
+    second: retina_gold_50
+  - first:
+      213: 1784836959623580398
+    second: retina_gold_51
+  - first:
+      213: 2721806691311452729
+    second: retina_gold_52
+  - first:
+      213: -6712858271447448326
+    second: retina_gold_53
+  - first:
+      213: -5741580207639053007
+    second: retina_gold_54
+  - first:
+      213: -1239266152910980368
+    second: retina_gold_55
+  - first:
+      213: -7241018190227064774
+    second: retina_gold_56
+  - first:
+      213: -749640565791304515
+    second: retina_gold_57
+  - first:
+      213: 1703349813324776409
+    second: retina_gold_58
+  - first:
+      213: -8565866102736569708
+    second: retina_gold_59
+  - first:
+      213: 8397587781530263567
+    second: retina_gold_60
+  - first:
+      213: 6227149110953605517
+    second: retina_gold_61
+  - first:
+      213: 4143302199642130540
+    second: retina_gold_62
+  - first:
+      213: -2044869373605247578
+    second: retina_gold_63
+  - first:
+      213: -3342554026484201752
+    second: retina_gold_64
+  - first:
+      213: 4703198049290156541
+    second: retina_gold_65
+  - first:
+      213: -4323705229443331549
+    second: retina_gold_66
+  - first:
+      213: 8308799482756499586
+    second: retina_gold_67
+  - first:
+      213: -7013234479966926036
+    second: retina_gold_68
+  - first:
+      213: 1845482662759751983
+    second: retina_gold_69
+  - first:
+      213: 6630598182531758712
+    second: retina_gold_70
+  - first:
+      213: 3456751011192814208
+    second: retina_gold_71
+  - first:
+      213: 1725678597955981817
+    second: retina_gold_72
+  - first:
+      213: 160842572475850851
+    second: retina_gold_73
+  - first:
+      213: -178434602664418105
+    second: retina_gold_74
+  - first:
+      213: 6170546350986631913
+    second: retina_gold_75
+  - first:
+      213: 2553687990202795567
+    second: retina_gold_76
+  - first:
+      213: -1961547334475627551
+    second: retina_gold_77
+  - first:
+      213: -7220301948284944976
+    second: retina_gold_78
+  - first:
+      213: -1930665469632549761
+    second: retina_gold_79
+  - first:
+      213: 1902598716782124238
+    second: retina_gold_80
+  - first:
+      213: -563763551763102593
+    second: retina_gold_81
+  - first:
+      213: -2378937536410034073
+    second: retina_gold_82
+  - first:
+      213: 2774523038822354825
+    second: retina_gold_83
+  - first:
+      213: 7118276513224118608
+    second: retina_gold_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retina_gold_0
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303593dd81b88e0a0800000000000000
+      internalID: -6852073894137212157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_1
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd338a35babaf0840800000000000000
+      internalID: 5192557647712760795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d603f638d5bf10800000000000000
+      internalID: 2284970116477540294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d35ae719e312e4d0800000000000000
+      internalID: -3106898901082680365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae4edf7a2685a7c0800000000000000
+      internalID: -4060691971912610144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_5
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9bae3c477985330800000000000000
+      internalID: 3699873621643803105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_6
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 719
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cac5dbdaf0a17f0800000000000000
+      internalID: -641182758066148314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_7
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f6f369abd986130800000000000000
+      internalID: 3560268930146594635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_8
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923fb59317543420800000000000000
+      internalID: 2608805825782690448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_9
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 715
+        width: 130
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a262a8287268bfa0800000000000000
+      internalID: -5784765453140073824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_10
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bdc17943b2a5d60800000000000000
+      internalID: 7879658002911648654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_11
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 715
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f13ec70d705d8c0800000000000000
+      internalID: -3975262504054743245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eccd1bbc9f4be80800000000000000
+      internalID: -8163625571258151385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897ca350b908c3100800000000000000
+      internalID: 89087495936591768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8010be7e6b1bfe0800000000000000
+      internalID: -1174956920570574636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19869ba5f327e68a0800000000000000
+      internalID: -6309980411468879727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0450f9498ed20210800000000000000
+      internalID: 1297844323868496908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c9d9a90e67fe70800000000000000
+      internalID: 9148902155809833030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96afd7fc8ae370320800000000000000
+      internalID: 2524055010921020009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 687
+        width: 642
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c040ad76f56d2b0e0800000000000000
+      internalID: -2255504758106618868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_20
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 695
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8423293d6e07b5d20800000000000000
+      internalID: 3268330091281789512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_21
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 695
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dfce5e51c18c470800000000000000
+      internalID: 8415006784119176487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 1664
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab1030eda859410800000000000000
+      internalID: 1483244338426264305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 642
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05091259f8efe4d0800000000000000
+      internalID: -3103005460713110258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 898
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41860447c21d810800000000000000
+      internalID: 1788259404851188931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_25
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 431
+        width: 258
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c489842845c9e8020800000000000000
+      internalID: 2345984342683588684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_26
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 435
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2223395e4cf6fdb50800000000000000
+      internalID: 6620132868713820706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_27
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 451
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c71d6862b0192560800000000000000
+      internalID: 7289375830318061511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_28
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 465
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bfec6177e031c10800000000000000
+      internalID: 2022976562266045259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_29
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 435
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633ddd615e8c43fb0800000000000000
+      internalID: -4668886027419659466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_30
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 451
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10454c8edf6d7a60800000000000000
+      internalID: 7673412341735964703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e1865a69b640f0800000000000000
+      internalID: -1133014389868076623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_32
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 399
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5532111dce9e04e40800000000000000
+      internalID: 5638763936796975957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_33
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 419
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b300f2f2e1d9b8d0800000000000000
+      internalID: -2830000118157016136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_34
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dff668e29b6ce2d0800000000000000
+      internalID: -3248102952532508711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_35
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 419
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807358d7b1a952030800000000000000
+      internalID: 3469348530819512072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_36
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 419
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ebe259faaf2430800000000000000
+      internalID: 3760412201692422336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 315
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d49649c0ef545c0800000000000000
+      internalID: -4231696944861721342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 1409
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e564c8c36918be10800000000000000
+      internalID: 2213547133213369831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_39
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec8b4bed3185b710800000000000000
+      internalID: 1708413736597556461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_40
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d7b747475848500800000000000000
+      internalID: 397589402332396939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_41
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e5dfc7ba60eb60800000000000000
+      internalID: 7773330294539936825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_42
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0aaa9720069ce50800000000000000
+      internalID: 6830095873631494370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 301
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77723a7ebf4b8550800000000000000
+      internalID: 6164108194499164026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcca708b51ba42d0800000000000000
+      internalID: -3293625170912424769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 301
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f52da8eff3a853d0800000000000000
+      internalID: -3217641614240569867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 315
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b251cc4dff5c70800000000000000
+      internalID: 8962160289593342338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 315
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0328ad0d964261d50800000000000000
+      internalID: 6707588731909079600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51e57763c4b6a410800000000000000
+      internalID: 1488075478239928671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740abf82024e659a0800000000000000
+      internalID: -6244553006524948409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 219
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b826028ed93c380800000000000000
+      internalID: -8952138013981111516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea0a5022c305c810800000000000000
+      internalID: 1784836959623580398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_52
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 159
+        width: 1025
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93286e6d3ccc5c520800000000000000
+      internalID: 2721806691311452729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405d6e7f227d2a0800000000000000
+      internalID: -6712858271447448326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13db24aa83fc150b0800000000000000
+      internalID: -5741580207639053007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 175
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7395fffd3dcee0800000000000000
+      internalID: -1239266152910980368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 175
+        width: 98
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38bf5f025cb28b90800000000000000
+      internalID: -7241018190227064774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_57
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db459ce80edb895f0800000000000000
+      internalID: -749640565791304515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_58
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3837761a383a710800000000000000
+      internalID: 1703349813324776409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_59
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ab3d8d92eef1980800000000000000
+      internalID: -8565866102736569708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_60
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a54058993a8470800000000000000
+      internalID: 8397587781530263567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_61
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8977c1af174b6650800000000000000
+      internalID: 6227149110953605517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_62
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6883cef567ff7930800000000000000
+      internalID: 4143302199642130540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_63
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50f2e832a2f93e0800000000000000
+      internalID: -2044869373605247578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_64
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e68bd092dcdc91d0800000000000000
+      internalID: -3342554026484201752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_65
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 91
+        width: 258
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ff3c05bd154140800000000000000
+      internalID: 4703198049290156541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_66
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 91
+        width: 385
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a0885700d1ff3c0800000000000000
+      internalID: -4323705229443331549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_67
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 139
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28886af8b19ce4370800000000000000
+      internalID: 8308799482756499586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_68
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 139
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bcc0fe56cfbae90800000000000000
+      internalID: -7013234479966926036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 257
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21efe834b87c9910800000000000000
+      internalID: 1845482662759751983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 55
+        width: 258
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af726aaed940c50800000000000000
+      internalID: 6630598182531758712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_71
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 79
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08abe13eab8d8ff20800000000000000
+      internalID: 3456751011192814208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_72
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f119a3ba87d2f710800000000000000
+      internalID: 1725678597955981817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_73
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360ee2da77d6b3200800000000000000
+      internalID: 160842572475850851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_74
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ac8c9ca2168df0800000000000000
+      internalID: -178434602664418105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_75
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 51
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea14a8963f22a550800000000000000
+      internalID: 6170546350986631913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_76
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26083372b5807320800000000000000
+      internalID: 2553687990202795567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_77
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 51
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3477e871f27c4e0800000000000000
+      internalID: -1961547334475627551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_78
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 37
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3a6102a55ccb90800000000000000
+      internalID: -7220301948284944976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_79
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 37
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c60760cf5e435e0800000000000000
+      internalID: -1930665469632549761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_80
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 37
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc99e7d373676a10800000000000000
+      internalID: 1902598716782124238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_81
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 31
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7409df590c1d28f0800000000000000
+      internalID: -563763551763102593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_82
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 514
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760ef6f2ae05cfed0800000000000000
+      internalID: -2378937536410034073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_83
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 386
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc426f006118620800000000000000
+      internalID: 2774523038822354825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_gold_84
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 257
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051dab746c239c260800000000000000
+      internalID: 7118276513224118608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retina_gold_0: -6852073894137212157
+      retina_gold_1: 5192557647712760795
+      retina_gold_10: 7879658002911648654
+      retina_gold_11: -3975262504054743245
+      retina_gold_12: -8163625571258151385
+      retina_gold_13: 89087495936591768
+      retina_gold_14: -1174956920570574636
+      retina_gold_15: -6309980411468879727
+      retina_gold_16: 1297844323868496908
+      retina_gold_17: 9148902155809833030
+      retina_gold_18: 2524055010921020009
+      retina_gold_19: -2255504758106618868
+      retina_gold_2: 2284970116477540294
+      retina_gold_20: 3268330091281789512
+      retina_gold_21: 8415006784119176487
+      retina_gold_22: 1483244338426264305
+      retina_gold_23: -3103005460713110258
+      retina_gold_24: 1788259404851188931
+      retina_gold_25: 2345984342683588684
+      retina_gold_26: 6620132868713820706
+      retina_gold_27: 7289375830318061511
+      retina_gold_28: 2022976562266045259
+      retina_gold_29: -4668886027419659466
+      retina_gold_3: -3106898901082680365
+      retina_gold_30: 7673412341735964703
+      retina_gold_31: -1133014389868076623
+      retina_gold_32: 5638763936796975957
+      retina_gold_33: -2830000118157016136
+      retina_gold_34: -3248102952532508711
+      retina_gold_35: 3469348530819512072
+      retina_gold_36: 3760412201692422336
+      retina_gold_37: -4231696944861721342
+      retina_gold_38: 2213547133213369831
+      retina_gold_39: 1708413736597556461
+      retina_gold_4: -4060691971912610144
+      retina_gold_40: 397589402332396939
+      retina_gold_41: 7773330294539936825
+      retina_gold_42: 6830095873631494370
+      retina_gold_43: 6164108194499164026
+      retina_gold_44: -3293625170912424769
+      retina_gold_45: -3217641614240569867
+      retina_gold_46: 8962160289593342338
+      retina_gold_47: 6707588731909079600
+      retina_gold_48: 1488075478239928671
+      retina_gold_49: -6244553006524948409
+      retina_gold_5: 3699873621643803105
+      retina_gold_50: -8952138013981111516
+      retina_gold_51: 1784836959623580398
+      retina_gold_52: 2721806691311452729
+      retina_gold_53: -6712858271447448326
+      retina_gold_54: -5741580207639053007
+      retina_gold_55: -1239266152910980368
+      retina_gold_56: -7241018190227064774
+      retina_gold_57: -749640565791304515
+      retina_gold_58: 1703349813324776409
+      retina_gold_59: -8565866102736569708
+      retina_gold_6: -641182758066148314
+      retina_gold_60: 8397587781530263567
+      retina_gold_61: 6227149110953605517
+      retina_gold_62: 4143302199642130540
+      retina_gold_63: -2044869373605247578
+      retina_gold_64: -3342554026484201752
+      retina_gold_65: 4703198049290156541
+      retina_gold_66: -4323705229443331549
+      retina_gold_67: 8308799482756499586
+      retina_gold_68: -7013234479966926036
+      retina_gold_69: 1845482662759751983
+      retina_gold_7: 3560268930146594635
+      retina_gold_70: 6630598182531758712
+      retina_gold_71: 3456751011192814208
+      retina_gold_72: 1725678597955981817
+      retina_gold_73: 160842572475850851
+      retina_gold_74: -178434602664418105
+      retina_gold_75: 6170546350986631913
+      retina_gold_76: 2553687990202795567
+      retina_gold_77: -1961547334475627551
+      retina_gold_78: -7220301948284944976
+      retina_gold_79: -1930665469632549761
+      retina_gold_8: 2608805825782690448
+      retina_gold_80: 1902598716782124238
+      retina_gold_81: -563763551763102593
+      retina_gold_82: -2378937536410034073
+      retina_gold_83: 2774523038822354825
+      retina_gold_84: 7118276513224118608
+      retina_gold_9: -5784765453140073824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

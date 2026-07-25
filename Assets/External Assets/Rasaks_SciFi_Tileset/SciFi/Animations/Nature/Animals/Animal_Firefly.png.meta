@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 052a43ee5b7d8da40bd764f977f74418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7467724450383799510
+    second: Animal_Firefly_0
+  - first:
+      213: 6460728520028862680
+    second: Animal_Firefly_1
+  - first:
+      213: -3906740420493008439
+    second: Animal_Firefly_2
+  - first:
+      213: 6653833061218159194
+    second: Animal_Firefly_3
+  - first:
+      213: -8225991877040336785
+    second: Animal_Firefly_4
+  - first:
+      213: -6098746409191222441
+    second: Animal_Firefly_5
+  - first:
+      213: -6008139511221169736
+    second: Animal_Firefly_6
+  - first:
+      213: 7088802665616550827
+    second: Animal_Firefly_7
+  - first:
+      213: 6017891782528099467
+    second: Animal_Firefly_8
+  - first:
+      213: -3570972520638584383
+    second: Animal_Firefly_9
+  - first:
+      213: -1714501459459210656
+    second: Animal_Firefly_10
+  - first:
+      213: 5318223179997136328
+    second: Animal_Firefly_11
+  - first:
+      213: 6493944858864509184
+    second: Animal_Firefly_12
+  - first:
+      213: -961823101999758620
+    second: Animal_Firefly_13
+  - first:
+      213: -710028845051200571
+    second: Animal_Firefly_14
+  - first:
+      213: -685018076589658347
+    second: Animal_Firefly_15
+  - first:
+      213: 4197964562708759704
+    second: Animal_Firefly_16
+  - first:
+      213: -3072099138001752888
+    second: Animal_Firefly_17
+  - first:
+      213: 8344662451913704726
+    second: Animal_Firefly_18
+  - first:
+      213: -8910149792502468659
+    second: Animal_Firefly_19
+  - first:
+      213: -3693217095442609026
+    second: Animal_Firefly_20
+  - first:
+      213: 5615755491083681780
+    second: Animal_Firefly_21
+  - first:
+      213: 3133317202204070561
+    second: Animal_Firefly_22
+  - first:
+      213: -3650980973630313870
+    second: Animal_Firefly_23
+  - first:
+      213: -166280750542774639
+    second: Animal_Firefly_24
+  - first:
+      213: 7602193831055492946
+    second: Animal_Firefly_25
+  - first:
+      213: 8434082222684180909
+    second: Animal_Firefly_26
+  - first:
+      213: 134526645043406587
+    second: Animal_Firefly_27
+  - first:
+      213: -5141960891810113049
+    second: Animal_Firefly_28
+  - first:
+      213: -5780910110813635270
+    second: Animal_Firefly_29
+  - first:
+      213: -936222622379623610
+    second: Animal_Firefly_30
+  - first:
+      213: -5638645081728289582
+    second: Animal_Firefly_31
+  - first:
+      213: 9148952943707880966
+    second: Animal_Firefly_32
+  - first:
+      213: 6975764398376967488
+    second: Animal_Firefly_33
+  - first:
+      213: -3827223874684612086
+    second: Animal_Firefly_34
+  - first:
+      213: -5168158531207419317
+    second: Animal_Firefly_35
+  - first:
+      213: -623706985078252223
+    second: Animal_Firefly_36
+  - first:
+      213: -5712051323878398383
+    second: Animal_Firefly_37
+  - first:
+      213: 588690485953136424
+    second: Animal_Firefly_38
+  - first:
+      213: 3624542732088440073
+    second: Animal_Firefly_39
+  - first:
+      213: -2405904500891502255
+    second: Animal_Firefly_40
+  - first:
+      213: -3465594907010642798
+    second: Animal_Firefly_41
+  - first:
+      213: 6818997458013904753
+    second: Animal_Firefly_42
+  - first:
+      213: -4779269689298898799
+    second: Animal_Firefly_43
+  - first:
+      213: -4646060049193656221
+    second: Animal_Firefly_44
+  - first:
+      213: 1043343339565745796
+    second: Animal_Firefly_45
+  - first:
+      213: 478862433173424266
+    second: Animal_Firefly_46
+  - first:
+      213: 2841106802171834859
+    second: Animal_Firefly_47
+  - first:
+      213: -5101050490607746703
+    second: Animal_Firefly_48
+  - first:
+      213: 120563338517478409
+    second: Animal_Firefly_49
+  - first:
+      213: 7264902918380554186
+    second: Animal_Firefly_50
+  - first:
+      213: -4859550712818116868
+    second: Animal_Firefly_51
+  - first:
+      213: 4034111066130230024
+    second: Animal_Firefly_52
+  - first:
+      213: 1214134473958018844
+    second: Animal_Firefly_53
+  - first:
+      213: -7387384134782619587
+    second: Animal_Firefly_54
+  - first:
+      213: 4972172763045937096
+    second: Animal_Firefly_55
+  - first:
+      213: -9167125872243438460
+    second: Animal_Firefly_56
+  - first:
+      213: -9168869138112513942
+    second: Animal_Firefly_57
+  - first:
+      213: 4946426226741413661
+    second: Animal_Firefly_58
+  - first:
+      213: 7291068916924739874
+    second: Animal_Firefly_59
+  - first:
+      213: 1572474094494410489
+    second: Animal_Firefly_60
+  - first:
+      213: -8281057759497961753
+    second: Animal_Firefly_61
+  - first:
+      213: -9181544580032036278
+    second: Animal_Firefly_62
+  - first:
+      213: -7094548209671028384
+    second: Animal_Firefly_63
+  - first:
+      213: -33051396394330182
+    second: Animal_Firefly_64
+  - first:
+      213: 3167014686018891015
+    second: Animal_Firefly_65
+  - first:
+      213: -3304442076712027590
+    second: Animal_Firefly_66
+  - first:
+      213: -8156835697948824298
+    second: Animal_Firefly_67
+  - first:
+      213: -76731203203752150
+    second: Animal_Firefly_68
+  - first:
+      213: 1454401327757092916
+    second: Animal_Firefly_69
+  - first:
+      213: -1166299494444244708
+    second: Animal_Firefly_70
+  - first:
+      213: -1344371589094790153
+    second: Animal_Firefly_71
+  - first:
+      213: 7375924617077860934
+    second: Animal_Firefly_72
+  - first:
+      213: 1686075532905509629
+    second: Animal_Firefly_73
+  - first:
+      213: -7263935892724837093
+    second: Animal_Firefly_74
+  - first:
+      213: 4402647124257567520
+    second: Animal_Firefly_75
+  - first:
+      213: 4021465232833471590
+    second: Animal_Firefly_76
+  - first:
+      213: 3237337281274177107
+    second: Animal_Firefly_77
+  - first:
+      213: 7607980415363186010
+    second: Animal_Firefly_78
+  - first:
+      213: 3045138518560416617
+    second: Animal_Firefly_79
+  - first:
+      213: 8374642011901193003
+    second: Animal_Firefly_80
+  - first:
+      213: -48790998838304557
+    second: Animal_Firefly_81
+  - first:
+      213: -8033907549994981682
+    second: Animal_Firefly_82
+  - first:
+      213: -2534446163234611954
+    second: Animal_Firefly_83
+  - first:
+      213: -3430479262029539064
+    second: Animal_Firefly_84
+  - first:
+      213: -759897488602898356
+    second: Animal_Firefly_85
+  - first:
+      213: 5500110906309703865
+    second: Animal_Firefly_86
+  - first:
+      213: 7368790107926978841
+    second: Animal_Firefly_87
+  - first:
+      213: -8952120218559494068
+    second: Animal_Firefly_88
+  - first:
+      213: -8096140338981516235
+    second: Animal_Firefly_89
+  - first:
+      213: -4280193724419904382
+    second: Animal_Firefly_90
+  - first:
+      213: 4403578084531270504
+    second: Animal_Firefly_91
+  - first:
+      213: 3914123003728637907
+    second: Animal_Firefly_92
+  - first:
+      213: 1052227017798628986
+    second: Animal_Firefly_93
+  - first:
+      213: -7709112303907431731
+    second: Animal_Firefly_94
+  - first:
+      213: -4097959333093683472
+    second: Animal_Firefly_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Firefly_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d420a962dfa2a760800000000000000
+      internalID: 7467724450383799510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83e8acb5e19a950800000000000000
+      internalID: 6460728520028862680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1aade494878c9c0800000000000000
+      internalID: -3906740420493008439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a88a86ae9275c50800000000000000
+      internalID: 6653833061218159194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6013c398f767dd80800000000000000
+      internalID: -8225991877040336785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 349
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d7f01476ec5ba0800000000000000
+      internalID: -6098746409191222441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b15ca072fcce9ca0800000000000000
+      internalID: -6008139511221169736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babaaee577c706260800000000000000
+      internalID: 7088802665616550827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84645a21b8d38350800000000000000
+      internalID: 6017891782528099467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e7ac896b517ec0800000000000000
+      internalID: -3570972520638584383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 349
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0628b06a10ed438e0800000000000000
+      internalID: -1714501459459210656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 349
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c54af71ecf1ec940800000000000000
+      internalID: 5318223179997136328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001e79751702f1a50800000000000000
+      internalID: 6493944858864509184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e24a841cfae6a2f0800000000000000
+      internalID: -961823101999758620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb317ef6887526f0800000000000000
+      internalID: -710028845051200571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe62050b35e76f0800000000000000
+      internalID: -685018076589658347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940feb278a224a30800000000000000
+      internalID: 4197964562708759704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 302
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc2f945c16bd55d0800000000000000
+      internalID: -3072099138001752888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6154bd0c9423ec370800000000000000
+      internalID: 8344662451913704726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfae52c8f9c85480800000000000000
+      internalID: -8910149792502468659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c4eb38e9e0fbcc0800000000000000
+      internalID: -3693217095442609026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fffd779ddb2fed40800000000000000
+      internalID: 5615755491083681780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_22
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 303
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a29ef5f467cb7b20800000000000000
+      internalID: 3133317202204070561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 302
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a2e01f52c155dc0800000000000000
+      internalID: -3650980973630313870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e99e2d98041bdf0800000000000000
+      internalID: -166280750542774639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578abdd20b608960800000000000000
+      internalID: 7602193831055492946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da117898811eb0570800000000000000
+      internalID: 8434082222684180909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 254
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf623aa554fedd100800000000000000
+      internalID: 134526645043406587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e915baefc514a8b0800000000000000
+      internalID: -5141960891810113049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d3d7ef1e416cfa0800000000000000
+      internalID: -5780910110813635270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bb06a3c7ed103f0800000000000000
+      internalID: -936222622379623610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f4194c228fb1b0800000000000000
+      internalID: -5638645081728289582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_32
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ef874aa3c97fe70800000000000000
+      internalID: 9148952943707880966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_33
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 254
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d531ad2c4eec060800000000000000
+      internalID: 6975764398376967488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a029789d928f2eac0800000000000000
+      internalID: -3827223874684612086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 255
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a2a7ca2330748b0800000000000000
+      internalID: -5168158531207419317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1b763dc52857f0800000000000000
+      internalID: -623706985078252223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156ad6da597bab0b0800000000000000
+      internalID: -5712051323878398383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82783e1c0e27b2800800000000000000
+      internalID: 588690485953136424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905fa534966fc4230800000000000000
+      internalID: 3624542732088440073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15939dc7a928c9ed0800000000000000
+      internalID: -2405904500891502255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 204
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c4a382bcbb7efc0800000000000000
+      internalID: -3465594907010642798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fd5393f02f1ae50800000000000000
+      internalID: 6818997458013904753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1903c8b0a8f9cadb0800000000000000
+      internalID: -4779269689298898799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360adaa4001e58fb0800000000000000
+      internalID: -4646060049193656221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486069d4d33ba7e00800000000000000
+      internalID: 1043343339565745796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_46
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 204
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88c49988d245a600800000000000000
+      internalID: 478862433173424266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 204
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f5607593ad6720800000000000000
+      internalID: 2841106802171834859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1714ef5fa9d6539b0800000000000000
+      internalID: -5101050490607746703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf445b7b35ca100800000000000000
+      internalID: 120563338517478409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac785c196be12d460800000000000000
+      internalID: 7264902918380554186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6da7aaf586f8cb0800000000000000
+      internalID: -4859550712818116868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2a2914aa0cf730800000000000000
+      internalID: 4034111066130230024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 157
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc2dd0fd879d010800000000000000
+      internalID: 1214134473958018844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30fceaf44dba7990800000000000000
+      internalID: -7387384134782619587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb937c8c4b00540800000000000000
+      internalID: 4972172763045937096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c03a5b693d7c080800000000000000
+      internalID: -9167125872243438460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68f2cef812a1c080800000000000000
+      internalID: -9168869138112513942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 157
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d170998227c35a440800000000000000
+      internalID: 4946426226741413661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 157
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f03adc841f2560800000000000000
+      internalID: 7291068916924739874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e7dc8bdc82d510800000000000000
+      internalID: 1572474094494410489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeb1a8b7d5c31d80800000000000000
+      internalID: -8281057759497961753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4207c1b9d9949080800000000000000
+      internalID: -9181544580032036278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061cca8edf91b8d90800000000000000
+      internalID: -7094548209671028384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7d59a1ee39a8ff0800000000000000
+      internalID: -33051396394330182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_65
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 110
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70de99ec31f73fb20800000000000000
+      internalID: 3167014686018891015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ab9bc50734422d0800000000000000
+      internalID: -3304442076712027590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de88446291dce80800000000000000
+      internalID: -8156835697948824298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f1ad190656feef0800000000000000
+      internalID: -76731203203752150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_69
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43861d54d421f2410800000000000000
+      internalID: 1454401327757092916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_70
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11eee30ac870dfe0800000000000000
+      internalID: -1166299494444244708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_71
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 110
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fba0e99925d75de0800000000000000
+      internalID: -1344371589094790153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a2cf22c5c8c5660800000000000000
+      internalID: 7375924617077860934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27f4393c4266710800000000000000
+      internalID: 1686075532905509629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151de2aac0513b90800000000000000
+      internalID: -7263935892724837093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_75
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 62
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02374c8bb38591d30800000000000000
+      internalID: 4402647124257567520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646f97925d1fc730800000000000000
+      internalID: 4021465232833471590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_77
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e97cea155dec20800000000000000
+      internalID: 3237337281274177107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5df9d301e9f49960800000000000000
+      internalID: 7607980415363186010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_79
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96327aa4951824a20800000000000000
+      internalID: 3045138518560416617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_80
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bee600a84b83470800000000000000
+      internalID: 8374642011901193003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_81
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 62
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a10658d8a25ff0800000000000000
+      internalID: -48790998838304557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_82
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6683416a3d18090800000000000000
+      internalID: -8033907549994981682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_83
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9c0284a6d3dcd0800000000000000
+      internalID: -2534446163234611954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8099261694d7460d0800000000000000
+      internalID: -3430479262029539064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40ec1e924d4475f0800000000000000
+      internalID: -759897488602898356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b877db7ab1545c40800000000000000
+      internalID: 5500110906309703865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_87
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9116667cf83334660800000000000000
+      internalID: 7368790107926978841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484b22771ea3c380800000000000000
+      internalID: -8952120218559494068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccb43c14bb4af80800000000000000
+      internalID: -8096140338981516235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c681e2c72b994c0800000000000000
+      internalID: -4280193724419904382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_91
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8637e2dcfe6ac1d30800000000000000
+      internalID: 4403578084531270504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_92
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df2e6c4222c15630800000000000000
+      internalID: 3914123003728637907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b4f2d5e24a9e00800000000000000
+      internalID: 1052227017798628986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 12
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1108443bb30590800000000000000
+      internalID: -7709112303907431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Firefly_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 12
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe44fec2bf1127c0800000000000000
+      internalID: -4097959333093683472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Firefly_0: 7467724450383799510
+      Animal_Firefly_1: 6460728520028862680
+      Animal_Firefly_10: -1714501459459210656
+      Animal_Firefly_11: 5318223179997136328
+      Animal_Firefly_12: 6493944858864509184
+      Animal_Firefly_13: -961823101999758620
+      Animal_Firefly_14: -710028845051200571
+      Animal_Firefly_15: -685018076589658347
+      Animal_Firefly_16: 4197964562708759704
+      Animal_Firefly_17: -3072099138001752888
+      Animal_Firefly_18: 8344662451913704726
+      Animal_Firefly_19: -8910149792502468659
+      Animal_Firefly_2: -3906740420493008439
+      Animal_Firefly_20: -3693217095442609026
+      Animal_Firefly_21: 5615755491083681780
+      Animal_Firefly_22: 3133317202204070561
+      Animal_Firefly_23: -3650980973630313870
+      Animal_Firefly_24: -166280750542774639
+      Animal_Firefly_25: 7602193831055492946
+      Animal_Firefly_26: 8434082222684180909
+      Animal_Firefly_27: 134526645043406587
+      Animal_Firefly_28: -5141960891810113049
+      Animal_Firefly_29: -5780910110813635270
+      Animal_Firefly_3: 6653833061218159194
+      Animal_Firefly_30: -936222622379623610
+      Animal_Firefly_31: -5638645081728289582
+      Animal_Firefly_32: 9148952943707880966
+      Animal_Firefly_33: 6975764398376967488
+      Animal_Firefly_34: -3827223874684612086
+      Animal_Firefly_35: -5168158531207419317
+      Animal_Firefly_36: -623706985078252223
+      Animal_Firefly_37: -5712051323878398383
+      Animal_Firefly_38: 588690485953136424
+      Animal_Firefly_39: 3624542732088440073
+      Animal_Firefly_4: -8225991877040336785
+      Animal_Firefly_40: -2405904500891502255
+      Animal_Firefly_41: -3465594907010642798
+      Animal_Firefly_42: 6818997458013904753
+      Animal_Firefly_43: -4779269689298898799
+      Animal_Firefly_44: -4646060049193656221
+      Animal_Firefly_45: 1043343339565745796
+      Animal_Firefly_46: 478862433173424266
+      Animal_Firefly_47: 2841106802171834859
+      Animal_Firefly_48: -5101050490607746703
+      Animal_Firefly_49: 120563338517478409
+      Animal_Firefly_5: -6098746409191222441
+      Animal_Firefly_50: 7264902918380554186
+      Animal_Firefly_51: -4859550712818116868
+      Animal_Firefly_52: 4034111066130230024
+      Animal_Firefly_53: 1214134473958018844
+      Animal_Firefly_54: -7387384134782619587
+      Animal_Firefly_55: 4972172763045937096
+      Animal_Firefly_56: -9167125872243438460
+      Animal_Firefly_57: -9168869138112513942
+      Animal_Firefly_58: 4946426226741413661
+      Animal_Firefly_59: 7291068916924739874
+      Animal_Firefly_6: -6008139511221169736
+      Animal_Firefly_60: 1572474094494410489
+      Animal_Firefly_61: -8281057759497961753
+      Animal_Firefly_62: -9181544580032036278
+      Animal_Firefly_63: -7094548209671028384
+      Animal_Firefly_64: -33051396394330182
+      Animal_Firefly_65: 3167014686018891015
+      Animal_Firefly_66: -3304442076712027590
+      Animal_Firefly_67: -8156835697948824298
+      Animal_Firefly_68: -76731203203752150
+      Animal_Firefly_69: 1454401327757092916
+      Animal_Firefly_7: 7088802665616550827
+      Animal_Firefly_70: -1166299494444244708
+      Animal_Firefly_71: -1344371589094790153
+      Animal_Firefly_72: 7375924617077860934
+      Animal_Firefly_73: 1686075532905509629
+      Animal_Firefly_74: -7263935892724837093
+      Animal_Firefly_75: 4402647124257567520
+      Animal_Firefly_76: 4021465232833471590
+      Animal_Firefly_77: 3237337281274177107
+      Animal_Firefly_78: 7607980415363186010
+      Animal_Firefly_79: 3045138518560416617
+      Animal_Firefly_8: 6017891782528099467
+      Animal_Firefly_80: 8374642011901193003
+      Animal_Firefly_81: -48790998838304557
+      Animal_Firefly_82: -8033907549994981682
+      Animal_Firefly_83: -2534446163234611954
+      Animal_Firefly_84: -3430479262029539064
+      Animal_Firefly_85: -759897488602898356
+      Animal_Firefly_86: 5500110906309703865
+      Animal_Firefly_87: 7368790107926978841
+      Animal_Firefly_88: -8952120218559494068
+      Animal_Firefly_89: -8096140338981516235
+      Animal_Firefly_9: -3570972520638584383
+      Animal_Firefly_90: -4280193724419904382
+      Animal_Firefly_91: 4403578084531270504
+      Animal_Firefly_92: 3914123003728637907
+      Animal_Firefly_93: 1052227017798628986
+      Animal_Firefly_94: -7709112303907431731
+      Animal_Firefly_95: -4097959333093683472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

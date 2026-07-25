@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: fd80035392836e64d91620d475574030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3565998303803754648
+    second: Tileset_Beach_Rasak_0
+  - first:
+      213: 7423650015494595866
+    second: Tileset_Beach_Rasak_1
+  - first:
+      213: -1297326672711777801
+    second: Tileset_Beach_Rasak_2
+  - first:
+      213: -8970696560198525040
+    second: Tileset_Beach_Rasak_3
+  - first:
+      213: 4592051182753750383
+    second: Tileset_Beach_Rasak_4
+  - first:
+      213: -1616479150926650913
+    second: Tileset_Beach_Rasak_5
+  - first:
+      213: -8261479634888616132
+    second: Tileset_Beach_Rasak_6
+  - first:
+      213: 7530832931061585771
+    second: Tileset_Beach_Rasak_7
+  - first:
+      213: 8100980256378746271
+    second: Tileset_Beach_Rasak_8
+  - first:
+      213: 563050315823335339
+    second: Tileset_Beach_Rasak_9
+  - first:
+      213: 4611612361433859531
+    second: Tileset_Beach_Rasak_10
+  - first:
+      213: -1235079480564646219
+    second: Tileset_Beach_Rasak_11
+  - first:
+      213: -3744045905088395539
+    second: Tileset_Beach_Rasak_12
+  - first:
+      213: -411841668268328671
+    second: Tileset_Beach_Rasak_13
+  - first:
+      213: -3417518981186377816
+    second: Tileset_Beach_Rasak_14
+  - first:
+      213: 3567019147351961317
+    second: Tileset_Beach_Rasak_15
+  - first:
+      213: 5586842823643472701
+    second: Tileset_Beach_Rasak_16
+  - first:
+      213: -9163879551538741735
+    second: Tileset_Beach_Rasak_17
+  - first:
+      213: 7151499668564476539
+    second: Tileset_Beach_Rasak_18
+  - first:
+      213: -8871382826223522134
+    second: Tileset_Beach_Rasak_19
+  - first:
+      213: 3895555079651485355
+    second: Tileset_Beach_Rasak_20
+  - first:
+      213: 1657326822527530198
+    second: Tileset_Beach_Rasak_21
+  - first:
+      213: -4166233771164394357
+    second: Tileset_Beach_Rasak_22
+  - first:
+      213: 1141365797114129650
+    second: Tileset_Beach_Rasak_23
+  - first:
+      213: -1758767474787813723
+    second: Tileset_Beach_Rasak_24
+  - first:
+      213: -8951752460424614738
+    second: Tileset_Beach_Rasak_25
+  - first:
+      213: 5597826382825538564
+    second: Tileset_Beach_Rasak_26
+  - first:
+      213: 411869134992499430
+    second: Tileset_Beach_Rasak_27
+  - first:
+      213: -9080264525449498499
+    second: Tileset_Beach_Rasak_28
+  - first:
+      213: 513527525912933035
+    second: Tileset_Beach_Rasak_29
+  - first:
+      213: -348291750859136302
+    second: Tileset_Beach_Rasak_30
+  - first:
+      213: 1420091388098132249
+    second: Tileset_Beach_Rasak_31
+  - first:
+      213: 8939826219638002833
+    second: Tileset_Beach_Rasak_32
+  - first:
+      213: -6646097316186288001
+    second: Tileset_Beach_Rasak_33
+  - first:
+      213: -6194430807880733605
+    second: Tileset_Beach_Rasak_34
+  - first:
+      213: -1968136640990071608
+    second: Tileset_Beach_Rasak_35
+  - first:
+      213: 1773969885724008646
+    second: Tileset_Beach_Rasak_36
+  - first:
+      213: 816322930300975254
+    second: Tileset_Beach_Rasak_37
+  - first:
+      213: -129958705989593082
+    second: Tileset_Beach_Rasak_38
+  - first:
+      213: 1122135898045256096
+    second: Tileset_Beach_Rasak_39
+  - first:
+      213: 1280077519386560203
+    second: Tileset_Beach_Rasak_40
+  - first:
+      213: 5486897244100677601
+    second: Tileset_Beach_Rasak_41
+  - first:
+      213: 59457148004667411
+    second: Tileset_Beach_Rasak_42
+  - first:
+      213: -3373880712997989994
+    second: Tileset_Beach_Rasak_43
+  - first:
+      213: -4184547825536270292
+    second: Tileset_Beach_Rasak_44
+  - first:
+      213: 4806662244826545520
+    second: Tileset_Beach_Rasak_45
+  - first:
+      213: -1112249991119403521
+    second: Tileset_Beach_Rasak_46
+  - first:
+      213: 2696194409426814693
+    second: Tileset_Beach_Rasak_47
+  - first:
+      213: -5063491075145261838
+    second: Tileset_Beach_Rasak_48
+  - first:
+      213: 1076383877115365655
+    second: Tileset_Beach_Rasak_49
+  - first:
+      213: -1773464229862409978
+    second: Tileset_Beach_Rasak_50
+  - first:
+      213: 8964145629334168361
+    second: Tileset_Beach_Rasak_51
+  - first:
+      213: 2308085777914045123
+    second: Tileset_Beach_Rasak_52
+  - first:
+      213: -7704965854764314130
+    second: Tileset_Beach_Rasak_53
+  - first:
+      213: -7579915123364096538
+    second: Tileset_Beach_Rasak_54
+  - first:
+      213: 2624835171834236333
+    second: Tileset_Beach_Rasak_55
+  - first:
+      213: -8461823983065254070
+    second: Tileset_Beach_Rasak_56
+  - first:
+      213: -1821985317479898646
+    second: Tileset_Beach_Rasak_57
+  - first:
+      213: -7027417712416294582
+    second: Tileset_Beach_Rasak_58
+  - first:
+      213: 4153799335845320557
+    second: Tileset_Beach_Rasak_59
+  - first:
+      213: 5262561763226570027
+    second: Tileset_Beach_Rasak_60
+  - first:
+      213: -2981529698700941472
+    second: Tileset_Beach_Rasak_61
+  - first:
+      213: 5588145556999403386
+    second: Tileset_Beach_Rasak_62
+  - first:
+      213: 1766004749439516541
+    second: Tileset_Beach_Rasak_63
+  - first:
+      213: -3637861065732502697
+    second: Tileset_Beach_Rasak_64
+  - first:
+      213: -1540883439455533594
+    second: Tileset_Beach_Rasak_65
+  - first:
+      213: 7507344797472474293
+    second: Tileset_Beach_Rasak_66
+  - first:
+      213: -1567907444463257204
+    second: Tileset_Beach_Rasak_67
+  - first:
+      213: -8614174377734362945
+    second: Tileset_Beach_Rasak_68
+  - first:
+      213: -1422449729044685279
+    second: Tileset_Beach_Rasak_69
+  - first:
+      213: 6794795869951726497
+    second: Tileset_Beach_Rasak_70
+  - first:
+      213: -5182791683196420491
+    second: Tileset_Beach_Rasak_71
+  - first:
+      213: -2444506467122493516
+    second: Tileset_Beach_Rasak_72
+  - first:
+      213: -1682986930192199895
+    second: Tileset_Beach_Rasak_73
+  - first:
+      213: -2005478215467961291
+    second: Tileset_Beach_Rasak_74
+  - first:
+      213: -2334806180518529908
+    second: Tileset_Beach_Rasak_75
+  - first:
+      213: 1153865073007424858
+    second: Tileset_Beach_Rasak_76
+  - first:
+      213: -5711355201064642245
+    second: Tileset_Beach_Rasak_77
+  - first:
+      213: 4137790964531119658
+    second: Tileset_Beach_Rasak_78
+  - first:
+      213: 2448478188310776629
+    second: Tileset_Beach_Rasak_79
+  - first:
+      213: 9127056132031267613
+    second: Tileset_Beach_Rasak_80
+  - first:
+      213: -2653407520507651199
+    second: Tileset_Beach_Rasak_81
+  - first:
+      213: -9072096764004205974
+    second: Tileset_Beach_Rasak_82
+  - first:
+      213: -348593509095572007
+    second: Tileset_Beach_Rasak_83
+  - first:
+      213: 6375342404608796478
+    second: Tileset_Beach_Rasak_84
+  - first:
+      213: -966669820633266078
+    second: Tileset_Beach_Rasak_85
+  - first:
+      213: -611519750515286723
+    second: Tileset_Beach_Rasak_86
+  - first:
+      213: 3529473853084732050
+    second: Tileset_Beach_Rasak_87
+  - first:
+      213: 2185340051462247509
+    second: Tileset_Beach_Rasak_88
+  - first:
+      213: -9019315276236547582
+    second: Tileset_Beach_Rasak_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 732
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984ed75098fc7130800000000000000
+      internalID: 3565998303803754648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 737
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15e06e5b5a160760800000000000000
+      internalID: 7423650015494595866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 727
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f10063c348fefde0800000000000000
+      internalID: -1297326672711777801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 730
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5c8dd10fa18380800000000000000
+      internalID: -8970696560198525040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 729
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d1372983e3abf30800000000000000
+      internalID: 4592051182753750383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 731
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12136d6cc1199e0800000000000000
+      internalID: -1616479150926650913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 518
+        width: 143
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3717531b04595d80800000000000000
+      internalID: -8261479634888616132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 708
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b675db696a4e28860800000000000000
+      internalID: 7530832931061585771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 575
+        width: 145
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9578e15f967c6070800000000000000
+      internalID: 8100980256378746271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 679
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba74251774b50d700800000000000000
+      internalID: 563050315823335339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 695
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c015620dbfff30800000000000000
+      internalID: 4611612361433859531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 688
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef19391cd1cdee0800000000000000
+      internalID: -1235079480564646219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 697
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6437c061a7a0cc0800000000000000
+      internalID: -3744045905088395539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 687
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129792b4f28d84af0800000000000000
+      internalID: -411841668268328671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 679
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a72b39e7988290d0800000000000000
+      internalID: -3417518981186377816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 691
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2ee00409908130800000000000000
+      internalID: 3567019147351961317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 685
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a53f92f3788d40800000000000000
+      internalID: 5586842823643472701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 674
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e3116a91c53d080800000000000000
+      internalID: -9163879551538741735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 637
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720c1cee0b3f3360800000000000000
+      internalID: 7151499668564476539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 633
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae2278725482e480800000000000000
+      internalID: -8871382826223522134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 633
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6689594bacf0630800000000000000
+      internalID: 3895555079651485355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 639
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4fa75d6f1000710800000000000000
+      internalID: 1657326822527530198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 645
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c928275709e26c0800000000000000
+      internalID: -4166233771164394357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 633
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fca4cf2522f6df00800000000000000
+      internalID: 1141365797114129650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 627
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f2cecc4a9797e0800000000000000
+      internalID: -1758767474787813723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 623
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac692fc09cf4c380800000000000000
+      internalID: -8951752460424614738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 527
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40440a6cf697fad40800000000000000
+      internalID: 5597826382825538564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 623
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2ec2dcbc047b500800000000000000
+      internalID: 411869134992499430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 633
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70700ef58b6cf180800000000000000
+      internalID: -9080264525449498499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 479
+        width: 43
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2fc64609a602700800000000000000
+      internalID: 513527525912933035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 575
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a7d77f7e9a2bf0800000000000000
+      internalID: -348291750859136302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 575
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9193e20f79d25b310800000000000000
+      internalID: 1420091388098132249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 431
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1941f3fd494a01c70800000000000000
+      internalID: 8939826219638002833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 383
+        width: 64
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701a0614b154c3a0800000000000000
+      internalID: -6646097316186288001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 483
+        width: 49
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c688eeff5f80aa0800000000000000
+      internalID: -6194430807880733605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 527
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c43b541726cfa4e0800000000000000
+      internalID: -1968136640990071608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 383
+        width: 64
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0e1d056386e9810800000000000000
+      internalID: 1773969885724008646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 482
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698789a4169245b00800000000000000
+      internalID: 816322930300975254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 490
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6085506de3b423ef0800000000000000
+      internalID: -129958705989593082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 487
+        width: 134
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a193b867a0a29f00800000000000000
+      internalID: 1122135898045256096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 431
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6cff3c8bfb3c110800000000000000
+      internalID: 1280077519386560203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 431
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc0b109ff552c40800000000000000
+      internalID: 5486897244100677601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 437
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3101d2a06fb33d000800000000000000
+      internalID: 59457148004667411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 437
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691963bfd519d21d0800000000000000
+      internalID: -3373880712997989994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 383
+        width: 134
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2007416cef7de5c0800000000000000
+      internalID: -4184547825536270292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 391
+        width: 134
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dfa2a48d1b4b240800000000000000
+      internalID: 4806662244826545520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 287
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff585e9a68e7090f0800000000000000
+      internalID: -1112249991119403521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 287
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e68743c78eca6520800000000000000
+      internalID: 2696194409426814693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 400
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc1b96d1bddab9b0800000000000000
+      internalID: -5063491075145261838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 397
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7194b6dee6510fe00800000000000000
+      internalID: 1076383877115365655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 191
+        width: 64
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609703ddda36367e0800000000000000
+      internalID: -1773464229862409978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 239
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923655fa4fa076c70800000000000000
+      internalID: 8964145629334168361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 352
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2a2b749c7f70020800000000000000
+      internalID: 2308085777914045123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 253
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15244b066721590800000000000000
+      internalID: -7704965854764314130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 243
+        width: 49
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5954cfa5bbec690800000000000000
+      internalID: -7579915123364096538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 240
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad812b8ea94d6420800000000000000
+      internalID: 2624835171834236333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 201
+        width: 49
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b3898bef819a80800000000000000
+      internalID: -8461823983065254070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 295
+        width: 134
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae122adc10207b6e0800000000000000
+      internalID: -1821985317479898646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 246
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49732bc2d8997e90800000000000000
+      internalID: -7027417712416294582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 270
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d675059fc7245a930800000000000000
+      internalID: 4153799335845320557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 252
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d4ca99a00680940800000000000000
+      internalID: 5262561763226570027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 105
+        width: 242
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06727ad298a7f96d0800000000000000
+      internalID: -2981529698700941472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 243
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77702ed6c41d8d40800000000000000
+      internalID: 5588145556999403386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 199
+        width: 134
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fbef186fb128810800000000000000
+      internalID: 1766004749439516541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 210
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4aca82a8b38dc0800000000000000
+      internalID: -3637861065732502697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 203
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e588fefcaead9ae0800000000000000
+      internalID: -1540883439455533594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 203
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b449b351527f2860800000000000000
+      internalID: 7507344797472474293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 206
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b3148c7cad3ae0800000000000000
+      internalID: -1567907444463257204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 168
+        width: 10
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82fd51b0e447880800000000000000
+      internalID: -8614174377734362945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed0750281724ce0800000000000000
+      internalID: -1422449729044685279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a393c5e7d6fb4e50800000000000000
+      internalID: 6794795869951726497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 155
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e7a3a7c660318b0800000000000000
+      internalID: -5182791683196420491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c408d15e531ed0800000000000000
+      internalID: -2444506467122493516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 155
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc448cd44d4a8e0800000000000000
+      internalID: -1682986930192199895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5347f32403c1b24e0800000000000000
+      internalID: -2005478215467961291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c847ece262a199fd0800000000000000
+      internalID: -2334806180518529908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 145
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557653ab2a530010800000000000000
+      internalID: 1153865073007424858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39567664b03db0b0800000000000000
+      internalID: -5711355201064642245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26c2b395f26c6930800000000000000
+      internalID: 4137790964531119658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b4e8e80fdbaf120800000000000000
+      internalID: 2448478188310776629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 95
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1346c2e131d9ae70800000000000000
+      internalID: 9127056132031267613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b9acf1be33d2bd0800000000000000
+      internalID: -2653407520507651199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 72
+        width: 10
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6afe852f00791280800000000000000
+      internalID: -9072096764004205974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 69
+        width: 16
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddf957ec0c892bf0800000000000000
+      internalID: -348593509095572007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3721349324c97850800000000000000
+      internalID: 6375342404608796478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 142
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26840167be2b592f0800000000000000
+      internalID: -966669820633266078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9661e6027387f0800000000000000
+      internalID: -611519750515286723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 50
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a0529f4c53bf030800000000000000
+      internalID: 3529473853084732050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55457d8c233e35e10800000000000000
+      internalID: 2185340051462247509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Beach_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 8
+        width: 117
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a9aaaea84f4d280800000000000000
+      internalID: -9019315276236547582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Beach_Rasak_0: 3565998303803754648
+      Tileset_Beach_Rasak_1: 7423650015494595866
+      Tileset_Beach_Rasak_10: 4611612361433859531
+      Tileset_Beach_Rasak_11: -1235079480564646219
+      Tileset_Beach_Rasak_12: -3744045905088395539
+      Tileset_Beach_Rasak_13: -411841668268328671
+      Tileset_Beach_Rasak_14: -3417518981186377816
+      Tileset_Beach_Rasak_15: 3567019147351961317
+      Tileset_Beach_Rasak_16: 5586842823643472701
+      Tileset_Beach_Rasak_17: -9163879551538741735
+      Tileset_Beach_Rasak_18: 7151499668564476539
+      Tileset_Beach_Rasak_19: -8871382826223522134
+      Tileset_Beach_Rasak_2: -1297326672711777801
+      Tileset_Beach_Rasak_20: 3895555079651485355
+      Tileset_Beach_Rasak_21: 1657326822527530198
+      Tileset_Beach_Rasak_22: -4166233771164394357
+      Tileset_Beach_Rasak_23: 1141365797114129650
+      Tileset_Beach_Rasak_24: -1758767474787813723
+      Tileset_Beach_Rasak_25: -8951752460424614738
+      Tileset_Beach_Rasak_26: 5597826382825538564
+      Tileset_Beach_Rasak_27: 411869134992499430
+      Tileset_Beach_Rasak_28: -9080264525449498499
+      Tileset_Beach_Rasak_29: 513527525912933035
+      Tileset_Beach_Rasak_3: -8970696560198525040
+      Tileset_Beach_Rasak_30: -348291750859136302
+      Tileset_Beach_Rasak_31: 1420091388098132249
+      Tileset_Beach_Rasak_32: 8939826219638002833
+      Tileset_Beach_Rasak_33: -6646097316186288001
+      Tileset_Beach_Rasak_34: -6194430807880733605
+      Tileset_Beach_Rasak_35: -1968136640990071608
+      Tileset_Beach_Rasak_36: 1773969885724008646
+      Tileset_Beach_Rasak_37: 816322930300975254
+      Tileset_Beach_Rasak_38: -129958705989593082
+      Tileset_Beach_Rasak_39: 1122135898045256096
+      Tileset_Beach_Rasak_4: 4592051182753750383
+      Tileset_Beach_Rasak_40: 1280077519386560203
+      Tileset_Beach_Rasak_41: 5486897244100677601
+      Tileset_Beach_Rasak_42: 59457148004667411
+      Tileset_Beach_Rasak_43: -3373880712997989994
+      Tileset_Beach_Rasak_44: -4184547825536270292
+      Tileset_Beach_Rasak_45: 4806662244826545520
+      Tileset_Beach_Rasak_46: -1112249991119403521
+      Tileset_Beach_Rasak_47: 2696194409426814693
+      Tileset_Beach_Rasak_48: -5063491075145261838
+      Tileset_Beach_Rasak_49: 1076383877115365655
+      Tileset_Beach_Rasak_5: -1616479150926650913
+      Tileset_Beach_Rasak_50: -1773464229862409978
+      Tileset_Beach_Rasak_51: 8964145629334168361
+      Tileset_Beach_Rasak_52: 2308085777914045123
+      Tileset_Beach_Rasak_53: -7704965854764314130
+      Tileset_Beach_Rasak_54: -7579915123364096538
+      Tileset_Beach_Rasak_55: 2624835171834236333
+      Tileset_Beach_Rasak_56: -8461823983065254070
+      Tileset_Beach_Rasak_57: -1821985317479898646
+      Tileset_Beach_Rasak_58: -7027417712416294582
+      Tileset_Beach_Rasak_59: 4153799335845320557
+      Tileset_Beach_Rasak_6: -8261479634888616132
+      Tileset_Beach_Rasak_60: 5262561763226570027
+      Tileset_Beach_Rasak_61: -2981529698700941472
+      Tileset_Beach_Rasak_62: 5588145556999403386
+      Tileset_Beach_Rasak_63: 1766004749439516541
+      Tileset_Beach_Rasak_64: -3637861065732502697
+      Tileset_Beach_Rasak_65: -1540883439455533594
+      Tileset_Beach_Rasak_66: 7507344797472474293
+      Tileset_Beach_Rasak_67: -1567907444463257204
+      Tileset_Beach_Rasak_68: -8614174377734362945
+      Tileset_Beach_Rasak_69: -1422449729044685279
+      Tileset_Beach_Rasak_7: 7530832931061585771
+      Tileset_Beach_Rasak_70: 6794795869951726497
+      Tileset_Beach_Rasak_71: -5182791683196420491
+      Tileset_Beach_Rasak_72: -2444506467122493516
+      Tileset_Beach_Rasak_73: -1682986930192199895
+      Tileset_Beach_Rasak_74: -2005478215467961291
+      Tileset_Beach_Rasak_75: -2334806180518529908
+      Tileset_Beach_Rasak_76: 1153865073007424858
+      Tileset_Beach_Rasak_77: -5711355201064642245
+      Tileset_Beach_Rasak_78: 4137790964531119658
+      Tileset_Beach_Rasak_79: 2448478188310776629
+      Tileset_Beach_Rasak_8: 8100980256378746271
+      Tileset_Beach_Rasak_80: 9127056132031267613
+      Tileset_Beach_Rasak_81: -2653407520507651199
+      Tileset_Beach_Rasak_82: -9072096764004205974
+      Tileset_Beach_Rasak_83: -348593509095572007
+      Tileset_Beach_Rasak_84: 6375342404608796478
+      Tileset_Beach_Rasak_85: -966669820633266078
+      Tileset_Beach_Rasak_86: -611519750515286723
+      Tileset_Beach_Rasak_87: 3529473853084732050
+      Tileset_Beach_Rasak_88: 2185340051462247509
+      Tileset_Beach_Rasak_89: -9019315276236547582
+      Tileset_Beach_Rasak_9: 563050315823335339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

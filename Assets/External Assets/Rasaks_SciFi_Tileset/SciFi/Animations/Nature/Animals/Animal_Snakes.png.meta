@@ -1,0 +1,2574 @@
+fileFormatVersion: 2
+guid: 4f4041d253cb3e44a9a6f5fed702dbef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5815237202467852330
+    second: Animal_Snakes_0
+  - first:
+      213: 7178988106284698690
+    second: Animal_Snakes_1
+  - first:
+      213: 5803898419201427436
+    second: Animal_Snakes_2
+  - first:
+      213: -8027786537921214147
+    second: Animal_Snakes_3
+  - first:
+      213: 1024795670305430874
+    second: Animal_Snakes_4
+  - first:
+      213: 2029543522533577013
+    second: Animal_Snakes_5
+  - first:
+      213: -3674067744281861193
+    second: Animal_Snakes_6
+  - first:
+      213: -5785388396657573171
+    second: Animal_Snakes_7
+  - first:
+      213: -3174727470833929238
+    second: Animal_Snakes_8
+  - first:
+      213: -3029351891596588231
+    second: Animal_Snakes_9
+  - first:
+      213: 8112768971349934917
+    second: Animal_Snakes_10
+  - first:
+      213: -626474465476618068
+    second: Animal_Snakes_11
+  - first:
+      213: 2217152068679744860
+    second: Animal_Snakes_12
+  - first:
+      213: -1080143959899502528
+    second: Animal_Snakes_13
+  - first:
+      213: 7866465434157429409
+    second: Animal_Snakes_14
+  - first:
+      213: 5960678552721356376
+    second: Animal_Snakes_15
+  - first:
+      213: -3410400020339959361
+    second: Animal_Snakes_16
+  - first:
+      213: -7653230104290241726
+    second: Animal_Snakes_17
+  - first:
+      213: 3855957155413209283
+    second: Animal_Snakes_18
+  - first:
+      213: 9008972317084507475
+    second: Animal_Snakes_19
+  - first:
+      213: -7458435054083289584
+    second: Animal_Snakes_20
+  - first:
+      213: 3381978655048611120
+    second: Animal_Snakes_21
+  - first:
+      213: 15390280196766496
+    second: Animal_Snakes_22
+  - first:
+      213: 5169970030662366631
+    second: Animal_Snakes_23
+  - first:
+      213: -3409795250868017017
+    second: Animal_Snakes_24
+  - first:
+      213: 6975207733890558984
+    second: Animal_Snakes_25
+  - first:
+      213: -3930086892979456047
+    second: Animal_Snakes_26
+  - first:
+      213: 1714932446684016819
+    second: Animal_Snakes_27
+  - first:
+      213: 4952687497884355601
+    second: Animal_Snakes_28
+  - first:
+      213: 8861193112315690122
+    second: Animal_Snakes_29
+  - first:
+      213: 5396757707755155587
+    second: Animal_Snakes_30
+  - first:
+      213: 3178088723224991168
+    second: Animal_Snakes_31
+  - first:
+      213: 5425953619959731372
+    second: Animal_Snakes_32
+  - first:
+      213: -5332671196139861453
+    second: Animal_Snakes_33
+  - first:
+      213: -7771445505352757252
+    second: Animal_Snakes_34
+  - first:
+      213: 711926231756984017
+    second: Animal_Snakes_35
+  - first:
+      213: -6078472866159427766
+    second: Animal_Snakes_36
+  - first:
+      213: -8713354798920660789
+    second: Animal_Snakes_37
+  - first:
+      213: 4505283322170524305
+    second: Animal_Snakes_38
+  - first:
+      213: -6485151846926755453
+    second: Animal_Snakes_39
+  - first:
+      213: 1956089780637239132
+    second: Animal_Snakes_40
+  - first:
+      213: -3031284999013134400
+    second: Animal_Snakes_41
+  - first:
+      213: 6529352971234353358
+    second: Animal_Snakes_42
+  - first:
+      213: -4399330929334156740
+    second: Animal_Snakes_43
+  - first:
+      213: 1052285126539913860
+    second: Animal_Snakes_44
+  - first:
+      213: 8141718591960832025
+    second: Animal_Snakes_45
+  - first:
+      213: -3303066902492726391
+    second: Animal_Snakes_46
+  - first:
+      213: -6362669717301121699
+    second: Animal_Snakes_47
+  - first:
+      213: -1648820541154835604
+    second: Animal_Snakes_48
+  - first:
+      213: -3178543272542935489
+    second: Animal_Snakes_49
+  - first:
+      213: -2768254926426216338
+    second: Animal_Snakes_50
+  - first:
+      213: -1793598355996556192
+    second: Animal_Snakes_51
+  - first:
+      213: -3329156421295638071
+    second: Animal_Snakes_52
+  - first:
+      213: 8500036130806041089
+    second: Animal_Snakes_53
+  - first:
+      213: -4690978898903982611
+    second: Animal_Snakes_54
+  - first:
+      213: -5969394082962918091
+    second: Animal_Snakes_55
+  - first:
+      213: 1813159283237472408
+    second: Animal_Snakes_56
+  - first:
+      213: 8655381805235663716
+    second: Animal_Snakes_57
+  - first:
+      213: 925491820039085542
+    second: Animal_Snakes_58
+  - first:
+      213: 661512019781946017
+    second: Animal_Snakes_59
+  - first:
+      213: 8281087737108235524
+    second: Animal_Snakes_60
+  - first:
+      213: 3097744816890064418
+    second: Animal_Snakes_61
+  - first:
+      213: 6157523431671460113
+    second: Animal_Snakes_62
+  - first:
+      213: 7476541347215915851
+    second: Animal_Snakes_63
+  - first:
+      213: -3950915587158020569
+    second: Animal_Snakes_64
+  - first:
+      213: 6783231154753088819
+    second: Animal_Snakes_65
+  - first:
+      213: 8234521336594125495
+    second: Animal_Snakes_66
+  - first:
+      213: 8518440313546021037
+    second: Animal_Snakes_67
+  - first:
+      213: -1062851852623634457
+    second: Animal_Snakes_68
+  - first:
+      213: -1289976041479198771
+    second: Animal_Snakes_69
+  - first:
+      213: 7521550459530692639
+    second: Animal_Snakes_70
+  - first:
+      213: -7481819105233037963
+    second: Animal_Snakes_71
+  - first:
+      213: -1870737758075215821
+    second: Animal_Snakes_72
+  - first:
+      213: -2163380753058168190
+    second: Animal_Snakes_73
+  - first:
+      213: 7621532072625057651
+    second: Animal_Snakes_74
+  - first:
+      213: 3600056252745240456
+    second: Animal_Snakes_75
+  - first:
+      213: -6224698487569320142
+    second: Animal_Snakes_76
+  - first:
+      213: 3694659087637572179
+    second: Animal_Snakes_77
+  - first:
+      213: -8266508512200679234
+    second: Animal_Snakes_78
+  - first:
+      213: 8791835908798770297
+    second: Animal_Snakes_79
+  - first:
+      213: 1378754467489572427
+    second: Animal_Snakes_80
+  - first:
+      213: 7894506883216600841
+    second: Animal_Snakes_81
+  - first:
+      213: 1416276791218790185
+    second: Animal_Snakes_82
+  - first:
+      213: -7464189881510041072
+    second: Animal_Snakes_83
+  - first:
+      213: -2252541801658836961
+    second: Animal_Snakes_84
+  - first:
+      213: -8322852237005074904
+    second: Animal_Snakes_85
+  - first:
+      213: 7525347247478636844
+    second: Animal_Snakes_86
+  - first:
+      213: 3134425999647592735
+    second: Animal_Snakes_87
+  - first:
+      213: -1115772667954447424
+    second: Animal_Snakes_88
+  - first:
+      213: 7640085809550825733
+    second: Animal_Snakes_89
+  - first:
+      213: 5485119221492438156
+    second: Animal_Snakes_90
+  - first:
+      213: 3448867604143296226
+    second: Animal_Snakes_91
+  - first:
+      213: -4866891705143438719
+    second: Animal_Snakes_92
+  - first:
+      213: 4970983212274282285
+    second: Animal_Snakes_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Snakes_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 340
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a209bb9dc6fd3b050800000000000000
+      internalID: 5815237202467852330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c8ad195a3e0a360800000000000000
+      internalID: 7178988106284698690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 340
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c3f4acd69b8050800000000000000
+      internalID: 5803898419201427436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390b824da2979090800000000000000
+      internalID: -8027786537921214147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 340
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dd9e78b3ec83e00800000000000000
+      internalID: 1024795670305430874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 340
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311fcca4136a2c10800000000000000
+      internalID: 2029543522533577013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 336
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3eb554ad6130dc0800000000000000
+      internalID: -3674067744281861193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 336
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc20f81d7eb26bfa0800000000000000
+      internalID: -5785388396657573171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 335
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f44a8f2a11f3d0800000000000000
+      internalID: -3174727470833929238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 352
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b4ab9318495f5d0800000000000000
+      internalID: -3029351891596588231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 352
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543cf1a6568569070800000000000000
+      internalID: 8112768971349934917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 351
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8d968fac05e47f0800000000000000
+      internalID: -626474465476618068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dbdaa3f08e4ce10800000000000000
+      internalID: 2217152068679744860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 304
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04808e39ace8201f0800000000000000
+      internalID: -1080143959899502528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 306
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2b7d052ac4b2d60800000000000000
+      internalID: 7866465434157429409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 304
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856fe3b009598b250800000000000000
+      internalID: 5960678552721356376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 304
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9d6a52043dba0d0800000000000000
+      internalID: -3410400020339959361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 306
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2435479c4c34ac590800000000000000
+      internalID: -7653230104290241726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 303
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b7856a9c138530800000000000000
+      internalID: 3855957155413209283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 304
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d562f379c460d70800000000000000
+      internalID: 9008972317084507475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_20
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 304
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e4b05b5d05e7890800000000000000
+      internalID: -7458435054083289584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 294
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03530241ba33fee20800000000000000
+      internalID: 3381978655048611120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 294
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b3f18d06da63000800000000000000
+      internalID: 15390280196766496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 293
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5bb09e95c6fb740800000000000000
+      internalID: 5169970030662366631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a2330949fda0d0800000000000000
+      internalID: -3409795250868017017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80caa1d4a7aecc060800000000000000
+      internalID: 6975207733890558984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d77a871bc68579c0800000000000000
+      internalID: -3930086892979456047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 258
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0746269f9acc710800000000000000
+      internalID: 1714932446684016819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 256
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c4ae2f90b7bb440800000000000000
+      internalID: 4952687497884355601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf6b1ef2849fa70800000000000000
+      internalID: 8861193112315690122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 254
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f89dba8225ea40800000000000000
+      internalID: 5396757707755155587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 256
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c510840bd6da1c20800000000000000
+      internalID: 3178088723224991168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 256
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d175c11cdc4b40800000000000000
+      internalID: 5425953619959731372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 245
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a40220dcb8ef5b0800000000000000
+      internalID: -5332671196139861453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 246
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff842edc77462490800000000000000
+      internalID: -7771445505352757252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 246
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4826c22541e900800000000000000
+      internalID: 711926231756984017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f77b3222de4aba0800000000000000
+      internalID: -6078472866159427766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 17
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc88368c9f1f31780800000000000000
+      internalID: -8713354798920660789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192477ebf4bf58e30800000000000000
+      internalID: 4505283322170524305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389567941cc1006a0800000000000000
+      internalID: -6485151846926755453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 148
+        width: 17
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5787abaa4d652b10800000000000000
+      internalID: 1956089780637239132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf0ad49a56bee5d0800000000000000
+      internalID: -3031284999013134400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 192
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0a09feeebec9a50800000000000000
+      internalID: 6529352971234353358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_43
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 192
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3206a314df62f2c0800000000000000
+      internalID: -4399330929334156740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 192
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa6d15fb77a9e00800000000000000
+      internalID: 1052285126539913860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 205
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918d4073ce13df070800000000000000
+      internalID: 8141718591960832025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 208
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b329f07262922d0800000000000000
+      internalID: -3303066902492726391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 208
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da12d5a9143b7a0800000000000000
+      internalID: -6362669717301121699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 148
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63491224763e19e0800000000000000
+      internalID: -1648820541154835604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36eed8fbbb83e3d0800000000000000
+      internalID: -3178543272542935489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 148
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e3aeafce2599d0800000000000000
+      internalID: -2768254926426216338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 148
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064c9115ccbdb17e0800000000000000
+      internalID: -1793598355996556192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_52
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 144
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c976fa9fd57cc1d0800000000000000
+      internalID: -3329156421295638071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 144
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a0eaa63d136f570800000000000000
+      internalID: 8500036130806041089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 143
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded99f99b8b46eeb0800000000000000
+      internalID: -4690978898903982611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5353da075b3782da0800000000000000
+      internalID: -5969394082962918091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_56
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 160
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984296f2c2a92910800000000000000
+      internalID: 1813159283237472408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_57
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4637378c4e71e1870800000000000000
+      internalID: 8655381805235663716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed95f728e108dc00800000000000000
+      internalID: 925491820039085542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa01c95da92e2900800000000000000
+      internalID: 661512019781946017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 114
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050e2cfb655ce270800000000000000
+      internalID: 8281087737108235524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e2a879f766dfa20800000000000000
+      internalID: 3097744816890064418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111fbe8efeae37550800000000000000
+      internalID: 6157523431671460113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_63
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 114
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b335d2eb202c760800000000000000
+      internalID: 7476541347215915851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 111
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e64e1d4378b29c0800000000000000
+      internalID: -3950915587158020569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_65
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 112
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dab60dbc0e22e50800000000000000
+      internalID: 6783231154753088819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_66
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2511bf685e64270800000000000000
+      internalID: 8234521336594125495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 102
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da817412554973670800000000000000
+      internalID: 8518440313546021037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_68
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 102
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef908b0fddff31f0800000000000000
+      internalID: -1062851852623634457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_69
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 101
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72ed6ff95191ee0800000000000000
+      internalID: -1289976041479198771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18c084ca4ae16860800000000000000
+      internalID: 7521550459530692639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5759ad60a2d3b2890800000000000000
+      internalID: -7481819105233037963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330240eabedc906e0800000000000000
+      internalID: -1870737758075215821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2820d0ccaa02af1e0800000000000000
+      internalID: -2163380753058168190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f20191a0f15c960800000000000000
+      internalID: 7621532072625057651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fcd448618f5f130800000000000000
+      internalID: 3600056252745240456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_76
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 62
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f48694bd6d99a0800000000000000
+      internalID: -6224698487569320142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_77
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 64
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a6ec47dd0164330800000000000000
+      internalID: 3694659087637572179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_78
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb029855e46774d80800000000000000
+      internalID: -8266508512200679234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_79
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 53
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c697b8d20e20a70800000000000000
+      internalID: 8791835908798770297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_80
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 54
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e23b12e1522310800000000000000
+      internalID: 1378754467489572427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 54
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f6003fe2cee8d60800000000000000
+      internalID: 7894506883216600841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd934ec30a7a310800000000000000
+      internalID: 1416276791218790185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a678889ded96890800000000000000
+      internalID: -7464189881510041072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_84
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1818667a2d5db0e0800000000000000
+      internalID: -2252541801658836961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4f3f9cf94f7c80800000000000000
+      internalID: -8322852237005074904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218d6953776f6860800000000000000
+      internalID: 7525347247478636844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115ebbf6d7bf7b20800000000000000
+      internalID: 3134425999647592735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_88
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3c7c8baaf380f0800000000000000
+      internalID: -1115772667954447424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_89
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50997cb9099070a60800000000000000
+      internalID: 7640085809550825733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_90
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8459bbdede0f1c40800000000000000
+      internalID: 5485119221492438156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_91
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 13
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee405620d6dcdf20800000000000000
+      internalID: 3448867604143296226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_92
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 16
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18251a2b7c3557cb0800000000000000
+      internalID: -4866891705143438719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Snakes_93
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 16
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe908e4ea7cf440800000000000000
+      internalID: 4970983212274282285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Snakes_0: 5815237202467852330
+      Animal_Snakes_1: 7178988106284698690
+      Animal_Snakes_10: 8112768971349934917
+      Animal_Snakes_11: -626474465476618068
+      Animal_Snakes_12: 2217152068679744860
+      Animal_Snakes_13: -1080143959899502528
+      Animal_Snakes_14: 7866465434157429409
+      Animal_Snakes_15: 5960678552721356376
+      Animal_Snakes_16: -3410400020339959361
+      Animal_Snakes_17: -7653230104290241726
+      Animal_Snakes_18: 3855957155413209283
+      Animal_Snakes_19: 9008972317084507475
+      Animal_Snakes_2: 5803898419201427436
+      Animal_Snakes_20: -7458435054083289584
+      Animal_Snakes_21: 3381978655048611120
+      Animal_Snakes_22: 15390280196766496
+      Animal_Snakes_23: 5169970030662366631
+      Animal_Snakes_24: -3409795250868017017
+      Animal_Snakes_25: 6975207733890558984
+      Animal_Snakes_26: -3930086892979456047
+      Animal_Snakes_27: 1714932446684016819
+      Animal_Snakes_28: 4952687497884355601
+      Animal_Snakes_29: 8861193112315690122
+      Animal_Snakes_3: -8027786537921214147
+      Animal_Snakes_30: 5396757707755155587
+      Animal_Snakes_31: 3178088723224991168
+      Animal_Snakes_32: 5425953619959731372
+      Animal_Snakes_33: -5332671196139861453
+      Animal_Snakes_34: -7771445505352757252
+      Animal_Snakes_35: 711926231756984017
+      Animal_Snakes_36: -6078472866159427766
+      Animal_Snakes_37: -8713354798920660789
+      Animal_Snakes_38: 4505283322170524305
+      Animal_Snakes_39: -6485151846926755453
+      Animal_Snakes_4: 1024795670305430874
+      Animal_Snakes_40: 1956089780637239132
+      Animal_Snakes_41: -3031284999013134400
+      Animal_Snakes_42: 6529352971234353358
+      Animal_Snakes_43: -4399330929334156740
+      Animal_Snakes_44: 1052285126539913860
+      Animal_Snakes_45: 8141718591960832025
+      Animal_Snakes_46: -3303066902492726391
+      Animal_Snakes_47: -6362669717301121699
+      Animal_Snakes_48: -1648820541154835604
+      Animal_Snakes_49: -3178543272542935489
+      Animal_Snakes_5: 2029543522533577013
+      Animal_Snakes_50: -2768254926426216338
+      Animal_Snakes_51: -1793598355996556192
+      Animal_Snakes_52: -3329156421295638071
+      Animal_Snakes_53: 8500036130806041089
+      Animal_Snakes_54: -4690978898903982611
+      Animal_Snakes_55: -5969394082962918091
+      Animal_Snakes_56: 1813159283237472408
+      Animal_Snakes_57: 8655381805235663716
+      Animal_Snakes_58: 925491820039085542
+      Animal_Snakes_59: 661512019781946017
+      Animal_Snakes_6: -3674067744281861193
+      Animal_Snakes_60: 8281087737108235524
+      Animal_Snakes_61: 3097744816890064418
+      Animal_Snakes_62: 6157523431671460113
+      Animal_Snakes_63: 7476541347215915851
+      Animal_Snakes_64: -3950915587158020569
+      Animal_Snakes_65: 6783231154753088819
+      Animal_Snakes_66: 8234521336594125495
+      Animal_Snakes_67: 8518440313546021037
+      Animal_Snakes_68: -1062851852623634457
+      Animal_Snakes_69: -1289976041479198771
+      Animal_Snakes_7: -5785388396657573171
+      Animal_Snakes_70: 7521550459530692639
+      Animal_Snakes_71: -7481819105233037963
+      Animal_Snakes_72: -1870737758075215821
+      Animal_Snakes_73: -2163380753058168190
+      Animal_Snakes_74: 7621532072625057651
+      Animal_Snakes_75: 3600056252745240456
+      Animal_Snakes_76: -6224698487569320142
+      Animal_Snakes_77: 3694659087637572179
+      Animal_Snakes_78: -8266508512200679234
+      Animal_Snakes_79: 8791835908798770297
+      Animal_Snakes_8: -3174727470833929238
+      Animal_Snakes_80: 1378754467489572427
+      Animal_Snakes_81: 7894506883216600841
+      Animal_Snakes_82: 1416276791218790185
+      Animal_Snakes_83: -7464189881510041072
+      Animal_Snakes_84: -2252541801658836961
+      Animal_Snakes_85: -8322852237005074904
+      Animal_Snakes_86: 7525347247478636844
+      Animal_Snakes_87: 3134425999647592735
+      Animal_Snakes_88: -1115772667954447424
+      Animal_Snakes_89: 7640085809550825733
+      Animal_Snakes_9: -3029351891596588231
+      Animal_Snakes_90: 5485119221492438156
+      Animal_Snakes_91: 3448867604143296226
+      Animal_Snakes_92: -4866891705143438719
+      Animal_Snakes_93: 4970983212274282285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

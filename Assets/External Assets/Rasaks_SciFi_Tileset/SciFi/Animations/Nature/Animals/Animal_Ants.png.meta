@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 511dd40c9a49f3b4e82a10c344284df0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 556003408185136971
+    second: Animal_Ants_0
+  - first:
+      213: -3502295261373011354
+    second: Animal_Ants_1
+  - first:
+      213: 526694542463137179
+    second: Animal_Ants_2
+  - first:
+      213: -8327231632541191180
+    second: Animal_Ants_3
+  - first:
+      213: -7214752390924590520
+    second: Animal_Ants_4
+  - first:
+      213: 7457519060567683691
+    second: Animal_Ants_5
+  - first:
+      213: 2051320372616594398
+    second: Animal_Ants_6
+  - first:
+      213: -3333888905292319513
+    second: Animal_Ants_7
+  - first:
+      213: 5327951902010869588
+    second: Animal_Ants_8
+  - first:
+      213: -2355644173047272556
+    second: Animal_Ants_9
+  - first:
+      213: 9156604951583105815
+    second: Animal_Ants_10
+  - first:
+      213: 3193213166352552843
+    second: Animal_Ants_11
+  - first:
+      213: -5313312266331303323
+    second: Animal_Ants_12
+  - first:
+      213: -2762412123749104669
+    second: Animal_Ants_13
+  - first:
+      213: 4529440054482652298
+    second: Animal_Ants_14
+  - first:
+      213: -289223749485532531
+    second: Animal_Ants_15
+  - first:
+      213: 4475847720252091579
+    second: Animal_Ants_16
+  - first:
+      213: -2580240792343611017
+    second: Animal_Ants_17
+  - first:
+      213: 3560743986066312771
+    second: Animal_Ants_18
+  - first:
+      213: 2048325566458068791
+    second: Animal_Ants_19
+  - first:
+      213: 7405973969309647306
+    second: Animal_Ants_20
+  - first:
+      213: 7472556239584632992
+    second: Animal_Ants_21
+  - first:
+      213: 5500295445598934637
+    second: Animal_Ants_22
+  - first:
+      213: -2847349663498548005
+    second: Animal_Ants_23
+  - first:
+      213: 6856637215814033041
+    second: Animal_Ants_24
+  - first:
+      213: -3766909873236556908
+    second: Animal_Ants_25
+  - first:
+      213: -8506264371046996483
+    second: Animal_Ants_26
+  - first:
+      213: 7043185078798888432
+    second: Animal_Ants_27
+  - first:
+      213: 2783878827677849188
+    second: Animal_Ants_28
+  - first:
+      213: 573219825601309602
+    second: Animal_Ants_29
+  - first:
+      213: -5037990162169847524
+    second: Animal_Ants_30
+  - first:
+      213: 5277034183412197528
+    second: Animal_Ants_31
+  - first:
+      213: 1012213070534493675
+    second: Animal_Ants_32
+  - first:
+      213: 3896711407830582394
+    second: Animal_Ants_33
+  - first:
+      213: 4743737417217682217
+    second: Animal_Ants_34
+  - first:
+      213: 855459554961778503
+    second: Animal_Ants_35
+  - first:
+      213: 2794216109833753388
+    second: Animal_Ants_36
+  - first:
+      213: 2288117149545568667
+    second: Animal_Ants_37
+  - first:
+      213: -4971900602866177946
+    second: Animal_Ants_38
+  - first:
+      213: 7554308579816614147
+    second: Animal_Ants_39
+  - first:
+      213: -701042212238722066
+    second: Animal_Ants_40
+  - first:
+      213: 2306784283333097423
+    second: Animal_Ants_41
+  - first:
+      213: 7500784918433657391
+    second: Animal_Ants_42
+  - first:
+      213: 2677248228714514712
+    second: Animal_Ants_43
+  - first:
+      213: 4153570919151968269
+    second: Animal_Ants_44
+  - first:
+      213: -1991820781472703566
+    second: Animal_Ants_45
+  - first:
+      213: 8014653003201484150
+    second: Animal_Ants_46
+  - first:
+      213: -8952276291189865110
+    second: Animal_Ants_47
+  - first:
+      213: 587149046897848387
+    second: Animal_Ants_48
+  - first:
+      213: 3716222683684359117
+    second: Animal_Ants_49
+  - first:
+      213: -392636944019554884
+    second: Animal_Ants_50
+  - first:
+      213: 4025122969932911621
+    second: Animal_Ants_51
+  - first:
+      213: 7418014030637603000
+    second: Animal_Ants_52
+  - first:
+      213: 3869528579732184793
+    second: Animal_Ants_53
+  - first:
+      213: 5031799814332822672
+    second: Animal_Ants_54
+  - first:
+      213: 5171320317500629267
+    second: Animal_Ants_55
+  - first:
+      213: -3921089686412815512
+    second: Animal_Ants_56
+  - first:
+      213: -7636858250465386228
+    second: Animal_Ants_57
+  - first:
+      213: -4717233342870384279
+    second: Animal_Ants_58
+  - first:
+      213: -5362913225587439352
+    second: Animal_Ants_59
+  - first:
+      213: -116865994187452893
+    second: Animal_Ants_60
+  - first:
+      213: -1802500932450278894
+    second: Animal_Ants_61
+  - first:
+      213: -1562325621095840483
+    second: Animal_Ants_62
+  - first:
+      213: -1388563590003972736
+    second: Animal_Ants_63
+  - first:
+      213: -2076214683029858567
+    second: Animal_Ants_64
+  - first:
+      213: -977331003434143240
+    second: Animal_Ants_65
+  - first:
+      213: 4609216281366320786
+    second: Animal_Ants_66
+  - first:
+      213: -4963705179057769968
+    second: Animal_Ants_67
+  - first:
+      213: -8176614559115822779
+    second: Animal_Ants_68
+  - first:
+      213: -474806476021129899
+    second: Animal_Ants_69
+  - first:
+      213: -2138542622415001521
+    second: Animal_Ants_70
+  - first:
+      213: 1189103820416445496
+    second: Animal_Ants_71
+  - first:
+      213: -8685512619939567409
+    second: Animal_Ants_72
+  - first:
+      213: -3205743593436145299
+    second: Animal_Ants_73
+  - first:
+      213: -769639321317098248
+    second: Animal_Ants_74
+  - first:
+      213: -7453676957420724464
+    second: Animal_Ants_75
+  - first:
+      213: 3943419547817470507
+    second: Animal_Ants_76
+  - first:
+      213: -8180335500700376740
+    second: Animal_Ants_77
+  - first:
+      213: -8040064200384947994
+    second: Animal_Ants_78
+  - first:
+      213: -3124385137027901310
+    second: Animal_Ants_79
+  - first:
+      213: 4849063991185902395
+    second: Animal_Ants_80
+  - first:
+      213: -8865818795173585348
+    second: Animal_Ants_81
+  - first:
+      213: -3130043100434325254
+    second: Animal_Ants_82
+  - first:
+      213: 2287236147977975089
+    second: Animal_Ants_83
+  - first:
+      213: 5521047372772244327
+    second: Animal_Ants_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Ants_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 339
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4718c6672257b700800000000000000
+      internalID: 556003408185136971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 354
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ae3570409556fc0800000000000000
+      internalID: -3502295261373011354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 354
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f6a455e13f4700800000000000000
+      internalID: 526694542463137179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 354
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f37cf323fabf6c80800000000000000
+      internalID: -8327231632541191180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 354
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8422a840dec00eb90800000000000000
+      internalID: -7214752390924590520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 354
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6277dee21e6e7760800000000000000
+      internalID: 7457519060567683691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 309
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed38552b201c77c10800000000000000
+      internalID: 2051320372616594398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 309
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47f6f44b5abb1d0800000000000000
+      internalID: -3333888905292319513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 309
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45789b3b600b0f940800000000000000
+      internalID: 5327951902010869588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 303
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6c48fa121f4fd0800000000000000
+      internalID: -2355644173047272556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 303
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a1bf80bbc21f70800000000000000
+      internalID: 9156604951583105815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 303
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835b88d472905c20800000000000000
+      internalID: 3193213166352552843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 252
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d89815a25346b0800000000000000
+      internalID: -5313312266331303323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c3b03fc0f9a9d0800000000000000
+      internalID: -2762412123749104669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 252
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4dd64bbdcbde30800000000000000
+      internalID: 4529440054482652298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 250
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aee4f38887cfbf0800000000000000
+      internalID: -289223749485532531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 250
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc2e5a99c76d1e30800000000000000
+      internalID: 4475847720252091579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 250
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f2698ba4213cd0800000000000000
+      internalID: -2580240792343611017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 203
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e47992acd4a6130800000000000000
+      internalID: 3560743986066312771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 192
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f751d004d1d6c10800000000000000
+      internalID: 2048325566458068791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 193
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1cd78261e47c660800000000000000
+      internalID: 7405973969309647306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 155
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a022900f4ad3b760800000000000000
+      internalID: 7472556239584632992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 195
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669f92e099f45c40800000000000000
+      internalID: 5500295445598934637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 155
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc47d3219e2c78d0800000000000000
+      internalID: -2847349663498548005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 196
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9152483ba72f50800000000000000
+      internalID: 6856637215814033041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 155
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493c2d0ad6f39bbc0800000000000000
+      internalID: -3766909873236556908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 193
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5ae266f9da3f980800000000000000
+      internalID: -8506264371046996483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 148
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda325438b6eb160800000000000000
+      internalID: 7043185078798888432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 148
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466187d4b0352a620800000000000000
+      internalID: 2783878827677849188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab6d23f46c74f700800000000000000
+      internalID: 573219825601309602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1124f1d3a6751ab0800000000000000
+      internalID: -5037990162169847524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 154
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a0e181aacb3940800000000000000
+      internalID: 5277034183412197528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 152
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5473abc6a1c0e00800000000000000
+      internalID: 1012213070534493675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 154
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7444f73166e31630800000000000000
+      internalID: 3896711407830582394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 154
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2dfc2c0425d140800000000000000
+      internalID: 4743737417217682217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747e53dcee33fdb00800000000000000
+      internalID: 855459554961778503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 101
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23905c5fbc07c620800000000000000
+      internalID: 2794216109833753388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 101
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99942fac6601cf10800000000000000
+      internalID: 2288117149545568667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 101
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686c937eb2400bb0800000000000000
+      internalID: -4971900602866177946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 109
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a7aff0ab46d860800000000000000
+      internalID: 7554308579816614147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf4fe72d56546f0800000000000000
+      internalID: -701042212238722066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 107
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7f5857518530020800000000000000
+      internalID: 2306784283333097423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 108
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2278d77424281860800000000000000
+      internalID: 7500784918433657391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 108
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198210541f772520800000000000000
+      internalID: 2677248228714514712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 107
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0022719eb274a930800000000000000
+      internalID: 4153570919151968269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 107
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb14186d81ab54e0800000000000000
+      internalID: -1991820781472703566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 107
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67597d56174c93f60800000000000000
+      internalID: 8014653003201484150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 107
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a650a74f42023c380800000000000000
+      internalID: -8952276291189865110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3403e8282f8f52800800000000000000
+      internalID: 587149046897848387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 53
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb414767dca29330800000000000000
+      internalID: 3716222683684359117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdf40a97c21d8af0800000000000000
+      internalID: -392636944019554884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 61
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504dd10e30c1cd730800000000000000
+      internalID: 4025122969932911621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89403657412f660800000000000000
+      internalID: 7418014030637603000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de982bddb353b530800000000000000
+      internalID: 3869528579732184793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 60
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0943f22854b84d540800000000000000
+      internalID: 5031799814332822672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 60
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311a2601e6834c740800000000000000
+      internalID: 5171320317500629267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 59
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8639aec74bd7599c0800000000000000
+      internalID: -3921089686412815512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_57
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 59
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01effc02ed640690800000000000000
+      internalID: -7636858250465386228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_58
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 59
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96115938445098eb0800000000000000
+      internalID: -4717233342870384279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_59
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 59
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809cd93d5da1395b0800000000000000
+      internalID: -5362913225587439352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e422a5ffec06ef0800000000000000
+      internalID: -116865994187452893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212adf5b3fa3cf6e0800000000000000
+      internalID: -1802500932450278894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15471b0021815ae0800000000000000
+      internalID: -1562325621095840483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_63
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 16
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a5c595c4dabce0800000000000000
+      internalID: -1388563590003972736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_64
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61e8cfebdcf23e0800000000000000
+      internalID: -2076214683029858567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f45861a2df62f0800000000000000
+      internalID: -977331003434143240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 13
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29659c789c937ff30800000000000000
+      internalID: 4609216281366320786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_67
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012be7040706d1bb0800000000000000
+      internalID: -4963705179057769968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_68
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 11
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5493d9a4164d68e80800000000000000
+      internalID: -8176614559115822779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_69
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 10
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d94b396062969f0800000000000000
+      internalID: -474806476021129899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_70
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ebedb0de5252e0800000000000000
+      internalID: -2138542622415001521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c6bf0ef9b808010800000000000000
+      internalID: 1189103820416445496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_72
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8645c3a4cd67780800000000000000
+      internalID: -8685512619939567409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_73
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d691140cf29e283d0800000000000000
+      internalID: -3205743593436145299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 10
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcb8bf6d11b155f0800000000000000
+      internalID: -769639321317098248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_75
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f5c6a6c483f8890800000000000000
+      internalID: -7453676957420724464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_76
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aedf38f27d9b630800000000000000
+      internalID: 3943419547817470507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_77
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ac31143c997e80800000000000000
+      internalID: -8180335500700376740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_78
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e858b43534fb6090800000000000000
+      internalID: -8040064200384947994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28811f58544f3a4d0800000000000000
+      internalID: -3124385137027901310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_80
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b06cf22065b4340800000000000000
+      internalID: 4849063991185902395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_81
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e52b667c846f480800000000000000
+      internalID: -8865818795173585348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af023f2426adf84d0800000000000000
+      internalID: -3130043100434325254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_83
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f8a58825edbf10800000000000000
+      internalID: 2287236147977975089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ants_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b71327553be9c40800000000000000
+      internalID: 5521047372772244327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Ants_0: 556003408185136971
+      Animal_Ants_1: -3502295261373011354
+      Animal_Ants_10: 9156604951583105815
+      Animal_Ants_11: 3193213166352552843
+      Animal_Ants_12: -5313312266331303323
+      Animal_Ants_13: -2762412123749104669
+      Animal_Ants_14: 4529440054482652298
+      Animal_Ants_15: -289223749485532531
+      Animal_Ants_16: 4475847720252091579
+      Animal_Ants_17: -2580240792343611017
+      Animal_Ants_18: 3560743986066312771
+      Animal_Ants_19: 2048325566458068791
+      Animal_Ants_2: 526694542463137179
+      Animal_Ants_20: 7405973969309647306
+      Animal_Ants_21: 7472556239584632992
+      Animal_Ants_22: 5500295445598934637
+      Animal_Ants_23: -2847349663498548005
+      Animal_Ants_24: 6856637215814033041
+      Animal_Ants_25: -3766909873236556908
+      Animal_Ants_26: -8506264371046996483
+      Animal_Ants_27: 7043185078798888432
+      Animal_Ants_28: 2783878827677849188
+      Animal_Ants_29: 573219825601309602
+      Animal_Ants_3: -8327231632541191180
+      Animal_Ants_30: -5037990162169847524
+      Animal_Ants_31: 5277034183412197528
+      Animal_Ants_32: 1012213070534493675
+      Animal_Ants_33: 3896711407830582394
+      Animal_Ants_34: 4743737417217682217
+      Animal_Ants_35: 855459554961778503
+      Animal_Ants_36: 2794216109833753388
+      Animal_Ants_37: 2288117149545568667
+      Animal_Ants_38: -4971900602866177946
+      Animal_Ants_39: 7554308579816614147
+      Animal_Ants_4: -7214752390924590520
+      Animal_Ants_40: -701042212238722066
+      Animal_Ants_41: 2306784283333097423
+      Animal_Ants_42: 7500784918433657391
+      Animal_Ants_43: 2677248228714514712
+      Animal_Ants_44: 4153570919151968269
+      Animal_Ants_45: -1991820781472703566
+      Animal_Ants_46: 8014653003201484150
+      Animal_Ants_47: -8952276291189865110
+      Animal_Ants_48: 587149046897848387
+      Animal_Ants_49: 3716222683684359117
+      Animal_Ants_5: 7457519060567683691
+      Animal_Ants_50: -392636944019554884
+      Animal_Ants_51: 4025122969932911621
+      Animal_Ants_52: 7418014030637603000
+      Animal_Ants_53: 3869528579732184793
+      Animal_Ants_54: 5031799814332822672
+      Animal_Ants_55: 5171320317500629267
+      Animal_Ants_56: -3921089686412815512
+      Animal_Ants_57: -7636858250465386228
+      Animal_Ants_58: -4717233342870384279
+      Animal_Ants_59: -5362913225587439352
+      Animal_Ants_6: 2051320372616594398
+      Animal_Ants_60: -116865994187452893
+      Animal_Ants_61: -1802500932450278894
+      Animal_Ants_62: -1562325621095840483
+      Animal_Ants_63: -1388563590003972736
+      Animal_Ants_64: -2076214683029858567
+      Animal_Ants_65: -977331003434143240
+      Animal_Ants_66: 4609216281366320786
+      Animal_Ants_67: -4963705179057769968
+      Animal_Ants_68: -8176614559115822779
+      Animal_Ants_69: -474806476021129899
+      Animal_Ants_7: -3333888905292319513
+      Animal_Ants_70: -2138542622415001521
+      Animal_Ants_71: 1189103820416445496
+      Animal_Ants_72: -8685512619939567409
+      Animal_Ants_73: -3205743593436145299
+      Animal_Ants_74: -769639321317098248
+      Animal_Ants_75: -7453676957420724464
+      Animal_Ants_76: 3943419547817470507
+      Animal_Ants_77: -8180335500700376740
+      Animal_Ants_78: -8040064200384947994
+      Animal_Ants_79: -3124385137027901310
+      Animal_Ants_8: 5327951902010869588
+      Animal_Ants_80: 4849063991185902395
+      Animal_Ants_81: -8865818795173585348
+      Animal_Ants_82: -3130043100434325254
+      Animal_Ants_83: 2287236147977975089
+      Animal_Ants_84: 5521047372772244327
+      Animal_Ants_9: -2355644173047272556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

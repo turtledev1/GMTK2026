@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 02022a9d84d11c64c8f05873990bb9a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2640808619645760732
+    second: '!Switch_Rasak_0'
+  - first:
+      213: -6808644923289694113
+    second: '!Switch_Rasak_1'
+  - first:
+      213: -8907914362547944021
+    second: '!Switch_Rasak_2'
+  - first:
+      213: -6140514508381492322
+    second: '!Switch_Rasak_3'
+  - first:
+      213: 4046957660203751560
+    second: '!Switch_Rasak_4'
+  - first:
+      213: -4656805224598210657
+    second: '!Switch_Rasak_5'
+  - first:
+      213: -8981663008053270453
+    second: '!Switch_Rasak_6'
+  - first:
+      213: -1200664302972324591
+    second: '!Switch_Rasak_7'
+  - first:
+      213: 6391196073144132498
+    second: '!Switch_Rasak_8'
+  - first:
+      213: -3514339652324163459
+    second: '!Switch_Rasak_9'
+  - first:
+      213: 8702046710090715999
+    second: '!Switch_Rasak_10'
+  - first:
+      213: -6995065587023040756
+    second: '!Switch_Rasak_11'
+  - first:
+      213: 4305835106900676748
+    second: '!Switch_Rasak_12'
+  - first:
+      213: -3939292751668219090
+    second: '!Switch_Rasak_13'
+  - first:
+      213: -5529043738043376335
+    second: '!Switch_Rasak_14'
+  - first:
+      213: 8731986742840065833
+    second: '!Switch_Rasak_15'
+  - first:
+      213: 5158229174003221394
+    second: '!Switch_Rasak_16'
+  - first:
+      213: -5233456319997501535
+    second: '!Switch_Rasak_17'
+  - first:
+      213: -5952912464222350547
+    second: '!Switch_Rasak_18'
+  - first:
+      213: 5906359280951380473
+    second: '!Switch_Rasak_19'
+  - first:
+      213: -2644582223703268728
+    second: '!Switch_Rasak_20'
+  - first:
+      213: 1736094319625597915
+    second: '!Switch_Rasak_21'
+  - first:
+      213: 4725708279485998741
+    second: '!Switch_Rasak_22'
+  - first:
+      213: 8557737261543577550
+    second: '!Switch_Rasak_23'
+  - first:
+      213: -3213977682760754736
+    second: '!Switch_Rasak_24'
+  - first:
+      213: -5755106856686081337
+    second: '!Switch_Rasak_25'
+  - first:
+      213: 5806519186881965103
+    second: '!Switch_Rasak_26'
+  - first:
+      213: -7733910034727380782
+    second: '!Switch_Rasak_27'
+  - first:
+      213: -1273324230464888686
+    second: '!Switch_Rasak_28'
+  - first:
+      213: -2821062405642111388
+    second: '!Switch_Rasak_29'
+  - first:
+      213: -8932377184542983292
+    second: '!Switch_Rasak_30'
+  - first:
+      213: -3077019074734044012
+    second: '!Switch_Rasak_31'
+  - first:
+      213: 3414764717375225476
+    second: '!Switch_Rasak_32'
+  - first:
+      213: -4286229549766176242
+    second: '!Switch_Rasak_33'
+  - first:
+      213: 5673020900245362858
+    second: '!Switch_Rasak_34'
+  - first:
+      213: 9041851105148712329
+    second: '!Switch_Rasak_35'
+  - first:
+      213: 4009605201677859928
+    second: '!Switch_Rasak_36'
+  - first:
+      213: -8136368661981639172
+    second: '!Switch_Rasak_37'
+  - first:
+      213: 2260812609258739920
+    second: '!Switch_Rasak_38'
+  - first:
+      213: 7070824727432236522
+    second: '!Switch_Rasak_39'
+  - first:
+      213: -1430364684326243720
+    second: '!Switch_Rasak_40'
+  - first:
+      213: 3930867175829429252
+    second: '!Switch_Rasak_41'
+  - first:
+      213: -6953801742792087081
+    second: '!Switch_Rasak_42'
+  - first:
+      213: 1473670417345695490
+    second: '!Switch_Rasak_43'
+  - first:
+      213: 371924224981331828
+    second: '!Switch_Rasak_44'
+  - first:
+      213: 3187228569149309867
+    second: '!Switch_Rasak_45'
+  - first:
+      213: -4290030206799483938
+    second: '!Switch_Rasak_46'
+  - first:
+      213: -1733176362338934885
+    second: '!Switch_Rasak_47'
+  - first:
+      213: -3826677047712646794
+    second: '!Switch_Rasak_48'
+  - first:
+      213: -8498450049344446791
+    second: '!Switch_Rasak_49'
+  - first:
+      213: 7101422886121170865
+    second: '!Switch_Rasak_50'
+  - first:
+      213: -7285944426978637877
+    second: '!Switch_Rasak_51'
+  - first:
+      213: 5161289485713481968
+    second: '!Switch_Rasak_52'
+  - first:
+      213: -5255786084616650856
+    second: '!Switch_Rasak_53'
+  - first:
+      213: 707922910371837889
+    second: '!Switch_Rasak_54'
+  - first:
+      213: 4485049367193224382
+    second: '!Switch_Rasak_55'
+  - first:
+      213: 7164103182345380637
+    second: '!Switch_Rasak_56'
+  - first:
+      213: -9160483842223462615
+    second: '!Switch_Rasak_57'
+  - first:
+      213: 4904049919918947171
+    second: '!Switch_Rasak_58'
+  - first:
+      213: 8502204547232501725
+    second: '!Switch_Rasak_59'
+  - first:
+      213: 1725370646362547533
+    second: '!Switch_Rasak_60'
+  - first:
+      213: 210275844057757435
+    second: '!Switch_Rasak_61'
+  - first:
+      213: -6387905296621609951
+    second: '!Switch_Rasak_62'
+  - first:
+      213: -7094021292156409852
+    second: '!Switch_Rasak_63'
+  - first:
+      213: -2701693619842727620
+    second: '!Switch_Rasak_64'
+  - first:
+      213: -9001423285248287287
+    second: '!Switch_Rasak_65'
+  - first:
+      213: 3214517589285389877
+    second: '!Switch_Rasak_66'
+  - first:
+      213: 1558849532756672044
+    second: '!Switch_Rasak_67'
+  - first:
+      213: 7513157905209343764
+    second: '!Switch_Rasak_68'
+  - first:
+      213: 6987343083964303181
+    second: '!Switch_Rasak_69'
+  - first:
+      213: -1594145180321756291
+    second: '!Switch_Rasak_70'
+  - first:
+      213: 9157485615032081502
+    second: '!Switch_Rasak_71'
+  - first:
+      213: 4459118135867382277
+    second: '!Switch_Rasak_72'
+  - first:
+      213: -7672885702083289152
+    second: '!Switch_Rasak_73'
+  - first:
+      213: -3683925541848396773
+    second: '!Switch_Rasak_74'
+  - first:
+      213: 5402891195350657301
+    second: '!Switch_Rasak_75'
+  - first:
+      213: 689125927383534354
+    second: '!Switch_Rasak_76'
+  - first:
+      213: -1389817608547203925
+    second: '!Switch_Rasak_77'
+  - first:
+      213: 3028474688429379060
+    second: '!Switch_Rasak_78'
+  - first:
+      213: -6530310253583553430
+    second: '!Switch_Rasak_79'
+  - first:
+      213: -2460166164329329124
+    second: '!Switch_Rasak_80'
+  - first:
+      213: 6282349658445178036
+    second: '!Switch_Rasak_81'
+  - first:
+      213: 8249451306976473054
+    second: '!Switch_Rasak_82'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Switch_Rasak_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd476cda27906a420800000000000000
+      internalID: 2640808619645760732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_1'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 354
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f501d891485d281a0800000000000000
+      internalID: -6808644923289694113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_2'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 345
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5caba551bb06480800000000000000
+      internalID: -8907914362547944021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_3'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 354
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be9c5a69288caa0800000000000000
+      internalID: -6140514508381492322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_4'
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 345
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8889d7ddc8ea92830800000000000000
+      internalID: 4046957660203751560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_5'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 354
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97f3af2254bf5fb0800000000000000
+      internalID: -4656805224598210657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_6'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 345
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e7b0c419ba5380800000000000000
+      internalID: -8981663008053270453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_7'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 337
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115b7d68d22665fe0800000000000000
+      internalID: -1200664302972324591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_8'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 335
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a0ad67f612b850800000000000000
+      internalID: 6391196073144132498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_9'
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 337
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70062bb4be8a3fc0800000000000000
+      internalID: -3514339652324163459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_10'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5350dd9061e3c870800000000000000
+      internalID: 8702046710090715999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_11'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 306
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0faee8f8e88cee90800000000000000
+      internalID: -6995065587023040756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_12'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809838673661cb30800000000000000
+      internalID: 4305835106900676748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_13'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237b861d12d459c0800000000000000
+      internalID: -3939292751668219090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_14'
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 297
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d935ea304e443b0800000000000000
+      internalID: -5529043738043376335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_15'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 306
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ff666bdaf3e2970800000000000000
+      internalID: 8731986742840065833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_16'
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 297
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293c482ba16b59740800000000000000
+      internalID: 5158229174003221394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_17'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 289
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af960b74370f57b0800000000000000
+      internalID: -5233456319997501535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_18'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 287
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23180757a1036da0800000000000000
+      internalID: -5952912464222350547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_19'
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 289
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f940f8097a97f150800000000000000
+      internalID: 5906359280951380473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_20'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882aad8aa7e8c4bd0800000000000000
+      internalID: -2644582223703268728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_21'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 256
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37bd1e598d71810800000000000000
+      internalID: 1736094319625597915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_22'
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 249
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596a2ee64a6159140800000000000000
+      internalID: 4725708279485998741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_23'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7dd63d2b033c670800000000000000
+      internalID: 8557737261543577550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_24'
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9130f6358a563d0800000000000000
+      internalID: -3213977682760754736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_25'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 256
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caafc24ec0c120b0800000000000000
+      internalID: -5755106856686081337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_26'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 249
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ce69baf66e49050800000000000000
+      internalID: 5806519186881965103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_27'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 241
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8de37acc1aba490800000000000000
+      internalID: -7733910034727380782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_28'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 239
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2902e37db5e345ee0800000000000000
+      internalID: -1273324230464888686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_29'
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 241
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663e7e40b299d8d0800000000000000
+      internalID: -2821062405642111388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_30'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bf283c642d90480800000000000000
+      internalID: -8932377184542983292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_31'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 203
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c406b447b3c45d0800000000000000
+      internalID: -3077019074734044012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_32'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 200
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48effa21b6ea36f20800000000000000
+      internalID: 3414764717375225476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_33'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 203
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0297641fe04484c0800000000000000
+      internalID: -4286229549766176242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_34'
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 200
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8dd7aa37e9abe40800000000000000
+      internalID: 5673020900245362858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_35'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 203
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985bc52acab1b7d70800000000000000
+      internalID: 9041851105148712329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_36'
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 200
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c3197efaaf4a730800000000000000
+      internalID: 4009605201677859928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_37'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 193
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdc6fc6fcfc51f80800000000000000
+      internalID: -8136368661981639172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_38'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 191
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8579ef615006f10800000000000000
+      internalID: 2260812609258739920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_39'
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 193
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed85a370ad902260800000000000000
+      internalID: 7070824727432236522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_40'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727873e5e2562ce0800000000000000
+      internalID: -1430364684326243720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_41'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 162
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c5e8aaede3d8630800000000000000
+      internalID: 3930867175829429252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_42'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a26268222f7f90800000000000000
+      internalID: -6953801742792087081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_43'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 162
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f44edcf67837410800000000000000
+      internalID: 1473670417345695490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_44'
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 153
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fef51bc17592500800000000000000
+      internalID: 371924224981331828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_45'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba30f1a3f7f4b3c20800000000000000
+      internalID: 3187228569149309867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_46'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 153
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb6508a140c674c0800000000000000
+      internalID: -4290030206799483938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_47'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 145
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f1fadf74582f7e0800000000000000
+      internalID: -1733176362338934885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_48'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 143
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67972fcef79e4eac0800000000000000
+      internalID: -3826677047712646794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_49'
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 145
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be5c63f4b07f0a80800000000000000
+      internalID: -8498450049344446791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_50'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7e41f6d725d8260800000000000000
+      internalID: 7101422886121170865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_51'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 114
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc783b0752023ea90800000000000000
+      internalID: -7285944426978637877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_52'
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 105
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f029ea017590a740800000000000000
+      internalID: 5161289485713481968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_53'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 114
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fbbf20762bf07b0800000000000000
+      internalID: -5255786084616650856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_54'
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 105
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f211e22c03d900800000000000000
+      internalID: 707922910371837889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_55'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 114
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb484abf2a81e3e30800000000000000
+      internalID: 4485049367193224382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_56'
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 105
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1321f523e10c6360800000000000000
+      internalID: 7164103182345380637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_57'
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 97
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927a095da7c6fd080800000000000000
+      internalID: -9160483842223462615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_58'
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 95
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b3d8d5b6fae0440800000000000000
+      internalID: 4904049919918947171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_59'
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 97
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf01853df5edf570800000000000000
+      internalID: 8502204547232501725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_60'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456352267fb1f710800000000000000
+      internalID: 1725370646362547533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_61'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 64
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf678ed14cc0be200800000000000000
+      internalID: 210275844057757435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_62'
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c58003af99957a0800000000000000
+      internalID: -6387905296621609951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_63'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 64
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a5f37839fc8d90800000000000000
+      internalID: -7094021292156409852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_64'
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 57
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c55987f7a18ad0800000000000000
+      internalID: -2701693619842727620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_65'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 64
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd98d1b635841380800000000000000
+      internalID: -9001423285248287287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_66'
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 57
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c99957b24c9c20800000000000000
+      internalID: 3214517589285389877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_67'
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 67
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ebe32146522a510800000000000000
+      internalID: 1558849532756672044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_68'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 67
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fbb61fe49144860800000000000000
+      internalID: 7513157905209343764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_69'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47897ba38708f060800000000000000
+      internalID: 6987343083964303181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_70'
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b4586976570e9e0800000000000000
+      internalID: -1594145180321756291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_71'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c9cbff5ace51f70800000000000000
+      internalID: 9157485615032081502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_72'
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a90e3b158f1ed30800000000000000
+      internalID: 4459118135867382277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_73'
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 8
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd62d4b1f648590800000000000000
+      internalID: -7672885702083289152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_74'
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 11
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c432bec3110ecc0800000000000000
+      internalID: -3683925541848396773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_75'
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51926fa9aeceafa40800000000000000
+      internalID: 5402891195350657301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_76'
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b053b3164409900800000000000000
+      internalID: 689125927383534354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_77'
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 19
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba406f3af3066bce0800000000000000
+      internalID: -1389817608547203925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_78'
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd481ffead470a20800000000000000
+      internalID: 3028474688429379060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_79'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6caf066c6daf55a0800000000000000
+      internalID: -6530310253583553430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_80'
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e07b678ebbbddd0800000000000000
+      internalID: -2460166164329329124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_81'
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4eb62aab36f2750800000000000000
+      internalID: 6282349658445178036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Switch_Rasak_82'
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe6389140fb7270800000000000000
+      internalID: 8249451306976473054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!Switch_Rasak_0': 2640808619645760732
+      '!Switch_Rasak_1': -6808644923289694113
+      '!Switch_Rasak_10': 8702046710090715999
+      '!Switch_Rasak_11': -6995065587023040756
+      '!Switch_Rasak_12': 4305835106900676748
+      '!Switch_Rasak_13': -3939292751668219090
+      '!Switch_Rasak_14': -5529043738043376335
+      '!Switch_Rasak_15': 8731986742840065833
+      '!Switch_Rasak_16': 5158229174003221394
+      '!Switch_Rasak_17': -5233456319997501535
+      '!Switch_Rasak_18': -5952912464222350547
+      '!Switch_Rasak_19': 5906359280951380473
+      '!Switch_Rasak_2': -8907914362547944021
+      '!Switch_Rasak_20': -2644582223703268728
+      '!Switch_Rasak_21': 1736094319625597915
+      '!Switch_Rasak_22': 4725708279485998741
+      '!Switch_Rasak_23': 8557737261543577550
+      '!Switch_Rasak_24': -3213977682760754736
+      '!Switch_Rasak_25': -5755106856686081337
+      '!Switch_Rasak_26': 5806519186881965103
+      '!Switch_Rasak_27': -7733910034727380782
+      '!Switch_Rasak_28': -1273324230464888686
+      '!Switch_Rasak_29': -2821062405642111388
+      '!Switch_Rasak_3': -6140514508381492322
+      '!Switch_Rasak_30': -8932377184542983292
+      '!Switch_Rasak_31': -3077019074734044012
+      '!Switch_Rasak_32': 3414764717375225476
+      '!Switch_Rasak_33': -4286229549766176242
+      '!Switch_Rasak_34': 5673020900245362858
+      '!Switch_Rasak_35': 9041851105148712329
+      '!Switch_Rasak_36': 4009605201677859928
+      '!Switch_Rasak_37': -8136368661981639172
+      '!Switch_Rasak_38': 2260812609258739920
+      '!Switch_Rasak_39': 7070824727432236522
+      '!Switch_Rasak_4': 4046957660203751560
+      '!Switch_Rasak_40': -1430364684326243720
+      '!Switch_Rasak_41': 3930867175829429252
+      '!Switch_Rasak_42': -6953801742792087081
+      '!Switch_Rasak_43': 1473670417345695490
+      '!Switch_Rasak_44': 371924224981331828
+      '!Switch_Rasak_45': 3187228569149309867
+      '!Switch_Rasak_46': -4290030206799483938
+      '!Switch_Rasak_47': -1733176362338934885
+      '!Switch_Rasak_48': -3826677047712646794
+      '!Switch_Rasak_49': -8498450049344446791
+      '!Switch_Rasak_5': -4656805224598210657
+      '!Switch_Rasak_50': 7101422886121170865
+      '!Switch_Rasak_51': -7285944426978637877
+      '!Switch_Rasak_52': 5161289485713481968
+      '!Switch_Rasak_53': -5255786084616650856
+      '!Switch_Rasak_54': 707922910371837889
+      '!Switch_Rasak_55': 4485049367193224382
+      '!Switch_Rasak_56': 7164103182345380637
+      '!Switch_Rasak_57': -9160483842223462615
+      '!Switch_Rasak_58': 4904049919918947171
+      '!Switch_Rasak_59': 8502204547232501725
+      '!Switch_Rasak_6': -8981663008053270453
+      '!Switch_Rasak_60': 1725370646362547533
+      '!Switch_Rasak_61': 210275844057757435
+      '!Switch_Rasak_62': -6387905296621609951
+      '!Switch_Rasak_63': -7094021292156409852
+      '!Switch_Rasak_64': -2701693619842727620
+      '!Switch_Rasak_65': -9001423285248287287
+      '!Switch_Rasak_66': 3214517589285389877
+      '!Switch_Rasak_67': 1558849532756672044
+      '!Switch_Rasak_68': 7513157905209343764
+      '!Switch_Rasak_69': 6987343083964303181
+      '!Switch_Rasak_7': -1200664302972324591
+      '!Switch_Rasak_70': -1594145180321756291
+      '!Switch_Rasak_71': 9157485615032081502
+      '!Switch_Rasak_72': 4459118135867382277
+      '!Switch_Rasak_73': -7672885702083289152
+      '!Switch_Rasak_74': -3683925541848396773
+      '!Switch_Rasak_75': 5402891195350657301
+      '!Switch_Rasak_76': 689125927383534354
+      '!Switch_Rasak_77': -1389817608547203925
+      '!Switch_Rasak_78': 3028474688429379060
+      '!Switch_Rasak_79': -6530310253583553430
+      '!Switch_Rasak_8': 6391196073144132498
+      '!Switch_Rasak_80': -2460166164329329124
+      '!Switch_Rasak_81': 6282349658445178036
+      '!Switch_Rasak_82': 8249451306976473054
+      '!Switch_Rasak_9': -3514339652324163459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

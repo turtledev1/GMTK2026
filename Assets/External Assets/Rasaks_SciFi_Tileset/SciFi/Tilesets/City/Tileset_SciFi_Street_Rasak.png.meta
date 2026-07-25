@@ -1,0 +1,6474 @@
+fileFormatVersion: 2
+guid: b378deb7b693c99429e8fa940c2416c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 822647422205152407
+    second: Tileset_SciFi_Street_Rasak_0
+  - first:
+      213: -8015105602735401493
+    second: Tileset_SciFi_Street_Rasak_1
+  - first:
+      213: 4897194635074502652
+    second: Tileset_SciFi_Street_Rasak_2
+  - first:
+      213: 5114690337197905001
+    second: Tileset_SciFi_Street_Rasak_3
+  - first:
+      213: -9023978470944699287
+    second: Tileset_SciFi_Street_Rasak_4
+  - first:
+      213: -5017569139020825248
+    second: Tileset_SciFi_Street_Rasak_5
+  - first:
+      213: 3656636345237111902
+    second: Tileset_SciFi_Street_Rasak_6
+  - first:
+      213: 8728946218369183651
+    second: Tileset_SciFi_Street_Rasak_7
+  - first:
+      213: -4807164634605141558
+    second: Tileset_SciFi_Street_Rasak_8
+  - first:
+      213: 7264685349265464938
+    second: Tileset_SciFi_Street_Rasak_9
+  - first:
+      213: 5520203296451584073
+    second: Tileset_SciFi_Street_Rasak_10
+  - first:
+      213: 5606876904421675870
+    second: Tileset_SciFi_Street_Rasak_11
+  - first:
+      213: -8479401228769907379
+    second: Tileset_SciFi_Street_Rasak_12
+  - first:
+      213: -4386202436706104937
+    second: Tileset_SciFi_Street_Rasak_13
+  - first:
+      213: 8732901243354903821
+    second: Tileset_SciFi_Street_Rasak_14
+  - first:
+      213: 1001752135470443200
+    second: Tileset_SciFi_Street_Rasak_15
+  - first:
+      213: -8355538646363171929
+    second: Tileset_SciFi_Street_Rasak_16
+  - first:
+      213: 5254917856353755669
+    second: Tileset_SciFi_Street_Rasak_17
+  - first:
+      213: 186656937109018499
+    second: Tileset_SciFi_Street_Rasak_18
+  - first:
+      213: -6399448844527011088
+    second: Tileset_SciFi_Street_Rasak_19
+  - first:
+      213: 3258415593385250086
+    second: Tileset_SciFi_Street_Rasak_20
+  - first:
+      213: -1609434940850959713
+    second: Tileset_SciFi_Street_Rasak_21
+  - first:
+      213: 3200854155610876092
+    second: Tileset_SciFi_Street_Rasak_22
+  - first:
+      213: 1956016004629943456
+    second: Tileset_SciFi_Street_Rasak_23
+  - first:
+      213: -1424406666382480929
+    second: Tileset_SciFi_Street_Rasak_24
+  - first:
+      213: -2550838628365721928
+    second: Tileset_SciFi_Street_Rasak_25
+  - first:
+      213: -644084614941835913
+    second: Tileset_SciFi_Street_Rasak_26
+  - first:
+      213: 6704632627556181812
+    second: Tileset_SciFi_Street_Rasak_27
+  - first:
+      213: -6767592373211949481
+    second: Tileset_SciFi_Street_Rasak_28
+  - first:
+      213: -6676794904174583452
+    second: Tileset_SciFi_Street_Rasak_29
+  - first:
+      213: -6224565677547473827
+    second: Tileset_SciFi_Street_Rasak_30
+  - first:
+      213: -8845109092981983377
+    second: Tileset_SciFi_Street_Rasak_31
+  - first:
+      213: -5974394600623518004
+    second: Tileset_SciFi_Street_Rasak_32
+  - first:
+      213: -1109548345682453978
+    second: Tileset_SciFi_Street_Rasak_33
+  - first:
+      213: 4036320269466204149
+    second: Tileset_SciFi_Street_Rasak_34
+  - first:
+      213: 1275742039335591751
+    second: Tileset_SciFi_Street_Rasak_35
+  - first:
+      213: -7399326802206129571
+    second: Tileset_SciFi_Street_Rasak_36
+  - first:
+      213: -1978214352175188772
+    second: Tileset_SciFi_Street_Rasak_37
+  - first:
+      213: -8935101877476563828
+    second: Tileset_SciFi_Street_Rasak_38
+  - first:
+      213: -2385937576290870348
+    second: Tileset_SciFi_Street_Rasak_39
+  - first:
+      213: -5948942052999010216
+    second: Tileset_SciFi_Street_Rasak_40
+  - first:
+      213: -1716076096761058951
+    second: Tileset_SciFi_Street_Rasak_41
+  - first:
+      213: -4006543638824323569
+    second: Tileset_SciFi_Street_Rasak_42
+  - first:
+      213: -5151694049597575418
+    second: Tileset_SciFi_Street_Rasak_43
+  - first:
+      213: -7586273352649571951
+    second: Tileset_SciFi_Street_Rasak_44
+  - first:
+      213: 5189939205533972209
+    second: Tileset_SciFi_Street_Rasak_45
+  - first:
+      213: -769569852339636977
+    second: Tileset_SciFi_Street_Rasak_46
+  - first:
+      213: 7126633598509896525
+    second: Tileset_SciFi_Street_Rasak_47
+  - first:
+      213: 4961072142285852785
+    second: Tileset_SciFi_Street_Rasak_48
+  - first:
+      213: -377270347128140505
+    second: Tileset_SciFi_Street_Rasak_49
+  - first:
+      213: -118965160869801084
+    second: Tileset_SciFi_Street_Rasak_50
+  - first:
+      213: -2898698411900553151
+    second: Tileset_SciFi_Street_Rasak_51
+  - first:
+      213: 8917275313646406751
+    second: Tileset_SciFi_Street_Rasak_52
+  - first:
+      213: -7676880970473618854
+    second: Tileset_SciFi_Street_Rasak_53
+  - first:
+      213: -883548448374109103
+    second: Tileset_SciFi_Street_Rasak_54
+  - first:
+      213: -4399160753945252894
+    second: Tileset_SciFi_Street_Rasak_55
+  - first:
+      213: 2050738384800115334
+    second: Tileset_SciFi_Street_Rasak_56
+  - first:
+      213: -1246252485924692475
+    second: Tileset_SciFi_Street_Rasak_57
+  - first:
+      213: -6642658518824941290
+    second: Tileset_SciFi_Street_Rasak_58
+  - first:
+      213: 632674160322536081
+    second: Tileset_SciFi_Street_Rasak_59
+  - first:
+      213: -8058030797440480098
+    second: Tileset_SciFi_Street_Rasak_60
+  - first:
+      213: -7006870250820858322
+    second: Tileset_SciFi_Street_Rasak_61
+  - first:
+      213: -2815445312620598797
+    second: Tileset_SciFi_Street_Rasak_62
+  - first:
+      213: -3607306738432278603
+    second: Tileset_SciFi_Street_Rasak_63
+  - first:
+      213: -4836819574339308203
+    second: Tileset_SciFi_Street_Rasak_64
+  - first:
+      213: 4902811753083605253
+    second: Tileset_SciFi_Street_Rasak_65
+  - first:
+      213: -9065377143176475400
+    second: Tileset_SciFi_Street_Rasak_66
+  - first:
+      213: 4602105472307564910
+    second: Tileset_SciFi_Street_Rasak_67
+  - first:
+      213: 4585682632183517622
+    second: Tileset_SciFi_Street_Rasak_68
+  - first:
+      213: 5624331717876725521
+    second: Tileset_SciFi_Street_Rasak_69
+  - first:
+      213: 6178401330093320882
+    second: Tileset_SciFi_Street_Rasak_70
+  - first:
+      213: -19836101970612805
+    second: Tileset_SciFi_Street_Rasak_71
+  - first:
+      213: 8420387039105538945
+    second: Tileset_SciFi_Street_Rasak_72
+  - first:
+      213: 723470586358939381
+    second: Tileset_SciFi_Street_Rasak_73
+  - first:
+      213: 4171901127131353815
+    second: Tileset_SciFi_Street_Rasak_74
+  - first:
+      213: 8554227201170336663
+    second: Tileset_SciFi_Street_Rasak_75
+  - first:
+      213: 9085830607166827646
+    second: Tileset_SciFi_Street_Rasak_76
+  - first:
+      213: 3259286566164034653
+    second: Tileset_SciFi_Street_Rasak_77
+  - first:
+      213: -4680498203500843426
+    second: Tileset_SciFi_Street_Rasak_78
+  - first:
+      213: -8474245971649632609
+    second: Tileset_SciFi_Street_Rasak_79
+  - first:
+      213: 8174469151633064525
+    second: Tileset_SciFi_Street_Rasak_80
+  - first:
+      213: 3228551962604586954
+    second: Tileset_SciFi_Street_Rasak_81
+  - first:
+      213: 2482160568270708663
+    second: Tileset_SciFi_Street_Rasak_82
+  - first:
+      213: 5760569077027396712
+    second: Tileset_SciFi_Street_Rasak_83
+  - first:
+      213: -3856169216888206971
+    second: Tileset_SciFi_Street_Rasak_84
+  - first:
+      213: -2547438321108962337
+    second: Tileset_SciFi_Street_Rasak_85
+  - first:
+      213: 3694501802098693910
+    second: Tileset_SciFi_Street_Rasak_86
+  - first:
+      213: -3388095675680080091
+    second: Tileset_SciFi_Street_Rasak_87
+  - first:
+      213: -7934286482069435764
+    second: Tileset_SciFi_Street_Rasak_88
+  - first:
+      213: -2245852048564041245
+    second: Tileset_SciFi_Street_Rasak_89
+  - first:
+      213: -4537865212968625865
+    second: Tileset_SciFi_Street_Rasak_90
+  - first:
+      213: -6786778686756645698
+    second: Tileset_SciFi_Street_Rasak_91
+  - first:
+      213: 217870900276355174
+    second: Tileset_SciFi_Street_Rasak_92
+  - first:
+      213: 6515152830804429384
+    second: Tileset_SciFi_Street_Rasak_93
+  - first:
+      213: -7686097493248791502
+    second: Tileset_SciFi_Street_Rasak_94
+  - first:
+      213: 3560923225752413280
+    second: Tileset_SciFi_Street_Rasak_95
+  - first:
+      213: 3789777097918395470
+    second: Tileset_SciFi_Street_Rasak_96
+  - first:
+      213: -7156834585306860424
+    second: Tileset_SciFi_Street_Rasak_97
+  - first:
+      213: 7335545647712571341
+    second: Tileset_SciFi_Street_Rasak_98
+  - first:
+      213: 3145057838031499203
+    second: Tileset_SciFi_Street_Rasak_99
+  - first:
+      213: -3374908301253784151
+    second: Tileset_SciFi_Street_Rasak_100
+  - first:
+      213: 2995716285051593151
+    second: Tileset_SciFi_Street_Rasak_101
+  - first:
+      213: 2392572063947608830
+    second: Tileset_SciFi_Street_Rasak_102
+  - first:
+      213: 5018093404633653459
+    second: Tileset_SciFi_Street_Rasak_103
+  - first:
+      213: 8317040528481244379
+    second: Tileset_SciFi_Street_Rasak_104
+  - first:
+      213: 7787846319072169993
+    second: Tileset_SciFi_Street_Rasak_105
+  - first:
+      213: 1157236411436198094
+    second: Tileset_SciFi_Street_Rasak_106
+  - first:
+      213: 8338800470330398001
+    second: Tileset_SciFi_Street_Rasak_107
+  - first:
+      213: -8808233670734066837
+    second: Tileset_SciFi_Street_Rasak_108
+  - first:
+      213: 2214008449867105116
+    second: Tileset_SciFi_Street_Rasak_109
+  - first:
+      213: -6447286645759238725
+    second: Tileset_SciFi_Street_Rasak_110
+  - first:
+      213: 5199335223067555111
+    second: Tileset_SciFi_Street_Rasak_111
+  - first:
+      213: -7700588617052996883
+    second: Tileset_SciFi_Street_Rasak_112
+  - first:
+      213: -3095478063054399360
+    second: Tileset_SciFi_Street_Rasak_113
+  - first:
+      213: -3048092747936495772
+    second: Tileset_SciFi_Street_Rasak_114
+  - first:
+      213: -4831451965051341342
+    second: Tileset_SciFi_Street_Rasak_115
+  - first:
+      213: 3674325183119668903
+    second: Tileset_SciFi_Street_Rasak_116
+  - first:
+      213: 2071614129878088671
+    second: Tileset_SciFi_Street_Rasak_117
+  - first:
+      213: -5461549840494095906
+    second: Tileset_SciFi_Street_Rasak_118
+  - first:
+      213: 5535811340659614822
+    second: Tileset_SciFi_Street_Rasak_119
+  - first:
+      213: -5048224269612477438
+    second: Tileset_SciFi_Street_Rasak_120
+  - first:
+      213: -2234817704993927732
+    second: Tileset_SciFi_Street_Rasak_121
+  - first:
+      213: -4582027940456304619
+    second: Tileset_SciFi_Street_Rasak_122
+  - first:
+      213: -4725291055816019192
+    second: Tileset_SciFi_Street_Rasak_123
+  - first:
+      213: -3269188927950220672
+    second: Tileset_SciFi_Street_Rasak_124
+  - first:
+      213: 6279446005188147982
+    second: Tileset_SciFi_Street_Rasak_125
+  - first:
+      213: 3625585216583647796
+    second: Tileset_SciFi_Street_Rasak_126
+  - first:
+      213: -1183039643874814716
+    second: Tileset_SciFi_Street_Rasak_127
+  - first:
+      213: -7169704728619398960
+    second: Tileset_SciFi_Street_Rasak_128
+  - first:
+      213: -8711053455640203133
+    second: Tileset_SciFi_Street_Rasak_129
+  - first:
+      213: -4116543498670434290
+    second: Tileset_SciFi_Street_Rasak_130
+  - first:
+      213: 8846157598654805512
+    second: Tileset_SciFi_Street_Rasak_131
+  - first:
+      213: -1427165065522459939
+    second: Tileset_SciFi_Street_Rasak_132
+  - first:
+      213: 4338606622071781353
+    second: Tileset_SciFi_Street_Rasak_133
+  - first:
+      213: -688512327746055325
+    second: Tileset_SciFi_Street_Rasak_134
+  - first:
+      213: 5067579403133858623
+    second: Tileset_SciFi_Street_Rasak_135
+  - first:
+      213: 3414429832545925917
+    second: Tileset_SciFi_Street_Rasak_136
+  - first:
+      213: 2419025484802958419
+    second: Tileset_SciFi_Street_Rasak_137
+  - first:
+      213: -8418136800026853577
+    second: Tileset_SciFi_Street_Rasak_138
+  - first:
+      213: 7722002086380372709
+    second: Tileset_SciFi_Street_Rasak_139
+  - first:
+      213: -1224353946074472782
+    second: Tileset_SciFi_Street_Rasak_140
+  - first:
+      213: 6297809870953423898
+    second: Tileset_SciFi_Street_Rasak_141
+  - first:
+      213: 6639010089315910645
+    second: Tileset_SciFi_Street_Rasak_142
+  - first:
+      213: -2889970691230381200
+    second: Tileset_SciFi_Street_Rasak_143
+  - first:
+      213: 3242442719370750194
+    second: Tileset_SciFi_Street_Rasak_144
+  - first:
+      213: -6978712111770118491
+    second: Tileset_SciFi_Street_Rasak_145
+  - first:
+      213: -6992532681498633252
+    second: Tileset_SciFi_Street_Rasak_146
+  - first:
+      213: 10478288849754554
+    second: Tileset_SciFi_Street_Rasak_147
+  - first:
+      213: 104023205313349046
+    second: Tileset_SciFi_Street_Rasak_148
+  - first:
+      213: -5368504015796272427
+    second: Tileset_SciFi_Street_Rasak_149
+  - first:
+      213: 7741226026000752749
+    second: Tileset_SciFi_Street_Rasak_150
+  - first:
+      213: -5733857731311175099
+    second: Tileset_SciFi_Street_Rasak_151
+  - first:
+      213: -8103239183162199806
+    second: Tileset_SciFi_Street_Rasak_152
+  - first:
+      213: 7357263473030120969
+    second: Tileset_SciFi_Street_Rasak_153
+  - first:
+      213: 873993813148453225
+    second: Tileset_SciFi_Street_Rasak_154
+  - first:
+      213: -1123373753302393197
+    second: Tileset_SciFi_Street_Rasak_155
+  - first:
+      213: 2581215466339731806
+    second: Tileset_SciFi_Street_Rasak_156
+  - first:
+      213: 2478462257660119030
+    second: Tileset_SciFi_Street_Rasak_157
+  - first:
+      213: -5371327153945023917
+    second: Tileset_SciFi_Street_Rasak_158
+  - first:
+      213: -3544179570409171044
+    second: Tileset_SciFi_Street_Rasak_159
+  - first:
+      213: -1464748617365426926
+    second: Tileset_SciFi_Street_Rasak_160
+  - first:
+      213: -4127560978794070603
+    second: Tileset_SciFi_Street_Rasak_161
+  - first:
+      213: 5397844684632715320
+    second: Tileset_SciFi_Street_Rasak_162
+  - first:
+      213: 746034870799088653
+    second: Tileset_SciFi_Street_Rasak_163
+  - first:
+      213: -4279970596006800825
+    second: Tileset_SciFi_Street_Rasak_164
+  - first:
+      213: -4371956057690710471
+    second: Tileset_SciFi_Street_Rasak_165
+  - first:
+      213: 1252264094176197334
+    second: Tileset_SciFi_Street_Rasak_166
+  - first:
+      213: -2736108183667288478
+    second: Tileset_SciFi_Street_Rasak_167
+  - first:
+      213: 5337744354054342310
+    second: Tileset_SciFi_Street_Rasak_168
+  - first:
+      213: -2012725168690675922
+    second: Tileset_SciFi_Street_Rasak_169
+  - first:
+      213: -2671159471188752867
+    second: Tileset_SciFi_Street_Rasak_170
+  - first:
+      213: -1851812807265061753
+    second: Tileset_SciFi_Street_Rasak_171
+  - first:
+      213: 2713053648627635985
+    second: Tileset_SciFi_Street_Rasak_172
+  - first:
+      213: 1041734326532904798
+    second: Tileset_SciFi_Street_Rasak_173
+  - first:
+      213: -5527990251365790289
+    second: Tileset_SciFi_Street_Rasak_174
+  - first:
+      213: 1909554724354859102
+    second: Tileset_SciFi_Street_Rasak_175
+  - first:
+      213: 661140722967993014
+    second: Tileset_SciFi_Street_Rasak_176
+  - first:
+      213: -7475263720631895922
+    second: Tileset_SciFi_Street_Rasak_177
+  - first:
+      213: 8726719369015460765
+    second: Tileset_SciFi_Street_Rasak_178
+  - first:
+      213: -8744758665330643164
+    second: Tileset_SciFi_Street_Rasak_179
+  - first:
+      213: 8452926876010840984
+    second: Tileset_SciFi_Street_Rasak_180
+  - first:
+      213: -897750952562494336
+    second: Tileset_SciFi_Street_Rasak_181
+  - first:
+      213: 7980712259131470797
+    second: Tileset_SciFi_Street_Rasak_182
+  - first:
+      213: -1060781270501747024
+    second: Tileset_SciFi_Street_Rasak_183
+  - first:
+      213: 810624005334829771
+    second: Tileset_SciFi_Street_Rasak_184
+  - first:
+      213: -278470088120830485
+    second: Tileset_SciFi_Street_Rasak_185
+  - first:
+      213: 2249299290311461817
+    second: Tileset_SciFi_Street_Rasak_186
+  - first:
+      213: -300376212496386011
+    second: Tileset_SciFi_Street_Rasak_187
+  - first:
+      213: 3738692056401276621
+    second: Tileset_SciFi_Street_Rasak_188
+  - first:
+      213: -4577856512696117399
+    second: Tileset_SciFi_Street_Rasak_189
+  - first:
+      213: -8532431597156335562
+    second: Tileset_SciFi_Street_Rasak_190
+  - first:
+      213: 6791807245905634975
+    second: Tileset_SciFi_Street_Rasak_191
+  - first:
+      213: -769386249783866852
+    second: Tileset_SciFi_Street_Rasak_192
+  - first:
+      213: -8824820464133558750
+    second: Tileset_SciFi_Street_Rasak_193
+  - first:
+      213: -7174153816818975340
+    second: Tileset_SciFi_Street_Rasak_194
+  - first:
+      213: -6169662229255786161
+    second: Tileset_SciFi_Street_Rasak_195
+  - first:
+      213: -6825702698072660380
+    second: Tileset_SciFi_Street_Rasak_196
+  - first:
+      213: -1653592016705677267
+    second: Tileset_SciFi_Street_Rasak_197
+  - first:
+      213: 1417410488746447859
+    second: Tileset_SciFi_Street_Rasak_198
+  - first:
+      213: 6991397533845877216
+    second: Tileset_SciFi_Street_Rasak_199
+  - first:
+      213: 6133639125546166954
+    second: Tileset_SciFi_Street_Rasak_200
+  - first:
+      213: -5581722003923595717
+    second: Tileset_SciFi_Street_Rasak_201
+  - first:
+      213: 7451535907569006345
+    second: Tileset_SciFi_Street_Rasak_202
+  - first:
+      213: 5744266902568814143
+    second: Tileset_SciFi_Street_Rasak_203
+  - first:
+      213: 8837261030213723823
+    second: Tileset_SciFi_Street_Rasak_204
+  - first:
+      213: 323647244248331235
+    second: Tileset_SciFi_Street_Rasak_205
+  - first:
+      213: 2771703278983277146
+    second: Tileset_SciFi_Street_Rasak_206
+  - first:
+      213: -8140185284099768572
+    second: Tileset_SciFi_Street_Rasak_207
+  - first:
+      213: -5081223790003256119
+    second: Tileset_SciFi_Street_Rasak_208
+  - first:
+      213: -6641456692852707813
+    second: Tileset_SciFi_Street_Rasak_209
+  - first:
+      213: 1577066909574071218
+    second: Tileset_SciFi_Street_Rasak_210
+  - first:
+      213: -8507012718965999543
+    second: Tileset_SciFi_Street_Rasak_211
+  - first:
+      213: 5113295484976827378
+    second: Tileset_SciFi_Street_Rasak_212
+  - first:
+      213: -5705842719913683684
+    second: Tileset_SciFi_Street_Rasak_213
+  - first:
+      213: -2811521454730215876
+    second: Tileset_SciFi_Street_Rasak_214
+  - first:
+      213: 7750021999609824160
+    second: Tileset_SciFi_Street_Rasak_215
+  - first:
+      213: -7836769869858381503
+    second: Tileset_SciFi_Street_Rasak_216
+  - first:
+      213: -1504013123651972287
+    second: Tileset_SciFi_Street_Rasak_217
+  - first:
+      213: 2645655268438580471
+    second: Tileset_SciFi_Street_Rasak_218
+  - first:
+      213: 5162567154691610215
+    second: Tileset_SciFi_Street_Rasak_219
+  - first:
+      213: 6709147498855843932
+    second: Tileset_SciFi_Street_Rasak_220
+  - first:
+      213: 8584422365307587590
+    second: Tileset_SciFi_Street_Rasak_221
+  - first:
+      213: -1642683065902858767
+    second: Tileset_SciFi_Street_Rasak_222
+  - first:
+      213: -8484712415105282240
+    second: Tileset_SciFi_Street_Rasak_223
+  - first:
+      213: -2781594844730117273
+    second: Tileset_SciFi_Street_Rasak_224
+  - first:
+      213: 6499254537939408864
+    second: Tileset_SciFi_Street_Rasak_225
+  - first:
+      213: -3393353392865121446
+    second: Tileset_SciFi_Street_Rasak_226
+  - first:
+      213: 1952760080935797360
+    second: Tileset_SciFi_Street_Rasak_227
+  - first:
+      213: -1274463094534336381
+    second: Tileset_SciFi_Street_Rasak_228
+  - first:
+      213: 1471309858630979011
+    second: Tileset_SciFi_Street_Rasak_229
+  - first:
+      213: 662991165897513383
+    second: Tileset_SciFi_Street_Rasak_230
+  - first:
+      213: 5390735637773724835
+    second: Tileset_SciFi_Street_Rasak_231
+  - first:
+      213: -8966500150691657117
+    second: Tileset_SciFi_Street_Rasak_232
+  - first:
+      213: 6079817392199838546
+    second: Tileset_SciFi_Street_Rasak_233
+  - first:
+      213: 2343318159926116126
+    second: Tileset_SciFi_Street_Rasak_234
+  - first:
+      213: 3239644631874940839
+    second: Tileset_SciFi_Street_Rasak_235
+  - first:
+      213: 2753892423885352665
+    second: Tileset_SciFi_Street_Rasak_236
+  - first:
+      213: 5817216163913325513
+    second: Tileset_SciFi_Street_Rasak_237
+  - first:
+      213: 6727745986795861788
+    second: Tileset_SciFi_Street_Rasak_238
+  - first:
+      213: 4143483341057921979
+    second: Tileset_SciFi_Street_Rasak_239
+  - first:
+      213: -2480132885808782337
+    second: Tileset_SciFi_Street_Rasak_240
+  - first:
+      213: -7890559137390082464
+    second: Tileset_SciFi_Street_Rasak_241
+  - first:
+      213: -6478573549936309601
+    second: Tileset_SciFi_Street_Rasak_242
+  - first:
+      213: -6811203383232883537
+    second: Tileset_SciFi_Street_Rasak_243
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 741
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ccdefc871aa6b00800000000000000
+      internalID: 822647422205152407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 753
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be596bf8bef94c090800000000000000
+      internalID: -8015105602735401493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 756
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff709bf29456f340800000000000000
+      internalID: 4897194635074502652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ddcc43c70bf640800000000000000
+      internalID: 5114690337197905001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c819a446364c280800000000000000
+      internalID: -9023978470944699287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d73b8c3730e5ab0800000000000000
+      internalID: -5017569139020825248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5404aed16bfeb230800000000000000
+      internalID: 3656636345237111902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af62617652732970800000000000000
+      internalID: 8728946218369183651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac14a89fb35894db0800000000000000
+      internalID: -4807164634605141558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ed3ffc5d851d460800000000000000
+      internalID: 7264685349265464938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 671
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940efec96a3bb9c40800000000000000
+      internalID: 5520203296451584073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 704
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53556b86d0afcd40800000000000000
+      internalID: 5606876904421675870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 671
+        width: 22
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da82b128d135a80800000000000000
+      internalID: -8479401228769907379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 738
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990e277f141123c0800000000000000
+      internalID: -4386202436706104937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 743
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057cb4796f713970800000000000000
+      internalID: 8732901243354903821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 732
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca64bb7240f6ed00800000000000000
+      internalID: 1001752135470443200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 744
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a39974eed92b0c80800000000000000
+      internalID: -8355538646363171929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 700
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512a2d7d2f73de840800000000000000
+      internalID: 5254917856353755669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 720
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387de3fce73279200800000000000000
+      internalID: 186656937109018499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 721
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fafeaf7e279037a0800000000000000
+      internalID: -6399448844527011088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 729
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d4256e7b7383d20800000000000000
+      internalID: 3258415593385250086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 732
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0a7dc2732aa9e0800000000000000
+      internalID: -1609434940850959713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e40b45e7bb6c20800000000000000
+      internalID: 3200854155610876092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 627
+        width: 11
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a452fa513a252b10800000000000000
+      internalID: 1956016004629943456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 720
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9e29a0fad7b3ce0800000000000000
+      internalID: -1424406666382480929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 673
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be9aec48c9999cd0800000000000000
+      internalID: -2550838628365721928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 699
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df8198470cf07f0800000000000000
+      internalID: -644084614941835913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 699
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437eaf22ad3ab0d50800000000000000
+      internalID: 6704632627556181812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 708
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7561f02c79ea412a0800000000000000
+      internalID: -6767592373211949481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 684
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461298ae8624753a0800000000000000
+      internalID: -6676794904174583452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 684
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54b1b4de76ed99a0800000000000000
+      internalID: -6224565677547473827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 679
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673b31b42cdf3580800000000000000
+      internalID: -8845109092981983377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 696
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccec2d1b3cfa61da0800000000000000
+      internalID: -5974394600623518004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 592
+        width: 26
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a997288a71a90f0800000000000000
+      internalID: -1109548345682453978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 577
+        width: 19
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fd3556e3e30830800000000000000
+      internalID: 4036320269466204149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 684
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f51a720a854b110800000000000000
+      internalID: 1275742039335591751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 672
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d520a790a7f405990800000000000000
+      internalID: -7399326802206129571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 642
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b4091788fb84e0800000000000000
+      internalID: -1978214352175188772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 642
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c846511ce24200480800000000000000
+      internalID: -8935101877476563828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 628
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb1de46a6273eed0800000000000000
+      internalID: -2385937576290870348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 645
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8586c9db8bc117da0800000000000000
+      internalID: -5948942052999010216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 645
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979a405d1e54f28e0800000000000000
+      internalID: -1716076096761058951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 627
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0676ceb9c5e568c0800000000000000
+      internalID: -4006543638824323569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 627
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2e368e818188b0800000000000000
+      internalID: -5151694049597575418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 530
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918f4e549428b690800000000000000
+      internalID: -7586273352649571951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 530
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6b9bfb53e560840800000000000000
+      internalID: 5189939205533972209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 529
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f053271fb40f155f0800000000000000
+      internalID: -769569852339636977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 529
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43db83df73e6e260800000000000000
+      internalID: 7126633598509896525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 601
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d80a14d449d440800000000000000
+      internalID: 4961072142285852785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 611
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d832f3e9aa3caf0800000000000000
+      internalID: -377270347128140505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 601
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48355b501d9595ef0800000000000000
+      internalID: -118965160869801084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 611
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148bdaff621c5c7d0800000000000000
+      internalID: -2898698411900553151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 601
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c014ae6a680cb70800000000000000
+      internalID: 8917275313646406751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 611
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c6f36e6d367590800000000000000
+      internalID: -7676880970473618854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 601
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c40d01e510db3f0800000000000000
+      internalID: -883548448374109103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 605
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebe04f1a9a03f2c0800000000000000
+      internalID: -4399160753945252894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 609
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae44912bfa57c10800000000000000
+      internalID: 2050738384800115334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 605
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ed20c87fb64bee0800000000000000
+      internalID: -1246252485924692475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 605
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619873d754980d3a0800000000000000
+      internalID: -6642658518824941290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 583
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e798fbc5b7c800800000000000000
+      internalID: 632674160322536081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 583
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0769deaf1c2090800000000000000
+      internalID: -8058030797440480098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 596
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e029081a892ce90800000000000000
+      internalID: -7006870250820858322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 602
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9e5b0b7678de8d0800000000000000
+      internalID: -2815445312620598797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 588
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bffedb32a540fdc0800000000000000
+      internalID: -3607306738432278603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55579d4493a20ecb0800000000000000
+      internalID: -4836819574339308203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 589
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501982f20594a0440800000000000000
+      internalID: 4902811753083605253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 589
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc450ac48f413280800000000000000
+      internalID: -9065377143176475400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 584
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6116c74b86fddf30800000000000000
+      internalID: 4602105472307564910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 593
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b11af7de0e93af30800000000000000
+      internalID: 4585682632183517622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 581
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117310ff5e3ad0e40800000000000000
+      internalID: 5624331717876725521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 563
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba630076471eb550800000000000000
+      internalID: 6178401330093320882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 549
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd205c9b2789bff0800000000000000
+      internalID: -19836101970612805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 559
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b503126693bd470800000000000000
+      internalID: 8420387039105538945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 532
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3e594aa84a0a00800000000000000
+      internalID: 723470586358939381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 531
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d257b0b8f195e930800000000000000
+      internalID: 4171901127131353815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 531
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bedb53158b6b670800000000000000
+      internalID: 8554227201170336663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 540
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cec856cca571e70800000000000000
+      internalID: 9085830607166827646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 540
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f86d0ddf4b3d20800000000000000
+      internalID: 3259286566164034653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 540
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e6a78aea78b0fb0800000000000000
+      internalID: -4680498203500843426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 540
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e980ff2e656a80800000000000000
+      internalID: -8474245971649632609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 546
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d424a7a126c817170800000000000000
+      internalID: 8174469151633064525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 551
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7cfe587ee1ecc20800000000000000
+      internalID: 3228551962604586954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 543
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfd143c2e7627220800000000000000
+      internalID: 2482160568270708663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 541
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c51540e07a1ff40800000000000000
+      internalID: 5760569077027396712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 529
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589059137822c7ac0800000000000000
+      internalID: -3856169216888206971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 529
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd33517085ea5acd0800000000000000
+      internalID: -2547438321108962337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 542
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617122090d1854330800000000000000
+      internalID: 3694501802098693910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 534
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f3d021fe01bf0d0800000000000000
+      internalID: -3388095675680080091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 538
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a41127b70c3e190800000000000000
+      internalID: -7934286482069435764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 534
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c14bf57125d0e0800000000000000
+      internalID: -2245852048564041245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 534
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7391766a1a34601c0800000000000000
+      internalID: -4537865212968625865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb49da60eb480d1a0800000000000000
+      internalID: -6786778686756645698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 530
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660edd1fd68060300800000000000000
+      internalID: 217870900276355174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 530
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a8a791bf87a6a50800000000000000
+      internalID: 6515152830804429384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 509
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca2e57d0f755590800000000000000
+      internalID: -7686097493248791502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 509
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0642967aec0fa6130800000000000000
+      internalID: 3560923225752413280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 504
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443653013ef79430800000000000000
+      internalID: 3789777097918395470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 503
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874fd8afcd0ddac90800000000000000
+      internalID: -7156834585306860424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 484
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf0295b6e71dc560800000000000000
+      internalID: 7335545647712571341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 483
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfece1c07d75ab20800000000000000
+      internalID: 3145057838031499203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 487
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4042f7cae921d0800000000000000
+      internalID: -3374908301253784151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 493
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb16a5ad61ce29920800000000000000
+      internalID: 2995716285051593151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 484
+        width: 144
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2de13ad9f143120800000000000000
+      internalID: 2392572063947608830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 481
+        width: 239
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d06be05d59d3a540800000000000000
+      internalID: 5018093404633653459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 497
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d6aa8b401c6370800000000000000
+      internalID: 8317040528481244379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 486
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90051a527fcf31c60800000000000000
+      internalID: 7787846319072169993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 486
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec86dc882645f0010800000000000000
+      internalID: 1157236411436198094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 495
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13557eec8de59b370800000000000000
+      internalID: 8338800470330398001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 464
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc24df42ed2c580800000000000000
+      internalID: -8808233670734066837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 450
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ca0074fcb9be10800000000000000
+      internalID: 2214008449867105116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 446
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd966274f2a686a0800000000000000
+      internalID: -6447286645759238725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 446
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253e1f86dfb72840800000000000000
+      internalID: 5199335223067555111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 446
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deab327c373022590800000000000000
+      internalID: -7700588617052996883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 444
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d0a92a17aa05d0800000000000000
+      internalID: -3095478063054399360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 444
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4670dc49bcff2b5d0800000000000000
+      internalID: -3048092747936495772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 444
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e570c1390c33fcb0800000000000000
+      internalID: -4831451965051341342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 462
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6be116943ddf230800000000000000
+      internalID: 3674325183119668903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb3013431adfbc10800000000000000
+      internalID: 2071614129878088671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 435
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1124a4b5da434b0800000000000000
+      internalID: -5461549840494095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 445
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646897951723dc40800000000000000
+      internalID: 5535811340659614822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 436
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041e3ff5ca11f9b0800000000000000
+      internalID: -5048224269612477438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 436
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd451c43255cf0e0800000000000000
+      internalID: -2234817704993927732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 340
+        width: 16
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ff226ddd5960c0800000000000000
+      internalID: -4582027940456304619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 340
+        width: 16
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80371c502d46c6eb0800000000000000
+      internalID: -4725291055816019192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 383
+        width: 21
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08213edadf181a2d0800000000000000
+      internalID: -3269188927950220672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 340
+        width: 21
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3c7d2fd2152750800000000000000
+      internalID: 6279446005188147982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 340
+        width: 21
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43240699b8aa05230800000000000000
+      internalID: 3625585216583647796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 437
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40513af36bff49fe0800000000000000
+      internalID: -1183039643874814716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 448
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8c33a3987108c90800000000000000
+      internalID: -7169704728619398960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 436
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3807025090f1c1780800000000000000
+      internalID: -8711053455640203133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 445
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e081e439f791fd6c0800000000000000
+      internalID: -4116543498670434290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 433
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80631fe877dd3ca70800000000000000
+      internalID: 8846157598654805512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 442
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddacfa13fe0b13ce0800000000000000
+      internalID: -1427165065522459939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 433
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7feb06cb3d53c30800000000000000
+      internalID: 4338606622071781353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 432
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36318319fa9e176f0800000000000000
+      internalID: -688512327746055325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 432
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3331e23e98a35640800000000000000
+      internalID: 5067579403133858623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 436
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b756f97dd726f20800000000000000
+      internalID: 3414429832545925917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542c44acda129120800000000000000
+      internalID: 2419025484802958419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 388
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f71cb7e25cc2b80800000000000000
+      internalID: -8418136800026853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 404
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e207811cff0a2b60800000000000000
+      internalID: 7722002086380372709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 402
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be12eca298320fe0800000000000000
+      internalID: -1224353946074472782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 397
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a02dd5b0566750800000000000000
+      internalID: 6297809870953423898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 397
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3c8e15080822c50800000000000000
+      internalID: 6639010089315910645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 144
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b4ce1d7f2c4e7d0800000000000000
+      internalID: -2889970691230381200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 388
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f825ac59787ffc20800000000000000
+      internalID: 3242442719370750194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d9342f42a62f90800000000000000
+      internalID: -6978712111770118491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd6fef29885fe90800000000000000
+      internalID: -6992532681498633252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab95ebcb2f9352000800000000000000
+      internalID: 10478288849754554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58919dd80917100800000000000000
+      internalID: 104023205313349046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2843b8a0e3f75b0800000000000000
+      internalID: -5368504015796272427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a8cd4e0c5e6b60800000000000000
+      internalID: 7741226026000752749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 366
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54af19cc5ce3d60b0800000000000000
+      internalID: -5733857731311175099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 372
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201379d45e28b8f80800000000000000
+      internalID: -8103239183162199806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 366
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906cae4f5204a1660800000000000000
+      internalID: 7357263473030120969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 362
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9694a901ebc012c00800000000000000
+      internalID: 873993813148453225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 339
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed964f589f860f0800000000000000
+      internalID: -1123373753302393197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 356
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e598cef6ac152d320800000000000000
+      internalID: 2581215466339731806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 360
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74b09ba44456220800000000000000
+      internalID: 2478462257660119030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 356
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a62b879663575b0800000000000000
+      internalID: -5371327153945023917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c979095657b80dec0800000000000000
+      internalID: -3544179570409171044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d60b0a4ea2cabe0800000000000000
+      internalID: -1464748617365426926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 356
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd37369825f7b6c0800000000000000
+      internalID: -4127560978794070603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8307344442ff8ea40800000000000000
+      internalID: 5397844684632715320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 348
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb80823c27a5a00800000000000000
+      internalID: 746034870799088653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 343
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d5ef4b6d7a94c0800000000000000
+      internalID: -4279970596006800825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 349
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e5abf0121b353c0800000000000000
+      internalID: -4371956057690710471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 335
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da39521f8fe06110800000000000000
+      internalID: 1252264094176197334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 335
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d87d7a14670ad0800000000000000
+      internalID: -2736108183667288478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 335
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6814d953a731a40800000000000000
+      internalID: 5337744354054342310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 347
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f34b97f1d5114e0800000000000000
+      internalID: -2012725168690675922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 350
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16cf550d922eead0800000000000000
+      internalID: -2671159471188752867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 346
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7847278201a0d46e0800000000000000
+      internalID: -1851812807265061753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 346
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11717074be3b6a520800000000000000
+      internalID: 2713053648627635985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 340
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e571353c9dbf47e00800000000000000
+      internalID: 1041734326532904798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad0589a722a843b0800000000000000
+      internalID: -5527990251365790289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50275097e9108a10800000000000000
+      internalID: 1909554724354859102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5d031cf7dc2900800000000000000
+      internalID: 661140722967993014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88fe517047824890800000000000000
+      internalID: -7475263720631895922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9300bca7098b1970800000000000000
+      internalID: 8726719369015460765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa27a535064a680800000000000000
+      internalID: -8744758665330643164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 268
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938afc4534de4570800000000000000
+      internalID: 8452926876010840984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 272
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0847ebfd34c8a83f0800000000000000
+      internalID: -897750952562494336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 269
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f22c148f21ce60800000000000000
+      internalID: 7980712259131470797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 267
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b61b530e095741f0800000000000000
+      internalID: -1060781270501747024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 262
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca036cec3aef3b00800000000000000
+      internalID: 810624005334829771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 287
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be57cf42eeca22cf0800000000000000
+      internalID: -278470088120830485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 287
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8d8889cd173f10800000000000000
+      internalID: 2249299290311461817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fc2b1d69d4dbf0800000000000000
+      internalID: -300376212496386011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 287
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce6f5aed9082e330800000000000000
+      internalID: 3738692056401276621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 194
+        width: 14
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9671a0891cf2870c0800000000000000
+      internalID: -4577856512696117399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 194
+        width: 48
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6308d2d4ba6b69980800000000000000
+      internalID: -8532431597156335562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 193
+        width: 48
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962123a4b8514e50800000000000000
+      internalID: 6791807245905634975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 227
+        width: 14
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a009e38479255f0800000000000000
+      internalID: -769386249783866852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 205
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ea8b43b80f78580800000000000000
+      internalID: -8824820464133558750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 239
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfd782d19407c90800000000000000
+      internalID: -7174153816818975340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 239
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41701904e4f06aa0800000000000000
+      internalID: -6169662229255786161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_196
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 239
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46624fa6f8b3641a0800000000000000
+      internalID: -6825702698072660380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_197
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 239
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2816d862d24d09e0800000000000000
+      internalID: -1653592016705677267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_198
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 177
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f315aa6457aba310800000000000000
+      internalID: 1417410488746447859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_199
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 206
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1fc68d30f660160800000000000000
+      internalID: 6991397533845877216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_200
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 203
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaed9a89401f1550800000000000000
+      internalID: 6133639125546166954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_201
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 193
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e0721296db982b0800000000000000
+      internalID: -5581722003923595717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_202
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f7b19d6c296760800000000000000
+      internalID: 7451535907569006345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_203
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 199
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36c5ae305cb7bf40800000000000000
+      internalID: 5744266902568814143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_204
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6aa4dc51244aa70800000000000000
+      internalID: 8837261030213723823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_205
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 180
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b4f13473dd7400800000000000000
+      internalID: 323647244248331235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_206
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 147
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a65967271177620800000000000000
+      internalID: 2771703278983277146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_207
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffe57dc90480f80800000000000000
+      internalID: -8140185284099768572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_208
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4879c62eddb79b0800000000000000
+      internalID: -5081223790003256119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_209
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eaf57635ec4d3a0800000000000000
+      internalID: -6641456692852707813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_210
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 158
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b38f24affdd2e510800000000000000
+      internalID: 1577066909574071218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_211
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 155
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9483d42110501f980800000000000000
+      internalID: -8507012718965999543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_212
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 129
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb07a5f62316f640800000000000000
+      internalID: 5113295484976827378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_213
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 127
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15db4fe646c0d0b0800000000000000
+      internalID: -5705842719913683684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_214
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e7a6c02287bf8d0800000000000000
+      internalID: -2811521454730215876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_215
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c43082fb9d8b60800000000000000
+      internalID: 7750021999609824160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_216
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 95
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1416b9803533e3390800000000000000
+      internalID: -7836769869858381503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_217
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 95
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143d23b580ca02be0800000000000000
+      internalID: -1504013123651972287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_218
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc1c69037147b420800000000000000
+      internalID: 2645655268438580471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_219
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2
+        width: 82
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661e78897f15a740800000000000000
+      internalID: 5162567154691610215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_220
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58c0078a1eab1d50800000000000000
+      internalID: 6709147498855843932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_221
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 104
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc316b8aef12770800000000000000
+      internalID: 8584422365307587590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_222
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 106
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7f4274740439e0800000000000000
+      internalID: -1642683065902858767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_223
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 133
+        width: 98
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f8d4c230f304a80800000000000000
+      internalID: -8484712415105282240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_224
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 121
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bdcae93ac569d0800000000000000
+      internalID: -2781594844730117273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_225
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 101
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e759b6519df13a50800000000000000
+      internalID: 6499254537939408864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_226
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 107
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b68e4611368e0d0800000000000000
+      internalID: -3393353392865121446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_227
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 113
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072cdbb82f8991b10800000000000000
+      internalID: 1952760080935797360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_228
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809fe26192305ee0800000000000000
+      internalID: -1274463094534336381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_229
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdca3665842b6410800000000000000
+      internalID: 1471309858630979011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_230
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a91b84e3fa633900800000000000000
+      internalID: 662991165897513383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_231
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 13
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acaa8f408dbfca40800000000000000
+      internalID: 5390735637773724835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_232
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 13
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a89879e97909380800000000000000
+      internalID: -8966500150691657117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_233
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 52
+        width: 194
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2059b4b9df5450800000000000000
+      internalID: 6079817392199838546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_234
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2
+        width: 14
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f3e167373258020800000000000000
+      internalID: 2343318159926116126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_235
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2
+        width: 16
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af2869d0a785fc20800000000000000
+      internalID: 3239644631874940839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_236
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 47
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de635b919ac73620800000000000000
+      internalID: 2753892423885352665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_237
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 36
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbd6b7b747eab050800000000000000
+      internalID: 5817216163913325513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_238
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f6027451cd5d50800000000000000
+      internalID: 6727745986795861788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_239
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 29
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39184452c908930800000000000000
+      internalID: 4143483341057921979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_240
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36a99d74cc49dd0800000000000000
+      internalID: -2480132885808782337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_241
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c6a0454a1f7290800000000000000
+      internalID: -7890559137390082464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_242
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 4
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0ec86eab7716a0800000000000000
+      internalID: -6478573549936309601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_Street_Rasak_243
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa417793c9eb971a0800000000000000
+      internalID: -6811203383232883537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_SciFi_Street_Rasak_0: 822647422205152407
+      Tileset_SciFi_Street_Rasak_1: -8015105602735401493
+      Tileset_SciFi_Street_Rasak_10: 5520203296451584073
+      Tileset_SciFi_Street_Rasak_100: -3374908301253784151
+      Tileset_SciFi_Street_Rasak_101: 2995716285051593151
+      Tileset_SciFi_Street_Rasak_102: 2392572063947608830
+      Tileset_SciFi_Street_Rasak_103: 5018093404633653459
+      Tileset_SciFi_Street_Rasak_104: 8317040528481244379
+      Tileset_SciFi_Street_Rasak_105: 7787846319072169993
+      Tileset_SciFi_Street_Rasak_106: 1157236411436198094
+      Tileset_SciFi_Street_Rasak_107: 8338800470330398001
+      Tileset_SciFi_Street_Rasak_108: -8808233670734066837
+      Tileset_SciFi_Street_Rasak_109: 2214008449867105116
+      Tileset_SciFi_Street_Rasak_11: 5606876904421675870
+      Tileset_SciFi_Street_Rasak_110: -6447286645759238725
+      Tileset_SciFi_Street_Rasak_111: 5199335223067555111
+      Tileset_SciFi_Street_Rasak_112: -7700588617052996883
+      Tileset_SciFi_Street_Rasak_113: -3095478063054399360
+      Tileset_SciFi_Street_Rasak_114: -3048092747936495772
+      Tileset_SciFi_Street_Rasak_115: -4831451965051341342
+      Tileset_SciFi_Street_Rasak_116: 3674325183119668903
+      Tileset_SciFi_Street_Rasak_117: 2071614129878088671
+      Tileset_SciFi_Street_Rasak_118: -5461549840494095906
+      Tileset_SciFi_Street_Rasak_119: 5535811340659614822
+      Tileset_SciFi_Street_Rasak_12: -8479401228769907379
+      Tileset_SciFi_Street_Rasak_120: -5048224269612477438
+      Tileset_SciFi_Street_Rasak_121: -2234817704993927732
+      Tileset_SciFi_Street_Rasak_122: -4582027940456304619
+      Tileset_SciFi_Street_Rasak_123: -4725291055816019192
+      Tileset_SciFi_Street_Rasak_124: -3269188927950220672
+      Tileset_SciFi_Street_Rasak_125: 6279446005188147982
+      Tileset_SciFi_Street_Rasak_126: 3625585216583647796
+      Tileset_SciFi_Street_Rasak_127: -1183039643874814716
+      Tileset_SciFi_Street_Rasak_128: -7169704728619398960
+      Tileset_SciFi_Street_Rasak_129: -8711053455640203133
+      Tileset_SciFi_Street_Rasak_13: -4386202436706104937
+      Tileset_SciFi_Street_Rasak_130: -4116543498670434290
+      Tileset_SciFi_Street_Rasak_131: 8846157598654805512
+      Tileset_SciFi_Street_Rasak_132: -1427165065522459939
+      Tileset_SciFi_Street_Rasak_133: 4338606622071781353
+      Tileset_SciFi_Street_Rasak_134: -688512327746055325
+      Tileset_SciFi_Street_Rasak_135: 5067579403133858623
+      Tileset_SciFi_Street_Rasak_136: 3414429832545925917
+      Tileset_SciFi_Street_Rasak_137: 2419025484802958419
+      Tileset_SciFi_Street_Rasak_138: -8418136800026853577
+      Tileset_SciFi_Street_Rasak_139: 7722002086380372709
+      Tileset_SciFi_Street_Rasak_14: 8732901243354903821
+      Tileset_SciFi_Street_Rasak_140: -1224353946074472782
+      Tileset_SciFi_Street_Rasak_141: 6297809870953423898
+      Tileset_SciFi_Street_Rasak_142: 6639010089315910645
+      Tileset_SciFi_Street_Rasak_143: -2889970691230381200
+      Tileset_SciFi_Street_Rasak_144: 3242442719370750194
+      Tileset_SciFi_Street_Rasak_145: -6978712111770118491
+      Tileset_SciFi_Street_Rasak_146: -6992532681498633252
+      Tileset_SciFi_Street_Rasak_147: 10478288849754554
+      Tileset_SciFi_Street_Rasak_148: 104023205313349046
+      Tileset_SciFi_Street_Rasak_149: -5368504015796272427
+      Tileset_SciFi_Street_Rasak_15: 1001752135470443200
+      Tileset_SciFi_Street_Rasak_150: 7741226026000752749
+      Tileset_SciFi_Street_Rasak_151: -5733857731311175099
+      Tileset_SciFi_Street_Rasak_152: -8103239183162199806
+      Tileset_SciFi_Street_Rasak_153: 7357263473030120969
+      Tileset_SciFi_Street_Rasak_154: 873993813148453225
+      Tileset_SciFi_Street_Rasak_155: -1123373753302393197
+      Tileset_SciFi_Street_Rasak_156: 2581215466339731806
+      Tileset_SciFi_Street_Rasak_157: 2478462257660119030
+      Tileset_SciFi_Street_Rasak_158: -5371327153945023917
+      Tileset_SciFi_Street_Rasak_159: -3544179570409171044
+      Tileset_SciFi_Street_Rasak_16: -8355538646363171929
+      Tileset_SciFi_Street_Rasak_160: -1464748617365426926
+      Tileset_SciFi_Street_Rasak_161: -4127560978794070603
+      Tileset_SciFi_Street_Rasak_162: 5397844684632715320
+      Tileset_SciFi_Street_Rasak_163: 746034870799088653
+      Tileset_SciFi_Street_Rasak_164: -4279970596006800825
+      Tileset_SciFi_Street_Rasak_165: -4371956057690710471
+      Tileset_SciFi_Street_Rasak_166: 1252264094176197334
+      Tileset_SciFi_Street_Rasak_167: -2736108183667288478
+      Tileset_SciFi_Street_Rasak_168: 5337744354054342310
+      Tileset_SciFi_Street_Rasak_169: -2012725168690675922
+      Tileset_SciFi_Street_Rasak_17: 5254917856353755669
+      Tileset_SciFi_Street_Rasak_170: -2671159471188752867
+      Tileset_SciFi_Street_Rasak_171: -1851812807265061753
+      Tileset_SciFi_Street_Rasak_172: 2713053648627635985
+      Tileset_SciFi_Street_Rasak_173: 1041734326532904798
+      Tileset_SciFi_Street_Rasak_174: -5527990251365790289
+      Tileset_SciFi_Street_Rasak_175: 1909554724354859102
+      Tileset_SciFi_Street_Rasak_176: 661140722967993014
+      Tileset_SciFi_Street_Rasak_177: -7475263720631895922
+      Tileset_SciFi_Street_Rasak_178: 8726719369015460765
+      Tileset_SciFi_Street_Rasak_179: -8744758665330643164
+      Tileset_SciFi_Street_Rasak_18: 186656937109018499
+      Tileset_SciFi_Street_Rasak_180: 8452926876010840984
+      Tileset_SciFi_Street_Rasak_181: -897750952562494336
+      Tileset_SciFi_Street_Rasak_182: 7980712259131470797
+      Tileset_SciFi_Street_Rasak_183: -1060781270501747024
+      Tileset_SciFi_Street_Rasak_184: 810624005334829771
+      Tileset_SciFi_Street_Rasak_185: -278470088120830485
+      Tileset_SciFi_Street_Rasak_186: 2249299290311461817
+      Tileset_SciFi_Street_Rasak_187: -300376212496386011
+      Tileset_SciFi_Street_Rasak_188: 3738692056401276621
+      Tileset_SciFi_Street_Rasak_189: -4577856512696117399
+      Tileset_SciFi_Street_Rasak_19: -6399448844527011088
+      Tileset_SciFi_Street_Rasak_190: -8532431597156335562
+      Tileset_SciFi_Street_Rasak_191: 6791807245905634975
+      Tileset_SciFi_Street_Rasak_192: -769386249783866852
+      Tileset_SciFi_Street_Rasak_193: -8824820464133558750
+      Tileset_SciFi_Street_Rasak_194: -7174153816818975340
+      Tileset_SciFi_Street_Rasak_195: -6169662229255786161
+      Tileset_SciFi_Street_Rasak_196: -6825702698072660380
+      Tileset_SciFi_Street_Rasak_197: -1653592016705677267
+      Tileset_SciFi_Street_Rasak_198: 1417410488746447859
+      Tileset_SciFi_Street_Rasak_199: 6991397533845877216
+      Tileset_SciFi_Street_Rasak_2: 4897194635074502652
+      Tileset_SciFi_Street_Rasak_20: 3258415593385250086
+      Tileset_SciFi_Street_Rasak_200: 6133639125546166954
+      Tileset_SciFi_Street_Rasak_201: -5581722003923595717
+      Tileset_SciFi_Street_Rasak_202: 7451535907569006345
+      Tileset_SciFi_Street_Rasak_203: 5744266902568814143
+      Tileset_SciFi_Street_Rasak_204: 8837261030213723823
+      Tileset_SciFi_Street_Rasak_205: 323647244248331235
+      Tileset_SciFi_Street_Rasak_206: 2771703278983277146
+      Tileset_SciFi_Street_Rasak_207: -8140185284099768572
+      Tileset_SciFi_Street_Rasak_208: -5081223790003256119
+      Tileset_SciFi_Street_Rasak_209: -6641456692852707813
+      Tileset_SciFi_Street_Rasak_21: -1609434940850959713
+      Tileset_SciFi_Street_Rasak_210: 1577066909574071218
+      Tileset_SciFi_Street_Rasak_211: -8507012718965999543
+      Tileset_SciFi_Street_Rasak_212: 5113295484976827378
+      Tileset_SciFi_Street_Rasak_213: -5705842719913683684
+      Tileset_SciFi_Street_Rasak_214: -2811521454730215876
+      Tileset_SciFi_Street_Rasak_215: 7750021999609824160
+      Tileset_SciFi_Street_Rasak_216: -7836769869858381503
+      Tileset_SciFi_Street_Rasak_217: -1504013123651972287
+      Tileset_SciFi_Street_Rasak_218: 2645655268438580471
+      Tileset_SciFi_Street_Rasak_219: 5162567154691610215
+      Tileset_SciFi_Street_Rasak_22: 3200854155610876092
+      Tileset_SciFi_Street_Rasak_220: 6709147498855843932
+      Tileset_SciFi_Street_Rasak_221: 8584422365307587590
+      Tileset_SciFi_Street_Rasak_222: -1642683065902858767
+      Tileset_SciFi_Street_Rasak_223: -8484712415105282240
+      Tileset_SciFi_Street_Rasak_224: -2781594844730117273
+      Tileset_SciFi_Street_Rasak_225: 6499254537939408864
+      Tileset_SciFi_Street_Rasak_226: -3393353392865121446
+      Tileset_SciFi_Street_Rasak_227: 1952760080935797360
+      Tileset_SciFi_Street_Rasak_228: -1274463094534336381
+      Tileset_SciFi_Street_Rasak_229: 1471309858630979011
+      Tileset_SciFi_Street_Rasak_23: 1956016004629943456
+      Tileset_SciFi_Street_Rasak_230: 662991165897513383
+      Tileset_SciFi_Street_Rasak_231: 5390735637773724835
+      Tileset_SciFi_Street_Rasak_232: -8966500150691657117
+      Tileset_SciFi_Street_Rasak_233: 6079817392199838546
+      Tileset_SciFi_Street_Rasak_234: 2343318159926116126
+      Tileset_SciFi_Street_Rasak_235: 3239644631874940839
+      Tileset_SciFi_Street_Rasak_236: 2753892423885352665
+      Tileset_SciFi_Street_Rasak_237: 5817216163913325513
+      Tileset_SciFi_Street_Rasak_238: 6727745986795861788
+      Tileset_SciFi_Street_Rasak_239: 4143483341057921979
+      Tileset_SciFi_Street_Rasak_24: -1424406666382480929
+      Tileset_SciFi_Street_Rasak_240: -2480132885808782337
+      Tileset_SciFi_Street_Rasak_241: -7890559137390082464
+      Tileset_SciFi_Street_Rasak_242: -6478573549936309601
+      Tileset_SciFi_Street_Rasak_243: -6811203383232883537
+      Tileset_SciFi_Street_Rasak_25: -2550838628365721928
+      Tileset_SciFi_Street_Rasak_26: -644084614941835913
+      Tileset_SciFi_Street_Rasak_27: 6704632627556181812
+      Tileset_SciFi_Street_Rasak_28: -6767592373211949481
+      Tileset_SciFi_Street_Rasak_29: -6676794904174583452
+      Tileset_SciFi_Street_Rasak_3: 5114690337197905001
+      Tileset_SciFi_Street_Rasak_30: -6224565677547473827
+      Tileset_SciFi_Street_Rasak_31: -8845109092981983377
+      Tileset_SciFi_Street_Rasak_32: -5974394600623518004
+      Tileset_SciFi_Street_Rasak_33: -1109548345682453978
+      Tileset_SciFi_Street_Rasak_34: 4036320269466204149
+      Tileset_SciFi_Street_Rasak_35: 1275742039335591751
+      Tileset_SciFi_Street_Rasak_36: -7399326802206129571
+      Tileset_SciFi_Street_Rasak_37: -1978214352175188772
+      Tileset_SciFi_Street_Rasak_38: -8935101877476563828
+      Tileset_SciFi_Street_Rasak_39: -2385937576290870348
+      Tileset_SciFi_Street_Rasak_4: -9023978470944699287
+      Tileset_SciFi_Street_Rasak_40: -5948942052999010216
+      Tileset_SciFi_Street_Rasak_41: -1716076096761058951
+      Tileset_SciFi_Street_Rasak_42: -4006543638824323569
+      Tileset_SciFi_Street_Rasak_43: -5151694049597575418
+      Tileset_SciFi_Street_Rasak_44: -7586273352649571951
+      Tileset_SciFi_Street_Rasak_45: 5189939205533972209
+      Tileset_SciFi_Street_Rasak_46: -769569852339636977
+      Tileset_SciFi_Street_Rasak_47: 7126633598509896525
+      Tileset_SciFi_Street_Rasak_48: 4961072142285852785
+      Tileset_SciFi_Street_Rasak_49: -377270347128140505
+      Tileset_SciFi_Street_Rasak_5: -5017569139020825248
+      Tileset_SciFi_Street_Rasak_50: -118965160869801084
+      Tileset_SciFi_Street_Rasak_51: -2898698411900553151
+      Tileset_SciFi_Street_Rasak_52: 8917275313646406751
+      Tileset_SciFi_Street_Rasak_53: -7676880970473618854
+      Tileset_SciFi_Street_Rasak_54: -883548448374109103
+      Tileset_SciFi_Street_Rasak_55: -4399160753945252894
+      Tileset_SciFi_Street_Rasak_56: 2050738384800115334
+      Tileset_SciFi_Street_Rasak_57: -1246252485924692475
+      Tileset_SciFi_Street_Rasak_58: -6642658518824941290
+      Tileset_SciFi_Street_Rasak_59: 632674160322536081
+      Tileset_SciFi_Street_Rasak_6: 3656636345237111902
+      Tileset_SciFi_Street_Rasak_60: -8058030797440480098
+      Tileset_SciFi_Street_Rasak_61: -7006870250820858322
+      Tileset_SciFi_Street_Rasak_62: -2815445312620598797
+      Tileset_SciFi_Street_Rasak_63: -3607306738432278603
+      Tileset_SciFi_Street_Rasak_64: -4836819574339308203
+      Tileset_SciFi_Street_Rasak_65: 4902811753083605253
+      Tileset_SciFi_Street_Rasak_66: -9065377143176475400
+      Tileset_SciFi_Street_Rasak_67: 4602105472307564910
+      Tileset_SciFi_Street_Rasak_68: 4585682632183517622
+      Tileset_SciFi_Street_Rasak_69: 5624331717876725521
+      Tileset_SciFi_Street_Rasak_7: 8728946218369183651
+      Tileset_SciFi_Street_Rasak_70: 6178401330093320882
+      Tileset_SciFi_Street_Rasak_71: -19836101970612805
+      Tileset_SciFi_Street_Rasak_72: 8420387039105538945
+      Tileset_SciFi_Street_Rasak_73: 723470586358939381
+      Tileset_SciFi_Street_Rasak_74: 4171901127131353815
+      Tileset_SciFi_Street_Rasak_75: 8554227201170336663
+      Tileset_SciFi_Street_Rasak_76: 9085830607166827646
+      Tileset_SciFi_Street_Rasak_77: 3259286566164034653
+      Tileset_SciFi_Street_Rasak_78: -4680498203500843426
+      Tileset_SciFi_Street_Rasak_79: -8474245971649632609
+      Tileset_SciFi_Street_Rasak_8: -4807164634605141558
+      Tileset_SciFi_Street_Rasak_80: 8174469151633064525
+      Tileset_SciFi_Street_Rasak_81: 3228551962604586954
+      Tileset_SciFi_Street_Rasak_82: 2482160568270708663
+      Tileset_SciFi_Street_Rasak_83: 5760569077027396712
+      Tileset_SciFi_Street_Rasak_84: -3856169216888206971
+      Tileset_SciFi_Street_Rasak_85: -2547438321108962337
+      Tileset_SciFi_Street_Rasak_86: 3694501802098693910
+      Tileset_SciFi_Street_Rasak_87: -3388095675680080091
+      Tileset_SciFi_Street_Rasak_88: -7934286482069435764
+      Tileset_SciFi_Street_Rasak_89: -2245852048564041245
+      Tileset_SciFi_Street_Rasak_9: 7264685349265464938
+      Tileset_SciFi_Street_Rasak_90: -4537865212968625865
+      Tileset_SciFi_Street_Rasak_91: -6786778686756645698
+      Tileset_SciFi_Street_Rasak_92: 217870900276355174
+      Tileset_SciFi_Street_Rasak_93: 6515152830804429384
+      Tileset_SciFi_Street_Rasak_94: -7686097493248791502
+      Tileset_SciFi_Street_Rasak_95: 3560923225752413280
+      Tileset_SciFi_Street_Rasak_96: 3789777097918395470
+      Tileset_SciFi_Street_Rasak_97: -7156834585306860424
+      Tileset_SciFi_Street_Rasak_98: 7335545647712571341
+      Tileset_SciFi_Street_Rasak_99: 3145057838031499203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

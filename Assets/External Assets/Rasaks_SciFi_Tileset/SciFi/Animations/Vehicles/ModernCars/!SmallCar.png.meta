@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: d3b385973c49164439924aedb8c9cfa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4193368073153018251
+    second: '!SmallCar_0'
+  - first:
+      213: 5485439326252969218
+    second: '!SmallCar_1'
+  - first:
+      213: 7238370152320754762
+    second: '!SmallCar_2'
+  - first:
+      213: -6729985246038771117
+    second: '!SmallCar_3'
+  - first:
+      213: -255693772547191628
+    second: '!SmallCar_4'
+  - first:
+      213: -629447924952090789
+    second: '!SmallCar_5'
+  - first:
+      213: 229012501077855561
+    second: '!SmallCar_6'
+  - first:
+      213: -4162522152204821578
+    second: '!SmallCar_7'
+  - first:
+      213: 1025226223321597141
+    second: '!SmallCar_8'
+  - first:
+      213: -8035983223499536504
+    second: '!SmallCar_9'
+  - first:
+      213: 3059717830165806861
+    second: '!SmallCar_10'
+  - first:
+      213: 6505874714474432119
+    second: '!SmallCar_11'
+  - first:
+      213: 2628700632182919950
+    second: '!SmallCar_12'
+  - first:
+      213: 7605962498633116058
+    second: '!SmallCar_13'
+  - first:
+      213: 1626745786262094005
+    second: '!SmallCar_14'
+  - first:
+      213: 30707839986102361
+    second: '!SmallCar_15'
+  - first:
+      213: -9079281761921254822
+    second: '!SmallCar_16'
+  - first:
+      213: 1233738311896918907
+    second: '!SmallCar_17'
+  - first:
+      213: -629275020656144442
+    second: '!SmallCar_18'
+  - first:
+      213: -7060324304674814477
+    second: '!SmallCar_19'
+  - first:
+      213: 49167704119836350
+    second: '!SmallCar_20'
+  - first:
+      213: 156743894995132080
+    second: '!SmallCar_21'
+  - first:
+      213: 3834754638010132250
+    second: '!SmallCar_22'
+  - first:
+      213: -7512183657548361465
+    second: '!SmallCar_23'
+  - first:
+      213: 1983986784294480072
+    second: '!SmallCar_24'
+  - first:
+      213: -5395076834765795875
+    second: '!SmallCar_25'
+  - first:
+      213: 1775778276207722469
+    second: '!SmallCar_26'
+  - first:
+      213: 7670540707989219702
+    second: '!SmallCar_27'
+  - first:
+      213: -1784017193816924395
+    second: '!SmallCar_28'
+  - first:
+      213: -2839194126937869608
+    second: '!SmallCar_29'
+  - first:
+      213: 3206006831734637058
+    second: '!SmallCar_30'
+  - first:
+      213: 2182626251275871163
+    second: '!SmallCar_31'
+  - first:
+      213: -5431033649785879778
+    second: '!SmallCar_32'
+  - first:
+      213: -1596018607409374046
+    second: '!SmallCar_33'
+  - first:
+      213: -1975840016655314725
+    second: '!SmallCar_34'
+  - first:
+      213: 958329809963313673
+    second: '!SmallCar_35'
+  - first:
+      213: -8742497638864421822
+    second: '!SmallCar_36'
+  - first:
+      213: -3752720555328708950
+    second: '!SmallCar_37'
+  - first:
+      213: 5119414447115047941
+    second: '!SmallCar_38'
+  - first:
+      213: -6604110382930056050
+    second: '!SmallCar_39'
+  - first:
+      213: -6775510173403695671
+    second: '!SmallCar_40'
+  - first:
+      213: -1854503197556093965
+    second: '!SmallCar_41'
+  - first:
+      213: 2620319053023785740
+    second: '!SmallCar_42'
+  - first:
+      213: 3518937055624953571
+    second: '!SmallCar_43'
+  - first:
+      213: -7985264681781560388
+    second: '!SmallCar_44'
+  - first:
+      213: 3070044971894184503
+    second: '!SmallCar_45'
+  - first:
+      213: -4052357588739385937
+    second: '!SmallCar_46'
+  - first:
+      213: -8102507822888252707
+    second: '!SmallCar_47'
+  - first:
+      213: 5980005473316415792
+    second: '!SmallCar_48'
+  - first:
+      213: 2523827112635427201
+    second: '!SmallCar_49'
+  - first:
+      213: 729660323519994003
+    second: '!SmallCar_50'
+  - first:
+      213: -6726539825271940927
+    second: '!SmallCar_51'
+  - first:
+      213: 1498947149822746969
+    second: '!SmallCar_52'
+  - first:
+      213: -8299267344723216076
+    second: '!SmallCar_53'
+  - first:
+      213: 7492894244313278481
+    second: '!SmallCar_54'
+  - first:
+      213: -8758383705076041722
+    second: '!SmallCar_55'
+  - first:
+      213: 3546869251134397188
+    second: '!SmallCar_56'
+  - first:
+      213: 8643408212809376163
+    second: '!SmallCar_57'
+  - first:
+      213: -231144707951266513
+    second: '!SmallCar_58'
+  - first:
+      213: 5942117035381658267
+    second: '!SmallCar_59'
+  - first:
+      213: -7139891152500565341
+    second: '!SmallCar_60'
+  - first:
+      213: 6144276242365177107
+    second: '!SmallCar_61'
+  - first:
+      213: -8743305211799167639
+    second: '!SmallCar_62'
+  - first:
+      213: -5345744574366258306
+    second: '!SmallCar_63'
+  - first:
+      213: -3578718375042026367
+    second: '!SmallCar_64'
+  - first:
+      213: -910550457689928365
+    second: '!SmallCar_65'
+  - first:
+      213: -5757302955085462414
+    second: '!SmallCar_66'
+  - first:
+      213: 2544660557268942400
+    second: '!SmallCar_67'
+  - first:
+      213: 8729722077299957915
+    second: '!SmallCar_68'
+  - first:
+      213: 6507970748094901925
+    second: '!SmallCar_69'
+  - first:
+      213: -2397685932678961751
+    second: '!SmallCar_70'
+  - first:
+      213: 586154898536435913
+    second: '!SmallCar_71'
+  - first:
+      213: -7650650770027664320
+    second: '!SmallCar_72'
+  - first:
+      213: -8025136481318999453
+    second: '!SmallCar_73'
+  - first:
+      213: -4953763380109351446
+    second: '!SmallCar_74'
+  - first:
+      213: -7571938816424320933
+    second: '!SmallCar_75'
+  - first:
+      213: 4810496198481361814
+    second: '!SmallCar_76'
+  - first:
+      213: 6334291724697329770
+    second: '!SmallCar_77'
+  - first:
+      213: -7932113859669746745
+    second: '!SmallCar_78'
+  - first:
+      213: -8646143799738339017
+    second: '!SmallCar_79'
+  - first:
+      213: 9078038146680862062
+    second: '!SmallCar_80'
+  - first:
+      213: 8170277919275398334
+    second: '!SmallCar_81'
+  - first:
+      213: -6810947067594876686
+    second: '!SmallCar_82'
+  - first:
+      213: 3528779315058910610
+    second: '!SmallCar_83'
+  - first:
+      213: -3758369557303037541
+    second: '!SmallCar_84'
+  - first:
+      213: -4621692163307695741
+    second: '!SmallCar_85'
+  - first:
+      213: -2354748313511828325
+    second: '!SmallCar_86'
+  - first:
+      213: -6707963147658109271
+    second: '!SmallCar_87'
+  - first:
+      213: -4765277712935606408
+    second: '!SmallCar_88'
+  - first:
+      213: -398994126938722173
+    second: '!SmallCar_89'
+  - first:
+      213: -760962935184421340
+    second: '!SmallCar_90'
+  - first:
+      213: 7598067091100904877
+    second: '!SmallCar_91'
+  - first:
+      213: -5800321162091765540
+    second: '!SmallCar_92'
+  - first:
+      213: -5526883221671924655
+    second: '!SmallCar_93'
+  - first:
+      213: -7520290292911970008
+    second: '!SmallCar_94'
+  - first:
+      213: -6788710114689594758
+    second: '!SmallCar_95'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!SmallCar_0'
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576004374f92ec5c0800000000000000
+      internalID: -4193368073153018251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_1'
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d244e0102302c40800000000000000
+      internalID: 5485439326252969218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_2'
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a446ed19d4bd37460800000000000000
+      internalID: 7238370152320754762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_3'
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a3d32631a4a92a0800000000000000
+      internalID: -6729985246038771117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_4'
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc8b0c5ed7937cf0800000000000000
+      internalID: -255693772547191628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_5'
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57bf9c7270c347f0800000000000000
+      internalID: -629447924952090789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_6'
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d8ed708ad9d2300800000000000000
+      internalID: 229012501077855561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_7'
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb13241820cb36c0800000000000000
+      internalID: -4162522152204821578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_8'
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4cf7771d55a3e00800000000000000
+      internalID: 1025226223321597141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_9'
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887cf4ea5d37a7090800000000000000
+      internalID: -8035983223499536504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_10'
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f36fbc72d467a20800000000000000
+      internalID: 3059717830165806861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_11'
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1016
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c17d4592894a50800000000000000
+      internalID: 6505874714474432119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039b1a2c450b7420800000000000000
+      internalID: 2628700632182919950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_13'
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9928f9289ecd8960800000000000000
+      internalID: 7605962498633116058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_14'
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0040a7cac539610800000000000000
+      internalID: 1626745786262094005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_15'
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950f0362e981d6000800000000000000
+      internalID: 30707839986102361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_16'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a30057759eff180800000000000000
+      internalID: -9079281761921254822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_17'
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7be762457e1f1110800000000000000
+      internalID: 1233738311896918907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_18'
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf83c7e3bd5447f0800000000000000
+      internalID: -629275020656144442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_19'
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f50dccb370b40e90800000000000000
+      internalID: -7060324304674814477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_20'
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebefb7234cdaea000800000000000000
+      internalID: 49167704119836350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_21'
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be55e5fdbddc2200800000000000000
+      internalID: 156743894995132080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_22'
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17206f9609c73530800000000000000
+      internalID: 3834754638010132250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_23'
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 864
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701d554c3cc5fb790800000000000000
+      internalID: -7512183657548361465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c821fcf779888b10800000000000000
+      internalID: 1983986784294480072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_25'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd88dff336d025b0800000000000000
+      internalID: -5395076834765795875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_26'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef77390fe4d4a810800000000000000
+      internalID: 1775778276207722469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_27'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679eed6322c337a60800000000000000
+      internalID: 7670540707989219702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_28'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f5a5970d5ed37e0800000000000000
+      internalID: -1784017193816924395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_29'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d23e77fbf72998d0800000000000000
+      internalID: -2839194126937869608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_30'
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202c4013a360e7c20800000000000000
+      internalID: 3206006831734637058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_31'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3adb0f20f3a4e10800000000000000
+      internalID: 2182626251275871163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_32'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13c15d9ba711a4b0800000000000000
+      internalID: -5431033649785879778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_33'
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac537a588dc9d9e0800000000000000
+      internalID: -1596018607409374046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_34'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0124a29f76494e0800000000000000
+      internalID: -1975840016655314725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_35'
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 720
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ae78c72ebac4d00800000000000000
+      internalID: 958329809963313673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_36'
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c7bc997b86ca680800000000000000
+      internalID: -8742497638864421822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_37'
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae5356a988abebc0800000000000000
+      internalID: -3752720555328708950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_38'
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049b4ad050db0740800000000000000
+      internalID: 5119414447115047941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_39'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c2cf7c89c7954a0800000000000000
+      internalID: -6604110382930056050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_40'
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c53a3e356d88f1a0800000000000000
+      internalID: -6775510173403695671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_41'
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc7dada2b7346e0800000000000000
+      internalID: -1854503197556093965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_42'
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03bba1bb4e3d5420800000000000000
+      internalID: 2620319053023785740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_43'
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eefb73ab96c5d030800000000000000
+      internalID: 3518937055624953571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_44'
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbffe46414ae2190800000000000000
+      internalID: -7985264681781560388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_45'
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a1a3ad2adfa9a20800000000000000
+      internalID: 3070044971894184503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_46'
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5945c4e3223c7c0800000000000000
+      internalID: -4052357588739385937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_47'
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 587
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0ce2601c1e8f80800000000000000
+      internalID: -8102507822888252707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_48'
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039aae76b4f3df250800000000000000
+      internalID: 5980005473316415792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_49'
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189622b136f660320800000000000000
+      internalID: 2523827112635427201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_50'
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981b16c236402a00800000000000000
+      internalID: 729660323519994003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_51'
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8d52beaa786a2a0800000000000000
+      internalID: -6726539825271940927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_52'
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951e442bd745dc410800000000000000
+      internalID: 1498947149822746969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_53'
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f5c5425413dc80800000000000000
+      internalID: -8299267344723216076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_54'
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118acdbbd9b1cf760800000000000000
+      internalID: 7492894244313278481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_55'
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6087f549c68f37680800000000000000
+      internalID: -8758383705076041722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_56'
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1f92bac2093130800000000000000
+      internalID: 3546869251134397188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_57'
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1623d89fd83f770800000000000000
+      internalID: 8643408212809376163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_58'
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f257adedc1fcaccf0800000000000000
+      internalID: -231144707951266513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_59'
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 440
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9298b306f3a67250800000000000000
+      internalID: 5942117035381658267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_60'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aadf3853d20aec90800000000000000
+      internalID: -7139891152500565341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_61'
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5c0c40bad44550800000000000000
+      internalID: 6144276242365177107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_62'
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d93efdb3a89a680800000000000000
+      internalID: -8743305211799167639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_63'
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b6de0f1a910d5b0800000000000000
+      internalID: -5345744574366258306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_64'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f4784996d55ec0800000000000000
+      internalID: -3578718375042026367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_65'
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d825bde231d53f0800000000000000
+      internalID: -910550457689928365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_66'
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27403d14773f910b0800000000000000
+      internalID: -5757302955085462414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_67'
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e76fd6b43705320800000000000000
+      internalID: 2544660557268942400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_68'
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90695d2af3362970800000000000000
+      internalID: 8729722077299957915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_69'
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae64d82ae4f05a50800000000000000
+      internalID: 6507970748094901925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_70'
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a528b30955b9bed0800000000000000
+      internalID: -2397685932678961751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_71'
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 288
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c09e9e46c0722800800000000000000
+      internalID: 586154898536435913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_72'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04caee7d8ad63d590800000000000000
+      internalID: -7650650770027664320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_73'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ae3f4a3ecf0a090800000000000000
+      internalID: -8025136481318999453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_74'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae56e33b372b04bb0800000000000000
+      internalID: -4953763380109351446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_75'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50690aa3c11be690800000000000000
+      internalID: -7571938816424320933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_76'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b39df2ec052c240800000000000000
+      internalID: 4810496198481361814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_77'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e74a53cce7e750800000000000000
+      internalID: 6334291724697329770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_78'
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb9e6488787be190800000000000000
+      internalID: -7932113859669746745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_79'
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73176abf50ab20880800000000000000
+      internalID: -8646143799738339017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_80'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65bb5ec89babfd70800000000000000
+      internalID: 9078038146680862062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_81'
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b0a6ca78a26170800000000000000
+      internalID: 8170277919275398334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_82'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 144
+        width: 145
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d40c5ab7aa71a0800000000000000
+      internalID: -6810947067594876686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_83'
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 144
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29525dc371eb8f030800000000000000
+      internalID: 3528779315058910610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_84'
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b917f42ecc697dbc0800000000000000
+      internalID: -3758369557303037541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_85'
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38196d8d6737cdfb0800000000000000
+      internalID: -4621692163307695741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_86'
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b946da582e0425fd0800000000000000
+      internalID: -2354748313511828325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_87'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae5d69be0788e2a0800000000000000
+      internalID: -6707963147658109271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_88'
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8772368ea255eddb0800000000000000
+      internalID: -4765277712935606408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_89'
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b95c94fc767af0800000000000000
+      internalID: -398994126938722173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_90'
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e08110e348075f0800000000000000
+      internalID: -760962935184421340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_91'
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dada7a853c1c17960800000000000000
+      internalID: 7598067091100904877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_92'
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0e65e62ae118fa0800000000000000
+      internalID: -5800321162091765540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_93'
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cad291ef09c43b0800000000000000
+      internalID: -5526883221671924655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_94'
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e923a2df82a790800000000000000
+      internalID: -7520290292911970008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!SmallCar_95'
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 11
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a43da6e18a9c1a0800000000000000
+      internalID: -6788710114689594758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!SmallCar_0': -4193368073153018251
+      '!SmallCar_1': 5485439326252969218
+      '!SmallCar_10': 3059717830165806861
+      '!SmallCar_11': 6505874714474432119
+      '!SmallCar_12': 2628700632182919950
+      '!SmallCar_13': 7605962498633116058
+      '!SmallCar_14': 1626745786262094005
+      '!SmallCar_15': 30707839986102361
+      '!SmallCar_16': -9079281761921254822
+      '!SmallCar_17': 1233738311896918907
+      '!SmallCar_18': -629275020656144442
+      '!SmallCar_19': -7060324304674814477
+      '!SmallCar_2': 7238370152320754762
+      '!SmallCar_20': 49167704119836350
+      '!SmallCar_21': 156743894995132080
+      '!SmallCar_22': 3834754638010132250
+      '!SmallCar_23': -7512183657548361465
+      '!SmallCar_24': 1983986784294480072
+      '!SmallCar_25': -5395076834765795875
+      '!SmallCar_26': 1775778276207722469
+      '!SmallCar_27': 7670540707989219702
+      '!SmallCar_28': -1784017193816924395
+      '!SmallCar_29': -2839194126937869608
+      '!SmallCar_3': -6729985246038771117
+      '!SmallCar_30': 3206006831734637058
+      '!SmallCar_31': 2182626251275871163
+      '!SmallCar_32': -5431033649785879778
+      '!SmallCar_33': -1596018607409374046
+      '!SmallCar_34': -1975840016655314725
+      '!SmallCar_35': 958329809963313673
+      '!SmallCar_36': -8742497638864421822
+      '!SmallCar_37': -3752720555328708950
+      '!SmallCar_38': 5119414447115047941
+      '!SmallCar_39': -6604110382930056050
+      '!SmallCar_4': -255693772547191628
+      '!SmallCar_40': -6775510173403695671
+      '!SmallCar_41': -1854503197556093965
+      '!SmallCar_42': 2620319053023785740
+      '!SmallCar_43': 3518937055624953571
+      '!SmallCar_44': -7985264681781560388
+      '!SmallCar_45': 3070044971894184503
+      '!SmallCar_46': -4052357588739385937
+      '!SmallCar_47': -8102507822888252707
+      '!SmallCar_48': 5980005473316415792
+      '!SmallCar_49': 2523827112635427201
+      '!SmallCar_5': -629447924952090789
+      '!SmallCar_50': 729660323519994003
+      '!SmallCar_51': -6726539825271940927
+      '!SmallCar_52': 1498947149822746969
+      '!SmallCar_53': -8299267344723216076
+      '!SmallCar_54': 7492894244313278481
+      '!SmallCar_55': -8758383705076041722
+      '!SmallCar_56': 3546869251134397188
+      '!SmallCar_57': 8643408212809376163
+      '!SmallCar_58': -231144707951266513
+      '!SmallCar_59': 5942117035381658267
+      '!SmallCar_6': 229012501077855561
+      '!SmallCar_60': -7139891152500565341
+      '!SmallCar_61': 6144276242365177107
+      '!SmallCar_62': -8743305211799167639
+      '!SmallCar_63': -5345744574366258306
+      '!SmallCar_64': -3578718375042026367
+      '!SmallCar_65': -910550457689928365
+      '!SmallCar_66': -5757302955085462414
+      '!SmallCar_67': 2544660557268942400
+      '!SmallCar_68': 8729722077299957915
+      '!SmallCar_69': 6507970748094901925
+      '!SmallCar_7': -4162522152204821578
+      '!SmallCar_70': -2397685932678961751
+      '!SmallCar_71': 586154898536435913
+      '!SmallCar_72': -7650650770027664320
+      '!SmallCar_73': -8025136481318999453
+      '!SmallCar_74': -4953763380109351446
+      '!SmallCar_75': -7571938816424320933
+      '!SmallCar_76': 4810496198481361814
+      '!SmallCar_77': 6334291724697329770
+      '!SmallCar_78': -7932113859669746745
+      '!SmallCar_79': -8646143799738339017
+      '!SmallCar_8': 1025226223321597141
+      '!SmallCar_80': 9078038146680862062
+      '!SmallCar_81': 8170277919275398334
+      '!SmallCar_82': -6810947067594876686
+      '!SmallCar_83': 3528779315058910610
+      '!SmallCar_84': -3758369557303037541
+      '!SmallCar_85': -4621692163307695741
+      '!SmallCar_86': -2354748313511828325
+      '!SmallCar_87': -6707963147658109271
+      '!SmallCar_88': -4765277712935606408
+      '!SmallCar_89': -398994126938722173
+      '!SmallCar_9': -8035983223499536504
+      '!SmallCar_90': -760962935184421340
+      '!SmallCar_91': 7598067091100904877
+      '!SmallCar_92': -5800321162091765540
+      '!SmallCar_93': -5526883221671924655
+      '!SmallCar_94': -7520290292911970008
+      '!SmallCar_95': -6788710114689594758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

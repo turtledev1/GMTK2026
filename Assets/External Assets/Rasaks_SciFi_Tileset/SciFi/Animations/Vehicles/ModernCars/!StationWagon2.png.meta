@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: a20b115e206e11048a9055309e256fa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7450876381875099914
+    second: '!StationWagon2_0'
+  - first:
+      213: 2848879165040751730
+    second: '!StationWagon2_1'
+  - first:
+      213: -907770929082707903
+    second: '!StationWagon2_2'
+  - first:
+      213: 1882867695198974099
+    second: '!StationWagon2_3'
+  - first:
+      213: -8328408194315459633
+    second: '!StationWagon2_4'
+  - first:
+      213: 4011414313934808691
+    second: '!StationWagon2_5'
+  - first:
+      213: 764198468243991463
+    second: '!StationWagon2_6'
+  - first:
+      213: 1555791498916224162
+    second: '!StationWagon2_7'
+  - first:
+      213: -4791785590409828092
+    second: '!StationWagon2_8'
+  - first:
+      213: 4948301088943199155
+    second: '!StationWagon2_9'
+  - first:
+      213: 6971570581844704280
+    second: '!StationWagon2_10'
+  - first:
+      213: 1992875175688160816
+    second: '!StationWagon2_11'
+  - first:
+      213: -2462146822662651324
+    second: '!StationWagon2_12'
+  - first:
+      213: -1604483545650878805
+    second: '!StationWagon2_13'
+  - first:
+      213: 5230779813176502337
+    second: '!StationWagon2_14'
+  - first:
+      213: 3066125069977626004
+    second: '!StationWagon2_15'
+  - first:
+      213: 1432326149508883676
+    second: '!StationWagon2_16'
+  - first:
+      213: 1454668017435588056
+    second: '!StationWagon2_17'
+  - first:
+      213: -4911065247406662485
+    second: '!StationWagon2_18'
+  - first:
+      213: 8272925404887038388
+    second: '!StationWagon2_19'
+  - first:
+      213: -2499756233452498296
+    second: '!StationWagon2_20'
+  - first:
+      213: 5711167022596191049
+    second: '!StationWagon2_21'
+  - first:
+      213: 8574197427103896411
+    second: '!StationWagon2_22'
+  - first:
+      213: -1815728136287120731
+    second: '!StationWagon2_23'
+  - first:
+      213: -2939649333962847373
+    second: '!StationWagon2_24'
+  - first:
+      213: 234949894751047454
+    second: '!StationWagon2_25'
+  - first:
+      213: 1766510008184893370
+    second: '!StationWagon2_26'
+  - first:
+      213: 2362064783240372977
+    second: '!StationWagon2_27'
+  - first:
+      213: -9141545948640791485
+    second: '!StationWagon2_28'
+  - first:
+      213: 3449836701742233994
+    second: '!StationWagon2_29'
+  - first:
+      213: -218667320530525326
+    second: '!StationWagon2_30'
+  - first:
+      213: -8418761550709617347
+    second: '!StationWagon2_31'
+  - first:
+      213: 2357093643704390028
+    second: '!StationWagon2_32'
+  - first:
+      213: 8770465188475642021
+    second: '!StationWagon2_33'
+  - first:
+      213: 7604951728337697005
+    second: '!StationWagon2_34'
+  - first:
+      213: 122991549162428682
+    second: '!StationWagon2_35'
+  - first:
+      213: 2680614603435066644
+    second: '!StationWagon2_36'
+  - first:
+      213: -8410389785777277184
+    second: '!StationWagon2_37'
+  - first:
+      213: 3097492228561304289
+    second: '!StationWagon2_38'
+  - first:
+      213: -6028311405011491678
+    second: '!StationWagon2_39'
+  - first:
+      213: -2925897360690825430
+    second: '!StationWagon2_40'
+  - first:
+      213: 1858506385526722243
+    second: '!StationWagon2_41'
+  - first:
+      213: 2344893872696396545
+    second: '!StationWagon2_42'
+  - first:
+      213: 7903340220608313774
+    second: '!StationWagon2_43'
+  - first:
+      213: 2247496697440161107
+    second: '!StationWagon2_44'
+  - first:
+      213: 4808055634463528693
+    second: '!StationWagon2_45'
+  - first:
+      213: -8171754017552080110
+    second: '!StationWagon2_46'
+  - first:
+      213: -2300770430256930286
+    second: '!StationWagon2_47'
+  - first:
+      213: -4864443748197730727
+    second: '!StationWagon2_48'
+  - first:
+      213: 2227707567757176916
+    second: '!StationWagon2_49'
+  - first:
+      213: -6474484903602505664
+    second: '!StationWagon2_50'
+  - first:
+      213: -7406396855488393334
+    second: '!StationWagon2_51'
+  - first:
+      213: -2164332462325222597
+    second: '!StationWagon2_52'
+  - first:
+      213: 2828868703903307392
+    second: '!StationWagon2_53'
+  - first:
+      213: -7067960514303750022
+    second: '!StationWagon2_54'
+  - first:
+      213: 8701914401554258093
+    second: '!StationWagon2_55'
+  - first:
+      213: -4345161965471975707
+    second: '!StationWagon2_56'
+  - first:
+      213: -2965744638143417315
+    second: '!StationWagon2_57'
+  - first:
+      213: 3497586774123156561
+    second: '!StationWagon2_58'
+  - first:
+      213: 3305141806574004078
+    second: '!StationWagon2_59'
+  - first:
+      213: 6875176223344431306
+    second: '!StationWagon2_60'
+  - first:
+      213: -7097911574145661151
+    second: '!StationWagon2_61'
+  - first:
+      213: -7349557038255066783
+    second: '!StationWagon2_62'
+  - first:
+      213: -2526043354476727662
+    second: '!StationWagon2_63'
+  - first:
+      213: 6245017128449170443
+    second: '!StationWagon2_64'
+  - first:
+      213: 2522468386114503405
+    second: '!StationWagon2_65'
+  - first:
+      213: 1032166430002365740
+    second: '!StationWagon2_66'
+  - first:
+      213: -5582522609002164783
+    second: '!StationWagon2_67'
+  - first:
+      213: 5651623051128580687
+    second: '!StationWagon2_68'
+  - first:
+      213: 5197689387644850433
+    second: '!StationWagon2_69'
+  - first:
+      213: -9038236050537976433
+    second: '!StationWagon2_70'
+  - first:
+      213: -6272921833446457733
+    second: '!StationWagon2_71'
+  - first:
+      213: 118688219270762937
+    second: '!StationWagon2_72'
+  - first:
+      213: -3908283172978819884
+    second: '!StationWagon2_73'
+  - first:
+      213: -6149824503833226556
+    second: '!StationWagon2_74'
+  - first:
+      213: 5562641371419619067
+    second: '!StationWagon2_75'
+  - first:
+      213: 7499990206792125308
+    second: '!StationWagon2_76'
+  - first:
+      213: 3689978584051960
+    second: '!StationWagon2_77'
+  - first:
+      213: -1349230735636044772
+    second: '!StationWagon2_78'
+  - first:
+      213: 2920067343435630729
+    second: '!StationWagon2_79'
+  - first:
+      213: -7840087336478585426
+    second: '!StationWagon2_80'
+  - first:
+      213: -7847443907333866263
+    second: '!StationWagon2_81'
+  - first:
+      213: -2067311403833950791
+    second: '!StationWagon2_82'
+  - first:
+      213: -6248629316355930935
+    second: '!StationWagon2_83'
+  - first:
+      213: 591371007365961323
+    second: '!StationWagon2_84'
+  - first:
+      213: -2105255225318381913
+    second: '!StationWagon2_85'
+  - first:
+      213: -1472304852774741061
+    second: '!StationWagon2_86'
+  - first:
+      213: 3937848232601872292
+    second: '!StationWagon2_87'
+  - first:
+      213: -5909402500168488679
+    second: '!StationWagon2_88'
+  - first:
+      213: 1235949618417374309
+    second: '!StationWagon2_89'
+  - first:
+      213: -6982803190711766502
+    second: '!StationWagon2_90'
+  - first:
+      213: 8466559189706973514
+    second: '!StationWagon2_91'
+  - first:
+      213: -5713333405445476594
+    second: '!StationWagon2_92'
+  - first:
+      213: -8022951663092570203
+    second: '!StationWagon2_93'
+  - first:
+      213: 5969996833457746588
+    second: '!StationWagon2_94'
+  - first:
+      213: 3118049838456970420
+    second: '!StationWagon2_95'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!StationWagon2_0'
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1343
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6acf8386b299890800000000000000
+      internalID: -7450876381875099914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_1'
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1344
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274f340b180498720800000000000000
+      internalID: 2848879165040751730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_2'
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1343
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140599a4623f663f0800000000000000
+      internalID: -907770929082707903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_3'
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1343
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b463613a412a10800000000000000
+      internalID: 1882867695198974099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_4'
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1344
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ef518fdc8b6c80800000000000000
+      internalID: -8328408194315459633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_5'
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1343
+        width: 104
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376600da0186ba730800000000000000
+      internalID: 4011414313934808691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_6'
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1343
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba49d357afa9a00800000000000000
+      internalID: 764198468243991463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_7'
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1344
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac59751028479510800000000000000
+      internalID: 1555791498916224162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_8'
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1343
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40969cbb468208db0800000000000000
+      internalID: -4791785590409828092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_9'
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1343
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b353288f95eba440800000000000000
+      internalID: 4948301088943199155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_10'
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1344
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cba69d18effb060800000000000000
+      internalID: 6971570581844704280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_11'
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1343
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364690e96d18ab10800000000000000
+      internalID: 1992875175688160816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_12'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44206528282b4ddd0800000000000000
+      internalID: -2462146822662651324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_13'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6258557babbb9e0800000000000000
+      internalID: -1604483545650878805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_14'
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1486ba6b686779840800000000000000
+      internalID: 5230779813176502337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_15'
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495afe091801d8a20800000000000000
+      internalID: 3066125069977626004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_16'
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4eaff4b05a0e310800000000000000
+      internalID: 1432326149508883676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_17'
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5be5dcad4003410800000000000000
+      internalID: 1454668017435588056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_18'
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5f8b6d2468dbb0800000000000000
+      internalID: -4911065247406662485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_19'
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9b89be2d55fc270800000000000000
+      internalID: 8272925404887038388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_20'
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882deff23f41f4dd0800000000000000
+      internalID: -2499756233452498296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_21'
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94375c2e524224f40800000000000000
+      internalID: 5711167022596191049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_22'
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b539894c12badf670800000000000000
+      internalID: 8574197427103896411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_23'
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1153
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a29ce351ec3dc6e0800000000000000
+      internalID: -1815728136287120731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_24'
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b4ee471844437d0800000000000000
+      internalID: -2939649333962847373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_25'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fc6a83fa5b24300800000000000000
+      internalID: 234949894751047454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_26'
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf680a3e77e38810800000000000000
+      internalID: 1766510008184893370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_27'
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a085d76db7c020800000000000000
+      internalID: 2362064783240372977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_28'
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ba59c464b22180800000000000000
+      internalID: -9141545948640791485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_29'
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897374c33840ef20800000000000000
+      internalID: 3449836701742233994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_30'
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273aac30b3327fcf0800000000000000
+      internalID: -218667320530525326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_31'
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8c3169fc8a2b80800000000000000
+      internalID: -8418761550709617347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_32'
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81d4573e2416b020800000000000000
+      internalID: 2357093643704390028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_33'
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0250afe93f6b970800000000000000
+      internalID: 8770465188475642021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_34'
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8bf8ddd473a8960800000000000000
+      internalID: 7604951728337697005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_35'
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 961
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09933e8924f4b100800000000000000
+      internalID: 122991549162428682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_36'
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c87187c4733520800000000000000
+      internalID: 2680614603435066644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_37'
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 771
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007fb2ccc0b484b80800000000000000
+      internalID: -8410389785777277184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_38'
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eafde945c08cfa20800000000000000
+      internalID: 3097492228561304289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_39'
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4aadc67b2275ca0800000000000000
+      internalID: -6028311405011491678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_40'
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 771
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2735ce3adf1567d0800000000000000
+      internalID: -2925897360690825430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_41'
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8d1af5bdbac910800000000000000
+      internalID: 1858506385526722243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_42'
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b0f0ead8cba8020800000000000000
+      internalID: 2344893872696396545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_43'
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 771
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea97a649e0e4ead60800000000000000
+      internalID: 7903340220608313774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_44'
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc8cca656b03f10800000000000000
+      internalID: 2247496697440161107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_45'
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f693881025a9b240800000000000000
+      internalID: 4808055634463528693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_46'
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 771
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213efef4409189e80800000000000000
+      internalID: -8171754017552080110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_47'
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 770
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21220d2db750210e0800000000000000
+      internalID: -2300770430256930286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_48'
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956fdc61f260e7cb0800000000000000
+      internalID: -4864443748197730727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_49'
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 576
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450bd9fda386aee10800000000000000
+      internalID: 2227707567757176916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_50'
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048b42198420626a0800000000000000
+      internalID: -6474484903602505664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_51'
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4b0bfc41373990800000000000000
+      internalID: -7406396855488393334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_52'
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 576
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333247b71fb6f1e0800000000000000
+      internalID: -2164332462325222597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_53'
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08650642919224720800000000000000
+      internalID: 2828868703903307392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_54'
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7010722c5f89ed90800000000000000
+      internalID: -7067960514303750022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_55'
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 576
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da85f722b0963c870800000000000000
+      internalID: 8701914401554258093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_56'
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6318cc632e2b3c0800000000000000
+      internalID: -4345161965471975707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_57'
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1431fcf6fe87d6d0800000000000000
+      internalID: -2965744638143417315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_58'
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 576
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15417bad3ace98030800000000000000
+      internalID: 3497586774123156561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_59'
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 575
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e22136f83edd20800000000000000
+      internalID: 3305141806574004078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_60'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac018a05958896f50800000000000000
+      internalID: 6875176223344431306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_61'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1270ae797072f7d90800000000000000
+      internalID: -7097911574145661151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_62'
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b55630d0210a90800000000000000
+      internalID: -7349557038255066783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_63'
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292bd21e3f0b1fcd0800000000000000
+      internalID: -2526043354476727662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_64'
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c5175adf1caa650800000000000000
+      internalID: 6245017128449170443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_65'
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2028fe1ab910320800000000000000
+      internalID: 2522468386114503405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_66'
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25cf5146edf25e00800000000000000
+      internalID: 1032166430002365740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_67'
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 385
+        width: 176
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc6dbb345e682b0800000000000000
+      internalID: -5582522609002164783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_68'
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aadeea8399e6e40800000000000000
+      internalID: 5651623051128580687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_69'
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1019363a5f6e12840800000000000000
+      internalID: 5197689387644850433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_70'
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ded8bd23cb19280800000000000000
+      internalID: -9038236050537976433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_71'
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 385
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb1ade3da12f8a0800000000000000
+      internalID: -6272921833446457733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_72'
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b158ac7e4aa5a100800000000000000
+      internalID: 118688219270762937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_73'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcf5f0492df2c9c0800000000000000
+      internalID: -3908283172978819884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_74'
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2170a623f67aaa0800000000000000
+      internalID: -6149824503833226556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_75'
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeab5cead8723d40800000000000000
+      internalID: 5562641371419619067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_76'
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bc0ce3b51551860800000000000000
+      internalID: 7499990206792125308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_77'
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f03bb6140c1d0000800000000000000
+      internalID: 3689978584051960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_78'
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ef526bc1964de0800000000000000
+      internalID: -1349230735636044772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_79'
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 193
+        width: 176
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98803b517c9268820800000000000000
+      internalID: 2920067343435630729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_80'
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc7252b1a623390800000000000000
+      internalID: -7840087336478585426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_81'
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecbf840857481390800000000000000
+      internalID: -7847443907333866263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_82'
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdfc563b3f6f43e0800000000000000
+      internalID: -2067311403833950791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_83'
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 193
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c443815eb86849a0800000000000000
+      internalID: -6248629316355930935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_84'
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6653884cc8f43800800000000000000
+      internalID: 591371007365961323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_85'
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6ec55d681a8c2e0800000000000000
+      internalID: -2105255225318381913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_86'
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb17497982519be0800000000000000
+      internalID: -1472304852774741061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_87'
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a762ab9a1c06a630800000000000000
+      internalID: 3937848232601872292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_88'
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919e6a64cb59dfda0800000000000000
+      internalID: -5909402500168488679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_89'
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5641c0e21a9f62110800000000000000
+      internalID: 1235949618417374309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_90'
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1239299e79181f90800000000000000
+      internalID: -6982803190711766502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_91'
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ad4ca9b24f7570800000000000000
+      internalID: 8466559189706973514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_92'
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fac0dc98926b0b0800000000000000
+      internalID: -5713333405445476594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_93'
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7ec3748ffb8a090800000000000000
+      internalID: -8022951663092570203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_94'
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 3
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b4785d70b9d250800000000000000
+      internalID: 5969996833457746588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!StationWagon2_95'
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 2
+        width: 104
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1135dec9854b20800000000000000
+      internalID: 3118049838456970420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!StationWagon2_0': -7450876381875099914
+      '!StationWagon2_1': 2848879165040751730
+      '!StationWagon2_10': 6971570581844704280
+      '!StationWagon2_11': 1992875175688160816
+      '!StationWagon2_12': -2462146822662651324
+      '!StationWagon2_13': -1604483545650878805
+      '!StationWagon2_14': 5230779813176502337
+      '!StationWagon2_15': 3066125069977626004
+      '!StationWagon2_16': 1432326149508883676
+      '!StationWagon2_17': 1454668017435588056
+      '!StationWagon2_18': -4911065247406662485
+      '!StationWagon2_19': 8272925404887038388
+      '!StationWagon2_2': -907770929082707903
+      '!StationWagon2_20': -2499756233452498296
+      '!StationWagon2_21': 5711167022596191049
+      '!StationWagon2_22': 8574197427103896411
+      '!StationWagon2_23': -1815728136287120731
+      '!StationWagon2_24': -2939649333962847373
+      '!StationWagon2_25': 234949894751047454
+      '!StationWagon2_26': 1766510008184893370
+      '!StationWagon2_27': 2362064783240372977
+      '!StationWagon2_28': -9141545948640791485
+      '!StationWagon2_29': 3449836701742233994
+      '!StationWagon2_3': 1882867695198974099
+      '!StationWagon2_30': -218667320530525326
+      '!StationWagon2_31': -8418761550709617347
+      '!StationWagon2_32': 2357093643704390028
+      '!StationWagon2_33': 8770465188475642021
+      '!StationWagon2_34': 7604951728337697005
+      '!StationWagon2_35': 122991549162428682
+      '!StationWagon2_36': 2680614603435066644
+      '!StationWagon2_37': -8410389785777277184
+      '!StationWagon2_38': 3097492228561304289
+      '!StationWagon2_39': -6028311405011491678
+      '!StationWagon2_4': -8328408194315459633
+      '!StationWagon2_40': -2925897360690825430
+      '!StationWagon2_41': 1858506385526722243
+      '!StationWagon2_42': 2344893872696396545
+      '!StationWagon2_43': 7903340220608313774
+      '!StationWagon2_44': 2247496697440161107
+      '!StationWagon2_45': 4808055634463528693
+      '!StationWagon2_46': -8171754017552080110
+      '!StationWagon2_47': -2300770430256930286
+      '!StationWagon2_48': -4864443748197730727
+      '!StationWagon2_49': 2227707567757176916
+      '!StationWagon2_5': 4011414313934808691
+      '!StationWagon2_50': -6474484903602505664
+      '!StationWagon2_51': -7406396855488393334
+      '!StationWagon2_52': -2164332462325222597
+      '!StationWagon2_53': 2828868703903307392
+      '!StationWagon2_54': -7067960514303750022
+      '!StationWagon2_55': 8701914401554258093
+      '!StationWagon2_56': -4345161965471975707
+      '!StationWagon2_57': -2965744638143417315
+      '!StationWagon2_58': 3497586774123156561
+      '!StationWagon2_59': 3305141806574004078
+      '!StationWagon2_6': 764198468243991463
+      '!StationWagon2_60': 6875176223344431306
+      '!StationWagon2_61': -7097911574145661151
+      '!StationWagon2_62': -7349557038255066783
+      '!StationWagon2_63': -2526043354476727662
+      '!StationWagon2_64': 6245017128449170443
+      '!StationWagon2_65': 2522468386114503405
+      '!StationWagon2_66': 1032166430002365740
+      '!StationWagon2_67': -5582522609002164783
+      '!StationWagon2_68': 5651623051128580687
+      '!StationWagon2_69': 5197689387644850433
+      '!StationWagon2_7': 1555791498916224162
+      '!StationWagon2_70': -9038236050537976433
+      '!StationWagon2_71': -6272921833446457733
+      '!StationWagon2_72': 118688219270762937
+      '!StationWagon2_73': -3908283172978819884
+      '!StationWagon2_74': -6149824503833226556
+      '!StationWagon2_75': 5562641371419619067
+      '!StationWagon2_76': 7499990206792125308
+      '!StationWagon2_77': 3689978584051960
+      '!StationWagon2_78': -1349230735636044772
+      '!StationWagon2_79': 2920067343435630729
+      '!StationWagon2_8': -4791785590409828092
+      '!StationWagon2_80': -7840087336478585426
+      '!StationWagon2_81': -7847443907333866263
+      '!StationWagon2_82': -2067311403833950791
+      '!StationWagon2_83': -6248629316355930935
+      '!StationWagon2_84': 591371007365961323
+      '!StationWagon2_85': -2105255225318381913
+      '!StationWagon2_86': -1472304852774741061
+      '!StationWagon2_87': 3937848232601872292
+      '!StationWagon2_88': -5909402500168488679
+      '!StationWagon2_89': 1235949618417374309
+      '!StationWagon2_9': 4948301088943199155
+      '!StationWagon2_90': -6982803190711766502
+      '!StationWagon2_91': 8466559189706973514
+      '!StationWagon2_92': -5713333405445476594
+      '!StationWagon2_93': -8022951663092570203
+      '!StationWagon2_94': 5969996833457746588
+      '!StationWagon2_95': 3118049838456970420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

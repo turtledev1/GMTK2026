@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: dfdb8a46b0e224f47bba1d6b35d65981
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3135090011157424937
+    second: Animal_Wolf_0
+  - first:
+      213: 8993372834464213012
+    second: Animal_Wolf_1
+  - first:
+      213: -3141281094859598517
+    second: Animal_Wolf_2
+  - first:
+      213: 5432414110329790977
+    second: Animal_Wolf_3
+  - first:
+      213: 9129337404888947785
+    second: Animal_Wolf_4
+  - first:
+      213: 3410382825147046501
+    second: Animal_Wolf_5
+  - first:
+      213: -7521564276236025173
+    second: Animal_Wolf_6
+  - first:
+      213: 566038588513458154
+    second: Animal_Wolf_7
+  - first:
+      213: 7642730063078544651
+    second: Animal_Wolf_8
+  - first:
+      213: -1919337408157292862
+    second: Animal_Wolf_9
+  - first:
+      213: 2353537481313063280
+    second: Animal_Wolf_10
+  - first:
+      213: -1703659704586236299
+    second: Animal_Wolf_11
+  - first:
+      213: -2621785146145790441
+    second: Animal_Wolf_12
+  - first:
+      213: 5271023060633060427
+    second: Animal_Wolf_13
+  - first:
+      213: -1029872337545527514
+    second: Animal_Wolf_14
+  - first:
+      213: -3577350126958020402
+    second: Animal_Wolf_15
+  - first:
+      213: 2418572017571425253
+    second: Animal_Wolf_16
+  - first:
+      213: -5085720760280055778
+    second: Animal_Wolf_17
+  - first:
+      213: 4436638821277980833
+    second: Animal_Wolf_18
+  - first:
+      213: -542597773889949398
+    second: Animal_Wolf_19
+  - first:
+      213: 6473898152260852381
+    second: Animal_Wolf_20
+  - first:
+      213: -5244591905847841344
+    second: Animal_Wolf_21
+  - first:
+      213: 594567519047144664
+    second: Animal_Wolf_22
+  - first:
+      213: 1233227647580306282
+    second: Animal_Wolf_23
+  - first:
+      213: 5979585176615764305
+    second: Animal_Wolf_24
+  - first:
+      213: -8573978765625102465
+    second: Animal_Wolf_25
+  - first:
+      213: 3801662652507196983
+    second: Animal_Wolf_26
+  - first:
+      213: 2800887333256390551
+    second: Animal_Wolf_27
+  - first:
+      213: 1114390582081076072
+    second: Animal_Wolf_28
+  - first:
+      213: -4689933662969505664
+    second: Animal_Wolf_29
+  - first:
+      213: 493436240441669309
+    second: Animal_Wolf_30
+  - first:
+      213: -9053607630014221191
+    second: Animal_Wolf_31
+  - first:
+      213: 3931506483672821758
+    second: Animal_Wolf_32
+  - first:
+      213: -8550001726741531584
+    second: Animal_Wolf_33
+  - first:
+      213: 6106089200706989693
+    second: Animal_Wolf_34
+  - first:
+      213: 3384221391645162448
+    second: Animal_Wolf_35
+  - first:
+      213: -4319757342595179647
+    second: Animal_Wolf_36
+  - first:
+      213: -221810125205389137
+    second: Animal_Wolf_37
+  - first:
+      213: -7121566762714900483
+    second: Animal_Wolf_38
+  - first:
+      213: -6978915546387632428
+    second: Animal_Wolf_39
+  - first:
+      213: -4038232535097710776
+    second: Animal_Wolf_40
+  - first:
+      213: 6772387869488885464
+    second: Animal_Wolf_41
+  - first:
+      213: -1134495055829798355
+    second: Animal_Wolf_42
+  - first:
+      213: -2976603420228723675
+    second: Animal_Wolf_43
+  - first:
+      213: 2260837246094521946
+    second: Animal_Wolf_44
+  - first:
+      213: -982970248775189595
+    second: Animal_Wolf_45
+  - first:
+      213: 6478303221185395193
+    second: Animal_Wolf_46
+  - first:
+      213: 7740840391346671301
+    second: Animal_Wolf_47
+  - first:
+      213: 1483851227304826767
+    second: Animal_Wolf_48
+  - first:
+      213: 816756078286896539
+    second: Animal_Wolf_49
+  - first:
+      213: 1840230274466526302
+    second: Animal_Wolf_50
+  - first:
+      213: -2272021965386467822
+    second: Animal_Wolf_51
+  - first:
+      213: -3974266876219098109
+    second: Animal_Wolf_52
+  - first:
+      213: 1614066698354024115
+    second: Animal_Wolf_53
+  - first:
+      213: 1008010749439171234
+    second: Animal_Wolf_54
+  - first:
+      213: 2000247924203447977
+    second: Animal_Wolf_55
+  - first:
+      213: 2434455889066122048
+    second: Animal_Wolf_56
+  - first:
+      213: 8276345736083716181
+    second: Animal_Wolf_57
+  - first:
+      213: -6533190799046150710
+    second: Animal_Wolf_58
+  - first:
+      213: -3607070415167801490
+    second: Animal_Wolf_59
+  - first:
+      213: 4743223848000160044
+    second: Animal_Wolf_60
+  - first:
+      213: -3504743678945116726
+    second: Animal_Wolf_61
+  - first:
+      213: -5162120711727792342
+    second: Animal_Wolf_62
+  - first:
+      213: 907714099485364541
+    second: Animal_Wolf_63
+  - first:
+      213: -6363936391434367981
+    second: Animal_Wolf_64
+  - first:
+      213: 8882476449177176186
+    second: Animal_Wolf_65
+  - first:
+      213: -2260643898149886313
+    second: Animal_Wolf_66
+  - first:
+      213: 2822716066930054473
+    second: Animal_Wolf_67
+  - first:
+      213: 721437742128667758
+    second: Animal_Wolf_68
+  - first:
+      213: 7992824082183445405
+    second: Animal_Wolf_69
+  - first:
+      213: -4931752574844028110
+    second: Animal_Wolf_70
+  - first:
+      213: 8547012993295053270
+    second: Animal_Wolf_71
+  - first:
+      213: 4718682103104903705
+    second: Animal_Wolf_72
+  - first:
+      213: 3187809008794764181
+    second: Animal_Wolf_73
+  - first:
+      213: 7916569737450060334
+    second: Animal_Wolf_74
+  - first:
+      213: 8252896100233059163
+    second: Animal_Wolf_75
+  - first:
+      213: -8942998507786317812
+    second: Animal_Wolf_76
+  - first:
+      213: -6646489783280738635
+    second: Animal_Wolf_77
+  - first:
+      213: 7669849629933842906
+    second: Animal_Wolf_78
+  - first:
+      213: 1504794755721734441
+    second: Animal_Wolf_79
+  - first:
+      213: -6415478534361932510
+    second: Animal_Wolf_80
+  - first:
+      213: -2304571943746487372
+    second: Animal_Wolf_81
+  - first:
+      213: -5913360782253845578
+    second: Animal_Wolf_82
+  - first:
+      213: -4996452307552856423
+    second: Animal_Wolf_83
+  - first:
+      213: 6110624471635750573
+    second: Animal_Wolf_84
+  - first:
+      213: 797812198105198868
+    second: Animal_Wolf_85
+  - first:
+      213: 5164052255987826496
+    second: Animal_Wolf_86
+  - first:
+      213: 5906768280140082587
+    second: Animal_Wolf_87
+  - first:
+      213: -4997003565006336000
+    second: Animal_Wolf_88
+  - first:
+      213: -6230168102330034752
+    second: Animal_Wolf_89
+  - first:
+      213: 8987249924951124970
+    second: Animal_Wolf_90
+  - first:
+      213: 4801982309522500041
+    second: Animal_Wolf_91
+  - first:
+      213: 3815844732502910026
+    second: Animal_Wolf_92
+  - first:
+      213: 8365906289699894696
+    second: Animal_Wolf_93
+  - first:
+      213: -8223856257785318820
+    second: Animal_Wolf_94
+  - first:
+      213: -180580537447789083
+    second: Animal_Wolf_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 343
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be9e531c3128b20800000000000000
+      internalID: 3135090011157424937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 344
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41823eaa1f0eecc70800000000000000
+      internalID: 8993372834464213012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 343
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b455e39cc7de764d0800000000000000
+      internalID: -3141281094859598517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 344
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e607e9dfc36b40800000000000000
+      internalID: 5432414110329790977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 344
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c971d100ce1be70800000000000000
+      internalID: 9129337404888947785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 346
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9bf84c1d145f20800000000000000
+      internalID: 3410382825147046501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 343
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba20fa744290e9790800000000000000
+      internalID: -7521564276236025173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 344
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae71285e819fad700800000000000000
+      internalID: 566038588513458154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 343
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05defbdf7e601a60800000000000000
+      internalID: 7642730063078544651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 344
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66aaedbc42d55e0800000000000000
+      internalID: -1919337408157292862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 344
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719b33aed179a020800000000000000
+      internalID: 2353537481313063280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 346
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e8df966826b58e0800000000000000
+      internalID: -1703659704586236299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716a596ec4c8d9bd0800000000000000
+      internalID: -2621785146145790441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 295
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b440debeb8f662940800000000000000
+      internalID: 5271023060633060427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 295
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff894c09825b1f0800000000000000
+      internalID: -1029872337545527514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 297
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f77d5303ba5ec0800000000000000
+      internalID: -3577350126958020402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 295
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb6b039f6e709120800000000000000
+      internalID: 2418572017571425253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 295
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e108da0f9e3eb69b0800000000000000
+      internalID: -5085720760280055778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 295
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85bfa608b129d30800000000000000
+      internalID: 4436638821277980833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 295
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213f5f033e4878f0800000000000000
+      internalID: -542597773889949398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 295
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad09db118e7d950800000000000000
+      internalID: 6473898152260852381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 297
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdec0cd2777737b0800000000000000
+      internalID: -5244591905847841344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 295
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d45ac72204504800800000000000000
+      internalID: 594567519047144664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 295
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf635f20e4d1110800000000000000
+      internalID: 1233227647580306282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 247
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151cf547901cbf250800000000000000
+      internalID: 5979585176615764305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 247
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6c235dbb130980800000000000000
+      internalID: -8573978765625102465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 247
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8f865a0832c430800000000000000
+      internalID: 3801662652507196983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 247
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79763aa9030ced620800000000000000
+      internalID: 2800887333256390551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bbbf1845c177f00800000000000000
+      internalID: 1114390582081076072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 249
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885e8e8e220aeeb0800000000000000
+      internalID: -4689933662969505664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 247
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db674d675a909d600800000000000000
+      internalID: 493436240441669309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 247
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747c3d14df1b5280800000000000000
+      internalID: -9053607630014221191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 247
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa67f11548f8630800000000000000
+      internalID: 3931506483672821758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 247
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0443898baba485980800000000000000
+      internalID: -8550001726741531584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 247
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e2dfec6cf2db450800000000000000
+      internalID: 6106089200706989693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 249
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb942ec6b27fe20800000000000000
+      internalID: 3384221391645162448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b9abe75932d04c0800000000000000
+      internalID: -4319757342595179647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04c87cdd8fbecf0800000000000000
+      internalID: -221810125205389137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 197
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df75620d2cc1b2d90800000000000000
+      internalID: -7121566762714900483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 200
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2d145949e52f90800000000000000
+      internalID: -6978915546387632428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8476311a7e055f7c0800000000000000
+      internalID: -4038232535097710776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 198
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deac0ab2ea5cfd50800000000000000
+      internalID: 6772387869488885464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 197
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22f3dde1c67140f0800000000000000
+      internalID: -1134495055829798355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 198
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdd04c5faf0b6d0800000000000000
+      internalID: -2976603420228723675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_44
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 197
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56bf643f7b106f10800000000000000
+      internalID: 2260837246094521946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 200
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab3af844c9cb52f0800000000000000
+      internalID: -982970248775189595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 197
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f93606c47e87e950800000000000000
+      internalID: 6478303221185395193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_47
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 198
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cec63db25dfc6b60800000000000000
+      internalID: 7740840391346671301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 151
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87180754d2b79410800000000000000
+      internalID: 1483851227304826767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 152
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d7e6a6353b55b00800000000000000
+      internalID: 816756078286896539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 151
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e543f764fafc98910800000000000000
+      internalID: 1840230274466526302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 152
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21631476f082870e0800000000000000
+      internalID: -2272021965386467822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfb58255198d8c0800000000000000
+      internalID: -3974266876219098109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 154
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bedd274c11566610800000000000000
+      internalID: 1614066698354024115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_54
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 151
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aad81a9f6c2dfd00800000000000000
+      internalID: 1008010749439171234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 152
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ebd8a3ee42cb10800000000000000
+      internalID: 2000247924203447977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 151
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd4299bbce8c120800000000000000
+      internalID: 2434455889066122048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_57
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 152
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b695d89c7bd270800000000000000
+      internalID: 8276345736083716181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 152
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5f00525917555a0800000000000000
+      internalID: -6533190799046150710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 154
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e673a18819c11fdc0800000000000000
+      internalID: -3607070415167801490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21063685f053d140800000000000000
+      internalID: 4743223848000160044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd3ea36136ac5fc0800000000000000
+      internalID: -3504743678945116726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f37c110967c58b0800000000000000
+      internalID: -5162120711727792342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 105
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3150790a29d89c00800000000000000
+      internalID: 907714099485364541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c8f5fc191cea7a0800000000000000
+      internalID: -6363936391434367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 103
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a788af6e445e44b70800000000000000
+      internalID: 8882476449177176186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 103
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962f1f1a5490a0e0800000000000000
+      internalID: -2260643898149886313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 103
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9455727be4d4c2720800000000000000
+      internalID: 2822716066930054473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_68
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 103
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c932bddcf030a00800000000000000
+      internalID: 721437742128667758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 105
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b5bbaa7273cee60800000000000000
+      internalID: 7992824082183445405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 103
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bbd48a925ee8bb0800000000000000
+      internalID: -4931752574844028110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 103
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1fffb88071d9670800000000000000
+      internalID: 8547012993295053270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9f834f502c7140800000000000000
+      internalID: 4718682103104903705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593800d576f5d3c20800000000000000
+      internalID: 3187809008794764181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 55
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a71508b3e4ddd60800000000000000
+      internalID: 7916569737450060334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 55
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b1996074d288270800000000000000
+      internalID: 8252896100233059163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 55
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005c8c3d3614e380800000000000000
+      internalID: -8942998507786317812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 57
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed948b1cce2c3a0800000000000000
+      internalID: -6646489783280738635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 55
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13ed01a97c07a60800000000000000
+      internalID: 7669849629933842906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_79
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 55
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292aaa8bda12e410800000000000000
+      internalID: 1504794755721734441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_80
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 55
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d963f7344a7f6a0800000000000000
+      internalID: -6415478534361932510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_81
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 55
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb8adf6048400e0800000000000000
+      internalID: -2304571943746487372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 55
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39809e2b58feda0800000000000000
+      internalID: -5913360782253845578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_83
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 57
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996912f391909aab0800000000000000
+      internalID: -4996452307552856423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae68abd49c4dc450800000000000000
+      internalID: 6110624471635750573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b88997f5621b00800000000000000
+      internalID: 797812198105198868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_86
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f75bf9a266aa740800000000000000
+      internalID: 5164052255987826496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d6b44947e09f150800000000000000
+      internalID: 5906768280140082587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000df6e9bb317aab0800000000000000
+      internalID: -4997003565006336000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c516a9ae1ff989a0800000000000000
+      internalID: -6230168102330034752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2e54b03029bc70800000000000000
+      internalID: 8987249924951124970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 6
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c96cc0f77114a240800000000000000
+      internalID: 4801982309522500041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_92
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a1e6219a94f430800000000000000
+      internalID: 3815844732502910026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_93
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 8
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b4cd227ba91470800000000000000
+      internalID: 8365906289699894696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_94
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 5
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5235de2e4efedd80800000000000000
+      internalID: -8223856257785318820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Wolf_95
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 6
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed431c35f27e7df0800000000000000
+      internalID: -180580537447789083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Wolf_0: 3135090011157424937
+      Animal_Wolf_1: 8993372834464213012
+      Animal_Wolf_10: 2353537481313063280
+      Animal_Wolf_11: -1703659704586236299
+      Animal_Wolf_12: -2621785146145790441
+      Animal_Wolf_13: 5271023060633060427
+      Animal_Wolf_14: -1029872337545527514
+      Animal_Wolf_15: -3577350126958020402
+      Animal_Wolf_16: 2418572017571425253
+      Animal_Wolf_17: -5085720760280055778
+      Animal_Wolf_18: 4436638821277980833
+      Animal_Wolf_19: -542597773889949398
+      Animal_Wolf_2: -3141281094859598517
+      Animal_Wolf_20: 6473898152260852381
+      Animal_Wolf_21: -5244591905847841344
+      Animal_Wolf_22: 594567519047144664
+      Animal_Wolf_23: 1233227647580306282
+      Animal_Wolf_24: 5979585176615764305
+      Animal_Wolf_25: -8573978765625102465
+      Animal_Wolf_26: 3801662652507196983
+      Animal_Wolf_27: 2800887333256390551
+      Animal_Wolf_28: 1114390582081076072
+      Animal_Wolf_29: -4689933662969505664
+      Animal_Wolf_3: 5432414110329790977
+      Animal_Wolf_30: 493436240441669309
+      Animal_Wolf_31: -9053607630014221191
+      Animal_Wolf_32: 3931506483672821758
+      Animal_Wolf_33: -8550001726741531584
+      Animal_Wolf_34: 6106089200706989693
+      Animal_Wolf_35: 3384221391645162448
+      Animal_Wolf_36: -4319757342595179647
+      Animal_Wolf_37: -221810125205389137
+      Animal_Wolf_38: -7121566762714900483
+      Animal_Wolf_39: -6978915546387632428
+      Animal_Wolf_4: 9129337404888947785
+      Animal_Wolf_40: -4038232535097710776
+      Animal_Wolf_41: 6772387869488885464
+      Animal_Wolf_42: -1134495055829798355
+      Animal_Wolf_43: -2976603420228723675
+      Animal_Wolf_44: 2260837246094521946
+      Animal_Wolf_45: -982970248775189595
+      Animal_Wolf_46: 6478303221185395193
+      Animal_Wolf_47: 7740840391346671301
+      Animal_Wolf_48: 1483851227304826767
+      Animal_Wolf_49: 816756078286896539
+      Animal_Wolf_5: 3410382825147046501
+      Animal_Wolf_50: 1840230274466526302
+      Animal_Wolf_51: -2272021965386467822
+      Animal_Wolf_52: -3974266876219098109
+      Animal_Wolf_53: 1614066698354024115
+      Animal_Wolf_54: 1008010749439171234
+      Animal_Wolf_55: 2000247924203447977
+      Animal_Wolf_56: 2434455889066122048
+      Animal_Wolf_57: 8276345736083716181
+      Animal_Wolf_58: -6533190799046150710
+      Animal_Wolf_59: -3607070415167801490
+      Animal_Wolf_6: -7521564276236025173
+      Animal_Wolf_60: 4743223848000160044
+      Animal_Wolf_61: -3504743678945116726
+      Animal_Wolf_62: -5162120711727792342
+      Animal_Wolf_63: 907714099485364541
+      Animal_Wolf_64: -6363936391434367981
+      Animal_Wolf_65: 8882476449177176186
+      Animal_Wolf_66: -2260643898149886313
+      Animal_Wolf_67: 2822716066930054473
+      Animal_Wolf_68: 721437742128667758
+      Animal_Wolf_69: 7992824082183445405
+      Animal_Wolf_7: 566038588513458154
+      Animal_Wolf_70: -4931752574844028110
+      Animal_Wolf_71: 8547012993295053270
+      Animal_Wolf_72: 4718682103104903705
+      Animal_Wolf_73: 3187809008794764181
+      Animal_Wolf_74: 7916569737450060334
+      Animal_Wolf_75: 8252896100233059163
+      Animal_Wolf_76: -8942998507786317812
+      Animal_Wolf_77: -6646489783280738635
+      Animal_Wolf_78: 7669849629933842906
+      Animal_Wolf_79: 1504794755721734441
+      Animal_Wolf_8: 7642730063078544651
+      Animal_Wolf_80: -6415478534361932510
+      Animal_Wolf_81: -2304571943746487372
+      Animal_Wolf_82: -5913360782253845578
+      Animal_Wolf_83: -4996452307552856423
+      Animal_Wolf_84: 6110624471635750573
+      Animal_Wolf_85: 797812198105198868
+      Animal_Wolf_86: 5164052255987826496
+      Animal_Wolf_87: 5906768280140082587
+      Animal_Wolf_88: -4997003565006336000
+      Animal_Wolf_89: -6230168102330034752
+      Animal_Wolf_9: -1919337408157292862
+      Animal_Wolf_90: 8987249924951124970
+      Animal_Wolf_91: 4801982309522500041
+      Animal_Wolf_92: 3815844732502910026
+      Animal_Wolf_93: 8365906289699894696
+      Animal_Wolf_94: -8223856257785318820
+      Animal_Wolf_95: -180580537447789083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

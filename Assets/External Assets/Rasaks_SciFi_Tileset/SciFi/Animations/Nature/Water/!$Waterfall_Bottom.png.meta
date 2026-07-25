@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: f45f792525192c249a0302d9008a2810
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9181792971854706134
+    second: '!$Waterfall_Bottom_0'
+  - first:
+      213: -4653217270778256013
+    second: '!$Waterfall_Bottom_1'
+  - first:
+      213: -598547143849566762
+    second: '!$Waterfall_Bottom_2'
+  - first:
+      213: -888942328850343062
+    second: '!$Waterfall_Bottom_3'
+  - first:
+      213: 2466488875226718717
+    second: '!$Waterfall_Bottom_4'
+  - first:
+      213: -263880812501894377
+    second: '!$Waterfall_Bottom_5'
+  - first:
+      213: 4773159946583064422
+    second: '!$Waterfall_Bottom_6'
+  - first:
+      213: -12621364186287806
+    second: '!$Waterfall_Bottom_7'
+  - first:
+      213: 5035462082543749292
+    second: '!$Waterfall_Bottom_8'
+  - first:
+      213: 9199094977686871387
+    second: '!$Waterfall_Bottom_9'
+  - first:
+      213: 5818327561070284464
+    second: '!$Waterfall_Bottom_10'
+  - first:
+      213: -356511815552930632
+    second: '!$Waterfall_Bottom_11'
+  - first:
+      213: 8376277161304403320
+    second: '!$Waterfall_Bottom_12'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 144
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0c6770f7b39080800000000000000
+      internalID: -9181792971854706134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_1'
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 321
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375ac88cb837c6fb0800000000000000
+      internalID: -4653217270778256013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_2'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 144
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd958d3b8881b7f0800000000000000
+      internalID: -598547143849566762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_3'
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 224
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b111769a7d9a3f0800000000000000
+      internalID: -888942328850343062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_4'
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 226
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df16752609aba3220800000000000000
+      internalID: 2466488875226718717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_5'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b78c39cc1865cf0800000000000000
+      internalID: -263880812501894377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_6'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 130
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb430aeabad3240800000000000000
+      internalID: 4773159946583064422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_7'
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 129
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2417817afe823dff0800000000000000
+      internalID: -12621364186287806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_8'
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 125
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca808f5c51e81e540800000000000000
+      internalID: 5035462082543749292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_9'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d1b10b420c9af70800000000000000
+      internalID: 9199094977686871387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_10'
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 34
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be8578071adeb050800000000000000
+      internalID: 5818327561070284464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_11'
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 33
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcecb3846a6d0bf0800000000000000
+      internalID: -356511815552930632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$Waterfall_Bottom_12'
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 29
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d24c3e2b38e3470800000000000000
+      internalID: 8376277161304403320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$Waterfall_Bottom_0': -9181792971854706134
+      '!$Waterfall_Bottom_1': -4653217270778256013
+      '!$Waterfall_Bottom_10': 5818327561070284464
+      '!$Waterfall_Bottom_11': -356511815552930632
+      '!$Waterfall_Bottom_12': 8376277161304403320
+      '!$Waterfall_Bottom_2': -598547143849566762
+      '!$Waterfall_Bottom_3': -888942328850343062
+      '!$Waterfall_Bottom_4': 2466488875226718717
+      '!$Waterfall_Bottom_5': -263880812501894377
+      '!$Waterfall_Bottom_6': 4773159946583064422
+      '!$Waterfall_Bottom_7': -12621364186287806
+      '!$Waterfall_Bottom_8': 5035462082543749292
+      '!$Waterfall_Bottom_9': 9199094977686871387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

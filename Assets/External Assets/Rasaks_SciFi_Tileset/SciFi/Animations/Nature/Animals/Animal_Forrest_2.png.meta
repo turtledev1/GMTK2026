@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 82cd91a92b1097f4e997a0168af709c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4347602044438283312
+    second: Animal_Forrest_2_0
+  - first:
+      213: -4203101730455559248
+    second: Animal_Forrest_2_1
+  - first:
+      213: -4324307909275539911
+    second: Animal_Forrest_2_2
+  - first:
+      213: -8901748914338571906
+    second: Animal_Forrest_2_3
+  - first:
+      213: 6654082133532022451
+    second: Animal_Forrest_2_4
+  - first:
+      213: 900414007635157291
+    second: Animal_Forrest_2_5
+  - first:
+      213: -2247608271060560482
+    second: Animal_Forrest_2_6
+  - first:
+      213: 1778679518335645276
+    second: Animal_Forrest_2_7
+  - first:
+      213: 7794811605040279068
+    second: Animal_Forrest_2_8
+  - first:
+      213: 6398033951551294438
+    second: Animal_Forrest_2_9
+  - first:
+      213: 1115372181078155998
+    second: Animal_Forrest_2_10
+  - first:
+      213: -6775079806074529125
+    second: Animal_Forrest_2_11
+  - first:
+      213: 8099939145985625612
+    second: Animal_Forrest_2_12
+  - first:
+      213: -8854959749411083721
+    second: Animal_Forrest_2_13
+  - first:
+      213: 6689320226993546506
+    second: Animal_Forrest_2_14
+  - first:
+      213: -1292060765142421592
+    second: Animal_Forrest_2_15
+  - first:
+      213: -1150155059998517803
+    second: Animal_Forrest_2_16
+  - first:
+      213: 288311125045328000
+    second: Animal_Forrest_2_17
+  - first:
+      213: -6684851850749795532
+    second: Animal_Forrest_2_18
+  - first:
+      213: 8477698168485068371
+    second: Animal_Forrest_2_19
+  - first:
+      213: -1855528910029643179
+    second: Animal_Forrest_2_20
+  - first:
+      213: -8679289571507869360
+    second: Animal_Forrest_2_21
+  - first:
+      213: -3060423598711116379
+    second: Animal_Forrest_2_22
+  - first:
+      213: 702148627147972059
+    second: Animal_Forrest_2_23
+  - first:
+      213: -6919246910469428268
+    second: Animal_Forrest_2_24
+  - first:
+      213: 5142117742543066804
+    second: Animal_Forrest_2_25
+  - first:
+      213: -6120676696017322433
+    second: Animal_Forrest_2_26
+  - first:
+      213: 7608357930994864371
+    second: Animal_Forrest_2_27
+  - first:
+      213: 1870327108469829854
+    second: Animal_Forrest_2_28
+  - first:
+      213: -649885351698217510
+    second: Animal_Forrest_2_29
+  - first:
+      213: -3547097527800314906
+    second: Animal_Forrest_2_30
+  - first:
+      213: -6534206128699786555
+    second: Animal_Forrest_2_31
+  - first:
+      213: -7767498203897097350
+    second: Animal_Forrest_2_32
+  - first:
+      213: 204463589997835232
+    second: Animal_Forrest_2_33
+  - first:
+      213: 2044479469379835689
+    second: Animal_Forrest_2_34
+  - first:
+      213: -2798791888089264803
+    second: Animal_Forrest_2_35
+  - first:
+      213: 6180609635464355173
+    second: Animal_Forrest_2_36
+  - first:
+      213: -120976989350743580
+    second: Animal_Forrest_2_37
+  - first:
+      213: 3517938644776646078
+    second: Animal_Forrest_2_38
+  - first:
+      213: -2626325206242486496
+    second: Animal_Forrest_2_39
+  - first:
+      213: -3004020508877198978
+    second: Animal_Forrest_2_40
+  - first:
+      213: 8566211034472411222
+    second: Animal_Forrest_2_41
+  - first:
+      213: -6755628542081506645
+    second: Animal_Forrest_2_42
+  - first:
+      213: -7870450855338665464
+    second: Animal_Forrest_2_43
+  - first:
+      213: -6447422198551953780
+    second: Animal_Forrest_2_44
+  - first:
+      213: 533907927712858803
+    second: Animal_Forrest_2_45
+  - first:
+      213: 1908051785472360218
+    second: Animal_Forrest_2_46
+  - first:
+      213: 1996897449589694254
+    second: Animal_Forrest_2_47
+  - first:
+      213: -8912555248371606882
+    second: Animal_Forrest_2_48
+  - first:
+      213: 3612287557562833751
+    second: Animal_Forrest_2_49
+  - first:
+      213: 949755245244135016
+    second: Animal_Forrest_2_50
+  - first:
+      213: -2312114126591195987
+    second: Animal_Forrest_2_51
+  - first:
+      213: -7574464479664231320
+    second: Animal_Forrest_2_52
+  - first:
+      213: -6004377223724940251
+    second: Animal_Forrest_2_53
+  - first:
+      213: -6037276725849303500
+    second: Animal_Forrest_2_54
+  - first:
+      213: 301542946935353452
+    second: Animal_Forrest_2_55
+  - first:
+      213: 1848282376171163262
+    second: Animal_Forrest_2_56
+  - first:
+      213: 8071224268009807651
+    second: Animal_Forrest_2_57
+  - first:
+      213: 4837965179436719834
+    second: Animal_Forrest_2_58
+  - first:
+      213: -3100961501085435507
+    second: Animal_Forrest_2_59
+  - first:
+      213: 2767817248487226990
+    second: Animal_Forrest_2_60
+  - first:
+      213: 7992797760780908698
+    second: Animal_Forrest_2_61
+  - first:
+      213: -1382143453622726742
+    second: Animal_Forrest_2_62
+  - first:
+      213: -1907117412092153774
+    second: Animal_Forrest_2_63
+  - first:
+      213: -2033341604272040152
+    second: Animal_Forrest_2_64
+  - first:
+      213: 206342305510569313
+    second: Animal_Forrest_2_65
+  - first:
+      213: 5068966117941359913
+    second: Animal_Forrest_2_66
+  - first:
+      213: 5422490578727164382
+    second: Animal_Forrest_2_67
+  - first:
+      213: 7043942772391153942
+    second: Animal_Forrest_2_68
+  - first:
+      213: -5145172811931321929
+    second: Animal_Forrest_2_69
+  - first:
+      213: -5084446902925162233
+    second: Animal_Forrest_2_70
+  - first:
+      213: -343673113828208770
+    second: Animal_Forrest_2_71
+  - first:
+      213: 2301364912855558808
+    second: Animal_Forrest_2_72
+  - first:
+      213: 7541326064880985882
+    second: Animal_Forrest_2_73
+  - first:
+      213: -5982540307470654560
+    second: Animal_Forrest_2_74
+  - first:
+      213: 3276274730743795897
+    second: Animal_Forrest_2_75
+  - first:
+      213: 4843243001912783791
+    second: Animal_Forrest_2_76
+  - first:
+      213: 2016917029124172216
+    second: Animal_Forrest_2_77
+  - first:
+      213: 9153260972283198504
+    second: Animal_Forrest_2_78
+  - first:
+      213: -4065489866118122901
+    second: Animal_Forrest_2_79
+  - first:
+      213: 814962910209036513
+    second: Animal_Forrest_2_80
+  - first:
+      213: -3374320112691653533
+    second: Animal_Forrest_2_81
+  - first:
+      213: 4642598266322623302
+    second: Animal_Forrest_2_82
+  - first:
+      213: -745680706988203557
+    second: Animal_Forrest_2_83
+  - first:
+      213: 5051397507356021108
+    second: Animal_Forrest_2_84
+  - first:
+      213: 784440994621025125
+    second: Animal_Forrest_2_85
+  - first:
+      213: 1450064712222383444
+    second: Animal_Forrest_2_86
+  - first:
+      213: -6560213495309881982
+    second: Animal_Forrest_2_87
+  - first:
+      213: 6102570330858536873
+    second: Animal_Forrest_2_88
+  - first:
+      213: 9154348520528862508
+    second: Animal_Forrest_2_89
+  - first:
+      213: 3748838372803389063
+    second: Animal_Forrest_2_90
+  - first:
+      213: -805941341679460006
+    second: Animal_Forrest_2_91
+  - first:
+      213: -4058069007105583084
+    second: Animal_Forrest_2_92
+  - first:
+      213: 5560805580995417115
+    second: Animal_Forrest_2_93
+  - first:
+      213: -5521134589247006219
+    second: Animal_Forrest_2_94
+  - first:
+      213: -2430061899533102519
+    second: Animal_Forrest_2_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Forrest_2_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 348
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db7e74a9f63aa3c0800000000000000
+      internalID: -4347602044438283312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 344
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3ed51ce359ba5c0800000000000000
+      internalID: -4203101730455559248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 340
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93628302ed8fcf3c0800000000000000
+      internalID: -4324307909275539911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 339
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795121a682a67480800000000000000
+      internalID: -8901748914338571906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 339
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b61373127c085c50800000000000000
+      internalID: 6654082133532022451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2121e3f4c9ee7c00800000000000000
+      internalID: 900414007635157291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 343
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9594319f24eec0e0800000000000000
+      internalID: -2247608271060560482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 343
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b8ab19932fa810800000000000000
+      internalID: 1778679518335645276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 343
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ea4892bdbbc2c60800000000000000
+      internalID: 7794811605040279068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 339
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb8a1f0bf16ac850800000000000000
+      internalID: 6398033951551294438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 339
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22485d6199a7f00800000000000000
+      internalID: 1115372181078155998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 339
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a5102ffc41af1a0800000000000000
+      internalID: -6775079806074529125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 300
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e01caecb3c86070800000000000000
+      internalID: 8099939145985625612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 294
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a68f3060ddc1580800000000000000
+      internalID: -8854959749411083721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 294
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0529ce0e4d35dc50800000000000000
+      internalID: 6689320226993546506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 294
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af6779649da11ee0800000000000000
+      internalID: -1292060765142421592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 294
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d59b241114d900f0800000000000000
+      internalID: -1150155059998517803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 294
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088be11d079400400800000000000000
+      internalID: 288311125045328000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 295
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43322fbd8a2aa33a0800000000000000
+      internalID: -6684851850749795532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 295
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e38854195d6a570800000000000000
+      internalID: 8477698168485068371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 295
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552273f8946df36e0800000000000000
+      internalID: -1855528910029643179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 293
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059658b9e18fc8780800000000000000
+      internalID: -8679289571507869360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 293
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade998a3f03785d0800000000000000
+      internalID: -3060423598711116379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_23
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 293
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdddeacc4788eb900800000000000000
+      internalID: 702148627147972059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 246
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db204c3895e9ff90800000000000000
+      internalID: -6919246910469428268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 246
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6538db7d87c5740800000000000000
+      internalID: 5142117742543066804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e30e449fcfe0ba0800000000000000
+      internalID: -6120676696017322433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 246
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f099f83a31569960800000000000000
+      internalID: 7608357930994864371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b022889cb4f910800000000000000
+      internalID: 1870327108469829854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 246
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54c4347b42bf6f0800000000000000
+      internalID: -649885351698217510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 247
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3cbcf779d26cec0800000000000000
+      internalID: -3547097527800314906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 247
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca3ba94526d155a0800000000000000
+      internalID: -6534206128699786555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 247
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a739a3b998d443490800000000000000
+      internalID: -7767498203897097350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 245
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e372534d8666d200800000000000000
+      internalID: 204463589997835232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 245
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927d6face337f5c10800000000000000
+      internalID: 2044479469379835689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 245
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc13e3b91b829d0800000000000000
+      internalID: -2798791888089264803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d953997bfe5c550800000000000000
+      internalID: 6180609635464355173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b0c3b114325ef0800000000000000
+      internalID: -120976989350743580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5f78ffe8a32d030800000000000000
+      internalID: 3517938644776646078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271349c32b6d8bd0800000000000000
+      internalID: -2626325206242486496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e26e53439f46d0800000000000000
+      internalID: -3004020508877198978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 194
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65072c4dc8b41e670800000000000000
+      internalID: 8566211034472411222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2edb242af2f32a0800000000000000
+      internalID: -6755628542081506645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 200
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9e5185aa86c290800000000000000
+      internalID: -7870450855338665464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 200
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb75a9ba72686a0800000000000000
+      internalID: -6447422198551953780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 197
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b207167e62d86700800000000000000
+      internalID: 533907927712858803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_46
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 196
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f31265df2ca7a10800000000000000
+      internalID: 1908051785472360218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 195
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f5daf76a766bb10800000000000000
+      internalID: 1996897449589694254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a54cbe83e305480800000000000000
+      internalID: -8912555248371606882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 152
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b9817156c612230800000000000000
+      internalID: 3612287557562833751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86637501d553e2d00800000000000000
+      internalID: 949755245244135016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 147
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da48e54b378b9efd0800000000000000
+      internalID: -2312114126591195987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86caccddfa812e690800000000000000
+      internalID: -7574464479664231320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 147
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524cd624aba2caca0800000000000000
+      internalID: -6004377223724940251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436d4010ec8473ca0800000000000000
+      internalID: -6037276725849303500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 151
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c603b9c66bb4f2400800000000000000
+      internalID: 301542946935353452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 151
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0c4c470b66a910800000000000000
+      internalID: 1848282376171163262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 147
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f9c3565bfb20070800000000000000
+      internalID: 8071224268009807651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 147
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded804b2b7e32340800000000000000
+      internalID: 4837965179436719834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 147
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f3a1c1fb27f4d0800000000000000
+      internalID: -3100961501085435507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb74b7f13496620800000000000000
+      internalID: 2767817248487226990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9832ec373f1cee60800000000000000
+      internalID: 7992797760780908698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf8f221ad3a1dce0800000000000000
+      internalID: -1382143453622726742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250f84b61de8885e0800000000000000
+      internalID: -1907117412092153774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8279752859e18c3e0800000000000000
+      internalID: -2033341604272040152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 102
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b71ecb331dd200800000000000000
+      internalID: 206342305510569313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 103
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b266e3d5985640800000000000000
+      internalID: 5068966117941359913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 103
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95fe6a37e804b40800000000000000
+      internalID: 5422490578727164382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_68
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 103
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111e8e81ac11c160800000000000000
+      internalID: 7043942772391153942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 97
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9f5dc769ca898b0800000000000000
+      internalID: -5145172811931321929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 97
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7098fc7fa7a6079b0800000000000000
+      internalID: -5084446902925162233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 97
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fca63bf170b3bf0800000000000000
+      internalID: -343673113828208770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 54
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aad41f13710ff10800000000000000
+      internalID: 2301364912855558808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1720a0b91c28a860800000000000000
+      internalID: 7541326064880985882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 60
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a361c6894fb9fca0800000000000000
+      internalID: -5982540307470654560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 54
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b09298528aa77d20800000000000000
+      internalID: 3276274730743795897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 54
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa378e189d7a63340800000000000000
+      internalID: 4843243001912783791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 54
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e1661a578dfb10800000000000000
+      internalID: 2016917029124172216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 55
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf265bb5ae60f70800000000000000
+      internalID: 9153260972283198504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 55
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b623414b18a7497c0800000000000000
+      internalID: -4065489866118122901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_80
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 55
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0d020f2745f4b00800000000000000
+      internalID: 814962910209036513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 49
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364de844cb10c21d0800000000000000
+      internalID: -3374320112691653533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_82
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 49
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b11039682dd6040800000000000000
+      internalID: 4642598266322623302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_83
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 49
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd12b18095fc6a5f0800000000000000
+      internalID: -745680706988203557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471df3df44b2a1640800000000000000
+      internalID: 5051397507356021108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be3afade4e2ea00800000000000000
+      internalID: 784440994621025125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_86
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d18594c2aaf1410800000000000000
+      internalID: 1450064712222383444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da451659075f4a0800000000000000
+      internalID: -6560213495309881982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_88
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af39a3126fa0b450800000000000000
+      internalID: 6102570330858536873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_89
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dde344a77ca0f70800000000000000
+      internalID: 9154348520528862508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786ac4b43ac860430800000000000000
+      internalID: 3748838372803389063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_91
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e46bae98b0d4f0800000000000000
+      internalID: -805941341679460006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_92
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41813751db7dea7c0800000000000000
+      internalID: -4058069007105583084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14dd38a633fb2d40800000000000000
+      internalID: 5560805580995417115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f95fc2e75df063b0800000000000000
+      internalID: -5521134589247006219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Forrest_2_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425e10d39fa64ed0800000000000000
+      internalID: -2430061899533102519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Forrest_2_0: -4347602044438283312
+      Animal_Forrest_2_1: -4203101730455559248
+      Animal_Forrest_2_10: 1115372181078155998
+      Animal_Forrest_2_11: -6775079806074529125
+      Animal_Forrest_2_12: 8099939145985625612
+      Animal_Forrest_2_13: -8854959749411083721
+      Animal_Forrest_2_14: 6689320226993546506
+      Animal_Forrest_2_15: -1292060765142421592
+      Animal_Forrest_2_16: -1150155059998517803
+      Animal_Forrest_2_17: 288311125045328000
+      Animal_Forrest_2_18: -6684851850749795532
+      Animal_Forrest_2_19: 8477698168485068371
+      Animal_Forrest_2_2: -4324307909275539911
+      Animal_Forrest_2_20: -1855528910029643179
+      Animal_Forrest_2_21: -8679289571507869360
+      Animal_Forrest_2_22: -3060423598711116379
+      Animal_Forrest_2_23: 702148627147972059
+      Animal_Forrest_2_24: -6919246910469428268
+      Animal_Forrest_2_25: 5142117742543066804
+      Animal_Forrest_2_26: -6120676696017322433
+      Animal_Forrest_2_27: 7608357930994864371
+      Animal_Forrest_2_28: 1870327108469829854
+      Animal_Forrest_2_29: -649885351698217510
+      Animal_Forrest_2_3: -8901748914338571906
+      Animal_Forrest_2_30: -3547097527800314906
+      Animal_Forrest_2_31: -6534206128699786555
+      Animal_Forrest_2_32: -7767498203897097350
+      Animal_Forrest_2_33: 204463589997835232
+      Animal_Forrest_2_34: 2044479469379835689
+      Animal_Forrest_2_35: -2798791888089264803
+      Animal_Forrest_2_36: 6180609635464355173
+      Animal_Forrest_2_37: -120976989350743580
+      Animal_Forrest_2_38: 3517938644776646078
+      Animal_Forrest_2_39: -2626325206242486496
+      Animal_Forrest_2_4: 6654082133532022451
+      Animal_Forrest_2_40: -3004020508877198978
+      Animal_Forrest_2_41: 8566211034472411222
+      Animal_Forrest_2_42: -6755628542081506645
+      Animal_Forrest_2_43: -7870450855338665464
+      Animal_Forrest_2_44: -6447422198551953780
+      Animal_Forrest_2_45: 533907927712858803
+      Animal_Forrest_2_46: 1908051785472360218
+      Animal_Forrest_2_47: 1996897449589694254
+      Animal_Forrest_2_48: -8912555248371606882
+      Animal_Forrest_2_49: 3612287557562833751
+      Animal_Forrest_2_5: 900414007635157291
+      Animal_Forrest_2_50: 949755245244135016
+      Animal_Forrest_2_51: -2312114126591195987
+      Animal_Forrest_2_52: -7574464479664231320
+      Animal_Forrest_2_53: -6004377223724940251
+      Animal_Forrest_2_54: -6037276725849303500
+      Animal_Forrest_2_55: 301542946935353452
+      Animal_Forrest_2_56: 1848282376171163262
+      Animal_Forrest_2_57: 8071224268009807651
+      Animal_Forrest_2_58: 4837965179436719834
+      Animal_Forrest_2_59: -3100961501085435507
+      Animal_Forrest_2_6: -2247608271060560482
+      Animal_Forrest_2_60: 2767817248487226990
+      Animal_Forrest_2_61: 7992797760780908698
+      Animal_Forrest_2_62: -1382143453622726742
+      Animal_Forrest_2_63: -1907117412092153774
+      Animal_Forrest_2_64: -2033341604272040152
+      Animal_Forrest_2_65: 206342305510569313
+      Animal_Forrest_2_66: 5068966117941359913
+      Animal_Forrest_2_67: 5422490578727164382
+      Animal_Forrest_2_68: 7043942772391153942
+      Animal_Forrest_2_69: -5145172811931321929
+      Animal_Forrest_2_7: 1778679518335645276
+      Animal_Forrest_2_70: -5084446902925162233
+      Animal_Forrest_2_71: -343673113828208770
+      Animal_Forrest_2_72: 2301364912855558808
+      Animal_Forrest_2_73: 7541326064880985882
+      Animal_Forrest_2_74: -5982540307470654560
+      Animal_Forrest_2_75: 3276274730743795897
+      Animal_Forrest_2_76: 4843243001912783791
+      Animal_Forrest_2_77: 2016917029124172216
+      Animal_Forrest_2_78: 9153260972283198504
+      Animal_Forrest_2_79: -4065489866118122901
+      Animal_Forrest_2_8: 7794811605040279068
+      Animal_Forrest_2_80: 814962910209036513
+      Animal_Forrest_2_81: -3374320112691653533
+      Animal_Forrest_2_82: 4642598266322623302
+      Animal_Forrest_2_83: -745680706988203557
+      Animal_Forrest_2_84: 5051397507356021108
+      Animal_Forrest_2_85: 784440994621025125
+      Animal_Forrest_2_86: 1450064712222383444
+      Animal_Forrest_2_87: -6560213495309881982
+      Animal_Forrest_2_88: 6102570330858536873
+      Animal_Forrest_2_89: 9154348520528862508
+      Animal_Forrest_2_9: 6398033951551294438
+      Animal_Forrest_2_90: 3748838372803389063
+      Animal_Forrest_2_91: -805941341679460006
+      Animal_Forrest_2_92: -4058069007105583084
+      Animal_Forrest_2_93: 5560805580995417115
+      Animal_Forrest_2_94: -5521134589247006219
+      Animal_Forrest_2_95: -2430061899533102519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

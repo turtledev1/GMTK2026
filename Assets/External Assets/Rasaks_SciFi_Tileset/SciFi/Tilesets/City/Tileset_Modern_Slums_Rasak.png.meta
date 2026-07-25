@@ -1,0 +1,5226 @@
+fileFormatVersion: 2
+guid: d8d4355ab05218e4aac038877ade1786
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4761991688478397683
+    second: Tileset_Modern_Slums_Rasak_0
+  - first:
+      213: -1200116962663052678
+    second: Tileset_Modern_Slums_Rasak_1
+  - first:
+      213: -3967772845871309699
+    second: Tileset_Modern_Slums_Rasak_2
+  - first:
+      213: -4264339637728061728
+    second: Tileset_Modern_Slums_Rasak_3
+  - first:
+      213: -5718309550920843696
+    second: Tileset_Modern_Slums_Rasak_4
+  - first:
+      213: -1328159470290930860
+    second: Tileset_Modern_Slums_Rasak_5
+  - first:
+      213: -4228576383968562051
+    second: Tileset_Modern_Slums_Rasak_6
+  - first:
+      213: -5903317819194781090
+    second: Tileset_Modern_Slums_Rasak_7
+  - first:
+      213: -8482393000795256066
+    second: Tileset_Modern_Slums_Rasak_8
+  - first:
+      213: 6695644872197861841
+    second: Tileset_Modern_Slums_Rasak_9
+  - first:
+      213: 8936584396715423703
+    second: Tileset_Modern_Slums_Rasak_10
+  - first:
+      213: -5813215579119497597
+    second: Tileset_Modern_Slums_Rasak_11
+  - first:
+      213: -3201453196220155885
+    second: Tileset_Modern_Slums_Rasak_12
+  - first:
+      213: 810404967445511427
+    second: Tileset_Modern_Slums_Rasak_13
+  - first:
+      213: 2246281828578920507
+    second: Tileset_Modern_Slums_Rasak_14
+  - first:
+      213: 5144689393906890257
+    second: Tileset_Modern_Slums_Rasak_15
+  - first:
+      213: -2363559731950524617
+    second: Tileset_Modern_Slums_Rasak_16
+  - first:
+      213: 1068496027075899188
+    second: Tileset_Modern_Slums_Rasak_17
+  - first:
+      213: -7764943893262775885
+    second: Tileset_Modern_Slums_Rasak_18
+  - first:
+      213: -5466831239563798656
+    second: Tileset_Modern_Slums_Rasak_19
+  - first:
+      213: -931528783915819250
+    second: Tileset_Modern_Slums_Rasak_20
+  - first:
+      213: 9083243492881977488
+    second: Tileset_Modern_Slums_Rasak_21
+  - first:
+      213: -7488679811913035916
+    second: Tileset_Modern_Slums_Rasak_22
+  - first:
+      213: -5074427308729444261
+    second: Tileset_Modern_Slums_Rasak_23
+  - first:
+      213: 3343042771410507914
+    second: Tileset_Modern_Slums_Rasak_24
+  - first:
+      213: 438929039056623050
+    second: Tileset_Modern_Slums_Rasak_25
+  - first:
+      213: -2835150037214327586
+    second: Tileset_Modern_Slums_Rasak_26
+  - first:
+      213: -5122764400006103407
+    second: Tileset_Modern_Slums_Rasak_27
+  - first:
+      213: 2065976927420784409
+    second: Tileset_Modern_Slums_Rasak_28
+  - first:
+      213: 4525953137669807366
+    second: Tileset_Modern_Slums_Rasak_29
+  - first:
+      213: -55258074003036201
+    second: Tileset_Modern_Slums_Rasak_30
+  - first:
+      213: -1261402000743540033
+    second: Tileset_Modern_Slums_Rasak_31
+  - first:
+      213: 2823605270267518974
+    second: Tileset_Modern_Slums_Rasak_32
+  - first:
+      213: -535846787531417476
+    second: Tileset_Modern_Slums_Rasak_33
+  - first:
+      213: 4276327831741966731
+    second: Tileset_Modern_Slums_Rasak_34
+  - first:
+      213: 8490394996355262866
+    second: Tileset_Modern_Slums_Rasak_35
+  - first:
+      213: 588560488777409182
+    second: Tileset_Modern_Slums_Rasak_36
+  - first:
+      213: -3903012753217149365
+    second: Tileset_Modern_Slums_Rasak_37
+  - first:
+      213: -6810690157691060751
+    second: Tileset_Modern_Slums_Rasak_38
+  - first:
+      213: 8330327569114048846
+    second: Tileset_Modern_Slums_Rasak_39
+  - first:
+      213: -6989875322397812445
+    second: Tileset_Modern_Slums_Rasak_40
+  - first:
+      213: 1886912942950766610
+    second: Tileset_Modern_Slums_Rasak_41
+  - first:
+      213: -2348172316091473022
+    second: Tileset_Modern_Slums_Rasak_42
+  - first:
+      213: -7939277741514312449
+    second: Tileset_Modern_Slums_Rasak_43
+  - first:
+      213: 7369797702527308175
+    second: Tileset_Modern_Slums_Rasak_44
+  - first:
+      213: -8605551164243823109
+    second: Tileset_Modern_Slums_Rasak_45
+  - first:
+      213: -5920606084008682383
+    second: Tileset_Modern_Slums_Rasak_46
+  - first:
+      213: -5822228804656266875
+    second: Tileset_Modern_Slums_Rasak_47
+  - first:
+      213: 8306440548104684421
+    second: Tileset_Modern_Slums_Rasak_48
+  - first:
+      213: 2761610538321909763
+    second: Tileset_Modern_Slums_Rasak_49
+  - first:
+      213: -4357901091798879284
+    second: Tileset_Modern_Slums_Rasak_50
+  - first:
+      213: -880071682357182396
+    second: Tileset_Modern_Slums_Rasak_51
+  - first:
+      213: -5232730204740725544
+    second: Tileset_Modern_Slums_Rasak_52
+  - first:
+      213: 6347542955562506880
+    second: Tileset_Modern_Slums_Rasak_53
+  - first:
+      213: 1197712112013250958
+    second: Tileset_Modern_Slums_Rasak_54
+  - first:
+      213: -4168706158465158944
+    second: Tileset_Modern_Slums_Rasak_55
+  - first:
+      213: -8360709106136968041
+    second: Tileset_Modern_Slums_Rasak_56
+  - first:
+      213: -1233620710773213008
+    second: Tileset_Modern_Slums_Rasak_57
+  - first:
+      213: -141194012110898413
+    second: Tileset_Modern_Slums_Rasak_58
+  - first:
+      213: -2967076596211282565
+    second: Tileset_Modern_Slums_Rasak_59
+  - first:
+      213: 6224941722771580393
+    second: Tileset_Modern_Slums_Rasak_60
+  - first:
+      213: 8603449224627825311
+    second: Tileset_Modern_Slums_Rasak_61
+  - first:
+      213: 5078564362292667542
+    second: Tileset_Modern_Slums_Rasak_62
+  - first:
+      213: -1286253789436301384
+    second: Tileset_Modern_Slums_Rasak_63
+  - first:
+      213: 2437415955109407752
+    second: Tileset_Modern_Slums_Rasak_64
+  - first:
+      213: -9069483683905993286
+    second: Tileset_Modern_Slums_Rasak_65
+  - first:
+      213: 2595765575161662270
+    second: Tileset_Modern_Slums_Rasak_66
+  - first:
+      213: -9040278106412404874
+    second: Tileset_Modern_Slums_Rasak_67
+  - first:
+      213: -5981211348805643220
+    second: Tileset_Modern_Slums_Rasak_68
+  - first:
+      213: -2721199645289098037
+    second: Tileset_Modern_Slums_Rasak_69
+  - first:
+      213: 3662047640138673959
+    second: Tileset_Modern_Slums_Rasak_70
+  - first:
+      213: -1788577652030906192
+    second: Tileset_Modern_Slums_Rasak_71
+  - first:
+      213: 5514427997278332756
+    second: Tileset_Modern_Slums_Rasak_72
+  - first:
+      213: -3265520838116217796
+    second: Tileset_Modern_Slums_Rasak_73
+  - first:
+      213: 1237196583640122809
+    second: Tileset_Modern_Slums_Rasak_74
+  - first:
+      213: -5743893591539009241
+    second: Tileset_Modern_Slums_Rasak_75
+  - first:
+      213: 5904115831384369890
+    second: Tileset_Modern_Slums_Rasak_76
+  - first:
+      213: -7789196061771161027
+    second: Tileset_Modern_Slums_Rasak_77
+  - first:
+      213: 5970439127765690559
+    second: Tileset_Modern_Slums_Rasak_78
+  - first:
+      213: -5258442346733509364
+    second: Tileset_Modern_Slums_Rasak_79
+  - first:
+      213: 8643135852416835021
+    second: Tileset_Modern_Slums_Rasak_80
+  - first:
+      213: 8588652129541554853
+    second: Tileset_Modern_Slums_Rasak_81
+  - first:
+      213: -8362858628526411496
+    second: Tileset_Modern_Slums_Rasak_82
+  - first:
+      213: 4579936026164076677
+    second: Tileset_Modern_Slums_Rasak_83
+  - first:
+      213: -7169421686888498119
+    second: Tileset_Modern_Slums_Rasak_84
+  - first:
+      213: 7491415693935468433
+    second: Tileset_Modern_Slums_Rasak_85
+  - first:
+      213: 6372780613370526633
+    second: Tileset_Modern_Slums_Rasak_86
+  - first:
+      213: 5314740936946737131
+    second: Tileset_Modern_Slums_Rasak_87
+  - first:
+      213: -294095326735249835
+    second: Tileset_Modern_Slums_Rasak_88
+  - first:
+      213: -55943714516585216
+    second: Tileset_Modern_Slums_Rasak_89
+  - first:
+      213: -5825846490723055619
+    second: Tileset_Modern_Slums_Rasak_90
+  - first:
+      213: 8593147573373001969
+    second: Tileset_Modern_Slums_Rasak_91
+  - first:
+      213: -4008019591220828363
+    second: Tileset_Modern_Slums_Rasak_92
+  - first:
+      213: -5306179595539078045
+    second: Tileset_Modern_Slums_Rasak_93
+  - first:
+      213: -7744283834582802518
+    second: Tileset_Modern_Slums_Rasak_94
+  - first:
+      213: 8102014842560775144
+    second: Tileset_Modern_Slums_Rasak_95
+  - first:
+      213: 6714073952920125152
+    second: Tileset_Modern_Slums_Rasak_96
+  - first:
+      213: 3058995839145948497
+    second: Tileset_Modern_Slums_Rasak_97
+  - first:
+      213: -1495338208008658418
+    second: Tileset_Modern_Slums_Rasak_98
+  - first:
+      213: 8212504221273680911
+    second: Tileset_Modern_Slums_Rasak_99
+  - first:
+      213: -4470285194091423205
+    second: Tileset_Modern_Slums_Rasak_100
+  - first:
+      213: -7033552689545621075
+    second: Tileset_Modern_Slums_Rasak_101
+  - first:
+      213: -4677004031521503004
+    second: Tileset_Modern_Slums_Rasak_102
+  - first:
+      213: -7080835649720978692
+    second: Tileset_Modern_Slums_Rasak_103
+  - first:
+      213: -1106492119723516661
+    second: Tileset_Modern_Slums_Rasak_104
+  - first:
+      213: -1338678255040526641
+    second: Tileset_Modern_Slums_Rasak_105
+  - first:
+      213: -2559588405086060112
+    second: Tileset_Modern_Slums_Rasak_106
+  - first:
+      213: 630612625467181519
+    second: Tileset_Modern_Slums_Rasak_107
+  - first:
+      213: 173356279685366702
+    second: Tileset_Modern_Slums_Rasak_108
+  - first:
+      213: -1581303473163606264
+    second: Tileset_Modern_Slums_Rasak_109
+  - first:
+      213: -615472774068023168
+    second: Tileset_Modern_Slums_Rasak_110
+  - first:
+      213: 7356228699634847912
+    second: Tileset_Modern_Slums_Rasak_111
+  - first:
+      213: -8777815637274352455
+    second: Tileset_Modern_Slums_Rasak_112
+  - first:
+      213: 8440193285304329848
+    second: Tileset_Modern_Slums_Rasak_113
+  - first:
+      213: 1771907367202351588
+    second: Tileset_Modern_Slums_Rasak_114
+  - first:
+      213: 9068636427645139516
+    second: Tileset_Modern_Slums_Rasak_115
+  - first:
+      213: 644045822515972268
+    second: Tileset_Modern_Slums_Rasak_116
+  - first:
+      213: -8383261328077507482
+    second: Tileset_Modern_Slums_Rasak_117
+  - first:
+      213: 6311287633229629327
+    second: Tileset_Modern_Slums_Rasak_118
+  - first:
+      213: 1705429549807841256
+    second: Tileset_Modern_Slums_Rasak_119
+  - first:
+      213: 6238173791883478605
+    second: Tileset_Modern_Slums_Rasak_120
+  - first:
+      213: 3110052381247032698
+    second: Tileset_Modern_Slums_Rasak_121
+  - first:
+      213: 992929897355847667
+    second: Tileset_Modern_Slums_Rasak_122
+  - first:
+      213: -2209177865900859427
+    second: Tileset_Modern_Slums_Rasak_123
+  - first:
+      213: 2902902418471602173
+    second: Tileset_Modern_Slums_Rasak_124
+  - first:
+      213: 6261481746083152800
+    second: Tileset_Modern_Slums_Rasak_125
+  - first:
+      213: -6790349397229894259
+    second: Tileset_Modern_Slums_Rasak_126
+  - first:
+      213: 8345633641666133289
+    second: Tileset_Modern_Slums_Rasak_127
+  - first:
+      213: 8921628727014708961
+    second: Tileset_Modern_Slums_Rasak_128
+  - first:
+      213: -2550838116146787396
+    second: Tileset_Modern_Slums_Rasak_129
+  - first:
+      213: -5259727889968450526
+    second: Tileset_Modern_Slums_Rasak_130
+  - first:
+      213: 921575722026313343
+    second: Tileset_Modern_Slums_Rasak_131
+  - first:
+      213: -8270535883706844856
+    second: Tileset_Modern_Slums_Rasak_132
+  - first:
+      213: -5206819859495901392
+    second: Tileset_Modern_Slums_Rasak_133
+  - first:
+      213: -7187588697007354829
+    second: Tileset_Modern_Slums_Rasak_134
+  - first:
+      213: 695671536895550885
+    second: Tileset_Modern_Slums_Rasak_135
+  - first:
+      213: 8881244931691445366
+    second: Tileset_Modern_Slums_Rasak_136
+  - first:
+      213: -7621482454780282157
+    second: Tileset_Modern_Slums_Rasak_137
+  - first:
+      213: 6757802283188502841
+    second: Tileset_Modern_Slums_Rasak_138
+  - first:
+      213: -4889202118581299411
+    second: Tileset_Modern_Slums_Rasak_139
+  - first:
+      213: 9028387681287722734
+    second: Tileset_Modern_Slums_Rasak_140
+  - first:
+      213: -1872301573767353487
+    second: Tileset_Modern_Slums_Rasak_141
+  - first:
+      213: -7715877891228949040
+    second: Tileset_Modern_Slums_Rasak_142
+  - first:
+      213: 210192381417722106
+    second: Tileset_Modern_Slums_Rasak_143
+  - first:
+      213: 5842810763410586898
+    second: Tileset_Modern_Slums_Rasak_144
+  - first:
+      213: -5292543022402523067
+    second: Tileset_Modern_Slums_Rasak_145
+  - first:
+      213: 6030627019209315353
+    second: Tileset_Modern_Slums_Rasak_146
+  - first:
+      213: 877903759730924054
+    second: Tileset_Modern_Slums_Rasak_147
+  - first:
+      213: 8682922474739920849
+    second: Tileset_Modern_Slums_Rasak_148
+  - first:
+      213: -2085033604441844952
+    second: Tileset_Modern_Slums_Rasak_149
+  - first:
+      213: -6971551903967431200
+    second: Tileset_Modern_Slums_Rasak_150
+  - first:
+      213: 6185985396052688861
+    second: Tileset_Modern_Slums_Rasak_151
+  - first:
+      213: -452961221702866227
+    second: Tileset_Modern_Slums_Rasak_152
+  - first:
+      213: -6239642851219961493
+    second: Tileset_Modern_Slums_Rasak_153
+  - first:
+      213: -6485531165955982989
+    second: Tileset_Modern_Slums_Rasak_154
+  - first:
+      213: -2910576978238689782
+    second: Tileset_Modern_Slums_Rasak_155
+  - first:
+      213: -3017722871921736033
+    second: Tileset_Modern_Slums_Rasak_156
+  - first:
+      213: -355981400250104968
+    second: Tileset_Modern_Slums_Rasak_157
+  - first:
+      213: -1955097447031730957
+    second: Tileset_Modern_Slums_Rasak_158
+  - first:
+      213: 4719974523801918356
+    second: Tileset_Modern_Slums_Rasak_159
+  - first:
+      213: -5963237932711686163
+    second: Tileset_Modern_Slums_Rasak_160
+  - first:
+      213: 6904185436515429593
+    second: Tileset_Modern_Slums_Rasak_161
+  - first:
+      213: 6169696015530515497
+    second: Tileset_Modern_Slums_Rasak_162
+  - first:
+      213: 3381377050829546896
+    second: Tileset_Modern_Slums_Rasak_163
+  - first:
+      213: 3384287520729357898
+    second: Tileset_Modern_Slums_Rasak_164
+  - first:
+      213: 2255890442462123316
+    second: Tileset_Modern_Slums_Rasak_165
+  - first:
+      213: -7542272948887990638
+    second: Tileset_Modern_Slums_Rasak_166
+  - first:
+      213: 2622643526995534852
+    second: Tileset_Modern_Slums_Rasak_167
+  - first:
+      213: -470199625649545655
+    second: Tileset_Modern_Slums_Rasak_168
+  - first:
+      213: 3991380259710678204
+    second: Tileset_Modern_Slums_Rasak_169
+  - first:
+      213: 1310717894609204347
+    second: Tileset_Modern_Slums_Rasak_170
+  - first:
+      213: 5800679898421989928
+    second: Tileset_Modern_Slums_Rasak_171
+  - first:
+      213: -1191111106595047508
+    second: Tileset_Modern_Slums_Rasak_172
+  - first:
+      213: 6780662446456570429
+    second: Tileset_Modern_Slums_Rasak_173
+  - first:
+      213: -5485652860608119075
+    second: Tileset_Modern_Slums_Rasak_174
+  - first:
+      213: 34311943115608283
+    second: Tileset_Modern_Slums_Rasak_175
+  - first:
+      213: -6557288044258339751
+    second: Tileset_Modern_Slums_Rasak_176
+  - first:
+      213: 5801682809972528085
+    second: Tileset_Modern_Slums_Rasak_177
+  - first:
+      213: 6089852468869287270
+    second: Tileset_Modern_Slums_Rasak_178
+  - first:
+      213: -6678922144596184531
+    second: Tileset_Modern_Slums_Rasak_179
+  - first:
+      213: 3637541970050941853
+    second: Tileset_Modern_Slums_Rasak_180
+  - first:
+      213: -7375643736451240967
+    second: Tileset_Modern_Slums_Rasak_181
+  - first:
+      213: 4306086057833756416
+    second: Tileset_Modern_Slums_Rasak_182
+  - first:
+      213: 6436601283964477011
+    second: Tileset_Modern_Slums_Rasak_183
+  - first:
+      213: 2810528926993146669
+    second: Tileset_Modern_Slums_Rasak_184
+  - first:
+      213: 5591544669199968223
+    second: Tileset_Modern_Slums_Rasak_185
+  - first:
+      213: 2351727830770802885
+    second: Tileset_Modern_Slums_Rasak_186
+  - first:
+      213: -9094511421818637665
+    second: Tileset_Modern_Slums_Rasak_187
+  - first:
+      213: -3512399656601249785
+    second: Tileset_Modern_Slums_Rasak_188
+  - first:
+      213: 2913574214186711131
+    second: Tileset_Modern_Slums_Rasak_189
+  - first:
+      213: 6727716639511428178
+    second: Tileset_Modern_Slums_Rasak_190
+  - first:
+      213: -4950945501960708762
+    second: Tileset_Modern_Slums_Rasak_191
+  - first:
+      213: 924572264752764473
+    second: Tileset_Modern_Slums_Rasak_192
+  - first:
+      213: 13742387933474554
+    second: Tileset_Modern_Slums_Rasak_193
+  - first:
+      213: 4018164498719585618
+    second: Tileset_Modern_Slums_Rasak_194
+  - first:
+      213: 5337304871109079417
+    second: Tileset_Modern_Slums_Rasak_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f41e17e53ef51240800000000000000
+      internalID: 4761991688478397683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a4c8f1bf3585fe0800000000000000
+      internalID: -1200116962663052678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 635
+        width: 201
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c566c6e93afe8c0800000000000000
+      internalID: -3967772845871309699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 443
+        width: 7
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d99361b502d4c0800000000000000
+      internalID: -4264339637728061728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 511
+        width: 296
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb3a5a2cb74a0b0800000000000000
+      internalID: -5718309550920843696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 527
+        width: 7
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453fc38affd619de0800000000000000
+      internalID: -1328159470290930860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 527
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b2f7ce241155c0800000000000000
+      internalID: -4228576383968562051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 575
+        width: 202
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5259a678b3331ea0800000000000000
+      internalID: -5903317819194781090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 527
+        width: 202
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac656e18c784a80800000000000000
+      internalID: -8482393000795256066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 511
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f4854985bbec50800000000000000
+      internalID: 6695644872197861841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d775872920250c70800000000000000
+      internalID: 8936584396715423703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 511
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec0d30b3f435fa0800000000000000
+      internalID: -5813215579119497597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3183242b7472293d0800000000000000
+      internalID: -3201453196220155885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d3dc036032f3b00800000000000000
+      internalID: 810404967445511427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b388cd9fb656c2f10800000000000000
+      internalID: 2246281828578920507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 511
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1163a8bfebb956740800000000000000
+      internalID: 5144689393906890257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 511
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ebab42f2f23fd0800000000000000
+      internalID: -2363559731950524617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 511
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f66c9b97f04de00800000000000000
+      internalID: 1068496027075899188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9cb356ba06d3490800000000000000
+      internalID: -7764943893262775885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0879aceb3f9e124b0800000000000000
+      internalID: -5466831239563798656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f55a8a18b8213f0800000000000000
+      internalID: -931528783915819250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090db99e4d92e0e70800000000000000
+      internalID: 9083243492881977488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 511
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc846436dd21890800000000000000
+      internalID: -7488679811913035916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 294
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58d3a88f330499b0800000000000000
+      internalID: -5074427308729444261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 473
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885cda30bfd46e20800000000000000
+      internalID: 3343042771410507914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 466
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5d29ea2a3671600800000000000000
+      internalID: 438929039056623050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 450
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc87eaff0687a8d0800000000000000
+      internalID: -2835150037214327586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 452
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e7e957be848e8b0800000000000000
+      internalID: -5122764400006103407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 441
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f9119c113dbac10800000000000000
+      internalID: 2065976927420784409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 449
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d9fd0366a6fce30800000000000000
+      internalID: 4525953137669807366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7a310131fab3ff0800000000000000
+      internalID: -55258074003036201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 430
+        width: 250
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbad6b240999e7ee0800000000000000
+      internalID: -1261402000743540033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 449
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff573088067f2720800000000000000
+      internalID: 2823605270267518974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 441
+        width: 75
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d72f8f2a4098f0800000000000000
+      internalID: -535846787531417476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a81a8181985b30800000000000000
+      internalID: 4276327831741966731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 451
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2996280e341f3d570800000000000000
+      internalID: 8490394996355262866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 452
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92686e65acfa2800800000000000000
+      internalID: 588560488777409182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b462caa7496b5d9c0800000000000000
+      internalID: -3903012753217149365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 453
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd339bd2619b71a0800000000000000
+      internalID: -6810690157691060751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49afa3c9c44b9370800000000000000
+      internalID: 8330327569114048846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 447
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3299530ad69fefe90800000000000000
+      internalID: -6989875322397812445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218daa60359af2a10800000000000000
+      internalID: 1886912942950766610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 455
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28326fb38bd996fd0800000000000000
+      internalID: -2348172316091473022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 449
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4bfdb45f402d190800000000000000
+      internalID: -7939277741514312449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 457
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8151ada6f7c64660800000000000000
+      internalID: 7369797702527308175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 457
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf53cce6fc0f29880800000000000000
+      internalID: -8605551164243823109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 442
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c55a3a228c5dda0800000000000000
+      internalID: -5920606084008682383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 411
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5818a69efb9433fa0800000000000000
+      internalID: -5822228804656266875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 417
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834ea94ba7664370800000000000000
+      internalID: 8306440548104684421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 335
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30817a82726335620800000000000000
+      internalID: 2761610538321909763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 389
+        width: 98
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37a01db00a583c0800000000000000
+      internalID: -4357901091798879284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 387
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440483cb77b59c3f0800000000000000
+      internalID: -880071682357182396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 402
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4d8fc5a9b9167b0800000000000000
+      internalID: -5232730204740725544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 393
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a16d6ffa0071850800000000000000
+      internalID: 6347542955562506880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 399
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819bb3f1d02f9010800000000000000
+      internalID: 1197712112013250958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 389
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e073bbe5d7c526c0800000000000000
+      internalID: -4168706158465158944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 405
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794155a6d5bc8fb80800000000000000
+      internalID: -8360709106136968041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 402
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b83cc2ef7c41eee0800000000000000
+      internalID: -1233620710773213008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 411
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb7b74bc06a0ef0800000000000000
+      internalID: -141194012110898413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 402
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d83755e83d2d6d0800000000000000
+      internalID: -2967076596211282565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 394
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5ee45048f636650800000000000000
+      internalID: 6224941722771580393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 389
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a2d0d9c77956770800000000000000
+      internalID: 8603449224627825311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 28
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a96f416faa7640800000000000000
+      internalID: 5078564362292667542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 386
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf26ad4efe462ee0800000000000000
+      internalID: -1286253789436301384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 399
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6a2ea5e073d120800000000000000
+      internalID: 2437415955109407752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 385
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5059444a8b22280800000000000000
+      internalID: -9069483683905993286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 384
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc2b3a903060420800000000000000
+      internalID: 2595765575161662270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 388
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2c8ca5fa7a8280800000000000000
+      internalID: -9040278106412404874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 385
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2497e3d7f77efca0800000000000000
+      internalID: -5981211348805643220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 363
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4df93175b5c3ad0800000000000000
+      internalID: -2721199645289098037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 363
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe5052de432d230800000000000000
+      internalID: 3662047640138673959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 339
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ee7d0a12bd27e0800000000000000
+      internalID: -1788577652030906192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 348
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4576e3dfb0f278c40800000000000000
+      internalID: 5514427997278332756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 364
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6275691a8ea2d0800000000000000
+      internalID: -3265520838116217796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 366
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54235ecb76b2110800000000000000
+      internalID: 1237196583640122809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 366
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729bca006379940b0800000000000000
+      internalID: -5743893591539009241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 364
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaec6a3112afe150800000000000000
+      internalID: 5904115831384369890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 357
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322244637737e390800000000000000
+      internalID: -7789196061771161027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 344
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8219301c24bd250800000000000000
+      internalID: 5970439127765690559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 336
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e31bcb824607b0800000000000000
+      internalID: -5258442346733509364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 357
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd9fb4b34692f770800000000000000
+      internalID: 8643135852416835021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 362
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20ab07b95013770800000000000000
+      internalID: 8588652129541554853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 335
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8117fdbb26821fb80800000000000000
+      internalID: -8362858628526411496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 362
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580268ddc833f8f30800000000000000
+      internalID: 4579936026164076677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 352
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c770406f8118c90800000000000000
+      internalID: -7169421686888498119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 352
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5fc5e1ead6f760800000000000000
+      internalID: 7491415693935468433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 350
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab3273143aa07850800000000000000
+      internalID: 6372780613370526633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 350
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befdfe339b0c1c940800000000000000
+      internalID: 5314740936946737131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 287
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ec7d7cbd92bebf0800000000000000
+      internalID: -294095326735249835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b2d0fc7f393ff0800000000000000
+      internalID: -55943714516585216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 349
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df70f7cbb7f662fa0800000000000000
+      internalID: -5825846490723055619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 348
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06865803ef04770800000000000000
+      internalID: 8593147573373001969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 338
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e97cca67a068c0800000000000000
+      internalID: -4008019591220828363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a77d65c9ac56b0800000000000000
+      internalID: -5306179595539078045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 342
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf54e722e6c68490800000000000000
+      internalID: -7744283834582802518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 210
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e307cfa293207070800000000000000
+      internalID: 8102014842560775144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 288
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb18fffae2d2d50800000000000000
+      internalID: 6714073952920125152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 288
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15531b9228cb37a20800000000000000
+      internalID: 3058995839145948497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02239c82dd7f3be0800000000000000
+      internalID: -1495338208008658418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 315
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ce969d31da8f170800000000000000
+      internalID: 8212504221273680911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 315
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a1e71fc4b56f1c0800000000000000
+      internalID: -4470285194091423205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 315
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d3ae181dc36e90800000000000000
+      internalID: -7033552689545621075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 315
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84718fc91f71fb0800000000000000
+      internalID: -4677004031521503004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 315
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf275711e71dbbd90800000000000000
+      internalID: -7080835649720978692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 289
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d5c119743f4a0f0800000000000000
+      internalID: -1106492119723516661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 288
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc605cb383f0c6de0800000000000000
+      internalID: -1338678255040526641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 300
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b103a728e38a7cd0800000000000000
+      internalID: -2559588405086060112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 307
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc909db77d260c800800000000000000
+      internalID: 630612625467181519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 293
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3ca3e2e92e76200800000000000000
+      internalID: 173356279685366702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 293
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807edf78ed41e0ae0800000000000000
+      internalID: -1581303473163606264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 293
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08050ccd5c66577f0800000000000000
+      internalID: -615472774068023168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 293
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0d4400703961660800000000000000
+      internalID: 7356228699634847912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 293
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4a46c4f2fee2680800000000000000
+      internalID: -8777815637274352455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 270
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876a33e2317912570800000000000000
+      internalID: 8440193285304329848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e96efccc54179810800000000000000
+      internalID: 1771907367202351588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 266
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ab4f288c44add70800000000000000
+      internalID: 9068636427645139516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 260
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca88326634c10f800800000000000000
+      internalID: 644045822515972268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664bba01d3ca8ab80800000000000000
+      internalID: -8383261328077507482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 252
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87c7fde9a2369750800000000000000
+      internalID: 6311287633229629327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 240
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef20c9c327eaa710800000000000000
+      internalID: 1705429549807841256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 244
+        width: 145
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46cd503302729650800000000000000
+      internalID: 6238173791883478605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 241
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d4619b920292b20800000000000000
+      internalID: 3110052381247032698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7a2ca1b7897cd00800000000000000
+      internalID: 992929897355847667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 252
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd2598f6c6751e0800000000000000
+      internalID: -2209177865900859427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df74f9e8e5e294820800000000000000
+      internalID: 2902902418471602173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 253
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a301ea297045e650800000000000000
+      internalID: 6261481746083152800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 254
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8503553335d3c1a0800000000000000
+      internalID: -6790349397229894259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 206
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d3f0d7495a1d370800000000000000
+      internalID: 8345633641666133289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 212
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d1a3fe0effcb70800000000000000
+      internalID: 8921628727014708961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 225
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4b8f8f3a999cd0800000000000000
+      internalID: -2550838116146787396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 209
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224373fe951b107b0800000000000000
+      internalID: -5259727889968450526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 197
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a0098c381acc00800000000000000
+      internalID: 921575722026313343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 198
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493885de67293d80800000000000000
+      internalID: -8270535883706844856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 212
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372c49bce8adb7b0800000000000000
+      internalID: -5206819859495901392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 192
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c834b592e804c90800000000000000
+      internalID: -7187588697007354829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 210
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a56205b39587a900800000000000000
+      internalID: 695671536895550885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 197
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cf4b4e535804b70800000000000000
+      internalID: 8881244931691445366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 192
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daf2f4761e0b3690800000000000000
+      internalID: -7621482454780282157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93146c74f5988cd50800000000000000
+      internalID: 6757802283188502841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 197
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27dfd6c390162cb0800000000000000
+      internalID: -4889202118581299411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 195
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6daadf2c64b4d70800000000000000
+      internalID: 9028387681287722734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 194
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b213773af3406e0800000000000000
+      internalID: -1872301573767353487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 195
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5220b30f1bbe490800000000000000
+      internalID: -7715877891228949040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 196
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af095e47bd0cae200800000000000000
+      internalID: 210192381417722106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 196
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dbaeace65d51150800000000000000
+      internalID: 5842810763410586898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 194
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540b937892c1d86b0800000000000000
+      internalID: -5292543022402523067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 196
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91418d4825711b350800000000000000
+      internalID: 6030627019209315353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 191
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61addb171d0fe2c00800000000000000
+      internalID: 877903759730924054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe0279cffef7870800000000000000
+      internalID: 8682922474739920849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 118
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823dd76dbf87013e0800000000000000
+      internalID: -2085033604441844952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 107
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5b2deea72104f90800000000000000
+      internalID: -6971551903967431200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf797561f809d550800000000000000
+      internalID: 6185985396052688861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 173
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaaf533b22c6b9f0800000000000000
+      internalID: -452961221702866227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 151
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698ab7c2e55869a0800000000000000
+      internalID: -6239642851219961493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 153
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f77134c3cef5a0800000000000000
+      internalID: -6485531165955982989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 153
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e27a0c8ad8b97d0800000000000000
+      internalID: -2910576978238689782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 172
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96888c5905ee16d0800000000000000
+      internalID: -3017722871921736033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 150
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87342737dcc4f0bf0800000000000000
+      internalID: -355981400250104968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 127
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc86600b391ed4e0800000000000000
+      internalID: -1955097447031730957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 145
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5b1862d7b08140800000000000000
+      internalID: 4719974523801918356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 143
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defc59dd1b25e3da0800000000000000
+      internalID: -5963237932711686163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 144
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc6de6131890df50800000000000000
+      internalID: 6904185436515429593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 143
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd6d176d92f9550800000000000000
+      internalID: 6169696015530515497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 144
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0956a5e23801dee20800000000000000
+      internalID: 3381377050829546896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 100
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5cd2c19767fe20800000000000000
+      internalID: 3384287520729357898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 103
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435572bb7688e4f10800000000000000
+      internalID: 2255890442462123316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 104
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e4e72b6b6745790800000000000000
+      internalID: -7542272948887990638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 100
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404eb077460856420800000000000000
+      internalID: 2622643526995534852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 102
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e13a38ee38979f0800000000000000
+      internalID: -470199625649545655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 98
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4bf8fe23b346730800000000000000
+      internalID: 3991380259710678204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 57
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74fdec0bfa903210800000000000000
+      internalID: 1310717894609204347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822113162a7208050800000000000000
+      internalID: 5800679898421989928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 47
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7316362c2587fe0800000000000000
+      internalID: -1191111106595047508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 49
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3200eec190c91e50800000000000000
+      internalID: 6780662446456570429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddef85a99cb0fd3b0800000000000000
+      internalID: -5485652860608119075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 71
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd095fcc786e97000800000000000000
+      internalID: 34311943115608283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 48
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d0180445dff4a0800000000000000
+      internalID: -6557288044258339751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 47
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d317ebe6c7b38050800000000000000
+      internalID: 5801682809972528085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d4d751e80838450800000000000000
+      internalID: 6089852468869287270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 37
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22bad822b3bf43a0800000000000000
+      internalID: -6678922144596184531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93067436252b7230800000000000000
+      internalID: 3637541970050941853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2dfa791374a990800000000000000
+      internalID: -7375643736451240967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0077179747a42cb30800000000000000
+      internalID: 4306086057833756416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_183
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 32
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9683e3c6635950800000000000000
+      internalID: 6436601283964477011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_184
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23e2641b21010720800000000000000
+      internalID: 2810528926993146669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_185
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 24
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a4695048299d40800000000000000
+      internalID: 5591544669199968223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_186
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 23
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c06e79800403a020800000000000000
+      internalID: 2351727830770802885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_187
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 12
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9274c0fb0ec9c180800000000000000
+      internalID: -9094511421818637665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_188
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 10
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708141f2f13714fc0800000000000000
+      internalID: -3512399656601249785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_189
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 16
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58365f9f481f6820800000000000000
+      internalID: 2913574214186711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_190
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c309f73a6ad5d50800000000000000
+      internalID: 6727716639511428178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_191
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 16
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d50551c45ba4bb0800000000000000
+      internalID: -4950945501960708762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_192
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93654c1839db4dc00800000000000000
+      internalID: 924572264752764473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_193
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 14
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee32701a2d03000800000000000000
+      internalID: 13742387933474554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_194
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 5
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255344b825363c730800000000000000
+      internalID: 4018164498719585618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Slums_Rasak_195
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713b64808ae11a40800000000000000
+      internalID: 5337304871109079417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Modern_Slums_Rasak_0: 4761991688478397683
+      Tileset_Modern_Slums_Rasak_1: -1200116962663052678
+      Tileset_Modern_Slums_Rasak_10: 8936584396715423703
+      Tileset_Modern_Slums_Rasak_100: -4470285194091423205
+      Tileset_Modern_Slums_Rasak_101: -7033552689545621075
+      Tileset_Modern_Slums_Rasak_102: -4677004031521503004
+      Tileset_Modern_Slums_Rasak_103: -7080835649720978692
+      Tileset_Modern_Slums_Rasak_104: -1106492119723516661
+      Tileset_Modern_Slums_Rasak_105: -1338678255040526641
+      Tileset_Modern_Slums_Rasak_106: -2559588405086060112
+      Tileset_Modern_Slums_Rasak_107: 630612625467181519
+      Tileset_Modern_Slums_Rasak_108: 173356279685366702
+      Tileset_Modern_Slums_Rasak_109: -1581303473163606264
+      Tileset_Modern_Slums_Rasak_11: -5813215579119497597
+      Tileset_Modern_Slums_Rasak_110: -615472774068023168
+      Tileset_Modern_Slums_Rasak_111: 7356228699634847912
+      Tileset_Modern_Slums_Rasak_112: -8777815637274352455
+      Tileset_Modern_Slums_Rasak_113: 8440193285304329848
+      Tileset_Modern_Slums_Rasak_114: 1771907367202351588
+      Tileset_Modern_Slums_Rasak_115: 9068636427645139516
+      Tileset_Modern_Slums_Rasak_116: 644045822515972268
+      Tileset_Modern_Slums_Rasak_117: -8383261328077507482
+      Tileset_Modern_Slums_Rasak_118: 6311287633229629327
+      Tileset_Modern_Slums_Rasak_119: 1705429549807841256
+      Tileset_Modern_Slums_Rasak_12: -3201453196220155885
+      Tileset_Modern_Slums_Rasak_120: 6238173791883478605
+      Tileset_Modern_Slums_Rasak_121: 3110052381247032698
+      Tileset_Modern_Slums_Rasak_122: 992929897355847667
+      Tileset_Modern_Slums_Rasak_123: -2209177865900859427
+      Tileset_Modern_Slums_Rasak_124: 2902902418471602173
+      Tileset_Modern_Slums_Rasak_125: 6261481746083152800
+      Tileset_Modern_Slums_Rasak_126: -6790349397229894259
+      Tileset_Modern_Slums_Rasak_127: 8345633641666133289
+      Tileset_Modern_Slums_Rasak_128: 8921628727014708961
+      Tileset_Modern_Slums_Rasak_129: -2550838116146787396
+      Tileset_Modern_Slums_Rasak_13: 810404967445511427
+      Tileset_Modern_Slums_Rasak_130: -5259727889968450526
+      Tileset_Modern_Slums_Rasak_131: 921575722026313343
+      Tileset_Modern_Slums_Rasak_132: -8270535883706844856
+      Tileset_Modern_Slums_Rasak_133: -5206819859495901392
+      Tileset_Modern_Slums_Rasak_134: -7187588697007354829
+      Tileset_Modern_Slums_Rasak_135: 695671536895550885
+      Tileset_Modern_Slums_Rasak_136: 8881244931691445366
+      Tileset_Modern_Slums_Rasak_137: -7621482454780282157
+      Tileset_Modern_Slums_Rasak_138: 6757802283188502841
+      Tileset_Modern_Slums_Rasak_139: -4889202118581299411
+      Tileset_Modern_Slums_Rasak_14: 2246281828578920507
+      Tileset_Modern_Slums_Rasak_140: 9028387681287722734
+      Tileset_Modern_Slums_Rasak_141: -1872301573767353487
+      Tileset_Modern_Slums_Rasak_142: -7715877891228949040
+      Tileset_Modern_Slums_Rasak_143: 210192381417722106
+      Tileset_Modern_Slums_Rasak_144: 5842810763410586898
+      Tileset_Modern_Slums_Rasak_145: -5292543022402523067
+      Tileset_Modern_Slums_Rasak_146: 6030627019209315353
+      Tileset_Modern_Slums_Rasak_147: 877903759730924054
+      Tileset_Modern_Slums_Rasak_148: 8682922474739920849
+      Tileset_Modern_Slums_Rasak_149: -2085033604441844952
+      Tileset_Modern_Slums_Rasak_15: 5144689393906890257
+      Tileset_Modern_Slums_Rasak_150: -6971551903967431200
+      Tileset_Modern_Slums_Rasak_151: 6185985396052688861
+      Tileset_Modern_Slums_Rasak_152: -452961221702866227
+      Tileset_Modern_Slums_Rasak_153: -6239642851219961493
+      Tileset_Modern_Slums_Rasak_154: -6485531165955982989
+      Tileset_Modern_Slums_Rasak_155: -2910576978238689782
+      Tileset_Modern_Slums_Rasak_156: -3017722871921736033
+      Tileset_Modern_Slums_Rasak_157: -355981400250104968
+      Tileset_Modern_Slums_Rasak_158: -1955097447031730957
+      Tileset_Modern_Slums_Rasak_159: 4719974523801918356
+      Tileset_Modern_Slums_Rasak_16: -2363559731950524617
+      Tileset_Modern_Slums_Rasak_160: -5963237932711686163
+      Tileset_Modern_Slums_Rasak_161: 6904185436515429593
+      Tileset_Modern_Slums_Rasak_162: 6169696015530515497
+      Tileset_Modern_Slums_Rasak_163: 3381377050829546896
+      Tileset_Modern_Slums_Rasak_164: 3384287520729357898
+      Tileset_Modern_Slums_Rasak_165: 2255890442462123316
+      Tileset_Modern_Slums_Rasak_166: -7542272948887990638
+      Tileset_Modern_Slums_Rasak_167: 2622643526995534852
+      Tileset_Modern_Slums_Rasak_168: -470199625649545655
+      Tileset_Modern_Slums_Rasak_169: 3991380259710678204
+      Tileset_Modern_Slums_Rasak_17: 1068496027075899188
+      Tileset_Modern_Slums_Rasak_170: 1310717894609204347
+      Tileset_Modern_Slums_Rasak_171: 5800679898421989928
+      Tileset_Modern_Slums_Rasak_172: -1191111106595047508
+      Tileset_Modern_Slums_Rasak_173: 6780662446456570429
+      Tileset_Modern_Slums_Rasak_174: -5485652860608119075
+      Tileset_Modern_Slums_Rasak_175: 34311943115608283
+      Tileset_Modern_Slums_Rasak_176: -6557288044258339751
+      Tileset_Modern_Slums_Rasak_177: 5801682809972528085
+      Tileset_Modern_Slums_Rasak_178: 6089852468869287270
+      Tileset_Modern_Slums_Rasak_179: -6678922144596184531
+      Tileset_Modern_Slums_Rasak_18: -7764943893262775885
+      Tileset_Modern_Slums_Rasak_180: 3637541970050941853
+      Tileset_Modern_Slums_Rasak_181: -7375643736451240967
+      Tileset_Modern_Slums_Rasak_182: 4306086057833756416
+      Tileset_Modern_Slums_Rasak_183: 6436601283964477011
+      Tileset_Modern_Slums_Rasak_184: 2810528926993146669
+      Tileset_Modern_Slums_Rasak_185: 5591544669199968223
+      Tileset_Modern_Slums_Rasak_186: 2351727830770802885
+      Tileset_Modern_Slums_Rasak_187: -9094511421818637665
+      Tileset_Modern_Slums_Rasak_188: -3512399656601249785
+      Tileset_Modern_Slums_Rasak_189: 2913574214186711131
+      Tileset_Modern_Slums_Rasak_19: -5466831239563798656
+      Tileset_Modern_Slums_Rasak_190: 6727716639511428178
+      Tileset_Modern_Slums_Rasak_191: -4950945501960708762
+      Tileset_Modern_Slums_Rasak_192: 924572264752764473
+      Tileset_Modern_Slums_Rasak_193: 13742387933474554
+      Tileset_Modern_Slums_Rasak_194: 4018164498719585618
+      Tileset_Modern_Slums_Rasak_195: 5337304871109079417
+      Tileset_Modern_Slums_Rasak_2: -3967772845871309699
+      Tileset_Modern_Slums_Rasak_20: -931528783915819250
+      Tileset_Modern_Slums_Rasak_21: 9083243492881977488
+      Tileset_Modern_Slums_Rasak_22: -7488679811913035916
+      Tileset_Modern_Slums_Rasak_23: -5074427308729444261
+      Tileset_Modern_Slums_Rasak_24: 3343042771410507914
+      Tileset_Modern_Slums_Rasak_25: 438929039056623050
+      Tileset_Modern_Slums_Rasak_26: -2835150037214327586
+      Tileset_Modern_Slums_Rasak_27: -5122764400006103407
+      Tileset_Modern_Slums_Rasak_28: 2065976927420784409
+      Tileset_Modern_Slums_Rasak_29: 4525953137669807366
+      Tileset_Modern_Slums_Rasak_3: -4264339637728061728
+      Tileset_Modern_Slums_Rasak_30: -55258074003036201
+      Tileset_Modern_Slums_Rasak_31: -1261402000743540033
+      Tileset_Modern_Slums_Rasak_32: 2823605270267518974
+      Tileset_Modern_Slums_Rasak_33: -535846787531417476
+      Tileset_Modern_Slums_Rasak_34: 4276327831741966731
+      Tileset_Modern_Slums_Rasak_35: 8490394996355262866
+      Tileset_Modern_Slums_Rasak_36: 588560488777409182
+      Tileset_Modern_Slums_Rasak_37: -3903012753217149365
+      Tileset_Modern_Slums_Rasak_38: -6810690157691060751
+      Tileset_Modern_Slums_Rasak_39: 8330327569114048846
+      Tileset_Modern_Slums_Rasak_4: -5718309550920843696
+      Tileset_Modern_Slums_Rasak_40: -6989875322397812445
+      Tileset_Modern_Slums_Rasak_41: 1886912942950766610
+      Tileset_Modern_Slums_Rasak_42: -2348172316091473022
+      Tileset_Modern_Slums_Rasak_43: -7939277741514312449
+      Tileset_Modern_Slums_Rasak_44: 7369797702527308175
+      Tileset_Modern_Slums_Rasak_45: -8605551164243823109
+      Tileset_Modern_Slums_Rasak_46: -5920606084008682383
+      Tileset_Modern_Slums_Rasak_47: -5822228804656266875
+      Tileset_Modern_Slums_Rasak_48: 8306440548104684421
+      Tileset_Modern_Slums_Rasak_49: 2761610538321909763
+      Tileset_Modern_Slums_Rasak_5: -1328159470290930860
+      Tileset_Modern_Slums_Rasak_50: -4357901091798879284
+      Tileset_Modern_Slums_Rasak_51: -880071682357182396
+      Tileset_Modern_Slums_Rasak_52: -5232730204740725544
+      Tileset_Modern_Slums_Rasak_53: 6347542955562506880
+      Tileset_Modern_Slums_Rasak_54: 1197712112013250958
+      Tileset_Modern_Slums_Rasak_55: -4168706158465158944
+      Tileset_Modern_Slums_Rasak_56: -8360709106136968041
+      Tileset_Modern_Slums_Rasak_57: -1233620710773213008
+      Tileset_Modern_Slums_Rasak_58: -141194012110898413
+      Tileset_Modern_Slums_Rasak_59: -2967076596211282565
+      Tileset_Modern_Slums_Rasak_6: -4228576383968562051
+      Tileset_Modern_Slums_Rasak_60: 6224941722771580393
+      Tileset_Modern_Slums_Rasak_61: 8603449224627825311
+      Tileset_Modern_Slums_Rasak_62: 5078564362292667542
+      Tileset_Modern_Slums_Rasak_63: -1286253789436301384
+      Tileset_Modern_Slums_Rasak_64: 2437415955109407752
+      Tileset_Modern_Slums_Rasak_65: -9069483683905993286
+      Tileset_Modern_Slums_Rasak_66: 2595765575161662270
+      Tileset_Modern_Slums_Rasak_67: -9040278106412404874
+      Tileset_Modern_Slums_Rasak_68: -5981211348805643220
+      Tileset_Modern_Slums_Rasak_69: -2721199645289098037
+      Tileset_Modern_Slums_Rasak_7: -5903317819194781090
+      Tileset_Modern_Slums_Rasak_70: 3662047640138673959
+      Tileset_Modern_Slums_Rasak_71: -1788577652030906192
+      Tileset_Modern_Slums_Rasak_72: 5514427997278332756
+      Tileset_Modern_Slums_Rasak_73: -3265520838116217796
+      Tileset_Modern_Slums_Rasak_74: 1237196583640122809
+      Tileset_Modern_Slums_Rasak_75: -5743893591539009241
+      Tileset_Modern_Slums_Rasak_76: 5904115831384369890
+      Tileset_Modern_Slums_Rasak_77: -7789196061771161027
+      Tileset_Modern_Slums_Rasak_78: 5970439127765690559
+      Tileset_Modern_Slums_Rasak_79: -5258442346733509364
+      Tileset_Modern_Slums_Rasak_8: -8482393000795256066
+      Tileset_Modern_Slums_Rasak_80: 8643135852416835021
+      Tileset_Modern_Slums_Rasak_81: 8588652129541554853
+      Tileset_Modern_Slums_Rasak_82: -8362858628526411496
+      Tileset_Modern_Slums_Rasak_83: 4579936026164076677
+      Tileset_Modern_Slums_Rasak_84: -7169421686888498119
+      Tileset_Modern_Slums_Rasak_85: 7491415693935468433
+      Tileset_Modern_Slums_Rasak_86: 6372780613370526633
+      Tileset_Modern_Slums_Rasak_87: 5314740936946737131
+      Tileset_Modern_Slums_Rasak_88: -294095326735249835
+      Tileset_Modern_Slums_Rasak_89: -55943714516585216
+      Tileset_Modern_Slums_Rasak_9: 6695644872197861841
+      Tileset_Modern_Slums_Rasak_90: -5825846490723055619
+      Tileset_Modern_Slums_Rasak_91: 8593147573373001969
+      Tileset_Modern_Slums_Rasak_92: -4008019591220828363
+      Tileset_Modern_Slums_Rasak_93: -5306179595539078045
+      Tileset_Modern_Slums_Rasak_94: -7744283834582802518
+      Tileset_Modern_Slums_Rasak_95: 8102014842560775144
+      Tileset_Modern_Slums_Rasak_96: 6714073952920125152
+      Tileset_Modern_Slums_Rasak_97: 3058995839145948497
+      Tileset_Modern_Slums_Rasak_98: -1495338208008658418
+      Tileset_Modern_Slums_Rasak_99: 8212504221273680911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 74e195d9680787f4f811786d491592e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3650559795612031890
+    second: retina_silver_0
+  - first:
+      213: 6513981208329706582
+    second: retina_silver_1
+  - first:
+      213: -9011734730378364406
+    second: retina_silver_2
+  - first:
+      213: -2968304213814370572
+    second: retina_silver_3
+  - first:
+      213: -8483781070787081568
+    second: retina_silver_4
+  - first:
+      213: -6080837403622613104
+    second: retina_silver_5
+  - first:
+      213: 9156664361915771599
+    second: retina_silver_6
+  - first:
+      213: -3101826633350294066
+    second: retina_silver_7
+  - first:
+      213: 8154012564185263970
+    second: retina_silver_8
+  - first:
+      213: -6778192140652247528
+    second: retina_silver_9
+  - first:
+      213: 4375827353531049801
+    second: retina_silver_10
+  - first:
+      213: -1453994049041909905
+    second: retina_silver_11
+  - first:
+      213: -5363532877923748267
+    second: retina_silver_12
+  - first:
+      213: 2204830996814344870
+    second: retina_silver_13
+  - first:
+      213: -3445788682768724921
+    second: retina_silver_14
+  - first:
+      213: 4756373169754723497
+    second: retina_silver_15
+  - first:
+      213: -5888432916872880585
+    second: retina_silver_16
+  - first:
+      213: -929324856106110764
+    second: retina_silver_17
+  - first:
+      213: 4337360715966202323
+    second: retina_silver_18
+  - first:
+      213: -1282599314786971116
+    second: retina_silver_19
+  - first:
+      213: 1071556765610360640
+    second: retina_silver_20
+  - first:
+      213: -5431146615275962780
+    second: retina_silver_21
+  - first:
+      213: -5249028174170660415
+    second: retina_silver_22
+  - first:
+      213: 5391931621843126319
+    second: retina_silver_23
+  - first:
+      213: -2829968944265080950
+    second: retina_silver_24
+  - first:
+      213: 2435422955369738632
+    second: retina_silver_25
+  - first:
+      213: -8359187035953562737
+    second: retina_silver_26
+  - first:
+      213: 5819705647657229331
+    second: retina_silver_27
+  - first:
+      213: 7969163485932633073
+    second: retina_silver_28
+  - first:
+      213: 8590046138150963953
+    second: retina_silver_29
+  - first:
+      213: 6280524058274363338
+    second: retina_silver_30
+  - first:
+      213: 5303292699471935315
+    second: retina_silver_31
+  - first:
+      213: -8889450248191838161
+    second: retina_silver_32
+  - first:
+      213: 6823421128038742918
+    second: retina_silver_33
+  - first:
+      213: -7303963757335993705
+    second: retina_silver_34
+  - first:
+      213: -377612709210552251
+    second: retina_silver_35
+  - first:
+      213: -2694491841739194955
+    second: retina_silver_36
+  - first:
+      213: -8147281041930325831
+    second: retina_silver_37
+  - first:
+      213: 2292543769649193071
+    second: retina_silver_38
+  - first:
+      213: -2995795695395376647
+    second: retina_silver_39
+  - first:
+      213: 3129074252491836797
+    second: retina_silver_40
+  - first:
+      213: 5047070898901056414
+    second: retina_silver_41
+  - first:
+      213: -6086152168317100568
+    second: retina_silver_42
+  - first:
+      213: 6383940623433440184
+    second: retina_silver_43
+  - first:
+      213: -747170242211127650
+    second: retina_silver_44
+  - first:
+      213: -6040369206696035536
+    second: retina_silver_45
+  - first:
+      213: 6974359132645197592
+    second: retina_silver_46
+  - first:
+      213: 9019275497575712990
+    second: retina_silver_47
+  - first:
+      213: -8783400220163036426
+    second: retina_silver_48
+  - first:
+      213: 6115250732978952526
+    second: retina_silver_49
+  - first:
+      213: -3341420869860494432
+    second: retina_silver_50
+  - first:
+      213: -5444351268783675925
+    second: retina_silver_51
+  - first:
+      213: -2531506715913050458
+    second: retina_silver_52
+  - first:
+      213: -2451955246903446388
+    second: retina_silver_53
+  - first:
+      213: 2799182301439764713
+    second: retina_silver_54
+  - first:
+      213: 5017187222124328362
+    second: retina_silver_55
+  - first:
+      213: -8111349624498042092
+    second: retina_silver_56
+  - first:
+      213: 7256599237532658717
+    second: retina_silver_57
+  - first:
+      213: -6232661274472212627
+    second: retina_silver_58
+  - first:
+      213: 7397976659885655996
+    second: retina_silver_59
+  - first:
+      213: -2700757190451122711
+    second: retina_silver_60
+  - first:
+      213: 4116950786586916880
+    second: retina_silver_61
+  - first:
+      213: -4376101209317012680
+    second: retina_silver_62
+  - first:
+      213: 7479418410011289170
+    second: retina_silver_63
+  - first:
+      213: -4637530791187798653
+    second: retina_silver_64
+  - first:
+      213: -76937139747791519
+    second: retina_silver_65
+  - first:
+      213: 8195437036931396193
+    second: retina_silver_66
+  - first:
+      213: -1941913637604129468
+    second: retina_silver_67
+  - first:
+      213: -5112956628245809118
+    second: retina_silver_68
+  - first:
+      213: 1303225741433527454
+    second: retina_silver_69
+  - first:
+      213: 961981910299886670
+    second: retina_silver_70
+  - first:
+      213: -6691817518530809755
+    second: retina_silver_71
+  - first:
+      213: 8176611259233675662
+    second: retina_silver_72
+  - first:
+      213: 3812815014042778389
+    second: retina_silver_73
+  - first:
+      213: 2997635394987460947
+    second: retina_silver_74
+  - first:
+      213: 7336244856096039805
+    second: retina_silver_75
+  - first:
+      213: 2471339699369130215
+    second: retina_silver_76
+  - first:
+      213: 1127535696938673457
+    second: retina_silver_77
+  - first:
+      213: -5098417070868870141
+    second: retina_silver_78
+  - first:
+      213: 3466247968266619788
+    second: retina_silver_79
+  - first:
+      213: -612364437332736599
+    second: retina_silver_80
+  - first:
+      213: -8226539519488399845
+    second: retina_silver_81
+  - first:
+      213: -7289456918563127339
+    second: retina_silver_82
+  - first:
+      213: 5672135194702224716
+    second: retina_silver_83
+  - first:
+      213: 2861534842654519742
+    second: retina_silver_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retina_silver_0
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e837153b965dc0800000000000000
+      internalID: -3650559795612031890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_1
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cdf0c756f466a50800000000000000
+      internalID: 6513981208329706582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3fb94203efe280800000000000000
+      internalID: -9011734730378364406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe9c465b077ec6d0800000000000000
+      internalID: -2968304213814370572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8d8ba01e834a80800000000000000
+      internalID: -8483781070787081568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_5
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 715
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5a2c59968c9ba0800000000000000
+      internalID: -6080837403622613104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_6
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 719
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae77b19b1031f70800000000000000
+      internalID: 9156664361915771599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_7
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55f447c1914f4d0800000000000000
+      internalID: -3101826633350294066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_8
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa55ea93fd82170800000000000000
+      internalID: 8154012564185263970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_9
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 715
+        width: 130
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816041519260fe1a0800000000000000
+      internalID: -6778192140652247528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_10
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947e7ad3bcf0abc30800000000000000
+      internalID: 4375827353531049801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_11
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 715
+        width: 129
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673351bd1062dbe0800000000000000
+      internalID: -1453994049041909905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 687
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f936c347e095b0800000000000000
+      internalID: -5363532877923748267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b3e22c12299e10800000000000000
+      internalID: 2204830996814344870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c428813791e20d0800000000000000
+      internalID: -3445788682768724921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4dd629238020240800000000000000
+      internalID: 4756373169754723497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e131ad575184ea0800000000000000
+      internalID: -5888432916872880585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bad697ff5a13f0800000000000000
+      internalID: -929324856106110764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 683
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d146e14796613c30800000000000000
+      internalID: 4337360715966202323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 687
+        width: 642
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41296fcf7ba433ee0800000000000000
+      internalID: -1282599314786971116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_20
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 695
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3fd2733feede00800000000000000
+      internalID: 1071556765610360640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_21
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 695
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e3969cde0b0a4b0800000000000000
+      internalID: -5431146615275962780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 1664
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c16a86afa4b727b0800000000000000
+      internalID: -5249028174170660415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 642
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c72d0e3df3da40800000000000000
+      internalID: 5391931621843126319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 898
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f41bf2d3ee9b8d0800000000000000
+      internalID: -2829968944265080950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_25
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 431
+        width: 258
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88135a4464c5cc120800000000000000
+      internalID: 2435422955369738632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_26
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 435
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bffeefda33efb80800000000000000
+      internalID: -8359187035953562737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_27
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 451
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c91f1d37fb3c050800000000000000
+      internalID: 5819705647657229331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_28
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 465
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb3700d7f7289e60800000000000000
+      internalID: 7969163485932633073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_29
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 435
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa44bc5379f53770800000000000000
+      internalID: 8590046138150963953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_30
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 451
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7fcb8fa57e82750800000000000000
+      internalID: 6280524058274363338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 129
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35772f3bc94199940800000000000000
+      internalID: 5303292699471935315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_32
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 399
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28740cf81452a480800000000000000
+      internalID: -8889450248191838161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_33
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 419
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf4a92d59a1be50800000000000000
+      internalID: 6823421128038742918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_34
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79229a729ab13aa90800000000000000
+      internalID: -7303963757335993705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_35
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 419
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54805dcdd3372caf0800000000000000
+      internalID: -377612709210552251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_36
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 419
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd72fa22fd3b9ad0800000000000000
+      internalID: -2694491841739194955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 315
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f77afe0b0fee80800000000000000
+      internalID: -8147281041930325831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 1409
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a9fd7960c0df10800000000000000
+      internalID: 2292543769649193071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_39
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1705cffabcc66d0800000000000000
+      internalID: -2995795695395376647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_40
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dc89f3474bc6b20800000000000000
+      internalID: 3129074252491836797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_41
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b7535fd3cca0640800000000000000
+      internalID: 5047070898901056414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_42
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 347
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed5c7649d4a98ba0800000000000000
+      internalID: -6086152168317100568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 301
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb9fe66c20589850800000000000000
+      internalID: 6383940623433440184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e53469f9481a5f0800000000000000
+      internalID: -747170242211127650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 301
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bbca2b53c4c2ca0800000000000000
+      internalID: -6040369206696035536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 315
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817815deda6e9c060800000000000000
+      internalID: 6974359132645197592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 315
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed882646747ea2d70800000000000000
+      internalID: 9019275497575712990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa281549081b1680800000000000000
+      internalID: -8783400220163036426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4958a3442cbdd450800000000000000
+      internalID: 6115250732978952526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 219
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a373e62c63e0a1d0800000000000000
+      internalID: -3341420869860494432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a3bfcd57c174b0800000000000000
+      internalID: -5444351268783675925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_52
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 159
+        width: 1025
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6ac7bed084edcd0800000000000000
+      internalID: -2531506715913050458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c843a27a1b7e8fdd0800000000000000
+      internalID: -2451955246903446388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a0e2f871b8d620800000000000000
+      internalID: 2799182301439764713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 175
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa579524231a0a540800000000000000
+      internalID: 5017187222124328362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 175
+        width: 98
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bcbc60e72be6f80800000000000000
+      internalID: -8111349624498042092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_57
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c21863f8e94b460800000000000000
+      internalID: 7256599237532658717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_58
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6710c9c7932189a0800000000000000
+      internalID: -6232661274472212627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_59
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb78d157394eaa660800000000000000
+      internalID: 7397976659885655996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_60
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed249ef4abf48ad0800000000000000
+      internalID: -2700757190451122711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_61
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01837488de8522930800000000000000
+      internalID: 4116950786586916880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_62
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b808db227f443c0800000000000000
+      internalID: -4376101209317012680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_63
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 155
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2566d3f8a6b3cc760800000000000000
+      internalID: 7479418410011289170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_64
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385a05ce05e24afb0800000000000000
+      internalID: -4637530791187798653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_65
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 91
+        width: 258
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d5c4b341aaeeef0800000000000000
+      internalID: -76937139747791519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_66
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 91
+        width: 385
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1623065509a0cb170800000000000000
+      internalID: 8195437036931396193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_67
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 139
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4458e16d5dfec05e0800000000000000
+      internalID: -1941913637604129468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_68
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 139
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228fd6549012b09b0800000000000000
+      internalID: -5112956628245809118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 257
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5a4438ecf51210800000000000000
+      internalID: 1303225741433527454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 55
+        width: 258
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44c6cb5375a95d00800000000000000
+      internalID: 961981910299886670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_71
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 79
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603c32fb63e123a0800000000000000
+      internalID: -6691817518530809755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_72
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8925156e98297170800000000000000
+      internalID: 8176611259233675662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_73
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bbb4add07d9e430800000000000000
+      internalID: 3812815014042778389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_74
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3598d54728db99920800000000000000
+      internalID: 2997635394987460947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_75
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 51
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7324e8d3d39fc560800000000000000
+      internalID: 7336244856096039805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_76
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 39
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b734ec56fb4220800000000000000
+      internalID: 2471339699369130215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_77
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 51
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1352a9f0ebfc5af00800000000000000
+      internalID: 1127535696938673457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_78
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 37
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc216cfa8ce39b0800000000000000
+      internalID: -5098417070868870141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_79
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 37
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b83f389269a1030800000000000000
+      internalID: 3466247968266619788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_80
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 37
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a543b7e9c17087f0800000000000000
+      internalID: -612364437332736599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_81
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 31
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166e22a4e575dd80800000000000000
+      internalID: -8226539519488399845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_82
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 514
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff783cd85a6da90800000000000000
+      internalID: -7289456918563127339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_83
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 386
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d973648e877be40800000000000000
+      internalID: 5672135194702224716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retina_silver_84
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 257
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb173d047c636b720800000000000000
+      internalID: 2861534842654519742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retina_silver_0: -3650559795612031890
+      retina_silver_1: 6513981208329706582
+      retina_silver_10: 4375827353531049801
+      retina_silver_11: -1453994049041909905
+      retina_silver_12: -5363532877923748267
+      retina_silver_13: 2204830996814344870
+      retina_silver_14: -3445788682768724921
+      retina_silver_15: 4756373169754723497
+      retina_silver_16: -5888432916872880585
+      retina_silver_17: -929324856106110764
+      retina_silver_18: 4337360715966202323
+      retina_silver_19: -1282599314786971116
+      retina_silver_2: -9011734730378364406
+      retina_silver_20: 1071556765610360640
+      retina_silver_21: -5431146615275962780
+      retina_silver_22: -5249028174170660415
+      retina_silver_23: 5391931621843126319
+      retina_silver_24: -2829968944265080950
+      retina_silver_25: 2435422955369738632
+      retina_silver_26: -8359187035953562737
+      retina_silver_27: 5819705647657229331
+      retina_silver_28: 7969163485932633073
+      retina_silver_29: 8590046138150963953
+      retina_silver_3: -2968304213814370572
+      retina_silver_30: 6280524058274363338
+      retina_silver_31: 5303292699471935315
+      retina_silver_32: -8889450248191838161
+      retina_silver_33: 6823421128038742918
+      retina_silver_34: -7303963757335993705
+      retina_silver_35: -377612709210552251
+      retina_silver_36: -2694491841739194955
+      retina_silver_37: -8147281041930325831
+      retina_silver_38: 2292543769649193071
+      retina_silver_39: -2995795695395376647
+      retina_silver_4: -8483781070787081568
+      retina_silver_40: 3129074252491836797
+      retina_silver_41: 5047070898901056414
+      retina_silver_42: -6086152168317100568
+      retina_silver_43: 6383940623433440184
+      retina_silver_44: -747170242211127650
+      retina_silver_45: -6040369206696035536
+      retina_silver_46: 6974359132645197592
+      retina_silver_47: 9019275497575712990
+      retina_silver_48: -8783400220163036426
+      retina_silver_49: 6115250732978952526
+      retina_silver_5: -6080837403622613104
+      retina_silver_50: -3341420869860494432
+      retina_silver_51: -5444351268783675925
+      retina_silver_52: -2531506715913050458
+      retina_silver_53: -2451955246903446388
+      retina_silver_54: 2799182301439764713
+      retina_silver_55: 5017187222124328362
+      retina_silver_56: -8111349624498042092
+      retina_silver_57: 7256599237532658717
+      retina_silver_58: -6232661274472212627
+      retina_silver_59: 7397976659885655996
+      retina_silver_6: 9156664361915771599
+      retina_silver_60: -2700757190451122711
+      retina_silver_61: 4116950786586916880
+      retina_silver_62: -4376101209317012680
+      retina_silver_63: 7479418410011289170
+      retina_silver_64: -4637530791187798653
+      retina_silver_65: -76937139747791519
+      retina_silver_66: 8195437036931396193
+      retina_silver_67: -1941913637604129468
+      retina_silver_68: -5112956628245809118
+      retina_silver_69: 1303225741433527454
+      retina_silver_7: -3101826633350294066
+      retina_silver_70: 961981910299886670
+      retina_silver_71: -6691817518530809755
+      retina_silver_72: 8176611259233675662
+      retina_silver_73: 3812815014042778389
+      retina_silver_74: 2997635394987460947
+      retina_silver_75: 7336244856096039805
+      retina_silver_76: 2471339699369130215
+      retina_silver_77: 1127535696938673457
+      retina_silver_78: -5098417070868870141
+      retina_silver_79: 3466247968266619788
+      retina_silver_8: 8154012564185263970
+      retina_silver_80: -612364437332736599
+      retina_silver_81: -8226539519488399845
+      retina_silver_82: -7289456918563127339
+      retina_silver_83: 5672135194702224716
+      retina_silver_84: 2861534842654519742
+      retina_silver_9: -6778192140652247528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

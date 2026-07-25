@@ -1,0 +1,4108 @@
+fileFormatVersion: 2
+guid: c3ced59a5a06f584f977d63e1aa3217c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -531597961570202962
+    second: Element-Mushrooms_0
+  - first:
+      213: -5707539547279075145
+    second: Element-Mushrooms_1
+  - first:
+      213: -4886300672618155834
+    second: Element-Mushrooms_2
+  - first:
+      213: 8552732205286897714
+    second: Element-Mushrooms_3
+  - first:
+      213: -252409937940912937
+    second: Element-Mushrooms_4
+  - first:
+      213: -7421194143115123466
+    second: Element-Mushrooms_5
+  - first:
+      213: -806082304858748903
+    second: Element-Mushrooms_6
+  - first:
+      213: -5385034343412858522
+    second: Element-Mushrooms_7
+  - first:
+      213: 6453055852863735366
+    second: Element-Mushrooms_8
+  - first:
+      213: -7816918518253650466
+    second: Element-Mushrooms_9
+  - first:
+      213: 3132156849258829866
+    second: Element-Mushrooms_10
+  - first:
+      213: 7128964453310177305
+    second: Element-Mushrooms_11
+  - first:
+      213: 4263019904876066303
+    second: Element-Mushrooms_12
+  - first:
+      213: 8079267962962983842
+    second: Element-Mushrooms_13
+  - first:
+      213: -1086901592896021964
+    second: Element-Mushrooms_14
+  - first:
+      213: -4269160671015836910
+    second: Element-Mushrooms_15
+  - first:
+      213: -949662442555567254
+    second: Element-Mushrooms_16
+  - first:
+      213: 5506343881832953605
+    second: Element-Mushrooms_17
+  - first:
+      213: -5014224615439774074
+    second: Element-Mushrooms_18
+  - first:
+      213: -7850294194918176916
+    second: Element-Mushrooms_19
+  - first:
+      213: -5552740524889070516
+    second: Element-Mushrooms_20
+  - first:
+      213: -5703649600528221503
+    second: Element-Mushrooms_21
+  - first:
+      213: 3415137436176777639
+    second: Element-Mushrooms_22
+  - first:
+      213: 4994495205406634133
+    second: Element-Mushrooms_23
+  - first:
+      213: 6232950244529154761
+    second: Element-Mushrooms_24
+  - first:
+      213: 4193840158154030038
+    second: Element-Mushrooms_25
+  - first:
+      213: -6307937253956951196
+    second: Element-Mushrooms_26
+  - first:
+      213: 255338513007376637
+    second: Element-Mushrooms_27
+  - first:
+      213: -7970341148565049234
+    second: Element-Mushrooms_28
+  - first:
+      213: -8030532169587466702
+    second: Element-Mushrooms_29
+  - first:
+      213: 7216163024974581064
+    second: Element-Mushrooms_30
+  - first:
+      213: 3217651733939825433
+    second: Element-Mushrooms_31
+  - first:
+      213: 8167604814341444113
+    second: Element-Mushrooms_32
+  - first:
+      213: -2467545137187599281
+    second: Element-Mushrooms_33
+  - first:
+      213: -8060299489352708711
+    second: Element-Mushrooms_34
+  - first:
+      213: -4790481339380653142
+    second: Element-Mushrooms_35
+  - first:
+      213: -3235167401357524669
+    second: Element-Mushrooms_36
+  - first:
+      213: -1622749420887216316
+    second: Element-Mushrooms_37
+  - first:
+      213: -7285198034267677860
+    second: Element-Mushrooms_38
+  - first:
+      213: 2441965187046815864
+    second: Element-Mushrooms_39
+  - first:
+      213: 9049740766686634686
+    second: Element-Mushrooms_40
+  - first:
+      213: 6652966428913273356
+    second: Element-Mushrooms_41
+  - first:
+      213: -5696477163647102600
+    second: Element-Mushrooms_42
+  - first:
+      213: -5825893314342553928
+    second: Element-Mushrooms_43
+  - first:
+      213: -4468447394358949491
+    second: Element-Mushrooms_44
+  - first:
+      213: 7132574851956955901
+    second: Element-Mushrooms_45
+  - first:
+      213: -5155068074329521467
+    second: Element-Mushrooms_46
+  - first:
+      213: 348681748749727099
+    second: Element-Mushrooms_47
+  - first:
+      213: 3913589719820802438
+    second: Element-Mushrooms_48
+  - first:
+      213: 651297506689913543
+    second: Element-Mushrooms_49
+  - first:
+      213: 5465612688982061324
+    second: Element-Mushrooms_50
+  - first:
+      213: 4561332978701424485
+    second: Element-Mushrooms_51
+  - first:
+      213: -6917166261650813913
+    second: Element-Mushrooms_52
+  - first:
+      213: -8155213263303202730
+    second: Element-Mushrooms_53
+  - first:
+      213: 1776230867759056177
+    second: Element-Mushrooms_54
+  - first:
+      213: -8508095042702348041
+    second: Element-Mushrooms_55
+  - first:
+      213: -6270525642501941765
+    second: Element-Mushrooms_56
+  - first:
+      213: 4992103186655985652
+    second: Element-Mushrooms_57
+  - first:
+      213: -4017458039662985508
+    second: Element-Mushrooms_58
+  - first:
+      213: -1432396045624328289
+    second: Element-Mushrooms_59
+  - first:
+      213: -3304710719377651328
+    second: Element-Mushrooms_60
+  - first:
+      213: -185102830293358091
+    second: Element-Mushrooms_61
+  - first:
+      213: -2094679096867191684
+    second: Element-Mushrooms_62
+  - first:
+      213: 6513867057871422274
+    second: Element-Mushrooms_63
+  - first:
+      213: -1274945034068617670
+    second: Element-Mushrooms_64
+  - first:
+      213: -1266888335252692922
+    second: Element-Mushrooms_65
+  - first:
+      213: -7582577926567701537
+    second: Element-Mushrooms_66
+  - first:
+      213: -6709844646965410943
+    second: Element-Mushrooms_67
+  - first:
+      213: 8323546159541152098
+    second: Element-Mushrooms_68
+  - first:
+      213: 4145142804000384097
+    second: Element-Mushrooms_69
+  - first:
+      213: 5194100137058439648
+    second: Element-Mushrooms_70
+  - first:
+      213: -8202602732310975307
+    second: Element-Mushrooms_71
+  - first:
+      213: 5533297967555386456
+    second: Element-Mushrooms_72
+  - first:
+      213: -2410522593401027249
+    second: Element-Mushrooms_73
+  - first:
+      213: 1874043499493430852
+    second: Element-Mushrooms_74
+  - first:
+      213: 1656878101068892787
+    second: Element-Mushrooms_75
+  - first:
+      213: 4640982850415334421
+    second: Element-Mushrooms_76
+  - first:
+      213: -7107833393477095209
+    second: Element-Mushrooms_77
+  - first:
+      213: -5647716657832959898
+    second: Element-Mushrooms_78
+  - first:
+      213: -378587682903575207
+    second: Element-Mushrooms_79
+  - first:
+      213: 7189457825665141437
+    second: Element-Mushrooms_80
+  - first:
+      213: -543028165069312066
+    second: Element-Mushrooms_81
+  - first:
+      213: 8535402425575066118
+    second: Element-Mushrooms_82
+  - first:
+      213: 6220010667028965224
+    second: Element-Mushrooms_83
+  - first:
+      213: -7096410020900704582
+    second: Element-Mushrooms_84
+  - first:
+      213: 2276562934174672556
+    second: Element-Mushrooms_85
+  - first:
+      213: -5630491730036735856
+    second: Element-Mushrooms_86
+  - first:
+      213: -8017431436459205493
+    second: Element-Mushrooms_87
+  - first:
+      213: -2664623357952253366
+    second: Element-Mushrooms_88
+  - first:
+      213: 6612018467794334760
+    second: Element-Mushrooms_89
+  - first:
+      213: -5465188002309514055
+    second: Element-Mushrooms_90
+  - first:
+      213: 3289546661866788633
+    second: Element-Mushrooms_91
+  - first:
+      213: -4354770769600472013
+    second: Element-Mushrooms_92
+  - first:
+      213: 8829568350452179664
+    second: Element-Mushrooms_93
+  - first:
+      213: 82669874446826654
+    second: Element-Mushrooms_94
+  - first:
+      213: -5613147879715693136
+    second: Element-Mushrooms_95
+  - first:
+      213: 928809519133793714
+    second: Element-Mushrooms_96
+  - first:
+      213: -1784024408281221477
+    second: Element-Mushrooms_97
+  - first:
+      213: -8477833379188057340
+    second: Element-Mushrooms_98
+  - first:
+      213: 5541891001585830429
+    second: Element-Mushrooms_99
+  - first:
+      213: -7688840924601877920
+    second: Element-Mushrooms_100
+  - first:
+      213: -8735677741731348615
+    second: Element-Mushrooms_101
+  - first:
+      213: 158475904033810775
+    second: Element-Mushrooms_102
+  - first:
+      213: 3488824599708012638
+    second: Element-Mushrooms_103
+  - first:
+      213: 1315897962062076173
+    second: Element-Mushrooms_104
+  - first:
+      213: -5305358558350511484
+    second: Element-Mushrooms_105
+  - first:
+      213: 7153089911361311850
+    second: Element-Mushrooms_106
+  - first:
+      213: -2047117590126816205
+    second: Element-Mushrooms_107
+  - first:
+      213: 2969427945133741219
+    second: Element-Mushrooms_108
+  - first:
+      213: -1255326095049461638
+    second: Element-Mushrooms_109
+  - first:
+      213: -4968251356093720787
+    second: Element-Mushrooms_110
+  - first:
+      213: 6871984151203300802
+    second: Element-Mushrooms_111
+  - first:
+      213: 8550984544780400183
+    second: Element-Mushrooms_112
+  - first:
+      213: 966694476803217675
+    second: Element-Mushrooms_113
+  - first:
+      213: 1991163154571438981
+    second: Element-Mushrooms_114
+  - first:
+      213: -5921933557131546321
+    second: Element-Mushrooms_115
+  - first:
+      213: 319775783801423987
+    second: Element-Mushrooms_116
+  - first:
+      213: -2382554626518931586
+    second: Element-Mushrooms_117
+  - first:
+      213: -1284770182540114019
+    second: Element-Mushrooms_118
+  - first:
+      213: 1056996488558598839
+    second: Element-Mushrooms_119
+  - first:
+      213: 5389377737718187780
+    second: Element-Mushrooms_120
+  - first:
+      213: -6697077385149501277
+    second: Element-Mushrooms_121
+  - first:
+      213: -5616536245386966739
+    second: Element-Mushrooms_122
+  - first:
+      213: -8132287923134893672
+    second: Element-Mushrooms_123
+  - first:
+      213: -8208280874844246335
+    second: Element-Mushrooms_124
+  - first:
+      213: -7382756511003501304
+    second: Element-Mushrooms_125
+  - first:
+      213: 1846072100608651787
+    second: Element-Mushrooms_126
+  - first:
+      213: -6316593537218023444
+    second: Element-Mushrooms_127
+  - first:
+      213: -1553740631149144973
+    second: Element-Mushrooms_128
+  - first:
+      213: 3429337767074677600
+    second: Element-Mushrooms_129
+  - first:
+      213: -6873877121133477849
+    second: Element-Mushrooms_130
+  - first:
+      213: -4546857295287180840
+    second: Element-Mushrooms_131
+  - first:
+      213: 4246304833478378074
+    second: Element-Mushrooms_132
+  - first:
+      213: -4833161384008855631
+    second: Element-Mushrooms_133
+  - first:
+      213: -1877037713735596221
+    second: Element-Mushrooms_134
+  - first:
+      213: 5337271552113053343
+    second: Element-Mushrooms_135
+  - first:
+      213: 8410627820516744353
+    second: Element-Mushrooms_136
+  - first:
+      213: 2197661527051567344
+    second: Element-Mushrooms_137
+  - first:
+      213: -3562798419664516431
+    second: Element-Mushrooms_138
+  - first:
+      213: 5833308599430036651
+    second: Element-Mushrooms_139
+  - first:
+      213: -5119160691391323770
+    second: Element-Mushrooms_140
+  - first:
+      213: -8535828297760698235
+    second: Element-Mushrooms_141
+  - first:
+      213: -4985312108539637384
+    second: Element-Mushrooms_142
+  - first:
+      213: 1308893872120517346
+    second: Element-Mushrooms_143
+  - first:
+      213: -5926706721897567044
+    second: Element-Mushrooms_144
+  - first:
+      213: 7866720282505595475
+    second: Element-Mushrooms_145
+  - first:
+      213: -1270129510530635497
+    second: Element-Mushrooms_146
+  - first:
+      213: 3092570325281193481
+    second: Element-Mushrooms_147
+  - first:
+      213: 8890079538608114406
+    second: Element-Mushrooms_148
+  - first:
+      213: 8876069609027323278
+    second: Element-Mushrooms_149
+  - first:
+      213: 1762434743686900954
+    second: Element-Mushrooms_150
+  - first:
+      213: 8463715040380325874
+    second: Element-Mushrooms_151
+  - first:
+      213: 7025377319505080007
+    second: Element-Mushrooms_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Element-Mushrooms_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa494178726f98f0800000000000000
+      internalID: -531597961570202962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 337
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8dfe6850fbac0b0800000000000000
+      internalID: -5707539547279075145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 338
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b7de4d6f503cb0800000000000000
+      internalID: -4886300672618155834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 348
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383b2b50a861b670800000000000000
+      internalID: 8552732205286897714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 345
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4e04faf724f7cf0800000000000000
+      internalID: -252409937940912937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 351
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4e96afe3f920990800000000000000
+      internalID: -7421194143115123466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 346
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188a2f1a6830d4f0800000000000000
+      internalID: -806082304858748903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 302
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6610999bbc38445b0800000000000000
+      internalID: -5385034343412858522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 337
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646c2b1cb1cdd8950800000000000000
+      internalID: 6453055852863735366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 337
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd7151060ab48390800000000000000
+      internalID: -7816918518253650466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 343
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2811ec3f08a77b20800000000000000
+      internalID: 3132156849258829866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 361
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a0ff366b2fe260800000000000000
+      internalID: 7128964453310177305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 357
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5be8c540a492b30800000000000000
+      internalID: 4263019904876066303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 98
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3a9118635f1070800000000000000
+      internalID: 8079267962962983842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 345
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a50a982cc8ae0f0800000000000000
+      internalID: -1086901592896021964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 310
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213680b1df4e0c4c0800000000000000
+      internalID: -4269160671015836910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6312fe3a0f12d2f0800000000000000
+      internalID: -949662442555567254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 289
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5077ccf26967a6c40800000000000000
+      internalID: 5506343881832953605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 289
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e41bc5745e96ab0800000000000000
+      internalID: -5014224615439774074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 298
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c674799b5072e0390800000000000000
+      internalID: -7850294194918176916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 294
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44221c89e3b0f2b0800000000000000
+      internalID: -5552740524889070516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 303
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca773558e098d0b0800000000000000
+      internalID: -5703649600528221503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 298
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1847e6761056f20800000000000000
+      internalID: 3415137436176777639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 294
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59077a66de2005540800000000000000
+      internalID: 4994495205406634133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 289
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca28db4933ef7650800000000000000
+      internalID: 6232950244529154761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 295
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf9876763833a30800000000000000
+      internalID: 4193840158154030038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 312
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46361780d74b578a0800000000000000
+      internalID: -6307937253956951196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 308
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8f74556052b8300800000000000000
+      internalID: 255338513007376637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 296
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f91d34f8a36190800000000000000
+      internalID: -7970341148565049234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e54621a81dd8090800000000000000
+      internalID: -8030532169587466702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 290
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d0be0d906f42460800000000000000
+      internalID: 7216163024974581064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 289
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b2764443567ac20800000000000000
+      internalID: 3217651733939825433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_32
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 296
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11297980e49295170800000000000000
+      internalID: 8167604814341444113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 245
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc0b675c481cdd0800000000000000
+      internalID: -2467545137187599281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 241
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d8ed9d150142090800000000000000
+      internalID: -8060299489352708711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 214
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa324175a9ac48db0800000000000000
+      internalID: -4790481339380653142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 242
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341492d93606a13d0800000000000000
+      internalID: -3235167401357524669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44feb88dff5da79e0800000000000000
+      internalID: -1622749420887216316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 249
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd9198cf6c5ea90800000000000000
+      internalID: -7285198034267677860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878bbc7466a93e120800000000000000
+      internalID: 2441965187046815864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 250
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26abb9743279d70800000000000000
+      internalID: 9049740766686634686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 246
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a89f9d7b5145c50800000000000000
+      internalID: 6652966428913273356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 255
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87190bd633c02f0b0800000000000000
+      internalID: -5696477163647102600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 248
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6f943c5e4462fa0800000000000000
+      internalID: -5825893314342553928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 239
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8907b905c2ecf1c0800000000000000
+      internalID: -4468447394358949491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 241
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa57c0b90ffbf260800000000000000
+      internalID: 7132574851956955901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 247
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c1ac26e48578b0800000000000000
+      internalID: -5155068074329521467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 263
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75b3edf334c6d400800000000000000
+      internalID: 348681748749727099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 248
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6891a867d1ddf4630800000000000000
+      internalID: 3913589719820802438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 260
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29951b1afd90900800000000000000
+      internalID: 651297506689913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 249
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b4a658c1c9db40800000000000000
+      internalID: 5465612688982061324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 193
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d5c95d2c1d4f30800000000000000
+      internalID: 4561332978701424485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_52
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 193
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8cf90fe94100a0800000000000000
+      internalID: -6917166261650813913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 193
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6582245cebcd2de80800000000000000
+      internalID: -8155213263303202730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 194
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135ccd7309076a810800000000000000
+      internalID: 1776230867759056177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 202
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f670f2ac2de980800000000000000
+      internalID: -8508095042702348041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 198
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf591bb962e9af8a0800000000000000
+      internalID: -6270525642501941765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffb9b22663874540800000000000000
+      internalID: 4992103186655985652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 202
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeb9d5c23f1f38c0800000000000000
+      internalID: -4017458039662985508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 198
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f33eab26b1f1ce0800000000000000
+      internalID: -1432396045624328289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_60
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089c11e1c1f4322d0800000000000000
+      internalID: -3304710719377651328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 201
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9e171e4f16e6df0800000000000000
+      internalID: -185102830293358091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_62
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 191
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748bc0a5743ee2e0800000000000000
+      internalID: -2094679096867191684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 193
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438b82c397e56a50800000000000000
+      internalID: 6513867057871422274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 198
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3611381f3c7e4ee0800000000000000
+      internalID: -1274945034068617670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 216
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406d2775cb1b6ee0800000000000000
+      internalID: -1266888335252692922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 200
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d63dcc8545c690800000000000000
+      internalID: -7582577926567701537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_67
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 212
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183029708d7d1e2a0800000000000000
+      internalID: -6709844646965410943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 201
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269640fc12d238370800000000000000
+      internalID: 8323546159541152098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 148
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a5b71b61868930800000000000000
+      internalID: 4145142804000384097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 155
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11d2d1e86251840800000000000000
+      internalID: 5194100137058439648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 143
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bca4f236408a2e80800000000000000
+      internalID: -8202602732310975307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c97805f293acc40800000000000000
+      internalID: 5533297967555386456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 159
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454749097a1c8ed0800000000000000
+      internalID: -2410522593401027249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4469fe832a0f10a10800000000000000
+      internalID: 1874043499493430852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 171
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ac55abad96ef610800000000000000
+      internalID: 1656878101068892787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 160
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5149faf3055186040800000000000000
+      internalID: 4640982850415334421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_77
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 164
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d073230037eb5d90800000000000000
+      internalID: -7107833393477095209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606fc16f974f91b0800000000000000
+      internalID: -5647716657832959898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 144
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b13c128cfebaf0800000000000000
+      internalID: -378587682903575207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_80
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 147
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba4c621dc516c360800000000000000
+      internalID: 7189457825665141437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_81
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 147
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe20ec2c6c678f0800000000000000
+      internalID: -543028165069312066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_82
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 151
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac8679847d37670800000000000000
+      internalID: 8535402425575066118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_83
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 150
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867e6632fbae15650800000000000000
+      internalID: 6220010667028965224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_84
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 167
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee0b33fac748d90800000000000000
+      internalID: -7096410020900704582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_85
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 150
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca66d484de9f79f10800000000000000
+      internalID: 2276562934174672556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_86
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 153
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c2686a997cd1b0800000000000000
+      internalID: -5630491730036735856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 148
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9cc2369c5cb090800000000000000
+      internalID: -8017431436459205493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_88
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 157
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a422c097c2b550bd0800000000000000
+      internalID: -2664623357952253366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 152
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243435b3cb92cb50800000000000000
+      internalID: 6612018467794334760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5d9bb770c724b0800000000000000
+      internalID: -5465188002309514055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_91
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 148
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91754ac9241d6ad20800000000000000
+      internalID: 3289546661866788633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 158
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c95bfbe0fb093c0800000000000000
+      internalID: -4354770769600472013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 150
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ebb832ade88a70800000000000000
+      internalID: 8829568350452179664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_94
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 151
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c770410d3b52100800000000000000
+      internalID: 82669874446826654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_95
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 107
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd1fcd3eb71a12b0800000000000000
+      internalID: -5613147879715693136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd98fb265bc3ec00800000000000000
+      internalID: 928809519133793714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_97
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9675c9b04fdd37e0800000000000000
+      internalID: -1784024408281221477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_98
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 101
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bdb88857fa85a80800000000000000
+      internalID: -8477833379188057340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a0575f080c8ec40800000000000000
+      internalID: 5541891001585830429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 94
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a7e929aefbb4590800000000000000
+      internalID: -7688840924601877920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ff0d3a063a4c680800000000000000
+      internalID: -8735677741731348615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 104
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e46dbef4033200800000000000000
+      internalID: 158475904033810775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 111
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509d352d7bca6030800000000000000
+      internalID: 3488824599708012638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09de5d7932034210800000000000000
+      internalID: 1315897962062076173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482707b00849f56b0800000000000000
+      internalID: -5305358558350511484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 103
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a641f1d2061e44360800000000000000
+      internalID: 7153089911361311850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_107
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334990bd56d2793e0800000000000000
+      internalID: -2047117590126816205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_108
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 98
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a490dfbbf6853920800000000000000
+      internalID: 2969427945133741219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_109
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a707c4b419f249ee0800000000000000
+      internalID: -1255326095049461638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_110
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 96
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d275e2de6b93d0bb0800000000000000
+      internalID: -4968251356093720787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_111
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 98
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5469a1d213e5f50800000000000000
+      internalID: 6871984151203300802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_112
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 96
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736bd7f63233ba670800000000000000
+      internalID: 8550984544780400183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_113
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 100
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09103041836a6d00800000000000000
+      internalID: 966694476803217675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_114
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba316e65802ab10800000000000000
+      internalID: 1991163154571438981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_115
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 100
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2175b73ec011dda0800000000000000
+      internalID: -5921933557131546321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_116
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37881419162107400800000000000000
+      internalID: 319775783801423987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_117
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 63
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e772064c0377feed0800000000000000
+      internalID: -2382554626518931586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_118
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97cea373549b2ee0800000000000000
+      internalID: -1284770182540114019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bade55c4b43bae00800000000000000
+      internalID: 1056996488558598839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_120
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 54
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40747119f7aeaca40800000000000000
+      internalID: 5389377737718187780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_121
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 48
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0bcd0d9933f03a0800000000000000
+      internalID: -6697077385149501277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_122
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 81
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d298a91ea0e0e02b0800000000000000
+      internalID: -5616536245386966739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_123
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891785a783f442f80800000000000000
+      internalID: -8132287923134893672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_124
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 80
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea64e9804561e80800000000000000
+      internalID: -8208280874844246335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_125
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 52
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d1f6a911e2b8990800000000000000
+      internalID: -7382756511003501304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_126
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b98a6bc09e9910800000000000000
+      internalID: 1846072100608651787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_127
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef679705a3f658a0800000000000000
+      internalID: -6316593537218023444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_128
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 55
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3749347c021007ae0800000000000000
+      internalID: -1553740631149144973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_129
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063415d9784779f20800000000000000
+      internalID: 3429337767074677600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_130
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 53
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720872d7d251b90a0800000000000000
+      internalID: -6873877121133477849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_131
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 59
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a306516156e0c0800000000000000
+      internalID: -4546857295287180840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 57
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c0878fb7edea30800000000000000
+      internalID: 4246304833478378074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_133
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf440414592decb0800000000000000
+      internalID: -4833161384008855631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_134
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34747c2f42c63f5e0800000000000000
+      internalID: -1877037713735596221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_135
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e0f75d23cc11a40800000000000000
+      internalID: 5337271552113053343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_136
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1bebf07d88b470800000000000000
+      internalID: 8410627820516744353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_137
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f08370e389af7e10800000000000000
+      internalID: 2197661527051567344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_138
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac29db6b56e8ec0800000000000000
+      internalID: -3562798419664516431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_139
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac3246d34314f050800000000000000
+      internalID: 5833308599430036651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_140
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 21
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6812a71497615f8b0800000000000000
+      internalID: -5119160691391323770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_141
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5801f305365aa8980800000000000000
+      internalID: -8535828297760698235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_142
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8719a04fc0d90dab0800000000000000
+      internalID: -4985312108539637384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_143
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 13
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2dd68ba002a2210800000000000000
+      internalID: 1308893872120517346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_144
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc206133ab10cda0800000000000000
+      internalID: -5926706721897567044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_145
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a4b12da643c2d60800000000000000
+      internalID: 7866720282505595475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_146
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719a41a80f79f5ee0800000000000000
+      internalID: -1270129510530635497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_147
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 14
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ebc4163540bea20800000000000000
+      internalID: 3092570325281193481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_148
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea84bb1d38ef5b70800000000000000
+      internalID: 8890079538608114406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_149
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85c6bf28422e2b70800000000000000
+      internalID: 8876069609027323278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_150
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca345cf0d657810800000000000000
+      internalID: 1762434743686900954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_151
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff000e8cf7257570800000000000000
+      internalID: 8463715040380325874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Element-Mushrooms_152
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceaf2633772f7160800000000000000
+      internalID: 7025377319505080007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Element-Mushrooms_0: -531597961570202962
+      Element-Mushrooms_1: -5707539547279075145
+      Element-Mushrooms_10: 3132156849258829866
+      Element-Mushrooms_100: -7688840924601877920
+      Element-Mushrooms_101: -8735677741731348615
+      Element-Mushrooms_102: 158475904033810775
+      Element-Mushrooms_103: 3488824599708012638
+      Element-Mushrooms_104: 1315897962062076173
+      Element-Mushrooms_105: -5305358558350511484
+      Element-Mushrooms_106: 7153089911361311850
+      Element-Mushrooms_107: -2047117590126816205
+      Element-Mushrooms_108: 2969427945133741219
+      Element-Mushrooms_109: -1255326095049461638
+      Element-Mushrooms_11: 7128964453310177305
+      Element-Mushrooms_110: -4968251356093720787
+      Element-Mushrooms_111: 6871984151203300802
+      Element-Mushrooms_112: 8550984544780400183
+      Element-Mushrooms_113: 966694476803217675
+      Element-Mushrooms_114: 1991163154571438981
+      Element-Mushrooms_115: -5921933557131546321
+      Element-Mushrooms_116: 319775783801423987
+      Element-Mushrooms_117: -2382554626518931586
+      Element-Mushrooms_118: -1284770182540114019
+      Element-Mushrooms_119: 1056996488558598839
+      Element-Mushrooms_12: 4263019904876066303
+      Element-Mushrooms_120: 5389377737718187780
+      Element-Mushrooms_121: -6697077385149501277
+      Element-Mushrooms_122: -5616536245386966739
+      Element-Mushrooms_123: -8132287923134893672
+      Element-Mushrooms_124: -8208280874844246335
+      Element-Mushrooms_125: -7382756511003501304
+      Element-Mushrooms_126: 1846072100608651787
+      Element-Mushrooms_127: -6316593537218023444
+      Element-Mushrooms_128: -1553740631149144973
+      Element-Mushrooms_129: 3429337767074677600
+      Element-Mushrooms_13: 8079267962962983842
+      Element-Mushrooms_130: -6873877121133477849
+      Element-Mushrooms_131: -4546857295287180840
+      Element-Mushrooms_132: 4246304833478378074
+      Element-Mushrooms_133: -4833161384008855631
+      Element-Mushrooms_134: -1877037713735596221
+      Element-Mushrooms_135: 5337271552113053343
+      Element-Mushrooms_136: 8410627820516744353
+      Element-Mushrooms_137: 2197661527051567344
+      Element-Mushrooms_138: -3562798419664516431
+      Element-Mushrooms_139: 5833308599430036651
+      Element-Mushrooms_14: -1086901592896021964
+      Element-Mushrooms_140: -5119160691391323770
+      Element-Mushrooms_141: -8535828297760698235
+      Element-Mushrooms_142: -4985312108539637384
+      Element-Mushrooms_143: 1308893872120517346
+      Element-Mushrooms_144: -5926706721897567044
+      Element-Mushrooms_145: 7866720282505595475
+      Element-Mushrooms_146: -1270129510530635497
+      Element-Mushrooms_147: 3092570325281193481
+      Element-Mushrooms_148: 8890079538608114406
+      Element-Mushrooms_149: 8876069609027323278
+      Element-Mushrooms_15: -4269160671015836910
+      Element-Mushrooms_150: 1762434743686900954
+      Element-Mushrooms_151: 8463715040380325874
+      Element-Mushrooms_152: 7025377319505080007
+      Element-Mushrooms_16: -949662442555567254
+      Element-Mushrooms_17: 5506343881832953605
+      Element-Mushrooms_18: -5014224615439774074
+      Element-Mushrooms_19: -7850294194918176916
+      Element-Mushrooms_2: -4886300672618155834
+      Element-Mushrooms_20: -5552740524889070516
+      Element-Mushrooms_21: -5703649600528221503
+      Element-Mushrooms_22: 3415137436176777639
+      Element-Mushrooms_23: 4994495205406634133
+      Element-Mushrooms_24: 6232950244529154761
+      Element-Mushrooms_25: 4193840158154030038
+      Element-Mushrooms_26: -6307937253956951196
+      Element-Mushrooms_27: 255338513007376637
+      Element-Mushrooms_28: -7970341148565049234
+      Element-Mushrooms_29: -8030532169587466702
+      Element-Mushrooms_3: 8552732205286897714
+      Element-Mushrooms_30: 7216163024974581064
+      Element-Mushrooms_31: 3217651733939825433
+      Element-Mushrooms_32: 8167604814341444113
+      Element-Mushrooms_33: -2467545137187599281
+      Element-Mushrooms_34: -8060299489352708711
+      Element-Mushrooms_35: -4790481339380653142
+      Element-Mushrooms_36: -3235167401357524669
+      Element-Mushrooms_37: -1622749420887216316
+      Element-Mushrooms_38: -7285198034267677860
+      Element-Mushrooms_39: 2441965187046815864
+      Element-Mushrooms_4: -252409937940912937
+      Element-Mushrooms_40: 9049740766686634686
+      Element-Mushrooms_41: 6652966428913273356
+      Element-Mushrooms_42: -5696477163647102600
+      Element-Mushrooms_43: -5825893314342553928
+      Element-Mushrooms_44: -4468447394358949491
+      Element-Mushrooms_45: 7132574851956955901
+      Element-Mushrooms_46: -5155068074329521467
+      Element-Mushrooms_47: 348681748749727099
+      Element-Mushrooms_48: 3913589719820802438
+      Element-Mushrooms_49: 651297506689913543
+      Element-Mushrooms_5: -7421194143115123466
+      Element-Mushrooms_50: 5465612688982061324
+      Element-Mushrooms_51: 4561332978701424485
+      Element-Mushrooms_52: -6917166261650813913
+      Element-Mushrooms_53: -8155213263303202730
+      Element-Mushrooms_54: 1776230867759056177
+      Element-Mushrooms_55: -8508095042702348041
+      Element-Mushrooms_56: -6270525642501941765
+      Element-Mushrooms_57: 4992103186655985652
+      Element-Mushrooms_58: -4017458039662985508
+      Element-Mushrooms_59: -1432396045624328289
+      Element-Mushrooms_6: -806082304858748903
+      Element-Mushrooms_60: -3304710719377651328
+      Element-Mushrooms_61: -185102830293358091
+      Element-Mushrooms_62: -2094679096867191684
+      Element-Mushrooms_63: 6513867057871422274
+      Element-Mushrooms_64: -1274945034068617670
+      Element-Mushrooms_65: -1266888335252692922
+      Element-Mushrooms_66: -7582577926567701537
+      Element-Mushrooms_67: -6709844646965410943
+      Element-Mushrooms_68: 8323546159541152098
+      Element-Mushrooms_69: 4145142804000384097
+      Element-Mushrooms_7: -5385034343412858522
+      Element-Mushrooms_70: 5194100137058439648
+      Element-Mushrooms_71: -8202602732310975307
+      Element-Mushrooms_72: 5533297967555386456
+      Element-Mushrooms_73: -2410522593401027249
+      Element-Mushrooms_74: 1874043499493430852
+      Element-Mushrooms_75: 1656878101068892787
+      Element-Mushrooms_76: 4640982850415334421
+      Element-Mushrooms_77: -7107833393477095209
+      Element-Mushrooms_78: -5647716657832959898
+      Element-Mushrooms_79: -378587682903575207
+      Element-Mushrooms_8: 6453055852863735366
+      Element-Mushrooms_80: 7189457825665141437
+      Element-Mushrooms_81: -543028165069312066
+      Element-Mushrooms_82: 8535402425575066118
+      Element-Mushrooms_83: 6220010667028965224
+      Element-Mushrooms_84: -7096410020900704582
+      Element-Mushrooms_85: 2276562934174672556
+      Element-Mushrooms_86: -5630491730036735856
+      Element-Mushrooms_87: -8017431436459205493
+      Element-Mushrooms_88: -2664623357952253366
+      Element-Mushrooms_89: 6612018467794334760
+      Element-Mushrooms_9: -7816918518253650466
+      Element-Mushrooms_90: -5465188002309514055
+      Element-Mushrooms_91: 3289546661866788633
+      Element-Mushrooms_92: -4354770769600472013
+      Element-Mushrooms_93: 8829568350452179664
+      Element-Mushrooms_94: 82669874446826654
+      Element-Mushrooms_95: -5613147879715693136
+      Element-Mushrooms_96: 928809519133793714
+      Element-Mushrooms_97: -1784024408281221477
+      Element-Mushrooms_98: -8477833379188057340
+      Element-Mushrooms_99: 5541891001585830429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

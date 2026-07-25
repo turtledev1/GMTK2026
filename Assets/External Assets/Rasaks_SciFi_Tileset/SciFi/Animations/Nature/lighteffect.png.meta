@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: 1adc4b8e56e2e45429ab3c8b9e7dd198
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7383664397067193282
+    second: lighteffect_0
+  - first:
+      213: 1561818825491069994
+    second: lighteffect_1
+  - first:
+      213: 1168665231368790052
+    second: lighteffect_2
+  - first:
+      213: -923964064420926293
+    second: lighteffect_3
+  - first:
+      213: -2846151530644098134
+    second: lighteffect_4
+  - first:
+      213: -820785660924972376
+    second: lighteffect_5
+  - first:
+      213: 2409891620241340403
+    second: lighteffect_6
+  - first:
+      213: -6714918986965308480
+    second: lighteffect_7
+  - first:
+      213: 6051211563612254681
+    second: lighteffect_8
+  - first:
+      213: -3367834053951012312
+    second: lighteffect_9
+  - first:
+      213: -2464434219733160799
+    second: lighteffect_10
+  - first:
+      213: 4721429800306090378
+    second: lighteffect_11
+  - first:
+      213: -727166532149870972
+    second: lighteffect_12
+  - first:
+      213: 4215376923087516414
+    second: lighteffect_13
+  - first:
+      213: -7583279618312465805
+    second: lighteffect_14
+  - first:
+      213: 1447748992682613091
+    second: lighteffect_15
+  - first:
+      213: 8774560451574706317
+    second: lighteffect_16
+  - first:
+      213: -5158514083494061879
+    second: lighteffect_17
+  - first:
+      213: 9085245415375012011
+    second: lighteffect_18
+  - first:
+      213: -871355435322485463
+    second: lighteffect_19
+  - first:
+      213: -4498548471246208287
+    second: lighteffect_20
+  - first:
+      213: -1372313055863590739
+    second: lighteffect_21
+  - first:
+      213: 8573545719238200705
+    second: lighteffect_22
+  - first:
+      213: 8265833331730936292
+    second: lighteffect_23
+  - first:
+      213: 1506974330712394624
+    second: lighteffect_24
+  - first:
+      213: 6609714931226673570
+    second: lighteffect_25
+  - first:
+      213: 8958837889021909011
+    second: lighteffect_26
+  - first:
+      213: 175416098317888445
+    second: lighteffect_27
+  - first:
+      213: -9208311805808745594
+    second: lighteffect_28
+  - first:
+      213: 8342728530223328917
+    second: lighteffect_29
+  - first:
+      213: -4007084472148511794
+    second: lighteffect_30
+  - first:
+      213: -3560617926872168614
+    second: lighteffect_31
+  - first:
+      213: 729907708064182420
+    second: lighteffect_32
+  - first:
+      213: 1161342071535067843
+    second: lighteffect_33
+  - first:
+      213: -274306955658288005
+    second: lighteffect_34
+  - first:
+      213: -8299037972157264122
+    second: lighteffect_35
+  - first:
+      213: -8136561427863752274
+    second: lighteffect_36
+  - first:
+      213: -794799898942475077
+    second: lighteffect_37
+  - first:
+      213: -7705473117226890870
+    second: lighteffect_38
+  - first:
+      213: -2186579803668660854
+    second: lighteffect_39
+  - first:
+      213: 3555370164292034345
+    second: lighteffect_40
+  - first:
+      213: -3279037007075849804
+    second: lighteffect_41
+  - first:
+      213: 4798846435079528077
+    second: lighteffect_42
+  - first:
+      213: -8601542246484084358
+    second: lighteffect_43
+  - first:
+      213: 4190504190914989132
+    second: lighteffect_44
+  - first:
+      213: 4274508439142568827
+    second: lighteffect_45
+  - first:
+      213: -9189294768674583241
+    second: lighteffect_46
+  - first:
+      213: 8826426536346915296
+    second: lighteffect_47
+  - first:
+      213: 7975265838279755950
+    second: lighteffect_48
+  - first:
+      213: 8937800524923427142
+    second: lighteffect_49
+  - first:
+      213: 5097489729014674234
+    second: lighteffect_50
+  - first:
+      213: -1276739911554214866
+    second: lighteffect_51
+  - first:
+      213: -3703945400816091442
+    second: lighteffect_52
+  - first:
+      213: -8851521317382595987
+    second: lighteffect_53
+  - first:
+      213: 7689070119102592714
+    second: lighteffect_54
+  - first:
+      213: 5879842328528769045
+    second: lighteffect_55
+  - first:
+      213: 5426752154798329150
+    second: lighteffect_56
+  - first:
+      213: 1340912094319034837
+    second: lighteffect_57
+  - first:
+      213: -5074389969280635609
+    second: lighteffect_58
+  - first:
+      213: 3824079063639731401
+    second: lighteffect_59
+  - first:
+      213: -5483134695227622639
+    second: lighteffect_60
+  - first:
+      213: 2212286536681218778
+    second: lighteffect_61
+  - first:
+      213: 4856215315891460990
+    second: lighteffect_62
+  - first:
+      213: 7875025868233894716
+    second: lighteffect_63
+  - first:
+      213: 7191199880504819354
+    second: lighteffect_64
+  - first:
+      213: -271628543510275653
+    second: lighteffect_65
+  - first:
+      213: 7512959092796128926
+    second: lighteffect_66
+  - first:
+      213: -6710151978499423281
+    second: lighteffect_67
+  - first:
+      213: -827080594715346501
+    second: lighteffect_68
+  - first:
+      213: -2640416994926467091
+    second: lighteffect_69
+  - first:
+      213: -9048338425466897591
+    second: lighteffect_70
+  - first:
+      213: 8833466555099457846
+    second: lighteffect_71
+  - first:
+      213: 7182491286333064379
+    second: lighteffect_72
+  - first:
+      213: -5652377634647774961
+    second: lighteffect_73
+  - first:
+      213: 4772836586324424575
+    second: lighteffect_74
+  - first:
+      213: -6124167542830094816
+    second: lighteffect_75
+  - first:
+      213: -4334292290659464834
+    second: lighteffect_76
+  - first:
+      213: -3266651025265867799
+    second: lighteffect_77
+  - first:
+      213: 1074567196428655979
+    second: lighteffect_78
+  - first:
+      213: -5886542319183480686
+    second: lighteffect_79
+  - first:
+      213: 2562637994114142617
+    second: lighteffect_80
+  - first:
+      213: 7081689944767202290
+    second: lighteffect_81
+  - first:
+      213: -719500748803853382
+    second: lighteffect_82
+  - first:
+      213: 5160004617573315887
+    second: lighteffect_83
+  - first:
+      213: 8200954434477126466
+    second: lighteffect_84
+  - first:
+      213: 5189920232988493357
+    second: lighteffect_85
+  - first:
+      213: -6308576541390231795
+    second: lighteffect_86
+  - first:
+      213: 8857046381580599938
+    second: lighteffect_87
+  - first:
+      213: -8426457012948299153
+    second: lighteffect_88
+  - first:
+      213: 7537665137169456132
+    second: lighteffect_89
+  - first:
+      213: 6344934027057503564
+    second: lighteffect_90
+  - first:
+      213: -6633829250399718172
+    second: lighteffect_91
+  - first:
+      213: 5316642550748523149
+    second: lighteffect_92
+  - first:
+      213: -6051636632512991937
+    second: lighteffect_93
+  - first:
+      213: -4702111753435892115
+    second: lighteffect_94
+  - first:
+      213: 4633555107106469912
+    second: lighteffect_95
+  - first:
+      213: 3514804612390778345
+    second: lighteffect_96
+  - first:
+      213: -7056684240962774865
+    second: lighteffect_97
+  - first:
+      213: 1982203008034676045
+    second: lighteffect_98
+  - first:
+      213: 1167701562434253305
+    second: lighteffect_99
+  - first:
+      213: 8704536077871929248
+    second: lighteffect_100
+  - first:
+      213: -4182998934503680239
+    second: lighteffect_101
+  - first:
+      213: -5693934309554511151
+    second: lighteffect_102
+  - first:
+      213: 6592412099777522039
+    second: lighteffect_103
+  - first:
+      213: 4619126414482297947
+    second: lighteffect_104
+  - first:
+      213: 3114929044886723107
+    second: lighteffect_105
+  - first:
+      213: -1388609274382991425
+    second: lighteffect_106
+  - first:
+      213: -7330188672991758929
+    second: lighteffect_107
+  - first:
+      213: 7368251704095810436
+    second: lighteffect_108
+  - first:
+      213: 8527647148200973699
+    second: lighteffect_109
+  - first:
+      213: -6153676209256842586
+    second: lighteffect_110
+  - first:
+      213: 1743628837767286323
+    second: lighteffect_111
+  - first:
+      213: 5178418597274752922
+    second: lighteffect_112
+  - first:
+      213: 4787738616600320454
+    second: lighteffect_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lighteffect_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 352
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb83e716ab087660800000000000000
+      internalID: 7383664397067193282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 352
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cb9e862f1bca510800000000000000
+      internalID: 1561818825491069994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 336
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420261906dee73010800000000000000
+      internalID: 1168665231368790052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bace6fa249b6d23f0800000000000000
+      internalID: -923964064420926293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 338
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3360f23407088d0800000000000000
+      internalID: -2846151530644098134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 356
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a235d34acbfb94f0800000000000000
+      internalID: -820785660924972376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 358
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7fca319a7a17120800000000000000
+      internalID: 2409891620241340403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 355
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb286e22c0dfc2a0800000000000000
+      internalID: -6714918986965308480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 341
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d138dd3bd83af350800000000000000
+      internalID: 6051211563612254681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 338
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82249cf75cc0341d0800000000000000
+      internalID: -3367834053951012312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 341
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acec7062229ccdd0800000000000000
+      internalID: -2464434219733160799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 353
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81203f5363e58140800000000000000
+      internalID: 4721429800306090378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 361
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e77a644e598e5f0800000000000000
+      internalID: -727166532149870972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 341
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2b20f3af6008a30800000000000000
+      internalID: 4215376923087516414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 336
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37296067d57c2c690800000000000000
+      internalID: -7583279618312465805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 337
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d6c0d900771410800000000000000
+      internalID: 1447748992682613091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_16
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 347
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d803d48bd3085c970800000000000000
+      internalID: 8774560451574706317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 307
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89c74a5c64968b0800000000000000
+      internalID: -5158514083494061879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 298
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba08ca0d196451e70800000000000000
+      internalID: 9085245415375012011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 298
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255f7429d258e3f0800000000000000
+      internalID: -871355435322485463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 289
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e24e7eeff1f191c0800000000000000
+      internalID: -4498548471246208287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 289
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0be98eb8094fce0800000000000000
+      internalID: -1372313055863590739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 306
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d83c4386a5bf670800000000000000
+      internalID: 8573545719238200705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 293
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f766fe9326b270800000000000000
+      internalID: 8265833331730936292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_24
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 291
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b8eb36b29d9e410800000000000000
+      internalID: 1506974330712394624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 293
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a18c5ec5bc6abb50800000000000000
+      internalID: 6609714931226673570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 313
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3181677189f245c70800000000000000
+      internalID: 8958837889021909011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 322
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb6f1413043f6200800000000000000
+      internalID: 175416098317888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_28
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 293
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ebb94331853080800000000000000
+      internalID: -9208311805808745594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 322
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e6a75856357c370800000000000000
+      internalID: 8342728530223328917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 292
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ba9c27e9f368c0800000000000000
+      internalID: -4007084472148511794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 292
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5785e74cd4269ec0800000000000000
+      internalID: -3560617926872168614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 292
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903cf97137212a00800000000000000
+      internalID: 729907708064182420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 291
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c26094067aed1010800000000000000
+      internalID: 1161342071535067843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 293
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74a194f647713cf0800000000000000
+      internalID: -274306955658288005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 293
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f861c3fe4e3dc80800000000000000
+      internalID: -8299037972157264122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 294
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1390f9d70251f80800000000000000
+      internalID: -8136561427863752274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 290
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb47404f3bd48f4f0800000000000000
+      internalID: -794799898942475077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_38
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 293
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a898e557609a01590800000000000000
+      internalID: -7705473117226890870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 259
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d3949e045b7a1e0800000000000000
+      internalID: -2186579803668660854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 266
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f16a7c356375130800000000000000
+      internalID: 3555370164292034345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 250
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b942e317358e72d0800000000000000
+      internalID: -3279037007075849804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9096486de89240800000000000000
+      internalID: 4798846435079528077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 269
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79fcc556ee21a880800000000000000
+      internalID: -8601542246484084358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 265
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c06410c59a72a30800000000000000
+      internalID: 4190504190914989132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 246
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73908037ca125b30800000000000000
+      internalID: 4274508439142568827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 244
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dcbc84811197080800000000000000
+      internalID: -9189294768674583241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 257
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11a0f9b24cd7a70800000000000000
+      internalID: 8826426536346915296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 259
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea809ff6606ddae60800000000000000
+      internalID: 7975265838279755950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 245
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6495c511932790c70800000000000000
+      internalID: 8937800524923427142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 251
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333f10a6ebedb640800000000000000
+      internalID: 5097489729014674234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 264
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245f3d90db184ee0800000000000000
+      internalID: -1276739911554214866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece3ae44841f89cc0800000000000000
+      internalID: -3703945400816091442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 245
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6adc9b5244192580800000000000000
+      internalID: -8851521317382595987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_54
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63e2ee88015ba60800000000000000
+      internalID: 7689070119102592714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510534fe175699150800000000000000
+      internalID: 5879842328528769045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 250
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d07d62552bf4b40800000000000000
+      internalID: 5426752154798329150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 245
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d149e00270eb9210800000000000000
+      internalID: 1340912094319034837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 245
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72de83d45352499b0800000000000000
+      internalID: -5074389969280635609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 245
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2145c5abd11530800000000000000
+      internalID: 3824079063639731401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 245
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b765bab0ef7e3b0800000000000000
+      internalID: -5483134695227622639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_61
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 250
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2634842ee93be10800000000000000
+      internalID: 2212286536681218778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 247
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b9588b91eb46340800000000000000
+      internalID: 4856215315891460990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be711bd46b94d60800000000000000
+      internalID: 7875025868233894716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e3252d0364cc360800000000000000
+      internalID: 7191199880504819354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99631674bfa3cf0800000000000000
+      internalID: -271628543510275653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e77225d74634860800000000000000
+      internalID: 7512959092796128926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 197
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc348a4d350c0e2a0800000000000000
+      internalID: -6710151978499423281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 211
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97f57c49e9584f0800000000000000
+      internalID: -827080594715346501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 210
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e08e8bba5b5bd0800000000000000
+      internalID: -2640416994926467091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_70
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 207
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b37866428dd6280800000000000000
+      internalID: -9048338425466897591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_71
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 208
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392ff7b707c69a70800000000000000
+      internalID: 8833466555099457846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 225
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4883c35c55da360800000000000000
+      internalID: 7182491286333064379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_73
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 197
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e4762d78be81b0800000000000000
+      internalID: -5652377634647774961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_74
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 225
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77fad276958c3240800000000000000
+      internalID: 4772836586324424575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 195
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a2a82116920ba0800000000000000
+      internalID: -6124167542830094816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79478e202089d3c0800000000000000
+      internalID: -4334292290659464834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 192
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3ccd133368aa2d0800000000000000
+      internalID: -3266651025265867799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 204
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dda6efb21a9ee00800000000000000
+      internalID: 1074567196428655979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b3cde2fcce4ea0800000000000000
+      internalID: -5886542319183480686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d71f9da1509320800000000000000
+      internalID: 2562637994114142617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 149
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30e4ffb77374260800000000000000
+      internalID: 7081689944767202290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_82
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 150
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33beb81e1d306f0800000000000000
+      internalID: -719500748803853382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2535dd5cd40c9740800000000000000
+      internalID: 5160004617573315887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_84
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2437c2e8b94afc170800000000000000
+      internalID: 8200954434477126466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_85
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2644eb54fc460840800000000000000
+      internalID: 5189920232988493357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_86
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 151
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a2145f0f6378a0800000000000000
+      internalID: -6308576541390231795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_87
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 143
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2824545e1cc8aea70800000000000000
+      internalID: 8857046381580599938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f621e14fdf53f0b80800000000000000
+      internalID: -8426457012948299153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 104
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd4d8818a2b9860800000000000000
+      internalID: 7537665137169456132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d1d0671ebbd0850800000000000000
+      internalID: 6344934027057503564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_91
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 99
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4345db177efe3a0800000000000000
+      internalID: -6633829250399718172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 99
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa71b2b3288c940800000000000000
+      internalID: 5316642550748523149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6251bb84440ca0800000000000000
+      internalID: -6051636632512991937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 96
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b34ae54ebebeb0800000000000000
+      internalID: -4702111753435892115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_95
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 103
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818374ef1d1bd4040800000000000000
+      internalID: 4633555107106469912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_96
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 95
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5f4783c2817c030800000000000000
+      internalID: 3514804612390778345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_97
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 95
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8115d121f911e90800000000000000
+      internalID: -7056684240962774865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 52
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d1e963223328b10800000000000000
+      internalID: 1982203008034676045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_99
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ff806262843010800000000000000
+      internalID: 1167701562434253305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_100
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7d028b179bcc870800000000000000
+      internalID: 8704536077871929248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_101
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 51
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117121da1a003f5c0800000000000000
+      internalID: -4182998934503680239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_102
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 49
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d22898c9e41bf0b0800000000000000
+      internalID: -5693934309554511151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_103
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 54
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779e93c60e3fc7b50800000000000000
+      internalID: 6592412099777522039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_104
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 56
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5457d3300f6a1040800000000000000
+      internalID: 4619126414482297947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_105
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 47
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a150576737a3b20800000000000000
+      internalID: 3114929044886723107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 47
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfb69cd83baabce0800000000000000
+      internalID: -1388609274382991425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fbb92d30f54a90800000000000000
+      internalID: -7330188672991758929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_108
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832c4ed2e9414660800000000000000
+      internalID: 7368251704095810436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385546e56e9485670800000000000000
+      internalID: 8527647148200973699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_110
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa397c5710c99aa0800000000000000
+      internalID: -6153676209256842586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_111
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0f37903d923810800000000000000
+      internalID: 1743628837767286323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_112
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9796dc17407dd740800000000000000
+      internalID: 5178418597274752922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lighteffect_113
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9d1efb7e6717240800000000000000
+      internalID: 4787738616600320454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lighteffect_0: 7383664397067193282
+      lighteffect_1: 1561818825491069994
+      lighteffect_10: -2464434219733160799
+      lighteffect_100: 8704536077871929248
+      lighteffect_101: -4182998934503680239
+      lighteffect_102: -5693934309554511151
+      lighteffect_103: 6592412099777522039
+      lighteffect_104: 4619126414482297947
+      lighteffect_105: 3114929044886723107
+      lighteffect_106: -1388609274382991425
+      lighteffect_107: -7330188672991758929
+      lighteffect_108: 7368251704095810436
+      lighteffect_109: 8527647148200973699
+      lighteffect_11: 4721429800306090378
+      lighteffect_110: -6153676209256842586
+      lighteffect_111: 1743628837767286323
+      lighteffect_112: 5178418597274752922
+      lighteffect_113: 4787738616600320454
+      lighteffect_12: -727166532149870972
+      lighteffect_13: 4215376923087516414
+      lighteffect_14: -7583279618312465805
+      lighteffect_15: 1447748992682613091
+      lighteffect_16: 8774560451574706317
+      lighteffect_17: -5158514083494061879
+      lighteffect_18: 9085245415375012011
+      lighteffect_19: -871355435322485463
+      lighteffect_2: 1168665231368790052
+      lighteffect_20: -4498548471246208287
+      lighteffect_21: -1372313055863590739
+      lighteffect_22: 8573545719238200705
+      lighteffect_23: 8265833331730936292
+      lighteffect_24: 1506974330712394624
+      lighteffect_25: 6609714931226673570
+      lighteffect_26: 8958837889021909011
+      lighteffect_27: 175416098317888445
+      lighteffect_28: -9208311805808745594
+      lighteffect_29: 8342728530223328917
+      lighteffect_3: -923964064420926293
+      lighteffect_30: -4007084472148511794
+      lighteffect_31: -3560617926872168614
+      lighteffect_32: 729907708064182420
+      lighteffect_33: 1161342071535067843
+      lighteffect_34: -274306955658288005
+      lighteffect_35: -8299037972157264122
+      lighteffect_36: -8136561427863752274
+      lighteffect_37: -794799898942475077
+      lighteffect_38: -7705473117226890870
+      lighteffect_39: -2186579803668660854
+      lighteffect_4: -2846151530644098134
+      lighteffect_40: 3555370164292034345
+      lighteffect_41: -3279037007075849804
+      lighteffect_42: 4798846435079528077
+      lighteffect_43: -8601542246484084358
+      lighteffect_44: 4190504190914989132
+      lighteffect_45: 4274508439142568827
+      lighteffect_46: -9189294768674583241
+      lighteffect_47: 8826426536346915296
+      lighteffect_48: 7975265838279755950
+      lighteffect_49: 8937800524923427142
+      lighteffect_5: -820785660924972376
+      lighteffect_50: 5097489729014674234
+      lighteffect_51: -1276739911554214866
+      lighteffect_52: -3703945400816091442
+      lighteffect_53: -8851521317382595987
+      lighteffect_54: 7689070119102592714
+      lighteffect_55: 5879842328528769045
+      lighteffect_56: 5426752154798329150
+      lighteffect_57: 1340912094319034837
+      lighteffect_58: -5074389969280635609
+      lighteffect_59: 3824079063639731401
+      lighteffect_6: 2409891620241340403
+      lighteffect_60: -5483134695227622639
+      lighteffect_61: 2212286536681218778
+      lighteffect_62: 4856215315891460990
+      lighteffect_63: 7875025868233894716
+      lighteffect_64: 7191199880504819354
+      lighteffect_65: -271628543510275653
+      lighteffect_66: 7512959092796128926
+      lighteffect_67: -6710151978499423281
+      lighteffect_68: -827080594715346501
+      lighteffect_69: -2640416994926467091
+      lighteffect_7: -6714918986965308480
+      lighteffect_70: -9048338425466897591
+      lighteffect_71: 8833466555099457846
+      lighteffect_72: 7182491286333064379
+      lighteffect_73: -5652377634647774961
+      lighteffect_74: 4772836586324424575
+      lighteffect_75: -6124167542830094816
+      lighteffect_76: -4334292290659464834
+      lighteffect_77: -3266651025265867799
+      lighteffect_78: 1074567196428655979
+      lighteffect_79: -5886542319183480686
+      lighteffect_8: 6051211563612254681
+      lighteffect_80: 2562637994114142617
+      lighteffect_81: 7081689944767202290
+      lighteffect_82: -719500748803853382
+      lighteffect_83: 5160004617573315887
+      lighteffect_84: 8200954434477126466
+      lighteffect_85: 5189920232988493357
+      lighteffect_86: -6308576541390231795
+      lighteffect_87: 8857046381580599938
+      lighteffect_88: -8426457012948299153
+      lighteffect_89: 7537665137169456132
+      lighteffect_9: -3367834053951012312
+      lighteffect_90: 6344934027057503564
+      lighteffect_91: -6633829250399718172
+      lighteffect_92: 5316642550748523149
+      lighteffect_93: -6051636632512991937
+      lighteffect_94: -4702111753435892115
+      lighteffect_95: 4633555107106469912
+      lighteffect_96: 3514804612390778345
+      lighteffect_97: -7056684240962774865
+      lighteffect_98: 1982203008034676045
+      lighteffect_99: 1167701562434253305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

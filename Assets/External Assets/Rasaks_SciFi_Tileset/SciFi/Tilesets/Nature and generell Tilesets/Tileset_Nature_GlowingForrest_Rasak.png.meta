@@ -1,0 +1,4576 @@
+fileFormatVersion: 2
+guid: b9775a307c3fe154eb4cf07110e0e21a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2849795934084532583
+    second: Tileset_Nature_GlowingForrest_Rasak_0
+  - first:
+      213: 605175278668063058
+    second: Tileset_Nature_GlowingForrest_Rasak_1
+  - first:
+      213: 6264028339600498735
+    second: Tileset_Nature_GlowingForrest_Rasak_2
+  - first:
+      213: -7439318066272927489
+    second: Tileset_Nature_GlowingForrest_Rasak_3
+  - first:
+      213: 9123616068292210923
+    second: Tileset_Nature_GlowingForrest_Rasak_4
+  - first:
+      213: 7960717918663587560
+    second: Tileset_Nature_GlowingForrest_Rasak_5
+  - first:
+      213: 2923500166627163866
+    second: Tileset_Nature_GlowingForrest_Rasak_6
+  - first:
+      213: 1505045337222275150
+    second: Tileset_Nature_GlowingForrest_Rasak_7
+  - first:
+      213: -8080317097925613774
+    second: Tileset_Nature_GlowingForrest_Rasak_8
+  - first:
+      213: 574212573602769563
+    second: Tileset_Nature_GlowingForrest_Rasak_9
+  - first:
+      213: -515078168844390270
+    second: Tileset_Nature_GlowingForrest_Rasak_10
+  - first:
+      213: -7283858406411368803
+    second: Tileset_Nature_GlowingForrest_Rasak_11
+  - first:
+      213: -7210816081025271232
+    second: Tileset_Nature_GlowingForrest_Rasak_12
+  - first:
+      213: 6945904134074999944
+    second: Tileset_Nature_GlowingForrest_Rasak_13
+  - first:
+      213: 814259053713906808
+    second: Tileset_Nature_GlowingForrest_Rasak_14
+  - first:
+      213: 4944303964371812284
+    second: Tileset_Nature_GlowingForrest_Rasak_15
+  - first:
+      213: -3762127693263188370
+    second: Tileset_Nature_GlowingForrest_Rasak_16
+  - first:
+      213: 3451272379276957369
+    second: Tileset_Nature_GlowingForrest_Rasak_17
+  - first:
+      213: -3486888520103445920
+    second: Tileset_Nature_GlowingForrest_Rasak_18
+  - first:
+      213: 4789361974625114770
+    second: Tileset_Nature_GlowingForrest_Rasak_19
+  - first:
+      213: 8575529692986279674
+    second: Tileset_Nature_GlowingForrest_Rasak_20
+  - first:
+      213: -3066269840098612780
+    second: Tileset_Nature_GlowingForrest_Rasak_21
+  - first:
+      213: 6611589819265457747
+    second: Tileset_Nature_GlowingForrest_Rasak_22
+  - first:
+      213: -7396218871831616234
+    second: Tileset_Nature_GlowingForrest_Rasak_23
+  - first:
+      213: 4359845840430402236
+    second: Tileset_Nature_GlowingForrest_Rasak_24
+  - first:
+      213: 3175558821142787179
+    second: Tileset_Nature_GlowingForrest_Rasak_25
+  - first:
+      213: -2829647334651548082
+    second: Tileset_Nature_GlowingForrest_Rasak_26
+  - first:
+      213: -1103097460306617928
+    second: Tileset_Nature_GlowingForrest_Rasak_27
+  - first:
+      213: 5490432898704112668
+    second: Tileset_Nature_GlowingForrest_Rasak_28
+  - first:
+      213: -7779898166695281768
+    second: Tileset_Nature_GlowingForrest_Rasak_29
+  - first:
+      213: 6249668011758648893
+    second: Tileset_Nature_GlowingForrest_Rasak_30
+  - first:
+      213: 8815665999258283328
+    second: Tileset_Nature_GlowingForrest_Rasak_31
+  - first:
+      213: -8036880183114068251
+    second: Tileset_Nature_GlowingForrest_Rasak_32
+  - first:
+      213: -5176267293104430922
+    second: Tileset_Nature_GlowingForrest_Rasak_33
+  - first:
+      213: 5204618278159756107
+    second: Tileset_Nature_GlowingForrest_Rasak_34
+  - first:
+      213: 5149747157318883752
+    second: Tileset_Nature_GlowingForrest_Rasak_35
+  - first:
+      213: -8044240362129400928
+    second: Tileset_Nature_GlowingForrest_Rasak_36
+  - first:
+      213: -6298643293752931391
+    second: Tileset_Nature_GlowingForrest_Rasak_37
+  - first:
+      213: 1658455906085849252
+    second: Tileset_Nature_GlowingForrest_Rasak_38
+  - first:
+      213: 1037302416347360113
+    second: Tileset_Nature_GlowingForrest_Rasak_39
+  - first:
+      213: -7808441934812607534
+    second: Tileset_Nature_GlowingForrest_Rasak_40
+  - first:
+      213: 255189540958472455
+    second: Tileset_Nature_GlowingForrest_Rasak_41
+  - first:
+      213: 3628004513098675377
+    second: Tileset_Nature_GlowingForrest_Rasak_42
+  - first:
+      213: -1218275760619531438
+    second: Tileset_Nature_GlowingForrest_Rasak_43
+  - first:
+      213: -4972594190529152454
+    second: Tileset_Nature_GlowingForrest_Rasak_44
+  - first:
+      213: 4446122656844632890
+    second: Tileset_Nature_GlowingForrest_Rasak_45
+  - first:
+      213: -7618601963392580746
+    second: Tileset_Nature_GlowingForrest_Rasak_46
+  - first:
+      213: 2462600813704027593
+    second: Tileset_Nature_GlowingForrest_Rasak_47
+  - first:
+      213: -8106373167069764570
+    second: Tileset_Nature_GlowingForrest_Rasak_48
+  - first:
+      213: -1337656712899585364
+    second: Tileset_Nature_GlowingForrest_Rasak_49
+  - first:
+      213: -6158784861159146439
+    second: Tileset_Nature_GlowingForrest_Rasak_50
+  - first:
+      213: 7384039373917511081
+    second: Tileset_Nature_GlowingForrest_Rasak_51
+  - first:
+      213: 2966949450594067730
+    second: Tileset_Nature_GlowingForrest_Rasak_52
+  - first:
+      213: -1696201889602385936
+    second: Tileset_Nature_GlowingForrest_Rasak_53
+  - first:
+      213: -2357965943976514411
+    second: Tileset_Nature_GlowingForrest_Rasak_54
+  - first:
+      213: -1549743061510035857
+    second: Tileset_Nature_GlowingForrest_Rasak_55
+  - first:
+      213: -6077638650481659061
+    second: Tileset_Nature_GlowingForrest_Rasak_56
+  - first:
+      213: 3187929320454829979
+    second: Tileset_Nature_GlowingForrest_Rasak_57
+  - first:
+      213: -1737188216710343559
+    second: Tileset_Nature_GlowingForrest_Rasak_58
+  - first:
+      213: 5424088164532177461
+    second: Tileset_Nature_GlowingForrest_Rasak_59
+  - first:
+      213: 4753306884247939294
+    second: Tileset_Nature_GlowingForrest_Rasak_60
+  - first:
+      213: 7649266845370307380
+    second: Tileset_Nature_GlowingForrest_Rasak_61
+  - first:
+      213: 491090213759879285
+    second: Tileset_Nature_GlowingForrest_Rasak_62
+  - first:
+      213: 2475488042606271257
+    second: Tileset_Nature_GlowingForrest_Rasak_63
+  - first:
+      213: 4767180665012294220
+    second: Tileset_Nature_GlowingForrest_Rasak_64
+  - first:
+      213: -3759661649574748643
+    second: Tileset_Nature_GlowingForrest_Rasak_65
+  - first:
+      213: -2327421932805593592
+    second: Tileset_Nature_GlowingForrest_Rasak_66
+  - first:
+      213: -660506375713842014
+    second: Tileset_Nature_GlowingForrest_Rasak_67
+  - first:
+      213: -6441008020718893519
+    second: Tileset_Nature_GlowingForrest_Rasak_68
+  - first:
+      213: -9201473379180177445
+    second: Tileset_Nature_GlowingForrest_Rasak_69
+  - first:
+      213: -4721100007073357734
+    second: Tileset_Nature_GlowingForrest_Rasak_70
+  - first:
+      213: -5416384902844558350
+    second: Tileset_Nature_GlowingForrest_Rasak_71
+  - first:
+      213: 6590004385509684455
+    second: Tileset_Nature_GlowingForrest_Rasak_72
+  - first:
+      213: -7983674949984180325
+    second: Tileset_Nature_GlowingForrest_Rasak_73
+  - first:
+      213: 4101565271502635376
+    second: Tileset_Nature_GlowingForrest_Rasak_74
+  - first:
+      213: 7075336868690568114
+    second: Tileset_Nature_GlowingForrest_Rasak_75
+  - first:
+      213: -1527486845893548021
+    second: Tileset_Nature_GlowingForrest_Rasak_76
+  - first:
+      213: -4565385243440901536
+    second: Tileset_Nature_GlowingForrest_Rasak_77
+  - first:
+      213: 8947677734039345777
+    second: Tileset_Nature_GlowingForrest_Rasak_78
+  - first:
+      213: 2740357510279744022
+    second: Tileset_Nature_GlowingForrest_Rasak_79
+  - first:
+      213: 7459047745630639243
+    second: Tileset_Nature_GlowingForrest_Rasak_80
+  - first:
+      213: 5522788499318514324
+    second: Tileset_Nature_GlowingForrest_Rasak_81
+  - first:
+      213: 8184975601508964475
+    second: Tileset_Nature_GlowingForrest_Rasak_82
+  - first:
+      213: 30001319950202205
+    second: Tileset_Nature_GlowingForrest_Rasak_83
+  - first:
+      213: 8669406182873238658
+    second: Tileset_Nature_GlowingForrest_Rasak_84
+  - first:
+      213: -1748972082993386062
+    second: Tileset_Nature_GlowingForrest_Rasak_85
+  - first:
+      213: -4744032223708538310
+    second: Tileset_Nature_GlowingForrest_Rasak_86
+  - first:
+      213: 3024003385956461411
+    second: Tileset_Nature_GlowingForrest_Rasak_87
+  - first:
+      213: -8302184870627356360
+    second: Tileset_Nature_GlowingForrest_Rasak_88
+  - first:
+      213: -7131430608059897381
+    second: Tileset_Nature_GlowingForrest_Rasak_89
+  - first:
+      213: 2116295154142988970
+    second: Tileset_Nature_GlowingForrest_Rasak_90
+  - first:
+      213: 3836453389146124455
+    second: Tileset_Nature_GlowingForrest_Rasak_91
+  - first:
+      213: 4154539448136570123
+    second: Tileset_Nature_GlowingForrest_Rasak_92
+  - first:
+      213: 7930373295410775626
+    second: Tileset_Nature_GlowingForrest_Rasak_93
+  - first:
+      213: -7985788298289436632
+    second: Tileset_Nature_GlowingForrest_Rasak_94
+  - first:
+      213: -7476480493541314511
+    second: Tileset_Nature_GlowingForrest_Rasak_95
+  - first:
+      213: -3740598082609902888
+    second: Tileset_Nature_GlowingForrest_Rasak_96
+  - first:
+      213: 7512401408580573702
+    second: Tileset_Nature_GlowingForrest_Rasak_97
+  - first:
+      213: -3426910291559883372
+    second: Tileset_Nature_GlowingForrest_Rasak_98
+  - first:
+      213: 7040936927208639191
+    second: Tileset_Nature_GlowingForrest_Rasak_99
+  - first:
+      213: 3257112302028354496
+    second: Tileset_Nature_GlowingForrest_Rasak_100
+  - first:
+      213: -6331179487284345910
+    second: Tileset_Nature_GlowingForrest_Rasak_101
+  - first:
+      213: 3942945450564718570
+    second: Tileset_Nature_GlowingForrest_Rasak_102
+  - first:
+      213: -5315370824626226694
+    second: Tileset_Nature_GlowingForrest_Rasak_103
+  - first:
+      213: -8696928557468947020
+    second: Tileset_Nature_GlowingForrest_Rasak_104
+  - first:
+      213: -8400929552626743367
+    second: Tileset_Nature_GlowingForrest_Rasak_105
+  - first:
+      213: -9010506213268289912
+    second: Tileset_Nature_GlowingForrest_Rasak_106
+  - first:
+      213: 185400233022767632
+    second: Tileset_Nature_GlowingForrest_Rasak_107
+  - first:
+      213: 5110016509874455378
+    second: Tileset_Nature_GlowingForrest_Rasak_108
+  - first:
+      213: 7136676330520040119
+    second: Tileset_Nature_GlowingForrest_Rasak_109
+  - first:
+      213: 8582037828245999314
+    second: Tileset_Nature_GlowingForrest_Rasak_110
+  - first:
+      213: -2348230420426871708
+    second: Tileset_Nature_GlowingForrest_Rasak_111
+  - first:
+      213: 8133688032468521356
+    second: Tileset_Nature_GlowingForrest_Rasak_112
+  - first:
+      213: 2645276336116744463
+    second: Tileset_Nature_GlowingForrest_Rasak_113
+  - first:
+      213: -9007772342045811780
+    second: Tileset_Nature_GlowingForrest_Rasak_114
+  - first:
+      213: -7566027493623249001
+    second: Tileset_Nature_GlowingForrest_Rasak_115
+  - first:
+      213: -2207172190872633121
+    second: Tileset_Nature_GlowingForrest_Rasak_116
+  - first:
+      213: 2926570135473966640
+    second: Tileset_Nature_GlowingForrest_Rasak_117
+  - first:
+      213: 4806433537639410462
+    second: Tileset_Nature_GlowingForrest_Rasak_118
+  - first:
+      213: -4026663849041879506
+    second: Tileset_Nature_GlowingForrest_Rasak_119
+  - first:
+      213: 1316582509034710750
+    second: Tileset_Nature_GlowingForrest_Rasak_120
+  - first:
+      213: 211816088208609019
+    second: Tileset_Nature_GlowingForrest_Rasak_121
+  - first:
+      213: 4658422654940152514
+    second: Tileset_Nature_GlowingForrest_Rasak_122
+  - first:
+      213: 8629229719837729030
+    second: Tileset_Nature_GlowingForrest_Rasak_123
+  - first:
+      213: -2204797384144392368
+    second: Tileset_Nature_GlowingForrest_Rasak_124
+  - first:
+      213: 3364452158410203059
+    second: Tileset_Nature_GlowingForrest_Rasak_125
+  - first:
+      213: 4943260910864277714
+    second: Tileset_Nature_GlowingForrest_Rasak_126
+  - first:
+      213: 5924286823628719049
+    second: Tileset_Nature_GlowingForrest_Rasak_127
+  - first:
+      213: -9153346681742413364
+    second: Tileset_Nature_GlowingForrest_Rasak_128
+  - first:
+      213: -5237031775839144887
+    second: Tileset_Nature_GlowingForrest_Rasak_129
+  - first:
+      213: 8977456093616316594
+    second: Tileset_Nature_GlowingForrest_Rasak_130
+  - first:
+      213: -1090289488241653724
+    second: Tileset_Nature_GlowingForrest_Rasak_131
+  - first:
+      213: 2881557123799833123
+    second: Tileset_Nature_GlowingForrest_Rasak_132
+  - first:
+      213: -427742890878162543
+    second: Tileset_Nature_GlowingForrest_Rasak_133
+  - first:
+      213: -5077267905433184610
+    second: Tileset_Nature_GlowingForrest_Rasak_134
+  - first:
+      213: -6010817374362903601
+    second: Tileset_Nature_GlowingForrest_Rasak_135
+  - first:
+      213: -5754787576180793329
+    second: Tileset_Nature_GlowingForrest_Rasak_136
+  - first:
+      213: -104066373651819572
+    second: Tileset_Nature_GlowingForrest_Rasak_137
+  - first:
+      213: 5705641311180801140
+    second: Tileset_Nature_GlowingForrest_Rasak_138
+  - first:
+      213: -3808190797025878975
+    second: Tileset_Nature_GlowingForrest_Rasak_139
+  - first:
+      213: -7169279506420998344
+    second: Tileset_Nature_GlowingForrest_Rasak_140
+  - first:
+      213: -6363533041500973655
+    second: Tileset_Nature_GlowingForrest_Rasak_141
+  - first:
+      213: -3676115687977288378
+    second: Tileset_Nature_GlowingForrest_Rasak_142
+  - first:
+      213: -3119342499077140027
+    second: Tileset_Nature_GlowingForrest_Rasak_143
+  - first:
+      213: -6106068560006091790
+    second: Tileset_Nature_GlowingForrest_Rasak_144
+  - first:
+      213: -5067397610358676415
+    second: Tileset_Nature_GlowingForrest_Rasak_145
+  - first:
+      213: 9052248874827928566
+    second: Tileset_Nature_GlowingForrest_Rasak_146
+  - first:
+      213: 7591680766696243879
+    second: Tileset_Nature_GlowingForrest_Rasak_147
+  - first:
+      213: 529259642322989498
+    second: Tileset_Nature_GlowingForrest_Rasak_148
+  - first:
+      213: -349559565141262776
+    second: Tileset_Nature_GlowingForrest_Rasak_149
+  - first:
+      213: 4455300338228824704
+    second: Tileset_Nature_GlowingForrest_Rasak_150
+  - first:
+      213: 7043203785854792113
+    second: Tileset_Nature_GlowingForrest_Rasak_151
+  - first:
+      213: 721870021090662243
+    second: Tileset_Nature_GlowingForrest_Rasak_152
+  - first:
+      213: -9005627914672663367
+    second: Tileset_Nature_GlowingForrest_Rasak_153
+  - first:
+      213: -1353278860585081702
+    second: Tileset_Nature_GlowingForrest_Rasak_154
+  - first:
+      213: 5978232166204615776
+    second: Tileset_Nature_GlowingForrest_Rasak_155
+  - first:
+      213: 4853754833017568235
+    second: Tileset_Nature_GlowingForrest_Rasak_156
+  - first:
+      213: -2531050318617358023
+    second: Tileset_Nature_GlowingForrest_Rasak_157
+  - first:
+      213: 870502000795451633
+    second: Tileset_Nature_GlowingForrest_Rasak_158
+  - first:
+      213: -4511762282253489747
+    second: Tileset_Nature_GlowingForrest_Rasak_159
+  - first:
+      213: 1028941875957303049
+    second: Tileset_Nature_GlowingForrest_Rasak_160
+  - first:
+      213: -3340607686269889347
+    second: Tileset_Nature_GlowingForrest_Rasak_161
+  - first:
+      213: -7935029377877025291
+    second: Tileset_Nature_GlowingForrest_Rasak_162
+  - first:
+      213: 3350455938271083115
+    second: Tileset_Nature_GlowingForrest_Rasak_163
+  - first:
+      213: 7135785834795213247
+    second: Tileset_Nature_GlowingForrest_Rasak_164
+  - first:
+      213: -7137262253053077497
+    second: Tileset_Nature_GlowingForrest_Rasak_165
+  - first:
+      213: 8294313001938247085
+    second: Tileset_Nature_GlowingForrest_Rasak_166
+  - first:
+      213: 908051206048585830
+    second: Tileset_Nature_GlowingForrest_Rasak_167
+  - first:
+      213: -3159125074308571159
+    second: Tileset_Nature_GlowingForrest_Rasak_168
+  - first:
+      213: -2903183469286132210
+    second: Tileset_Nature_GlowingForrest_Rasak_169
+  - first:
+      213: 8533283428851465889
+    second: Tileset_Nature_GlowingForrest_Rasak_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996f98262bd7378d0800000000000000
+      internalID: -2849795934084532583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 719
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251abd7a5b3066800800000000000000
+      internalID: 605175278668063058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 725
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f202edc269c4ee650800000000000000
+      internalID: 6264028339600498735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 725
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff008a842ab32c890800000000000000
+      internalID: -7439318066272927489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 722
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07a91a9789d9e70800000000000000
+      internalID: 9123616068292210923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 741
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b703f4c62a7e60800000000000000
+      internalID: 7960717918663587560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 725
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade7b9489eb529820800000000000000
+      internalID: 2923500166627163866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 738
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40edf792cef2e410800000000000000
+      internalID: 1505045337222275150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 723
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237e0a92962fcdf80800000000000000
+      internalID: -8080317097925613774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 671
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae72b1b4308f700800000000000000
+      internalID: 574212573602769563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 751
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280b87a62231ad8f0800000000000000
+      internalID: -515078168844390270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 746
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968b93fe598aea90800000000000000
+      internalID: -7283858406411368803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 751
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a70d59af80eeb90800000000000000
+      internalID: -7210816081025271232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 746
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884257b420fc46060800000000000000
+      internalID: 6945904134074999944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 751
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c53c39b44dc4b00800000000000000
+      internalID: 814259053713906808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 746
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfffe17242bd9440800000000000000
+      internalID: 4944303964371812284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 751
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e436babcc3acbc0800000000000000
+      internalID: -3762127693263188370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 746
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69bed71f165ef20800000000000000
+      internalID: 3451272379276957369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 671
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ab8d38d551c9fc0800000000000000
+      internalID: -3486888520103445920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 730
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1b4e375b377240800000000000000
+      internalID: 4789361974625114770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 730
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6034712d6620770800000000000000
+      internalID: 8575529692986279674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 730
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9ad6383db6275d0800000000000000
+      internalID: -3066269840098612780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 730
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e18e139e511cb50800000000000000
+      internalID: 6611589819265457747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 128
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615af677f1a5b5990800000000000000
+      internalID: -7396218871831616234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 578
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba815241b8418c30800000000000000
+      internalID: 4359845840430402236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 689
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64f2994ce9d11c20800000000000000
+      internalID: 3175558821142787179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 674
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea672cdb21bb8d0800000000000000
+      internalID: -2829647334651548082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 686
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d9cd44b201b0f0800000000000000
+      internalID: -1103097460306617928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 672
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c706eb1afe13c40800000000000000
+      internalID: 5490432898704112668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 677
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b3a6946df380490800000000000000
+      internalID: -7779898166695281768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 677
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3efefcc1f74bb650800000000000000
+      internalID: 6249668011758648893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 677
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d6748d489875a70800000000000000
+      internalID: 8815665999258283328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 677
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee0c1ffd04477090800000000000000
+      internalID: -8036880183114068251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 645
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a90c62543a28b0800000000000000
+      internalID: -5176267293104430922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 629
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ba73dafb48a3840800000000000000
+      internalID: 5204618278159756107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 642
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9d11b41c3977740800000000000000
+      internalID: 5149747157318883752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 627
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abda67c20e1d5090800000000000000
+      internalID: -8044240362129400928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 575
+        width: 238
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbc5f4cb49b698a0800000000000000
+      internalID: -6298643293752931391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 628
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a845e51cd4040710800000000000000
+      internalID: 1658455906085849252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 628
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be9034d0d356e00800000000000000
+      internalID: 1037302416347360113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 628
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0b326e67d2a390800000000000000
+      internalID: -7808441934812607534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 628
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7098933198d9a8300800000000000000
+      internalID: 255189540958472455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 575
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b2c6f1e2495230800000000000000
+      internalID: 3628004513098675377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 593
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253ddc186a0d71fe0800000000000000
+      internalID: -1218275760619531438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 578
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ab65dfdebcdfab0800000000000000
+      internalID: -4972594190529152454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 590
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335a05fffcc3bd30800000000000000
+      internalID: 4446122656844632890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 576
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67344ee11e9454690800000000000000
+      internalID: -7618601963392580746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 549
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9a64846aec2220800000000000000
+      internalID: 2462600813704027593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 533
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6246c00dd80608f80800000000000000
+      internalID: -8106373167069764570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 546
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa143c8e40bf6de0800000000000000
+      internalID: -1337656712899585364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 531
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c3e86acc9978aa0800000000000000
+      internalID: -6158784861159146439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 479
+        width: 238
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add9d130b0697660800000000000000
+      internalID: 7384039373917511081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 97
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21523354ec8bc2920800000000000000
+      internalID: 2966949450594067730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 290
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f747e64e51e578e0800000000000000
+      internalID: -1696201889602385936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 497
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cafcc8772d64fd0800000000000000
+      internalID: -2357965943976514411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 482
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66619d75e43e7ae0800000000000000
+      internalID: -1549743061510035857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 494
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b433bdc19d3e7aba0800000000000000
+      internalID: -6077638650481659061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 480
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9733ca93dccd3c20800000000000000
+      internalID: 3187929320454829979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 453
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9745cfa558444e7e0800000000000000
+      internalID: -1737188216710343559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 437
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a4755927b364b40800000000000000
+      internalID: 5424088164532177461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 450
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed864085d6327f140800000000000000
+      internalID: 4753306884247939294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 435
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43358761ba7a72a60800000000000000
+      internalID: 7649266845370307380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 431
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57804df82f3b0d600800000000000000
+      internalID: 491090213759879285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 438
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b16415243ba5220800000000000000
+      internalID: 2475488042606271257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 433
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c421b26ae8d682240800000000000000
+      internalID: 4767180665012294220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 441
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e107536aff2dbc0800000000000000
+      internalID: -3759661649574748643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 438
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8066ba4551653bfd0800000000000000
+      internalID: -2327421932805593592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 433
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac12b763f865d6f0800000000000000
+      internalID: -660506375713842014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 441
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136cb91c451fc96a0800000000000000
+      internalID: -6441008020718893519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 385
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd790cf86bccd4080800000000000000
+      internalID: -9201473379180177445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 385
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506c499e884b7eb0800000000000000
+      internalID: -4721100007073357734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 431
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3592bc0a225d4b0800000000000000
+      internalID: -5416384902844558350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 385
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e43292c216647b50800000000000000
+      internalID: 6590004385509684455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 431
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97220caee9443190800000000000000
+      internalID: -7983674949984180325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 389
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714ef622efabe830800000000000000
+      internalID: 4101565271502635376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 389
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3a6843565a03260800000000000000
+      internalID: 7075336868690568114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 390
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ee6f7ec64dcae0800000000000000
+      internalID: -1527486845893548021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 383
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06215ed3f4e74a0c0800000000000000
+      internalID: -4565385243440901536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 393
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a56160e798c2c70800000000000000
+      internalID: 8947677734039345777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 390
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a4cc5f2a4b70620800000000000000
+      internalID: 2740357510279744022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 383
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b841ef8a76cd38760800000000000000
+      internalID: 7459047745630639243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 393
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4922e7f01e2e4ac40800000000000000
+      internalID: 5522788499318514324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 390
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785e2791ffd69170800000000000000
+      internalID: 8184975601508964475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 383
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bc62aa069a6000800000000000000
+      internalID: 30001319950202205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 393
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c0cb7adfaef4870800000000000000
+      internalID: 8669406182873238658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 341
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdaa1f28276ab7e0800000000000000
+      internalID: -1748972082993386062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 341
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a98d6d3dfc92eb0800000000000000
+      internalID: -4744032223708538310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 342
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b6383ce0b67f920800000000000000
+      internalID: 3024003385956461411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 337
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83152a6d8d6b8cc80800000000000000
+      internalID: -8302184870627356360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 335
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ed3a55a1180d90800000000000000
+      internalID: -7131430608059897381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 345
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac296ea379e5d10800000000000000
+      internalID: 2116295154142988970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 342
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f561f702dd3530800000000000000
+      internalID: 3836453389146124455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 337
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05178bcd93e7a930800000000000000
+      internalID: 4154539448136570123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 335
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a460439ce785e0e60800000000000000
+      internalID: 7930373295410775626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 345
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828acfc6ad7cc2190800000000000000
+      internalID: -7985788298289436632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 342
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130355c6a943e3890800000000000000
+      internalID: -7476480493541314511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 337
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8786ccd9b61cc0800000000000000
+      internalID: -3740598082609902888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 335
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad6985749614860800000000000000
+      internalID: 7512401408580573702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 345
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d51721f3b2170d0800000000000000
+      internalID: -3426910291559883372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 193
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da8330b4de66b160800000000000000
+      internalID: 7040936927208639191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c374fbb166933d20800000000000000
+      internalID: 3257112302028354496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac34d23ecc12328a0800000000000000
+      internalID: -6331179487284345910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef07a52ff728b630800000000000000
+      internalID: 3942945450564718570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 287
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bda4a5620c36b0800000000000000
+      internalID: -5315370824626226694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 293
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdec172e8d4e4780800000000000000
+      internalID: -8696928557468947020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 293
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70a98f417e96b80800000000000000
+      internalID: -8400929552626743367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 294
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88681b7b65044f280800000000000000
+      internalID: -9010506213268289912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 289
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012c896978ca29200800000000000000
+      internalID: 185400233022767632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 287
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c27311fc6ae640800000000000000
+      internalID: 5110016509874455378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 297
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d5959f419a0360800000000000000
+      internalID: 7136676330520040119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 294
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de41996fe5891770800000000000000
+      internalID: 8582037828245999314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 289
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca0b3cfd8696fd0800000000000000
+      internalID: -2348230420426871708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 287
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81d121eb2aa0e070800000000000000
+      internalID: 8133688032468521356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 297
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f014cfaffc8e5b420800000000000000
+      internalID: 2645276336116744463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 294
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb55c6b7c6fdf280800000000000000
+      internalID: -9007772342045811780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 289
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7974fb1c412100790800000000000000
+      internalID: -7566027493623249001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 287
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08ae4269c8e51e0800000000000000
+      internalID: -2207172190872633121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 297
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e413758044d9820800000000000000
+      internalID: 2926570135473966640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 241
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b658f36d1e3b240800000000000000
+      internalID: 4806433537639410462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e93ff309a6e18c0800000000000000
+      internalID: -4026663849041879506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 245
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a18001d0754210800000000000000
+      internalID: 1316582509034710750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 245
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe03672c9580f200800000000000000
+      internalID: 211816088208609019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 246
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2075929ba06a040800000000000000
+      internalID: 4658422654940152514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 241
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601eb28e5be21c770800000000000000
+      internalID: 8629229719837729030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fec5ce57cf661e0800000000000000
+      internalID: -2204797384144392368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 249
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf16d5996fe0be20800000000000000
+      internalID: 3364452158410203059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 246
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0a320ab9df99440800000000000000
+      internalID: 4943260910864277714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 241
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3cae55a7b473250800000000000000
+      internalID: 5924286823628719049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc13eb080b7c8f080800000000000000
+      internalID: -9153346681742413364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 249
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944bcabc8535257b0800000000000000
+      internalID: -5237031775839144887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 246
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0aaa6a0c4569c70800000000000000
+      internalID: 8977456093616316594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 241
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428830fac738ed0f0800000000000000
+      internalID: -1090289488241653724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad51cdfe85df720800000000000000
+      internalID: 2881557123799833123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 249
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19922066b1a501af0800000000000000
+      internalID: -427742890878162543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 193
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d9239dbbe989b0800000000000000
+      internalID: -5077267905433184610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb5a57d179459ca0800000000000000
+      internalID: -6010817374362903601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 197
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a9eb8033e220b0800000000000000
+      internalID: -5754787576180793329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 191
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc39b6d3f284e8ef0800000000000000
+      internalID: -104066373651819572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 196
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474c9b0fa828e2f40800000000000000
+      internalID: 5705641311180801140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 196
+        width: 98
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c5c5295a6962bc0800000000000000
+      internalID: -3808190797025878975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 196
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fd94cf54a918c90800000000000000
+      internalID: -7169279506420998344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 239
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a59fd80a6030b7a0800000000000000
+      internalID: -6363533041500973655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 149
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7fd83240dbfcc0800000000000000
+      internalID: -3676115687977288378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 143
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c15ab9268ed5b4d0800000000000000
+      internalID: -3119342499077140027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 148
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe7aafef2e24ba0800000000000000
+      internalID: -6106068560006091790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 148
+        width: 98
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14468eab8bcfca9b0800000000000000
+      internalID: -5067397610358676415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 148
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f35c8a046c00ad70800000000000000
+      internalID: 9052248874827928566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 193
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a248135f611b5960800000000000000
+      internalID: 7591680766696243879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 101
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1bc9e27de485700800000000000000
+      internalID: 529259642322989498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 95
+        width: 117
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e3ae37d6d162bf0800000000000000
+      internalID: -349559565141262776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 100
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a8ecb6d0864dd30800000000000000
+      internalID: 4455300338228824704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 100
+        width: 98
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1bf88d68c7eb160800000000000000
+      internalID: 7043203785854792113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 100
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367dc15a5f8940a00800000000000000
+      internalID: 721870021090662243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 53
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4189e1025950380800000000000000
+      internalID: -9005627914672663367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 47
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e7c8db00383de0800000000000000
+      internalID: -1353278860585081702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 52
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca07b2b72f6f250800000000000000
+      internalID: 5978232166204615776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 52
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebf8d8ed400c5340800000000000000
+      internalID: 4853754833017568235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 52
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9315c223527efdcd0800000000000000
+      internalID: -2531050318617358023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 52
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f00ea525f4a41c00800000000000000
+      internalID: 870502000795451633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9664fcb100361c0800000000000000
+      internalID: -4511762282253489747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90785f24f29874e00800000000000000
+      internalID: 1028941875957303049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 14
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db491f53207c3a1d0800000000000000
+      internalID: -3340607686269889347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd95982dc11e190800000000000000
+      internalID: -7935029377877025291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6afe34ace53f7e20800000000000000
+      internalID: 3350455938271083115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 5
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ab34e867670360800000000000000
+      internalID: 7135785834795213247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 5
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70897f1bbc953fc90800000000000000
+      internalID: -7137262253053077497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 5
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadde68eab15b1370800000000000000
+      internalID: 8294313001938247085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 4
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6681466c2cb0a9c00800000000000000
+      internalID: 908051206048585830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 4
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efdec09b788824d0800000000000000
+      internalID: -3159125074308571159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 4
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06f9633402d5b7d0800000000000000
+      internalID: -2903183469286132210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Nature_GlowingForrest_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 4
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae3b6831105c6670800000000000000
+      internalID: 8533283428851465889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Nature_GlowingForrest_Rasak_0: -2849795934084532583
+      Tileset_Nature_GlowingForrest_Rasak_1: 605175278668063058
+      Tileset_Nature_GlowingForrest_Rasak_10: -515078168844390270
+      Tileset_Nature_GlowingForrest_Rasak_100: 3257112302028354496
+      Tileset_Nature_GlowingForrest_Rasak_101: -6331179487284345910
+      Tileset_Nature_GlowingForrest_Rasak_102: 3942945450564718570
+      Tileset_Nature_GlowingForrest_Rasak_103: -5315370824626226694
+      Tileset_Nature_GlowingForrest_Rasak_104: -8696928557468947020
+      Tileset_Nature_GlowingForrest_Rasak_105: -8400929552626743367
+      Tileset_Nature_GlowingForrest_Rasak_106: -9010506213268289912
+      Tileset_Nature_GlowingForrest_Rasak_107: 185400233022767632
+      Tileset_Nature_GlowingForrest_Rasak_108: 5110016509874455378
+      Tileset_Nature_GlowingForrest_Rasak_109: 7136676330520040119
+      Tileset_Nature_GlowingForrest_Rasak_11: -7283858406411368803
+      Tileset_Nature_GlowingForrest_Rasak_110: 8582037828245999314
+      Tileset_Nature_GlowingForrest_Rasak_111: -2348230420426871708
+      Tileset_Nature_GlowingForrest_Rasak_112: 8133688032468521356
+      Tileset_Nature_GlowingForrest_Rasak_113: 2645276336116744463
+      Tileset_Nature_GlowingForrest_Rasak_114: -9007772342045811780
+      Tileset_Nature_GlowingForrest_Rasak_115: -7566027493623249001
+      Tileset_Nature_GlowingForrest_Rasak_116: -2207172190872633121
+      Tileset_Nature_GlowingForrest_Rasak_117: 2926570135473966640
+      Tileset_Nature_GlowingForrest_Rasak_118: 4806433537639410462
+      Tileset_Nature_GlowingForrest_Rasak_119: -4026663849041879506
+      Tileset_Nature_GlowingForrest_Rasak_12: -7210816081025271232
+      Tileset_Nature_GlowingForrest_Rasak_120: 1316582509034710750
+      Tileset_Nature_GlowingForrest_Rasak_121: 211816088208609019
+      Tileset_Nature_GlowingForrest_Rasak_122: 4658422654940152514
+      Tileset_Nature_GlowingForrest_Rasak_123: 8629229719837729030
+      Tileset_Nature_GlowingForrest_Rasak_124: -2204797384144392368
+      Tileset_Nature_GlowingForrest_Rasak_125: 3364452158410203059
+      Tileset_Nature_GlowingForrest_Rasak_126: 4943260910864277714
+      Tileset_Nature_GlowingForrest_Rasak_127: 5924286823628719049
+      Tileset_Nature_GlowingForrest_Rasak_128: -9153346681742413364
+      Tileset_Nature_GlowingForrest_Rasak_129: -5237031775839144887
+      Tileset_Nature_GlowingForrest_Rasak_13: 6945904134074999944
+      Tileset_Nature_GlowingForrest_Rasak_130: 8977456093616316594
+      Tileset_Nature_GlowingForrest_Rasak_131: -1090289488241653724
+      Tileset_Nature_GlowingForrest_Rasak_132: 2881557123799833123
+      Tileset_Nature_GlowingForrest_Rasak_133: -427742890878162543
+      Tileset_Nature_GlowingForrest_Rasak_134: -5077267905433184610
+      Tileset_Nature_GlowingForrest_Rasak_135: -6010817374362903601
+      Tileset_Nature_GlowingForrest_Rasak_136: -5754787576180793329
+      Tileset_Nature_GlowingForrest_Rasak_137: -104066373651819572
+      Tileset_Nature_GlowingForrest_Rasak_138: 5705641311180801140
+      Tileset_Nature_GlowingForrest_Rasak_139: -3808190797025878975
+      Tileset_Nature_GlowingForrest_Rasak_14: 814259053713906808
+      Tileset_Nature_GlowingForrest_Rasak_140: -7169279506420998344
+      Tileset_Nature_GlowingForrest_Rasak_141: -6363533041500973655
+      Tileset_Nature_GlowingForrest_Rasak_142: -3676115687977288378
+      Tileset_Nature_GlowingForrest_Rasak_143: -3119342499077140027
+      Tileset_Nature_GlowingForrest_Rasak_144: -6106068560006091790
+      Tileset_Nature_GlowingForrest_Rasak_145: -5067397610358676415
+      Tileset_Nature_GlowingForrest_Rasak_146: 9052248874827928566
+      Tileset_Nature_GlowingForrest_Rasak_147: 7591680766696243879
+      Tileset_Nature_GlowingForrest_Rasak_148: 529259642322989498
+      Tileset_Nature_GlowingForrest_Rasak_149: -349559565141262776
+      Tileset_Nature_GlowingForrest_Rasak_15: 4944303964371812284
+      Tileset_Nature_GlowingForrest_Rasak_150: 4455300338228824704
+      Tileset_Nature_GlowingForrest_Rasak_151: 7043203785854792113
+      Tileset_Nature_GlowingForrest_Rasak_152: 721870021090662243
+      Tileset_Nature_GlowingForrest_Rasak_153: -9005627914672663367
+      Tileset_Nature_GlowingForrest_Rasak_154: -1353278860585081702
+      Tileset_Nature_GlowingForrest_Rasak_155: 5978232166204615776
+      Tileset_Nature_GlowingForrest_Rasak_156: 4853754833017568235
+      Tileset_Nature_GlowingForrest_Rasak_157: -2531050318617358023
+      Tileset_Nature_GlowingForrest_Rasak_158: 870502000795451633
+      Tileset_Nature_GlowingForrest_Rasak_159: -4511762282253489747
+      Tileset_Nature_GlowingForrest_Rasak_16: -3762127693263188370
+      Tileset_Nature_GlowingForrest_Rasak_160: 1028941875957303049
+      Tileset_Nature_GlowingForrest_Rasak_161: -3340607686269889347
+      Tileset_Nature_GlowingForrest_Rasak_162: -7935029377877025291
+      Tileset_Nature_GlowingForrest_Rasak_163: 3350455938271083115
+      Tileset_Nature_GlowingForrest_Rasak_164: 7135785834795213247
+      Tileset_Nature_GlowingForrest_Rasak_165: -7137262253053077497
+      Tileset_Nature_GlowingForrest_Rasak_166: 8294313001938247085
+      Tileset_Nature_GlowingForrest_Rasak_167: 908051206048585830
+      Tileset_Nature_GlowingForrest_Rasak_168: -3159125074308571159
+      Tileset_Nature_GlowingForrest_Rasak_169: -2903183469286132210
+      Tileset_Nature_GlowingForrest_Rasak_17: 3451272379276957369
+      Tileset_Nature_GlowingForrest_Rasak_170: 8533283428851465889
+      Tileset_Nature_GlowingForrest_Rasak_18: -3486888520103445920
+      Tileset_Nature_GlowingForrest_Rasak_19: 4789361974625114770
+      Tileset_Nature_GlowingForrest_Rasak_2: 6264028339600498735
+      Tileset_Nature_GlowingForrest_Rasak_20: 8575529692986279674
+      Tileset_Nature_GlowingForrest_Rasak_21: -3066269840098612780
+      Tileset_Nature_GlowingForrest_Rasak_22: 6611589819265457747
+      Tileset_Nature_GlowingForrest_Rasak_23: -7396218871831616234
+      Tileset_Nature_GlowingForrest_Rasak_24: 4359845840430402236
+      Tileset_Nature_GlowingForrest_Rasak_25: 3175558821142787179
+      Tileset_Nature_GlowingForrest_Rasak_26: -2829647334651548082
+      Tileset_Nature_GlowingForrest_Rasak_27: -1103097460306617928
+      Tileset_Nature_GlowingForrest_Rasak_28: 5490432898704112668
+      Tileset_Nature_GlowingForrest_Rasak_29: -7779898166695281768
+      Tileset_Nature_GlowingForrest_Rasak_3: -7439318066272927489
+      Tileset_Nature_GlowingForrest_Rasak_30: 6249668011758648893
+      Tileset_Nature_GlowingForrest_Rasak_31: 8815665999258283328
+      Tileset_Nature_GlowingForrest_Rasak_32: -8036880183114068251
+      Tileset_Nature_GlowingForrest_Rasak_33: -5176267293104430922
+      Tileset_Nature_GlowingForrest_Rasak_34: 5204618278159756107
+      Tileset_Nature_GlowingForrest_Rasak_35: 5149747157318883752
+      Tileset_Nature_GlowingForrest_Rasak_36: -8044240362129400928
+      Tileset_Nature_GlowingForrest_Rasak_37: -6298643293752931391
+      Tileset_Nature_GlowingForrest_Rasak_38: 1658455906085849252
+      Tileset_Nature_GlowingForrest_Rasak_39: 1037302416347360113
+      Tileset_Nature_GlowingForrest_Rasak_4: 9123616068292210923
+      Tileset_Nature_GlowingForrest_Rasak_40: -7808441934812607534
+      Tileset_Nature_GlowingForrest_Rasak_41: 255189540958472455
+      Tileset_Nature_GlowingForrest_Rasak_42: 3628004513098675377
+      Tileset_Nature_GlowingForrest_Rasak_43: -1218275760619531438
+      Tileset_Nature_GlowingForrest_Rasak_44: -4972594190529152454
+      Tileset_Nature_GlowingForrest_Rasak_45: 4446122656844632890
+      Tileset_Nature_GlowingForrest_Rasak_46: -7618601963392580746
+      Tileset_Nature_GlowingForrest_Rasak_47: 2462600813704027593
+      Tileset_Nature_GlowingForrest_Rasak_48: -8106373167069764570
+      Tileset_Nature_GlowingForrest_Rasak_49: -1337656712899585364
+      Tileset_Nature_GlowingForrest_Rasak_5: 7960717918663587560
+      Tileset_Nature_GlowingForrest_Rasak_50: -6158784861159146439
+      Tileset_Nature_GlowingForrest_Rasak_51: 7384039373917511081
+      Tileset_Nature_GlowingForrest_Rasak_52: 2966949450594067730
+      Tileset_Nature_GlowingForrest_Rasak_53: -1696201889602385936
+      Tileset_Nature_GlowingForrest_Rasak_54: -2357965943976514411
+      Tileset_Nature_GlowingForrest_Rasak_55: -1549743061510035857
+      Tileset_Nature_GlowingForrest_Rasak_56: -6077638650481659061
+      Tileset_Nature_GlowingForrest_Rasak_57: 3187929320454829979
+      Tileset_Nature_GlowingForrest_Rasak_58: -1737188216710343559
+      Tileset_Nature_GlowingForrest_Rasak_59: 5424088164532177461
+      Tileset_Nature_GlowingForrest_Rasak_6: 2923500166627163866
+      Tileset_Nature_GlowingForrest_Rasak_60: 4753306884247939294
+      Tileset_Nature_GlowingForrest_Rasak_61: 7649266845370307380
+      Tileset_Nature_GlowingForrest_Rasak_62: 491090213759879285
+      Tileset_Nature_GlowingForrest_Rasak_63: 2475488042606271257
+      Tileset_Nature_GlowingForrest_Rasak_64: 4767180665012294220
+      Tileset_Nature_GlowingForrest_Rasak_65: -3759661649574748643
+      Tileset_Nature_GlowingForrest_Rasak_66: -2327421932805593592
+      Tileset_Nature_GlowingForrest_Rasak_67: -660506375713842014
+      Tileset_Nature_GlowingForrest_Rasak_68: -6441008020718893519
+      Tileset_Nature_GlowingForrest_Rasak_69: -9201473379180177445
+      Tileset_Nature_GlowingForrest_Rasak_7: 1505045337222275150
+      Tileset_Nature_GlowingForrest_Rasak_70: -4721100007073357734
+      Tileset_Nature_GlowingForrest_Rasak_71: -5416384902844558350
+      Tileset_Nature_GlowingForrest_Rasak_72: 6590004385509684455
+      Tileset_Nature_GlowingForrest_Rasak_73: -7983674949984180325
+      Tileset_Nature_GlowingForrest_Rasak_74: 4101565271502635376
+      Tileset_Nature_GlowingForrest_Rasak_75: 7075336868690568114
+      Tileset_Nature_GlowingForrest_Rasak_76: -1527486845893548021
+      Tileset_Nature_GlowingForrest_Rasak_77: -4565385243440901536
+      Tileset_Nature_GlowingForrest_Rasak_78: 8947677734039345777
+      Tileset_Nature_GlowingForrest_Rasak_79: 2740357510279744022
+      Tileset_Nature_GlowingForrest_Rasak_8: -8080317097925613774
+      Tileset_Nature_GlowingForrest_Rasak_80: 7459047745630639243
+      Tileset_Nature_GlowingForrest_Rasak_81: 5522788499318514324
+      Tileset_Nature_GlowingForrest_Rasak_82: 8184975601508964475
+      Tileset_Nature_GlowingForrest_Rasak_83: 30001319950202205
+      Tileset_Nature_GlowingForrest_Rasak_84: 8669406182873238658
+      Tileset_Nature_GlowingForrest_Rasak_85: -1748972082993386062
+      Tileset_Nature_GlowingForrest_Rasak_86: -4744032223708538310
+      Tileset_Nature_GlowingForrest_Rasak_87: 3024003385956461411
+      Tileset_Nature_GlowingForrest_Rasak_88: -8302184870627356360
+      Tileset_Nature_GlowingForrest_Rasak_89: -7131430608059897381
+      Tileset_Nature_GlowingForrest_Rasak_9: 574212573602769563
+      Tileset_Nature_GlowingForrest_Rasak_90: 2116295154142988970
+      Tileset_Nature_GlowingForrest_Rasak_91: 3836453389146124455
+      Tileset_Nature_GlowingForrest_Rasak_92: 4154539448136570123
+      Tileset_Nature_GlowingForrest_Rasak_93: 7930373295410775626
+      Tileset_Nature_GlowingForrest_Rasak_94: -7985788298289436632
+      Tileset_Nature_GlowingForrest_Rasak_95: -7476480493541314511
+      Tileset_Nature_GlowingForrest_Rasak_96: -3740598082609902888
+      Tileset_Nature_GlowingForrest_Rasak_97: 7512401408580573702
+      Tileset_Nature_GlowingForrest_Rasak_98: -3426910291559883372
+      Tileset_Nature_GlowingForrest_Rasak_99: 7040936927208639191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

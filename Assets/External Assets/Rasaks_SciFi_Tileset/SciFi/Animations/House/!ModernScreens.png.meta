@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: f37f14e64aea2834490a9bd04fb7a69e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1126069273716883830
+    second: '!ModernScreens_0'
+  - first:
+      213: 6975158724608346729
+    second: '!ModernScreens_1'
+  - first:
+      213: -8706547581934759258
+    second: '!ModernScreens_2'
+  - first:
+      213: 2883284253097222592
+    second: '!ModernScreens_3'
+  - first:
+      213: 5951632084410516042
+    second: '!ModernScreens_4'
+  - first:
+      213: -3509962244049304577
+    second: '!ModernScreens_5'
+  - first:
+      213: 7924986292533960126
+    second: '!ModernScreens_6'
+  - first:
+      213: -1492777840387489209
+    second: '!ModernScreens_7'
+  - first:
+      213: -2422983811699970303
+    second: '!ModernScreens_8'
+  - first:
+      213: 7226674342589324963
+    second: '!ModernScreens_9'
+  - first:
+      213: 3896175918301377487
+    second: '!ModernScreens_10'
+  - first:
+      213: 1573588211374273461
+    second: '!ModernScreens_11'
+  - first:
+      213: 7535344063854216881
+    second: '!ModernScreens_12'
+  - first:
+      213: 9053539592438849162
+    second: '!ModernScreens_13'
+  - first:
+      213: -7422777213919603271
+    second: '!ModernScreens_14'
+  - first:
+      213: -137941726477664310
+    second: '!ModernScreens_15'
+  - first:
+      213: -9028357565052152747
+    second: '!ModernScreens_16'
+  - first:
+      213: 4181922129288537162
+    second: '!ModernScreens_17'
+  - first:
+      213: -3564369899022799723
+    second: '!ModernScreens_18'
+  - first:
+      213: -3295943818372852578
+    second: '!ModernScreens_19'
+  - first:
+      213: -5656370509571513877
+    second: '!ModernScreens_20'
+  - first:
+      213: -3522769800722181841
+    second: '!ModernScreens_21'
+  - first:
+      213: -5372639177928402968
+    second: '!ModernScreens_22'
+  - first:
+      213: -5037499676510282538
+    second: '!ModernScreens_23'
+  - first:
+      213: 4037313703706209411
+    second: '!ModernScreens_24'
+  - first:
+      213: -2226408610935753615
+    second: '!ModernScreens_25'
+  - first:
+      213: -972526677652432811
+    second: '!ModernScreens_26'
+  - first:
+      213: 7542008828529422730
+    second: '!ModernScreens_27'
+  - first:
+      213: 1791893811014573916
+    second: '!ModernScreens_28'
+  - first:
+      213: 8311303830644727915
+    second: '!ModernScreens_29'
+  - first:
+      213: 5510803582748694551
+    second: '!ModernScreens_30'
+  - first:
+      213: 2372567056174626849
+    second: '!ModernScreens_31'
+  - first:
+      213: 8863077332310724404
+    second: '!ModernScreens_32'
+  - first:
+      213: 3648816545636640354
+    second: '!ModernScreens_33'
+  - first:
+      213: 661208249009796356
+    second: '!ModernScreens_34'
+  - first:
+      213: -7487901361765561811
+    second: '!ModernScreens_35'
+  - first:
+      213: -2493164724155329587
+    second: '!ModernScreens_36'
+  - first:
+      213: 8202544392927612558
+    second: '!ModernScreens_37'
+  - first:
+      213: -8945921947395534886
+    second: '!ModernScreens_38'
+  - first:
+      213: -4065860058348253717
+    second: '!ModernScreens_39'
+  - first:
+      213: 5809595209651045683
+    second: '!ModernScreens_40'
+  - first:
+      213: -4000092829015525179
+    second: '!ModernScreens_41'
+  - first:
+      213: -3495896754038795320
+    second: '!ModernScreens_42'
+  - first:
+      213: 8806828989147804618
+    second: '!ModernScreens_43'
+  - first:
+      213: 2365361394567408054
+    second: '!ModernScreens_44'
+  - first:
+      213: 8878651408923048318
+    second: '!ModernScreens_45'
+  - first:
+      213: -2172246536020340255
+    second: '!ModernScreens_46'
+  - first:
+      213: -6021381592770453015
+    second: '!ModernScreens_47'
+  - first:
+      213: -8116031936775065301
+    second: '!ModernScreens_48'
+  - first:
+      213: 6456492163808544340
+    second: '!ModernScreens_49'
+  - first:
+      213: -8045707651995860519
+    second: '!ModernScreens_50'
+  - first:
+      213: -536038540814280615
+    second: '!ModernScreens_51'
+  - first:
+      213: 5341160616984528793
+    second: '!ModernScreens_52'
+  - first:
+      213: 6716112652905983818
+    second: '!ModernScreens_53'
+  - first:
+      213: -680266968675683049
+    second: '!ModernScreens_54'
+  - first:
+      213: -4397740044034019292
+    second: '!ModernScreens_55'
+  - first:
+      213: 5244309142937508157
+    second: '!ModernScreens_56'
+  - first:
+      213: 9013068933559897845
+    second: '!ModernScreens_57'
+  - first:
+      213: -5339513697306121452
+    second: '!ModernScreens_58'
+  - first:
+      213: 7393289810032735371
+    second: '!ModernScreens_59'
+  - first:
+      213: 2672717853985074739
+    second: '!ModernScreens_60'
+  - first:
+      213: 7806271676240154300
+    second: '!ModernScreens_61'
+  - first:
+      213: 2749588911749359895
+    second: '!ModernScreens_62'
+  - first:
+      213: -4213629177776006822
+    second: '!ModernScreens_63'
+  - first:
+      213: -3421056591637665101
+    second: '!ModernScreens_64'
+  - first:
+      213: 4716727003893080623
+    second: '!ModernScreens_65'
+  - first:
+      213: -7450314051319549944
+    second: '!ModernScreens_66'
+  - first:
+      213: 707534227359620662
+    second: '!ModernScreens_67'
+  - first:
+      213: -8417839809633120493
+    second: '!ModernScreens_68'
+  - first:
+      213: 3149458790730344951
+    second: '!ModernScreens_69'
+  - first:
+      213: -7931890835826754660
+    second: '!ModernScreens_70'
+  - first:
+      213: 5975744659211878048
+    second: '!ModernScreens_71'
+  - first:
+      213: -8432299064070570546
+    second: '!ModernScreens_72'
+  - first:
+      213: 7748521652789690408
+    second: '!ModernScreens_73'
+  - first:
+      213: -4245434759050619608
+    second: '!ModernScreens_74'
+  - first:
+      213: -3285724902412840038
+    second: '!ModernScreens_75'
+  - first:
+      213: 7879012011037253244
+    second: '!ModernScreens_76'
+  - first:
+      213: -2718764679564798776
+    second: '!ModernScreens_77'
+  - first:
+      213: -7341014895345747020
+    second: '!ModernScreens_78'
+  - first:
+      213: 2637158553372414528
+    second: '!ModernScreens_79'
+  - first:
+      213: -7019750441987649819
+    second: '!ModernScreens_80'
+  - first:
+      213: -7365618131603331651
+    second: '!ModernScreens_81'
+  - first:
+      213: 1331192778749638615
+    second: '!ModernScreens_82'
+  - first:
+      213: -6247538581420143616
+    second: '!ModernScreens_83'
+  - first:
+      213: 4313784961331246664
+    second: '!ModernScreens_84'
+  - first:
+      213: -1708852743988254809
+    second: '!ModernScreens_85'
+  - first:
+      213: -4456671548675903227
+    second: '!ModernScreens_86'
+  - first:
+      213: 8751336190782229961
+    second: '!ModernScreens_87'
+  - first:
+      213: -2865745695515431967
+    second: '!ModernScreens_88'
+  - first:
+      213: 1261221653591983437
+    second: '!ModernScreens_89'
+  - first:
+      213: -555682233606330685
+    second: '!ModernScreens_90'
+  - first:
+      213: 4189861336151547149
+    second: '!ModernScreens_91'
+  - first:
+      213: -425697370691478698
+    second: '!ModernScreens_92'
+  - first:
+      213: 1427937129341812969
+    second: '!ModernScreens_93'
+  - first:
+      213: -5880330080887252004
+    second: '!ModernScreens_94'
+  - first:
+      213: -8424200063940152288
+    second: '!ModernScreens_95'
+  - first:
+      213: -5255036988511741217
+    second: '!ModernScreens_96'
+  - first:
+      213: 4244918180484488549
+    second: '!ModernScreens_97'
+  - first:
+      213: -4178619486530085906
+    second: '!ModernScreens_98'
+  - first:
+      213: -6943230327780165943
+    second: '!ModernScreens_99'
+  - first:
+      213: -3609306676102954763
+    second: '!ModernScreens_100'
+  - first:
+      213: -2864792362434962781
+    second: '!ModernScreens_101'
+  - first:
+      213: -2464135516890044863
+    second: '!ModernScreens_102'
+  - first:
+      213: 8500075538329504498
+    second: '!ModernScreens_103'
+  - first:
+      213: 3218199358539369726
+    second: '!ModernScreens_104'
+  - first:
+      213: -2986290098430336601
+    second: '!ModernScreens_105'
+  - first:
+      213: -9082545184359659820
+    second: '!ModernScreens_106'
+  - first:
+      213: -6951923657105414533
+    second: '!ModernScreens_107'
+  - first:
+      213: 3529475283530294672
+    second: '!ModernScreens_108'
+  - first:
+      213: 392755419090330608
+    second: '!ModernScreens_109'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!ModernScreens_0'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 336
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7f9336f56f50f0800000000000000
+      internalID: -1126069273716883830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_1'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 336
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4f3077edbcc060800000000000000
+      internalID: 6975158724608346729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_2'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a21ebe7a112c2780800000000000000
+      internalID: -8706547581934759258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_3'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 336
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1665c70cb730820800000000000000
+      internalID: 2883284253097222592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_4'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 336
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a424b1109d1789250800000000000000
+      internalID: 5951632084410516042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_5'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 336
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff388648feb1a4fc0800000000000000
+      internalID: -3509962244049304577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_6'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 191
+        width: 577
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd93507b053bfd60800000000000000
+      internalID: 7924986292533960126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_7'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74201279676984be0800000000000000
+      internalID: -1492777840387489209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_8'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe91f8f05df5ed0800000000000000
+      internalID: -2422983811699970303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_9'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae5779a60e4a4460800000000000000
+      internalID: 7226674342589324963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_10'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3f8c8da5ff11630800000000000000
+      internalID: 3896175918301377487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_11'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 290
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b4b9142286d510800000000000000
+      internalID: 1573588211374273461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_12'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6016a808be29860800000000000000
+      internalID: 7535344063854216881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_13'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e9047aa42a4ad70800000000000000
+      internalID: 9053539592438849162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_14'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55575937ffcf890800000000000000
+      internalID: -7422777213919603271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_15'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 290
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf38990bbee51ef0800000000000000
+      internalID: -137941726477664310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_16'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 288
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5541bddf0a4d4b280800000000000000
+      internalID: -9028357565052152747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_17'
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 290
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a692150c290a30800000000000000
+      internalID: 4181922129288537162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_18'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 288
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca6a03670d88ec0800000000000000
+      internalID: -3564369899022799723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_19'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94dd325f847242d0800000000000000
+      internalID: -3295943818372852578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_20'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 240
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1aef28df88081b0800000000000000
+      internalID: -5656370509571513877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_21'
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f211b7ad78b9c1fc0800000000000000
+      internalID: -3522769800722181841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_22'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71b35122d8075b0800000000000000
+      internalID: -5372639177928402968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_23'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 240
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc9579ebb4371ab0800000000000000
+      internalID: -5037499676510282538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_24'
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca9344c6b670830800000000000000
+      internalID: 4037313703706209411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_25'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174bd441a253a11e0800000000000000
+      internalID: -2226408610935753615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_26'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589feba324e082f0800000000000000
+      internalID: -972526677652432811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_27'
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813b5df1199aa860800000000000000
+      internalID: 7542008828529422730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_28'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f9eb06de51ed810800000000000000
+      internalID: 1791893811014573916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_29'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b602ced7ccea75370800000000000000
+      internalID: 8311303830644727915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_30'
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7189fa839ae4a7c40800000000000000
+      internalID: 5510803582748694551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_31'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128351dca2d0de020800000000000000
+      internalID: 2372567056174626849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_32'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 240
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f823900e9fffa70800000000000000
+      internalID: 8863077332310724404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_33'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2666d35e05333a230800000000000000
+      internalID: 3648816545636640354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_34'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40579c436651d2900800000000000000
+      internalID: 661208249009796356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_35'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 240
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2accc25261a51890800000000000000
+      internalID: -7487901361765561811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_36'
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 244
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3df2a84ef766dd0800000000000000
+      internalID: -2493164724155329587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_37'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e82da9aaa45d170800000000000000
+      internalID: 8202544392927612558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_38'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf4e19e263b9d380800000000000000
+      internalID: -8945921947395534886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_39'
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 196
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed04bb91d92397c0800000000000000
+      internalID: -4065860058348253717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_40'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335cf080014df9050800000000000000
+      internalID: 5809595209651045683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_41'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 192
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c831f1f3c0dc78c0800000000000000
+      internalID: -4000092829015525179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_42'
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 196
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3931c9c641c7fc0800000000000000
+      internalID: -3495896754038795320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_43'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac374c71e44283a70800000000000000
+      internalID: 8806828989147804618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_44'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9ec98f7a373d020800000000000000
+      internalID: 2365361394567408054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_45'
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 196
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7931615a6e473b70800000000000000
+      internalID: 8878651408923048318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_46'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e15fe7d841aad1e0800000000000000
+      internalID: -2172246536020340255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_47'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e167d11851cf6ca0800000000000000
+      internalID: -6021381592770453015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_48'
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 196
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21fbce34ff0e5f80800000000000000
+      internalID: -8116031936775065301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_49'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456c6ee3a611a9950800000000000000
+      internalID: 6456492163808544340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_50'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1052cb487e75090800000000000000
+      internalID: -8045707651995860519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_51'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 196
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95898d489cb9f88f0800000000000000
+      internalID: -536038540814280615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_52'
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 194
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974baf484d9f1a40800000000000000
+      internalID: 5341160616984528793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_53'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 192
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fa7f3dfdc643d50800000000000000
+      internalID: 6716112652905983818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_54'
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 196
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71577a3dbc43f86f0800000000000000
+      internalID: -680266968675683049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_55'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42077dceab618f2c0800000000000000
+      internalID: -4397740044034019292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_56'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399f15416787c840800000000000000
+      internalID: 5244309142937508157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_57'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 144
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe42f8117ad41d70800000000000000
+      internalID: 9013068933559897845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_58'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 144
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b6cbe059c36e5b0800000000000000
+      internalID: -5339513697306121452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_59'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 144
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84348039ed3a9660800000000000000
+      internalID: 7393289810032735371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_60'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 144
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eef9f3ab6671520800000000000000
+      internalID: 2672717853985074739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_61'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 577
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecc7aeab2755c60800000000000000
+      internalID: 7806271676240154300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_62'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7196c2b1c80882620800000000000000
+      internalID: 2749588911749359895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_63'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59907b669e2685c0800000000000000
+      internalID: -4213629177776006822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_64'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baadeac727f580d0800000000000000
+      internalID: -3421056591637665101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_65'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222a81483e257140800000000000000
+      internalID: 4716727003893080623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_66'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 98
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8003ff108da2b9890800000000000000
+      internalID: -7450314051319549944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_67'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e533091aaa1d900800000000000000
+      internalID: 707534227359620662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_68'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 98
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f0da2fa43dd2b80800000000000000
+      internalID: -8417839809633120493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_69'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 96
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a638651025bb20800000000000000
+      internalID: 3149458790730344951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_70'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 98
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bbe5d4f434ce190800000000000000
+      internalID: -7931890835826754660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_71'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 96
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef2c05b1c1ee250800000000000000
+      internalID: 5975744659211878048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_72'
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 98
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdf63e6da47afa80800000000000000
+      internalID: -8432299064070570546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_73'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 96
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c3f8c367488b60800000000000000
+      internalID: 7748521652789690408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_74'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82511b5749f2515c0800000000000000
+      internalID: -4245434759050619608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_75'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93170a1c92c662d0800000000000000
+      internalID: -3285724902412840038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_76'
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e59e2edafd75d60800000000000000
+      internalID: 7879012011037253244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_77'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c459a6bde1054ad0800000000000000
+      internalID: -2718764679564798776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_78'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb018d8d97f1a90800000000000000
+      internalID: -7341014895345747020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_79'
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04255266bb1199420800000000000000
+      internalID: 2637158553372414528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_80'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee4f6d4a26d49e90800000000000000
+      internalID: -7019750441987649819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_81'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db56b92855118c990800000000000000
+      internalID: -7365618131603331651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_82'
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ffe087c8597210800000000000000
+      internalID: 1331192778749638615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_83'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c87e5d2c84c49a0800000000000000
+      internalID: -6247538581420143616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_84'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 48
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84632912194addb30800000000000000
+      internalID: 4313784961331246664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_85'
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e025bb7fe848e0800000000000000
+      internalID: -1708852743988254809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_86'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013594c6d8b622c0800000000000000
+      internalID: -4456671548675903227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_87'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 48
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd489126edf27970800000000000000
+      internalID: 8751336190782229961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_88'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eba23a2973da38d0800000000000000
+      internalID: -2865745695515431967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_89'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4581656962c08110800000000000000
+      internalID: 1261221653591983437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_90'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 48
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c626e1e3f1d948f0800000000000000
+      internalID: -555682233606330685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_91'
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 52
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dd477bfa0652a30800000000000000
+      internalID: 4189861336151547149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_92'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdd1e2f7e971af0800000000000000
+      internalID: -425697370691478698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_93'
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0820ce04d01d310800000000000000
+      internalID: 1427937129341812969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_94'
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbdbae52fed46ea0800000000000000
+      internalID: -5880330080887252004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_95'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243608dcaa371b80800000000000000
+      internalID: -8424200063940152288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_96'
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda183a83bb5217b0800000000000000
+      internalID: -5255036988511741217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_97'
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1068389af8ea30800000000000000
+      internalID: 4244918180484488549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_98'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb59dd57bf8206c0800000000000000
+      internalID: -4178619486530085906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_99'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b1febdc0b4af90800000000000000
+      internalID: -6943230327780165943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_100'
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0007573ba29edc0800000000000000
+      internalID: -3609306676102954763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_101'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aadfc156863e38d0800000000000000
+      internalID: -2864792362434962781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_102'
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146685d8dc1adcdd0800000000000000
+      internalID: -2464135516890044863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_103'
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 4
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0e12baa556f570800000000000000
+      internalID: 8500075538329504498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_104'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc012e044759ac20800000000000000
+      internalID: 3218199358539369726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_105'
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a12bce3af09e86d0800000000000000
+      internalID: -2986290098430336601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_106'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6cec5b64154f180800000000000000
+      internalID: -9082545184359659820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_107'
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76e898444ec58f90800000000000000
+      internalID: -6951923657105414533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_108'
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095285602173bf030800000000000000
+      internalID: 3529475283530294672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!ModernScreens_109'
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f32d7609f8537500800000000000000
+      internalID: 392755419090330608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!ModernScreens_0': -1126069273716883830
+      '!ModernScreens_1': 6975158724608346729
+      '!ModernScreens_10': 3896175918301377487
+      '!ModernScreens_100': -3609306676102954763
+      '!ModernScreens_101': -2864792362434962781
+      '!ModernScreens_102': -2464135516890044863
+      '!ModernScreens_103': 8500075538329504498
+      '!ModernScreens_104': 3218199358539369726
+      '!ModernScreens_105': -2986290098430336601
+      '!ModernScreens_106': -9082545184359659820
+      '!ModernScreens_107': -6951923657105414533
+      '!ModernScreens_108': 3529475283530294672
+      '!ModernScreens_109': 392755419090330608
+      '!ModernScreens_11': 1573588211374273461
+      '!ModernScreens_12': 7535344063854216881
+      '!ModernScreens_13': 9053539592438849162
+      '!ModernScreens_14': -7422777213919603271
+      '!ModernScreens_15': -137941726477664310
+      '!ModernScreens_16': -9028357565052152747
+      '!ModernScreens_17': 4181922129288537162
+      '!ModernScreens_18': -3564369899022799723
+      '!ModernScreens_19': -3295943818372852578
+      '!ModernScreens_2': -8706547581934759258
+      '!ModernScreens_20': -5656370509571513877
+      '!ModernScreens_21': -3522769800722181841
+      '!ModernScreens_22': -5372639177928402968
+      '!ModernScreens_23': -5037499676510282538
+      '!ModernScreens_24': 4037313703706209411
+      '!ModernScreens_25': -2226408610935753615
+      '!ModernScreens_26': -972526677652432811
+      '!ModernScreens_27': 7542008828529422730
+      '!ModernScreens_28': 1791893811014573916
+      '!ModernScreens_29': 8311303830644727915
+      '!ModernScreens_3': 2883284253097222592
+      '!ModernScreens_30': 5510803582748694551
+      '!ModernScreens_31': 2372567056174626849
+      '!ModernScreens_32': 8863077332310724404
+      '!ModernScreens_33': 3648816545636640354
+      '!ModernScreens_34': 661208249009796356
+      '!ModernScreens_35': -7487901361765561811
+      '!ModernScreens_36': -2493164724155329587
+      '!ModernScreens_37': 8202544392927612558
+      '!ModernScreens_38': -8945921947395534886
+      '!ModernScreens_39': -4065860058348253717
+      '!ModernScreens_4': 5951632084410516042
+      '!ModernScreens_40': 5809595209651045683
+      '!ModernScreens_41': -4000092829015525179
+      '!ModernScreens_42': -3495896754038795320
+      '!ModernScreens_43': 8806828989147804618
+      '!ModernScreens_44': 2365361394567408054
+      '!ModernScreens_45': 8878651408923048318
+      '!ModernScreens_46': -2172246536020340255
+      '!ModernScreens_47': -6021381592770453015
+      '!ModernScreens_48': -8116031936775065301
+      '!ModernScreens_49': 6456492163808544340
+      '!ModernScreens_5': -3509962244049304577
+      '!ModernScreens_50': -8045707651995860519
+      '!ModernScreens_51': -536038540814280615
+      '!ModernScreens_52': 5341160616984528793
+      '!ModernScreens_53': 6716112652905983818
+      '!ModernScreens_54': -680266968675683049
+      '!ModernScreens_55': -4397740044034019292
+      '!ModernScreens_56': 5244309142937508157
+      '!ModernScreens_57': 9013068933559897845
+      '!ModernScreens_58': -5339513697306121452
+      '!ModernScreens_59': 7393289810032735371
+      '!ModernScreens_6': 7924986292533960126
+      '!ModernScreens_60': 2672717853985074739
+      '!ModernScreens_61': 7806271676240154300
+      '!ModernScreens_62': 2749588911749359895
+      '!ModernScreens_63': -4213629177776006822
+      '!ModernScreens_64': -3421056591637665101
+      '!ModernScreens_65': 4716727003893080623
+      '!ModernScreens_66': -7450314051319549944
+      '!ModernScreens_67': 707534227359620662
+      '!ModernScreens_68': -8417839809633120493
+      '!ModernScreens_69': 3149458790730344951
+      '!ModernScreens_7': -1492777840387489209
+      '!ModernScreens_70': -7931890835826754660
+      '!ModernScreens_71': 5975744659211878048
+      '!ModernScreens_72': -8432299064070570546
+      '!ModernScreens_73': 7748521652789690408
+      '!ModernScreens_74': -4245434759050619608
+      '!ModernScreens_75': -3285724902412840038
+      '!ModernScreens_76': 7879012011037253244
+      '!ModernScreens_77': -2718764679564798776
+      '!ModernScreens_78': -7341014895345747020
+      '!ModernScreens_79': 2637158553372414528
+      '!ModernScreens_8': -2422983811699970303
+      '!ModernScreens_80': -7019750441987649819
+      '!ModernScreens_81': -7365618131603331651
+      '!ModernScreens_82': 1331192778749638615
+      '!ModernScreens_83': -6247538581420143616
+      '!ModernScreens_84': 4313784961331246664
+      '!ModernScreens_85': -1708852743988254809
+      '!ModernScreens_86': -4456671548675903227
+      '!ModernScreens_87': 8751336190782229961
+      '!ModernScreens_88': -2865745695515431967
+      '!ModernScreens_89': 1261221653591983437
+      '!ModernScreens_9': 7226674342589324963
+      '!ModernScreens_90': -555682233606330685
+      '!ModernScreens_91': 4189861336151547149
+      '!ModernScreens_92': -425697370691478698
+      '!ModernScreens_93': 1427937129341812969
+      '!ModernScreens_94': -5880330080887252004
+      '!ModernScreens_95': -8424200063940152288
+      '!ModernScreens_96': -5255036988511741217
+      '!ModernScreens_97': 4244918180484488549
+      '!ModernScreens_98': -4178619486530085906
+      '!ModernScreens_99': -6943230327780165943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

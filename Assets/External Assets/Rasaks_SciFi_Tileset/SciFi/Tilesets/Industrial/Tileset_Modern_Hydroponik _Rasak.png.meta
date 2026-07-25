@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d6b464c63cdba0b4db015acba96bf629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4858497364716527618
+    second: Tileset_Modern_Hydroponik _Rasak_0
+  - first:
+      213: -5386243518175951253
+    second: Tileset_Modern_Hydroponik _Rasak_1
+  - first:
+      213: -3987738839554381139
+    second: Tileset_Modern_Hydroponik _Rasak_2
+  - first:
+      213: -3172669630060144331
+    second: Tileset_Modern_Hydroponik _Rasak_3
+  - first:
+      213: 3589742098118196082
+    second: Tileset_Modern_Hydroponik _Rasak_4
+  - first:
+      213: 5941222495663458271
+    second: Tileset_Modern_Hydroponik _Rasak_5
+  - first:
+      213: 5221779296145217220
+    second: Tileset_Modern_Hydroponik _Rasak_6
+  - first:
+      213: 8005490667905514655
+    second: Tileset_Modern_Hydroponik _Rasak_7
+  - first:
+      213: 1139884822394160381
+    second: Tileset_Modern_Hydroponik _Rasak_8
+  - first:
+      213: -4660798288039872174
+    second: Tileset_Modern_Hydroponik _Rasak_9
+  - first:
+      213: 2012461500936107045
+    second: Tileset_Modern_Hydroponik _Rasak_10
+  - first:
+      213: -3496850858442226738
+    second: Tileset_Modern_Hydroponik _Rasak_11
+  - first:
+      213: 2383422056297049432
+    second: Tileset_Modern_Hydroponik _Rasak_12
+  - first:
+      213: 8616684517065172572
+    second: Tileset_Modern_Hydroponik _Rasak_13
+  - first:
+      213: 432215346426930378
+    second: Tileset_Modern_Hydroponik _Rasak_14
+  - first:
+      213: -4235972298637861291
+    second: Tileset_Modern_Hydroponik _Rasak_15
+  - first:
+      213: 3642475495563420070
+    second: Tileset_Modern_Hydroponik _Rasak_16
+  - first:
+      213: 1754387967566533686
+    second: Tileset_Modern_Hydroponik _Rasak_17
+  - first:
+      213: 3914426473375420667
+    second: Tileset_Modern_Hydroponik _Rasak_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 704
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff56e16366239cb0800000000000000
+      internalID: -4858497364716527618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 671
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b664f59ce083045b0800000000000000
+      internalID: -5386243518175951253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 719
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa255347a4b8a8c0800000000000000
+      internalID: -3987738839554381139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 719
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539589ee7c968f3d0800000000000000
+      internalID: -3172669630060144331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 719
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bb9914b6351d130800000000000000
+      internalID: 3589742098118196082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 481
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd78491c166737250800000000000000
+      internalID: 5941222495663458271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 696
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6993a8a9c777840800000000000000
+      internalID: 5221779296145217220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 698
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c7639f857391f60800000000000000
+      internalID: 8005490667905514655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 689
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4c9a3e43fa1df00800000000000000
+      internalID: 1139884822394160381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 145
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25972a7a6a4815fb0800000000000000
+      internalID: -4660798288039872174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 635
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52432779213bdeb10800000000000000
+      internalID: 2012461500936107045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 604
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3080edba0b87fc0800000000000000
+      internalID: -3496850858442226738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 641
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85daa677bbd931120800000000000000
+      internalID: 2383422056297049432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5627454aec949770800000000000000
+      internalID: 8616684517065172572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 578
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ef3e41998ff500800000000000000
+      internalID: 432215346426930378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 20
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9b4533adc635c0800000000000000
+      internalID: -4235972298637861291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 20
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16f102a2cac8230800000000000000
+      internalID: 3642475495563420070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 21
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d505bf86d85810800000000000000
+      internalID: 1754387967566533686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Hydroponik _Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 21
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05de45326d25630800000000000000
+      internalID: 3914426473375420667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Modern_Hydroponik _Rasak_0: -4858497364716527618
+      Tileset_Modern_Hydroponik _Rasak_1: -5386243518175951253
+      Tileset_Modern_Hydroponik _Rasak_10: 2012461500936107045
+      Tileset_Modern_Hydroponik _Rasak_11: -3496850858442226738
+      Tileset_Modern_Hydroponik _Rasak_12: 2383422056297049432
+      Tileset_Modern_Hydroponik _Rasak_13: 8616684517065172572
+      Tileset_Modern_Hydroponik _Rasak_14: 432215346426930378
+      Tileset_Modern_Hydroponik _Rasak_15: -4235972298637861291
+      Tileset_Modern_Hydroponik _Rasak_16: 3642475495563420070
+      Tileset_Modern_Hydroponik _Rasak_17: 1754387967566533686
+      Tileset_Modern_Hydroponik _Rasak_18: 3914426473375420667
+      Tileset_Modern_Hydroponik _Rasak_2: -3987738839554381139
+      Tileset_Modern_Hydroponik _Rasak_3: -3172669630060144331
+      Tileset_Modern_Hydroponik _Rasak_4: 3589742098118196082
+      Tileset_Modern_Hydroponik _Rasak_5: 5941222495663458271
+      Tileset_Modern_Hydroponik _Rasak_6: 5221779296145217220
+      Tileset_Modern_Hydroponik _Rasak_7: 8005490667905514655
+      Tileset_Modern_Hydroponik _Rasak_8: 1139884822394160381
+      Tileset_Modern_Hydroponik _Rasak_9: -4660798288039872174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

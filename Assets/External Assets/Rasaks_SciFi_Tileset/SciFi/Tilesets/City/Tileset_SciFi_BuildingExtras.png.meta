@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: ab646cf924261b44b9c230f4f26b5073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3120974093884802354
+    second: Tileset_SciFi_BuildingExtras_0
+  - first:
+      213: -5349013330159385837
+    second: Tileset_SciFi_BuildingExtras_1
+  - first:
+      213: 5745947699321102315
+    second: Tileset_SciFi_BuildingExtras_2
+  - first:
+      213: 9133401960966997640
+    second: Tileset_SciFi_BuildingExtras_3
+  - first:
+      213: 5074848624417040915
+    second: Tileset_SciFi_BuildingExtras_4
+  - first:
+      213: 7107136923601488032
+    second: Tileset_SciFi_BuildingExtras_5
+  - first:
+      213: -5291240212805417030
+    second: Tileset_SciFi_BuildingExtras_6
+  - first:
+      213: -9093753595592200693
+    second: Tileset_SciFi_BuildingExtras_7
+  - first:
+      213: -5267011793120900197
+    second: Tileset_SciFi_BuildingExtras_8
+  - first:
+      213: 5151107437562923380
+    second: Tileset_SciFi_BuildingExtras_9
+  - first:
+      213: -1878120587934526014
+    second: Tileset_SciFi_BuildingExtras_10
+  - first:
+      213: 1771435262106389651
+    second: Tileset_SciFi_BuildingExtras_11
+  - first:
+      213: -7771763056544487183
+    second: Tileset_SciFi_BuildingExtras_12
+  - first:
+      213: 5186781747396285201
+    second: Tileset_SciFi_BuildingExtras_13
+  - first:
+      213: -1131616354422058554
+    second: Tileset_SciFi_BuildingExtras_14
+  - first:
+      213: 5489244367351977838
+    second: Tileset_SciFi_BuildingExtras_15
+  - first:
+      213: -2934801002833341454
+    second: Tileset_SciFi_BuildingExtras_16
+  - first:
+      213: 3460982118025110015
+    second: Tileset_SciFi_BuildingExtras_17
+  - first:
+      213: 7096884159480909518
+    second: Tileset_SciFi_BuildingExtras_18
+  - first:
+      213: 8945857124558560349
+    second: Tileset_SciFi_BuildingExtras_19
+  - first:
+      213: 1913008212061972885
+    second: Tileset_SciFi_BuildingExtras_20
+  - first:
+      213: -3969667933317768011
+    second: Tileset_SciFi_BuildingExtras_21
+  - first:
+      213: 4822575132222553492
+    second: Tileset_SciFi_BuildingExtras_22
+  - first:
+      213: 4839731494925206300
+    second: Tileset_SciFi_BuildingExtras_23
+  - first:
+      213: -807299919957249350
+    second: Tileset_SciFi_BuildingExtras_24
+  - first:
+      213: -2371189886060680129
+    second: Tileset_SciFi_BuildingExtras_25
+  - first:
+      213: 4920219864163572405
+    second: Tileset_SciFi_BuildingExtras_26
+  - first:
+      213: -1838088717970883517
+    second: Tileset_SciFi_BuildingExtras_27
+  - first:
+      213: -6105458093421172698
+    second: Tileset_SciFi_BuildingExtras_28
+  - first:
+      213: 8897606542260079426
+    second: Tileset_SciFi_BuildingExtras_29
+  - first:
+      213: 3975524369743121498
+    second: Tileset_SciFi_BuildingExtras_30
+  - first:
+      213: -230267195020705219
+    second: Tileset_SciFi_BuildingExtras_31
+  - first:
+      213: -3674360118366704924
+    second: Tileset_SciFi_BuildingExtras_32
+  - first:
+      213: -2478833684771836448
+    second: Tileset_SciFi_BuildingExtras_33
+  - first:
+      213: -2510806965489755635
+    second: Tileset_SciFi_BuildingExtras_34
+  - first:
+      213: 6657546335907118525
+    second: Tileset_SciFi_BuildingExtras_35
+  - first:
+      213: 8497478854452543480
+    second: Tileset_SciFi_BuildingExtras_36
+  - first:
+      213: 1748082927397391771
+    second: Tileset_SciFi_BuildingExtras_37
+  - first:
+      213: 8290923243783149734
+    second: Tileset_SciFi_BuildingExtras_38
+  - first:
+      213: -411345963223151385
+    second: Tileset_SciFi_BuildingExtras_39
+  - first:
+      213: -5379406578714248666
+    second: Tileset_SciFi_BuildingExtras_40
+  - first:
+      213: 127925418199437689
+    second: Tileset_SciFi_BuildingExtras_41
+  - first:
+      213: -2460342323827922885
+    second: Tileset_SciFi_BuildingExtras_42
+  - first:
+      213: -601806608792425872
+    second: Tileset_SciFi_BuildingExtras_43
+  - first:
+      213: -7040100125606539894
+    second: Tileset_SciFi_BuildingExtras_44
+  - first:
+      213: 456209752681954950
+    second: Tileset_SciFi_BuildingExtras_45
+  - first:
+      213: -8486260863091845399
+    second: Tileset_SciFi_BuildingExtras_46
+  - first:
+      213: 8698597623389409512
+    second: Tileset_SciFi_BuildingExtras_47
+  - first:
+      213: -6455061364870772266
+    second: Tileset_SciFi_BuildingExtras_48
+  - first:
+      213: 5224384339816175301
+    second: Tileset_SciFi_BuildingExtras_49
+  - first:
+      213: 5110317052890644644
+    second: Tileset_SciFi_BuildingExtras_50
+  - first:
+      213: -9161433119021988672
+    second: Tileset_SciFi_BuildingExtras_51
+  - first:
+      213: -4079812906761993328
+    second: Tileset_SciFi_BuildingExtras_52
+  - first:
+      213: -6970684629207389245
+    second: Tileset_SciFi_BuildingExtras_53
+  - first:
+      213: -6991673299525147351
+    second: Tileset_SciFi_BuildingExtras_54
+  - first:
+      213: -1742296568287474746
+    second: Tileset_SciFi_BuildingExtras_55
+  - first:
+      213: 8594306408361013403
+    second: Tileset_SciFi_BuildingExtras_56
+  - first:
+      213: 2024546186516291375
+    second: Tileset_SciFi_BuildingExtras_57
+  - first:
+      213: -4720166467781932692
+    second: Tileset_SciFi_BuildingExtras_58
+  - first:
+      213: -7465200609959406503
+    second: Tileset_SciFi_BuildingExtras_59
+  - first:
+      213: 5498963391234871259
+    second: Tileset_SciFi_BuildingExtras_60
+  - first:
+      213: 7070138473021918932
+    second: Tileset_SciFi_BuildingExtras_61
+  - first:
+      213: -3958000884228587102
+    second: Tileset_SciFi_BuildingExtras_62
+  - first:
+      213: 4486485258547621270
+    second: Tileset_SciFi_BuildingExtras_63
+  - first:
+      213: -6423555411764006643
+    second: Tileset_SciFi_BuildingExtras_64
+  - first:
+      213: 9143355379294375297
+    second: Tileset_SciFi_BuildingExtras_65
+  - first:
+      213: -8253738558594641023
+    second: Tileset_SciFi_BuildingExtras_66
+  - first:
+      213: 5649133736992688665
+    second: Tileset_SciFi_BuildingExtras_67
+  - first:
+      213: -3138009228834153459
+    second: Tileset_SciFi_BuildingExtras_68
+  - first:
+      213: 2127254233047759205
+    second: Tileset_SciFi_BuildingExtras_69
+  - first:
+      213: -7521399404441104736
+    second: Tileset_SciFi_BuildingExtras_70
+  - first:
+      213: 657117338259711694
+    second: Tileset_SciFi_BuildingExtras_71
+  - first:
+      213: -3009623451466368662
+    second: Tileset_SciFi_BuildingExtras_72
+  - first:
+      213: -3882741830703475840
+    second: Tileset_SciFi_BuildingExtras_73
+  - first:
+      213: 7000408669280081209
+    second: Tileset_SciFi_BuildingExtras_74
+  - first:
+      213: 4793843557882376372
+    second: Tileset_SciFi_BuildingExtras_75
+  - first:
+      213: 7438120738733265353
+    second: Tileset_SciFi_BuildingExtras_76
+  - first:
+      213: -6943853170654958069
+    second: Tileset_SciFi_BuildingExtras_77
+  - first:
+      213: 2294947099490189353
+    second: Tileset_SciFi_BuildingExtras_78
+  - first:
+      213: -6593788937720140498
+    second: Tileset_SciFi_BuildingExtras_79
+  - first:
+      213: -8700677690334462075
+    second: Tileset_SciFi_BuildingExtras_80
+  - first:
+      213: 6268417880312733451
+    second: Tileset_SciFi_BuildingExtras_81
+  - first:
+      213: -6151487547077151343
+    second: Tileset_SciFi_BuildingExtras_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 732
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235433b176def4b20800000000000000
+      internalID: 3120974093884802354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 682
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313450d67bc74c5b0800000000000000
+      internalID: -5349013330159385837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 575
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befd10c3df4bdbf40800000000000000
+      internalID: 5745947699321102315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 304
+        width: 385
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8864b4251bc50ce70800000000000000
+      internalID: 9133401960966997640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae14bafeb7d6640800000000000000
+      internalID: 5074848624417040915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 583
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84455706f91a260800000000000000
+      internalID: 7107136923601488032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 623
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab788768f0db196b0800000000000000
+      internalID: -5291240212805417030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 556
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eabcb194f7cc180800000000000000
+      internalID: -9093753595592200693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 492
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4c331ea0d7e6b0800000000000000
+      internalID: -5267011793120900197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 531
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798fc73ce86c7740800000000000000
+      internalID: 5151107437562923380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 541
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c590d6a6439fe5e0800000000000000
+      internalID: -1878120587934526014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 527
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cc3744cf6659810800000000000000
+      internalID: 1771435262106389651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 534
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f869283da6252490800000000000000
+      internalID: -7771763056544487183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113190db4862bf740800000000000000
+      internalID: 5186781747396285201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 497
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c196a4dbe0bb40f0800000000000000
+      internalID: -1131616354422058554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 461
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6714593ba6bd2c40800000000000000
+      internalID: 5489244367351977838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 457
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f398a3890e7547d0800000000000000
+      internalID: -2934801002833341454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 455
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1add636e0e70030800000000000000
+      internalID: 3460982118025110015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 461
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecec4f9ca823d7260800000000000000
+      internalID: 7096884159480909518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 455
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cd5b858a1162c70800000000000000
+      internalID: 8945857124558560349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 383
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599eb5455de5c8a10800000000000000
+      internalID: 1913008212061972885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd55efb08e8e8c0800000000000000
+      internalID: -3969667933317768011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 402
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df1ca188a3de240800000000000000
+      internalID: 4822575132222553492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 383
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c138943172e2a2340800000000000000
+      internalID: 4839731494925206300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 383
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab23fb30005ebc4f0800000000000000
+      internalID: -807299919957249350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 383
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3caa5a9c57d71fd0800000000000000
+      internalID: -2371189886060680129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_26
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 191
+        width: 144
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba5a44e5e1284440800000000000000
+      internalID: 4920219864163572405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 267
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c31b3bc0ccd76e0800000000000000
+      internalID: -1838088717970883517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 342
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e89e463e054ba0800000000000000
+      internalID: -6105458093421172698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 345
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b8a963206aa7b70800000000000000
+      internalID: 8897606542260079426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c827ed956eb2730800000000000000
+      internalID: 3975524369743121498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 336
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d328d55c43dedccf0800000000000000
+      internalID: -230267195020705219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 336
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eae3ef90fc020dc0800000000000000
+      internalID: -3674360118366704924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 211
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede6e9a5e9699dd0800000000000000
+      internalID: -2478833684771836448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 336
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a18622e52d72dd0800000000000000
+      internalID: -2510806965489755635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 336
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd727b8e1b546c50800000000000000
+      internalID: 6657546335907118525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 287
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff790e1ffb1de570800000000000000
+      internalID: 8497478854452543480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 143
+        width: 59
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d42752920724810800000000000000
+      internalID: 1748082927397391771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 266
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a859b553c64f0370800000000000000
+      internalID: 8290923243783149734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 206
+        width: 26
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec0b4e960b9a4af0800000000000000
+      internalID: -411345963223151385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 306
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a765dc7328855b0800000000000000
+      internalID: -5379406578714248666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 257
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97155857d7b76c100800000000000000
+      internalID: 127925418199437689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 306
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a06221bb1bddd0800000000000000
+      internalID: -2460342323827922885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 201
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ae17be314f5a7f0800000000000000
+      internalID: -601806608792425872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 201
+        width: 136
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0a0e5c3a8c4e90800000000000000
+      internalID: -7040100125606539894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 201
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3dab5a58c45600800000000000000
+      internalID: 456209752681954950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_46
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 187
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e65c1805beba3a80800000000000000
+      internalID: -8486260863091845399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0de2a8370a7b870800000000000000
+      internalID: 8698597623389409512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 150
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9878793e30b66a0800000000000000
+      internalID: -6455061364870772266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 153
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c65bd880edb08840800000000000000
+      internalID: 5224384339816175301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a00b23b84e7be640800000000000000
+      internalID: 5110317052890644644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 75
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4023b1e1d0cd080800000000000000
+      internalID: -9161433119021988672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 150
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c56ee6c79167c0800000000000000
+      internalID: -4079812906761993328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 143
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb61d21347234f90800000000000000
+      internalID: -6970684629207389245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92568347d2698fe90800000000000000
+      internalID: -6991673299525147351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 178
+        width: 146
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbc7d1908e12d7e0800000000000000
+      internalID: -1742296568287474746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_56
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 171
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b831d42c154770800000000000000
+      internalID: 8594306408361013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 171
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fdca6b702a81c10800000000000000
+      internalID: 2024546186516291375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_58
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 167
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c5272b999e7eb0800000000000000
+      internalID: -4720166467781932692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_59
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 123
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954175af897466890800000000000000
+      internalID: -7465200609959406503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 129
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf8e6fc11e305c40800000000000000
+      internalID: 5498963391234871259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 74
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de4b456b7d2e1260800000000000000
+      internalID: 7070138473021918932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 74
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a18fda8a2b5219c0800000000000000
+      internalID: -3958000884228587102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 95
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de1cd7292334e30800000000000000
+      internalID: 4486485258547621270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 47
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b4cee262fad6a0800000000000000
+      internalID: -6423555411764006643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 61
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d8ffd1649b3ee70800000000000000
+      internalID: 9143355379294375297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 95
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183950ad284d47d80800000000000000
+      internalID: -8253738558594641023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 95
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91acf121431c56e40800000000000000
+      internalID: 5649133736992688665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 76
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c51757b3d8374d0800000000000000
+      internalID: -3138009228834153459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 76
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569f1cb4476858d10800000000000000
+      internalID: 2127254233047759205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 20
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae047c771f9e9790800000000000000
+      internalID: -7521399404441104736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 47
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec668b2dcbc8e1900800000000000000
+      internalID: 657117338259711694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_72
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 21
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6979a3aa6bab36d0800000000000000
+      internalID: -3009623451466368662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_73
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0839e5a60eabd1ac0800000000000000
+      internalID: -3882741830703475840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935110f4892762160800000000000000
+      internalID: 7000408669280081209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 136
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0bf582157278240800000000000000
+      internalID: 4793843557882376372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c199ac2763893760800000000000000
+      internalID: 7438120738733265353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 136
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e24a6d45a72af90800000000000000
+      internalID: -6943853170654958069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_78
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 18
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9200d635a3a49df10800000000000000
+      internalID: 2294947099490189353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_79
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 18
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d6a4385e72e74a0800000000000000
+      internalID: -6593788937720140498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_80
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb2722dbbf04780800000000000000
+      internalID: -8700677690334462075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_81
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 21
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f5fb3c9d4edf650800000000000000
+      internalID: 6268417880312733451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_SciFi_BuildingExtras_82
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 27
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953a3cfaa681aaa0800000000000000
+      internalID: -6151487547077151343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_SciFi_BuildingExtras_0: 3120974093884802354
+      Tileset_SciFi_BuildingExtras_1: -5349013330159385837
+      Tileset_SciFi_BuildingExtras_10: -1878120587934526014
+      Tileset_SciFi_BuildingExtras_11: 1771435262106389651
+      Tileset_SciFi_BuildingExtras_12: -7771763056544487183
+      Tileset_SciFi_BuildingExtras_13: 5186781747396285201
+      Tileset_SciFi_BuildingExtras_14: -1131616354422058554
+      Tileset_SciFi_BuildingExtras_15: 5489244367351977838
+      Tileset_SciFi_BuildingExtras_16: -2934801002833341454
+      Tileset_SciFi_BuildingExtras_17: 3460982118025110015
+      Tileset_SciFi_BuildingExtras_18: 7096884159480909518
+      Tileset_SciFi_BuildingExtras_19: 8945857124558560349
+      Tileset_SciFi_BuildingExtras_2: 5745947699321102315
+      Tileset_SciFi_BuildingExtras_20: 1913008212061972885
+      Tileset_SciFi_BuildingExtras_21: -3969667933317768011
+      Tileset_SciFi_BuildingExtras_22: 4822575132222553492
+      Tileset_SciFi_BuildingExtras_23: 4839731494925206300
+      Tileset_SciFi_BuildingExtras_24: -807299919957249350
+      Tileset_SciFi_BuildingExtras_25: -2371189886060680129
+      Tileset_SciFi_BuildingExtras_26: 4920219864163572405
+      Tileset_SciFi_BuildingExtras_27: -1838088717970883517
+      Tileset_SciFi_BuildingExtras_28: -6105458093421172698
+      Tileset_SciFi_BuildingExtras_29: 8897606542260079426
+      Tileset_SciFi_BuildingExtras_3: 9133401960966997640
+      Tileset_SciFi_BuildingExtras_30: 3975524369743121498
+      Tileset_SciFi_BuildingExtras_31: -230267195020705219
+      Tileset_SciFi_BuildingExtras_32: -3674360118366704924
+      Tileset_SciFi_BuildingExtras_33: -2478833684771836448
+      Tileset_SciFi_BuildingExtras_34: -2510806965489755635
+      Tileset_SciFi_BuildingExtras_35: 6657546335907118525
+      Tileset_SciFi_BuildingExtras_36: 8497478854452543480
+      Tileset_SciFi_BuildingExtras_37: 1748082927397391771
+      Tileset_SciFi_BuildingExtras_38: 8290923243783149734
+      Tileset_SciFi_BuildingExtras_39: -411345963223151385
+      Tileset_SciFi_BuildingExtras_4: 5074848624417040915
+      Tileset_SciFi_BuildingExtras_40: -5379406578714248666
+      Tileset_SciFi_BuildingExtras_41: 127925418199437689
+      Tileset_SciFi_BuildingExtras_42: -2460342323827922885
+      Tileset_SciFi_BuildingExtras_43: -601806608792425872
+      Tileset_SciFi_BuildingExtras_44: -7040100125606539894
+      Tileset_SciFi_BuildingExtras_45: 456209752681954950
+      Tileset_SciFi_BuildingExtras_46: -8486260863091845399
+      Tileset_SciFi_BuildingExtras_47: 8698597623389409512
+      Tileset_SciFi_BuildingExtras_48: -6455061364870772266
+      Tileset_SciFi_BuildingExtras_49: 5224384339816175301
+      Tileset_SciFi_BuildingExtras_5: 7107136923601488032
+      Tileset_SciFi_BuildingExtras_50: 5110317052890644644
+      Tileset_SciFi_BuildingExtras_51: -9161433119021988672
+      Tileset_SciFi_BuildingExtras_52: -4079812906761993328
+      Tileset_SciFi_BuildingExtras_53: -6970684629207389245
+      Tileset_SciFi_BuildingExtras_54: -6991673299525147351
+      Tileset_SciFi_BuildingExtras_55: -1742296568287474746
+      Tileset_SciFi_BuildingExtras_56: 8594306408361013403
+      Tileset_SciFi_BuildingExtras_57: 2024546186516291375
+      Tileset_SciFi_BuildingExtras_58: -4720166467781932692
+      Tileset_SciFi_BuildingExtras_59: -7465200609959406503
+      Tileset_SciFi_BuildingExtras_6: -5291240212805417030
+      Tileset_SciFi_BuildingExtras_60: 5498963391234871259
+      Tileset_SciFi_BuildingExtras_61: 7070138473021918932
+      Tileset_SciFi_BuildingExtras_62: -3958000884228587102
+      Tileset_SciFi_BuildingExtras_63: 4486485258547621270
+      Tileset_SciFi_BuildingExtras_64: -6423555411764006643
+      Tileset_SciFi_BuildingExtras_65: 9143355379294375297
+      Tileset_SciFi_BuildingExtras_66: -8253738558594641023
+      Tileset_SciFi_BuildingExtras_67: 5649133736992688665
+      Tileset_SciFi_BuildingExtras_68: -3138009228834153459
+      Tileset_SciFi_BuildingExtras_69: 2127254233047759205
+      Tileset_SciFi_BuildingExtras_7: -9093753595592200693
+      Tileset_SciFi_BuildingExtras_70: -7521399404441104736
+      Tileset_SciFi_BuildingExtras_71: 657117338259711694
+      Tileset_SciFi_BuildingExtras_72: -3009623451466368662
+      Tileset_SciFi_BuildingExtras_73: -3882741830703475840
+      Tileset_SciFi_BuildingExtras_74: 7000408669280081209
+      Tileset_SciFi_BuildingExtras_75: 4793843557882376372
+      Tileset_SciFi_BuildingExtras_76: 7438120738733265353
+      Tileset_SciFi_BuildingExtras_77: -6943853170654958069
+      Tileset_SciFi_BuildingExtras_78: 2294947099490189353
+      Tileset_SciFi_BuildingExtras_79: -6593788937720140498
+      Tileset_SciFi_BuildingExtras_8: -5267011793120900197
+      Tileset_SciFi_BuildingExtras_80: -8700677690334462075
+      Tileset_SciFi_BuildingExtras_81: 6268417880312733451
+      Tileset_SciFi_BuildingExtras_82: -6151487547077151343
+      Tileset_SciFi_BuildingExtras_9: 5151107437562923380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

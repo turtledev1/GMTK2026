@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: c334006b4822bc846890113d149d0e68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5937073672494264638
+    second: Tileset_WildWest_Rasak_0
+  - first:
+      213: 5295357615581213956
+    second: Tileset_WildWest_Rasak_1
+  - first:
+      213: 8840366511061146728
+    second: Tileset_WildWest_Rasak_2
+  - first:
+      213: 2046694939401819578
+    second: Tileset_WildWest_Rasak_3
+  - first:
+      213: 1100168818038445805
+    second: Tileset_WildWest_Rasak_4
+  - first:
+      213: 8672625468268391137
+    second: Tileset_WildWest_Rasak_5
+  - first:
+      213: 5437307968736145514
+    second: Tileset_WildWest_Rasak_6
+  - first:
+      213: 5581523464752561179
+    second: Tileset_WildWest_Rasak_7
+  - first:
+      213: -994640080959901883
+    second: Tileset_WildWest_Rasak_8
+  - first:
+      213: -2857335768293558641
+    second: Tileset_WildWest_Rasak_9
+  - first:
+      213: -7659614138522363534
+    second: Tileset_WildWest_Rasak_10
+  - first:
+      213: -1185693244815890955
+    second: Tileset_WildWest_Rasak_11
+  - first:
+      213: 1769921200192540008
+    second: Tileset_WildWest_Rasak_12
+  - first:
+      213: -4087347201124970390
+    second: Tileset_WildWest_Rasak_13
+  - first:
+      213: -7846276382053128006
+    second: Tileset_WildWest_Rasak_14
+  - first:
+      213: -5922334432849047763
+    second: Tileset_WildWest_Rasak_15
+  - first:
+      213: -4095115919143679900
+    second: Tileset_WildWest_Rasak_16
+  - first:
+      213: -2037702409584148385
+    second: Tileset_WildWest_Rasak_17
+  - first:
+      213: 1522903594854116195
+    second: Tileset_WildWest_Rasak_18
+  - first:
+      213: 5823953162422904950
+    second: Tileset_WildWest_Rasak_19
+  - first:
+      213: -473814845173446237
+    second: Tileset_WildWest_Rasak_20
+  - first:
+      213: -4513930572055500744
+    second: Tileset_WildWest_Rasak_21
+  - first:
+      213: 4534223168940800848
+    second: Tileset_WildWest_Rasak_22
+  - first:
+      213: 7987532898083863842
+    second: Tileset_WildWest_Rasak_23
+  - first:
+      213: -2811438731942886212
+    second: Tileset_WildWest_Rasak_24
+  - first:
+      213: -617221974829790370
+    second: Tileset_WildWest_Rasak_25
+  - first:
+      213: -7401118196905987021
+    second: Tileset_WildWest_Rasak_26
+  - first:
+      213: -6170164739312027542
+    second: Tileset_WildWest_Rasak_27
+  - first:
+      213: -2723820197910976633
+    second: Tileset_WildWest_Rasak_28
+  - first:
+      213: -550205748421113378
+    second: Tileset_WildWest_Rasak_29
+  - first:
+      213: 4392368425420967555
+    second: Tileset_WildWest_Rasak_30
+  - first:
+      213: -2048328485946152823
+    second: Tileset_WildWest_Rasak_31
+  - first:
+      213: 9176531194666668266
+    second: Tileset_WildWest_Rasak_32
+  - first:
+      213: -4220114482909992151
+    second: Tileset_WildWest_Rasak_33
+  - first:
+      213: 716931557628507645
+    second: Tileset_WildWest_Rasak_34
+  - first:
+      213: 4766670989488351530
+    second: Tileset_WildWest_Rasak_35
+  - first:
+      213: -8139915602946678123
+    second: Tileset_WildWest_Rasak_36
+  - first:
+      213: 5094305230166174608
+    second: Tileset_WildWest_Rasak_37
+  - first:
+      213: -7253460623866486250
+    second: Tileset_WildWest_Rasak_38
+  - first:
+      213: 1256098623528437309
+    second: Tileset_WildWest_Rasak_39
+  - first:
+      213: 687371010238457451
+    second: Tileset_WildWest_Rasak_40
+  - first:
+      213: -58844669785136813
+    second: Tileset_WildWest_Rasak_41
+  - first:
+      213: 1328141682643011769
+    second: Tileset_WildWest_Rasak_42
+  - first:
+      213: 4749215158699662162
+    second: Tileset_WildWest_Rasak_43
+  - first:
+      213: -6166387090772448370
+    second: Tileset_WildWest_Rasak_44
+  - first:
+      213: -3674187164875705017
+    second: Tileset_WildWest_Rasak_45
+  - first:
+      213: -1877809829853008624
+    second: Tileset_WildWest_Rasak_46
+  - first:
+      213: -2661722597625940397
+    second: Tileset_WildWest_Rasak_47
+  - first:
+      213: -98753972930972432
+    second: Tileset_WildWest_Rasak_48
+  - first:
+      213: -7093519285009500272
+    second: Tileset_WildWest_Rasak_49
+  - first:
+      213: 6159872432428553455
+    second: Tileset_WildWest_Rasak_50
+  - first:
+      213: -6982229812204120336
+    second: Tileset_WildWest_Rasak_51
+  - first:
+      213: -1022588108835460263
+    second: Tileset_WildWest_Rasak_52
+  - first:
+      213: -5949260492902230881
+    second: Tileset_WildWest_Rasak_53
+  - first:
+      213: -4865977537907849387
+    second: Tileset_WildWest_Rasak_54
+  - first:
+      213: 3390197744570348945
+    second: Tileset_WildWest_Rasak_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 768
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3138569c09b46250800000000000000
+      internalID: 5937073672494264638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405b06302b3ec7940800000000000000
+      internalID: 5295357615581213956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 216
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c1f08e08a4faa70800000000000000
+      internalID: 8840366511061146728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab592aa1432576c10800000000000000
+      internalID: 2046694939401819578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 239
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6942806b5944f00800000000000000
+      internalID: 1100168818038445805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaa422f9ea5b5870800000000000000
+      internalID: 8672625468268391137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603bea1ac2357b40800000000000000
+      internalID: 5437307968736145514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 250
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c751ed40e857d40800000000000000
+      internalID: 5581523464752561179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 265
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe40fbd145232f0800000000000000
+      internalID: -994640080959901883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 252
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8638dee144b858d0800000000000000
+      internalID: -2857335768293558641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 191
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27990dcf58593b590800000000000000
+      internalID: -7659614138522363534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 216
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f52b22a6429b8fe0800000000000000
+      internalID: -1185693244815890955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 248
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc8e144f5009810800000000000000
+      internalID: 1769921200192540008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 242
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6052435063d647c0800000000000000
+      internalID: -4087347201124970390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 217
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8af2ea33d6c1390800000000000000
+      internalID: -7846276382053128006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc7f01634afcda0800000000000000
+      internalID: -5922334432849047763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c465b4c93b27c0800000000000000
+      internalID: -4095115919143679900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 197
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5087c66470a8b3e0800000000000000
+      internalID: -2037702409584148385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 194
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36be17630c0722510800000000000000
+      internalID: 1522903594854116195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 204
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678eaba6b86d2d050800000000000000
+      internalID: 5823953162422904950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 222
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a94120a8ebac69f0800000000000000
+      internalID: -473814845173446237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8382bdf7f0c4b51c0800000000000000
+      internalID: -4513930572055500744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 180
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bff05e2fbccee30800000000000000
+      internalID: 4534223168940800848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 99
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df80ed9da69de60800000000000000
+      internalID: 7987532898083863842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 99
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405c27e53cbf8d0800000000000000
+      internalID: -2811438731942886212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 158
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b84b252ef2f67f0800000000000000
+      internalID: -617221974829790370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 50
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3343db47632f94990800000000000000
+      internalID: -7401118196905987021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 143
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a687aab4cdb2f5aa0800000000000000
+      internalID: -6170164739312027542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 143
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7876b7f16fb033ad0800000000000000
+      internalID: -2723820197910976633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 144
+        width: 146
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed94bf379c64d58f0800000000000000
+      internalID: -550205748421113378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 159
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ecbd7afc3d4fc30800000000000000
+      internalID: 4392368425420967555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988add33810e293e0800000000000000
+      internalID: -2048328485946152823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 131
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0d5609086995f70800000000000000
+      internalID: 9176531194666668266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 80
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2ba6ac342f65c0800000000000000
+      internalID: -4220114482909992151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f6b4047d03f900800000000000000
+      internalID: 716931557628507645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 95
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29ec91920e962240800000000000000
+      internalID: 4766670989488351530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 95
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59224b0e2e5390f80800000000000000
+      internalID: -8139915602946678123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 107
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2875bd9b92b640800000000000000
+      internalID: 5094305230166174608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612a72a3ef7865b90800000000000000
+      internalID: -7253460623866486250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3605420b0f8e6110800000000000000
+      internalID: 1256098623528437309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662a2eba480a8900800000000000000
+      internalID: 687371010238457451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3512888a511fe2ff0800000000000000
+      internalID: -58844669785136813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88355d2d18e6210800000000000000
+      internalID: 1328141682643011769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 48
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b9130460a98e140800000000000000
+      internalID: 4749215158699662162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b24f2ac979c6aa0800000000000000
+      internalID: -6166387090772448370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 70
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745b84f7d3aa20dc0800000000000000
+      internalID: -3674187164875705017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 70
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01defd7a8eda0f5e0800000000000000
+      internalID: -1877809829853008624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 70
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35630ed5669af0bd0800000000000000
+      internalID: -2661722597625940397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 69
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f47a4be8c721aef0800000000000000
+      internalID: -98753972930972432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 48
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09730a91bc1ce8d90800000000000000
+      internalID: -7093519285009500272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe410a447534c7550800000000000000
+      internalID: 6159872432428553455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65e6faaf22a1f90800000000000000
+      internalID: -6982229812204120336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be25d68890fc1f0800000000000000
+      internalID: -1022588108835460263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f941c4c2a1bff6da0800000000000000
+      internalID: -5949260492902230881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 12
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55709f7d533987cb0800000000000000
+      internalID: -4865977537907849387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_WildWest_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195327bf2e66c0f20800000000000000
+      internalID: 3390197744570348945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_WildWest_Rasak_0: 5937073672494264638
+      Tileset_WildWest_Rasak_1: 5295357615581213956
+      Tileset_WildWest_Rasak_10: -7659614138522363534
+      Tileset_WildWest_Rasak_11: -1185693244815890955
+      Tileset_WildWest_Rasak_12: 1769921200192540008
+      Tileset_WildWest_Rasak_13: -4087347201124970390
+      Tileset_WildWest_Rasak_14: -7846276382053128006
+      Tileset_WildWest_Rasak_15: -5922334432849047763
+      Tileset_WildWest_Rasak_16: -4095115919143679900
+      Tileset_WildWest_Rasak_17: -2037702409584148385
+      Tileset_WildWest_Rasak_18: 1522903594854116195
+      Tileset_WildWest_Rasak_19: 5823953162422904950
+      Tileset_WildWest_Rasak_2: 8840366511061146728
+      Tileset_WildWest_Rasak_20: -473814845173446237
+      Tileset_WildWest_Rasak_21: -4513930572055500744
+      Tileset_WildWest_Rasak_22: 4534223168940800848
+      Tileset_WildWest_Rasak_23: 7987532898083863842
+      Tileset_WildWest_Rasak_24: -2811438731942886212
+      Tileset_WildWest_Rasak_25: -617221974829790370
+      Tileset_WildWest_Rasak_26: -7401118196905987021
+      Tileset_WildWest_Rasak_27: -6170164739312027542
+      Tileset_WildWest_Rasak_28: -2723820197910976633
+      Tileset_WildWest_Rasak_29: -550205748421113378
+      Tileset_WildWest_Rasak_3: 2046694939401819578
+      Tileset_WildWest_Rasak_30: 4392368425420967555
+      Tileset_WildWest_Rasak_31: -2048328485946152823
+      Tileset_WildWest_Rasak_32: 9176531194666668266
+      Tileset_WildWest_Rasak_33: -4220114482909992151
+      Tileset_WildWest_Rasak_34: 716931557628507645
+      Tileset_WildWest_Rasak_35: 4766670989488351530
+      Tileset_WildWest_Rasak_36: -8139915602946678123
+      Tileset_WildWest_Rasak_37: 5094305230166174608
+      Tileset_WildWest_Rasak_38: -7253460623866486250
+      Tileset_WildWest_Rasak_39: 1256098623528437309
+      Tileset_WildWest_Rasak_4: 1100168818038445805
+      Tileset_WildWest_Rasak_40: 687371010238457451
+      Tileset_WildWest_Rasak_41: -58844669785136813
+      Tileset_WildWest_Rasak_42: 1328141682643011769
+      Tileset_WildWest_Rasak_43: 4749215158699662162
+      Tileset_WildWest_Rasak_44: -6166387090772448370
+      Tileset_WildWest_Rasak_45: -3674187164875705017
+      Tileset_WildWest_Rasak_46: -1877809829853008624
+      Tileset_WildWest_Rasak_47: -2661722597625940397
+      Tileset_WildWest_Rasak_48: -98753972930972432
+      Tileset_WildWest_Rasak_49: -7093519285009500272
+      Tileset_WildWest_Rasak_5: 8672625468268391137
+      Tileset_WildWest_Rasak_50: 6159872432428553455
+      Tileset_WildWest_Rasak_51: -6982229812204120336
+      Tileset_WildWest_Rasak_52: -1022588108835460263
+      Tileset_WildWest_Rasak_53: -5949260492902230881
+      Tileset_WildWest_Rasak_54: -4865977537907849387
+      Tileset_WildWest_Rasak_55: 3390197744570348945
+      Tileset_WildWest_Rasak_6: 5437307968736145514
+      Tileset_WildWest_Rasak_7: 5581523464752561179
+      Tileset_WildWest_Rasak_8: -994640080959901883
+      Tileset_WildWest_Rasak_9: -2857335768293558641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

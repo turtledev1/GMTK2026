@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: b007d8d122becd946854f238479fc902
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5351774494542584844
+    second: SciFiBike_0
+  - first:
+      213: 4793699170556147592
+    second: SciFiBike_1
+  - first:
+      213: 7711586179946082934
+    second: SciFiBike_2
+  - first:
+      213: -4434766000583659177
+    second: SciFiBike_3
+  - first:
+      213: -5527895991823620520
+    second: SciFiBike_4
+  - first:
+      213: 7418267907429374654
+    second: SciFiBike_5
+  - first:
+      213: -4475771037541454031
+    second: SciFiBike_6
+  - first:
+      213: -152353109032817961
+    second: SciFiBike_7
+  - first:
+      213: -6733326540265151059
+    second: SciFiBike_8
+  - first:
+      213: -3901855111085124569
+    second: SciFiBike_9
+  - first:
+      213: 9211983421577488781
+    second: SciFiBike_10
+  - first:
+      213: -4353000416434152292
+    second: SciFiBike_11
+  - first:
+      213: 2210697385901608838
+    second: SciFiBike_12
+  - first:
+      213: 8747299748886388231
+    second: SciFiBike_13
+  - first:
+      213: 7700679285833043376
+    second: SciFiBike_14
+  - first:
+      213: 194017467177174671
+    second: SciFiBike_15
+  - first:
+      213: 9010261843164608044
+    second: SciFiBike_16
+  - first:
+      213: 6471741481128165057
+    second: SciFiBike_17
+  - first:
+      213: 4780772676673256478
+    second: SciFiBike_18
+  - first:
+      213: -3757880382064225933
+    second: SciFiBike_19
+  - first:
+      213: 5766876950617445525
+    second: SciFiBike_20
+  - first:
+      213: 2495646015719083389
+    second: SciFiBike_21
+  - first:
+      213: -1664258408065419066
+    second: SciFiBike_22
+  - first:
+      213: 1942470576429325151
+    second: SciFiBike_23
+  - first:
+      213: 1970851297847968716
+    second: SciFiBike_24
+  - first:
+      213: -5807345888059624710
+    second: SciFiBike_25
+  - first:
+      213: -4355832506070096517
+    second: SciFiBike_26
+  - first:
+      213: -1576446969560535956
+    second: SciFiBike_27
+  - first:
+      213: 8883675824283311589
+    second: SciFiBike_28
+  - first:
+      213: -1908554078993816928
+    second: SciFiBike_29
+  - first:
+      213: -6089538880718862437
+    second: SciFiBike_30
+  - first:
+      213: -1616121111340706389
+    second: SciFiBike_31
+  - first:
+      213: 4922883527504733137
+    second: SciFiBike_32
+  - first:
+      213: 5977274141204838691
+    second: SciFiBike_33
+  - first:
+      213: 9094758643766553012
+    second: SciFiBike_34
+  - first:
+      213: 3856664970956054636
+    second: SciFiBike_35
+  - first:
+      213: 291338055053601701
+    second: SciFiBike_36
+  - first:
+      213: -3883844418586720047
+    second: SciFiBike_37
+  - first:
+      213: -2636592011572354789
+    second: SciFiBike_38
+  - first:
+      213: -7826225132792829939
+    second: SciFiBike_39
+  - first:
+      213: -1158688226968719950
+    second: SciFiBike_40
+  - first:
+      213: 8661373086366403287
+    second: SciFiBike_41
+  - first:
+      213: 639342551340101558
+    second: SciFiBike_42
+  - first:
+      213: -4109941122715626402
+    second: SciFiBike_43
+  - first:
+      213: -1148053221099805103
+    second: SciFiBike_44
+  - first:
+      213: -1999360618364851723
+    second: SciFiBike_45
+  - first:
+      213: 1687334680445032765
+    second: SciFiBike_46
+  - first:
+      213: 7407196504524252100
+    second: SciFiBike_47
+  - first:
+      213: -3058254105884369061
+    second: SciFiBike_48
+  - first:
+      213: -8070433102549173838
+    second: SciFiBike_49
+  - first:
+      213: -5204915015407510121
+    second: SciFiBike_50
+  - first:
+      213: 939727236263075365
+    second: SciFiBike_51
+  - first:
+      213: 760490334054372442
+    second: SciFiBike_52
+  - first:
+      213: 5167324216921165531
+    second: SciFiBike_53
+  - first:
+      213: 5976513320721246651
+    second: SciFiBike_54
+  - first:
+      213: -8708739019548667557
+    second: SciFiBike_55
+  - first:
+      213: -1062569449115871214
+    second: SciFiBike_56
+  - first:
+      213: -2774629229563605856
+    second: SciFiBike_57
+  - first:
+      213: 4228702947988585852
+    second: SciFiBike_58
+  - first:
+      213: 1202067823524536215
+    second: SciFiBike_59
+  - first:
+      213: -1958009179557161707
+    second: SciFiBike_60
+  - first:
+      213: -8589490111006214013
+    second: SciFiBike_61
+  - first:
+      213: 4407511128781756709
+    second: SciFiBike_62
+  - first:
+      213: -5540138873344255628
+    second: SciFiBike_63
+  - first:
+      213: -6953015272618446582
+    second: SciFiBike_64
+  - first:
+      213: -7696732099155000793
+    second: SciFiBike_65
+  - first:
+      213: 7367559608321943885
+    second: SciFiBike_66
+  - first:
+      213: -6076942208310003578
+    second: SciFiBike_67
+  - first:
+      213: 2361975036708308947
+    second: SciFiBike_68
+  - first:
+      213: 3997734323739283651
+    second: SciFiBike_69
+  - first:
+      213: -5888667121936215019
+    second: SciFiBike_70
+  - first:
+      213: -8059684103059577800
+    second: SciFiBike_71
+  - first:
+      213: -6771610546577836595
+    second: SciFiBike_72
+  - first:
+      213: 585448327474028225
+    second: SciFiBike_73
+  - first:
+      213: 4248218840139315676
+    second: SciFiBike_74
+  - first:
+      213: -8003055773774068924
+    second: SciFiBike_75
+  - first:
+      213: 7701886517653111994
+    second: SciFiBike_76
+  - first:
+      213: -393564368538260677
+    second: SciFiBike_77
+  - first:
+      213: -7723534221345352734
+    second: SciFiBike_78
+  - first:
+      213: -1541948912672098527
+    second: SciFiBike_79
+  - first:
+      213: -2395230285812612778
+    second: SciFiBike_80
+  - first:
+      213: 6229377347291376890
+    second: SciFiBike_81
+  - first:
+      213: 5102400522857649409
+    second: SciFiBike_82
+  - first:
+      213: 4443747450519088954
+    second: SciFiBike_83
+  - first:
+      213: 7180680761074519434
+    second: SciFiBike_84
+  - first:
+      213: 5375443385513052547
+    second: SciFiBike_85
+  - first:
+      213: -2736720400389678523
+    second: SciFiBike_86
+  - first:
+      213: -2673652273229211964
+    second: SciFiBike_87
+  - first:
+      213: -5422722146983982528
+    second: SciFiBike_88
+  - first:
+      213: -4103886486896230182
+    second: SciFiBike_89
+  - first:
+      213: -3552862270745394523
+    second: SciFiBike_90
+  - first:
+      213: 1404243466547061959
+    second: SciFiBike_91
+  - first:
+      213: -8657493243644354493
+    second: SciFiBike_92
+  - first:
+      213: -8128904093980640948
+    second: SciFiBike_93
+  - first:
+      213: -2038443727334688159
+    second: SciFiBike_94
+  - first:
+      213: -1817073330191345551
+    second: SciFiBike_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFiBike_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 672
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32bceb37daab5b0800000000000000
+      internalID: -5351774494542584844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 672
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887751d5ff3a68240800000000000000
+      internalID: 4793699170556147592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 672
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6727f7ed5ce050b60800000000000000
+      internalID: 7711586179946082934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 672
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513b31a1db8472c0800000000000000
+      internalID: -4434766000583659177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 672
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562c0c22e7f843b0800000000000000
+      internalID: -5527895991823620520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 672
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba120fab5bf2f660800000000000000
+      internalID: 7418267907429374654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 672
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f2c5b74fdd2e1c0800000000000000
+      internalID: -4475771037541454031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 672
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da2caf87abb2edf0800000000000000
+      internalID: -152353109032817961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 672
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da529c2bf2b6e82a0800000000000000
+      internalID: -6733326540265151059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 672
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7249aba0373d9d9c0800000000000000
+      internalID: -3901855111085124569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 672
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e9ef5d1a87df70800000000000000
+      internalID: 9211983421577488781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_11
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 672
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c90573f290793c0800000000000000
+      internalID: -4353000416434152292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fcc884f89fdae10800000000000000
+      internalID: 2210697385901608838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 576
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9c34c6c6a46970800000000000000
+      internalID: 8747299748886388231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 576
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8941b20f4eda60800000000000000
+      internalID: 7700679285833043376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 576
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f860153cbd941b200800000000000000
+      internalID: 194017467177174671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 576
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26351f6861ea0d70800000000000000
+      internalID: 9010261843164608044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 576
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cefdcc969e30d950800000000000000
+      internalID: 6471741481128165057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 576
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cb0097b67b85240800000000000000
+      internalID: 4780772676673256478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 576
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37117aed3b359dbc0800000000000000
+      internalID: -3757880382064225933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_20
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 576
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594d0f84800180050800000000000000
+      internalID: 5766876950617445525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 576
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d0e0c24d052a220800000000000000
+      internalID: 2495646015719083389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_22
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 576
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8bdc4abcd57e8e0800000000000000
+      internalID: -1664258408065419066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 576
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd7b692ba05fa10800000000000000
+      internalID: 1942470576429325151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 480
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3885930ded95b10800000000000000
+      internalID: 1970851297847968716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af27166fea9286fa0800000000000000
+      internalID: -5807345888059624710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 480
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a796f969fc83c0800000000000000
+      internalID: -4355832506070096517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 480
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c6a1465d55f1ae0800000000000000
+      internalID: -1576446969560535956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 480
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd12e2818294b70800000000000000
+      internalID: 8883675824283311589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 480
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a263f65d247385e0800000000000000
+      internalID: -1908554078993816928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_30
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 480
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9782d8d6ac9d7ba0800000000000000
+      internalID: -6089538880718862437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_31
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 480
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5178c69626299e0800000000000000
+      internalID: -1616121111340706389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_32
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 480
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3aa875c78915440800000000000000
+      internalID: 4922883527504733137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_33
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 480
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32974a7992b83f250800000000000000
+      internalID: 5977274141204838691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_34
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 480
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b96e97ecc2173e70800000000000000
+      internalID: 9094758643766553012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_35
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 480
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60278b8b50a58530800000000000000
+      internalID: 3856664970956054636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 384
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe501ea6a0b0400800000000000000
+      internalID: 291338055053601701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 384
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8414b2410d91ac0800000000000000
+      internalID: -3883844418586720047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e894e881f86bd0800000000000000
+      internalID: -2636592011572354789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 384
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0826a3f4b9a36390800000000000000
+      internalID: -7826225132792829939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd2a1252338befe0800000000000000
+      internalID: -1158688226968719950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 384
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da8fff9ee0633870800000000000000
+      internalID: 8661373086366403287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_42
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 384
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2b6eb9a66fd800800000000000000
+      internalID: 639342551340101558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 384
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54d3c4035e86f6c0800000000000000
+      internalID: -4109941122715626402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_44
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 384
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1566a159dab4110f0800000000000000
+      internalID: -1148053221099805103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 384
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f925745c18d044e0800000000000000
+      internalID: -1999360618364851723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_46
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 384
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399f15b3fd9a6710800000000000000
+      internalID: 1687334680445032765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_47
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 384
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3eea1d9f5abc660800000000000000
+      internalID: 7407196504524252100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 288
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fd1e11816ee85d0800000000000000
+      internalID: -3058254105884369061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b00b2adf000090800000000000000
+      internalID: -8070433102549173838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 288
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd98cce5d64c7b0800000000000000
+      internalID: -5204915015407510121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e583741f49a0d00800000000000000
+      internalID: 939727236263075365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_52
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 288
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54dd68fdedcd8a00800000000000000
+      internalID: 760490334054372442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 288
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde0cd46ff506b740800000000000000
+      internalID: 5167324216921165531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_54
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 288
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9eaf44337d0f250800000000000000
+      internalID: 5976513320721246651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_55
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 288
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51d73aa008542780800000000000000
+      internalID: -8708739019548667557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_56
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 288
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218144c37bef041f0800000000000000
+      internalID: -1062569449115871214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_57
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 288
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac02749a698e79d0800000000000000
+      internalID: -2774629229563605856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_58
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 288
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db1833dee5faa30800000000000000
+      internalID: 4228702947988585852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_59
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 288
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5b11115a9ea010800000000000000
+      internalID: 1202067823524536215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159a817601c3d4e0800000000000000
+      internalID: -1958009179557161707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3887ebbc0400cc880800000000000000
+      internalID: -8589490111006214013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5291e960500aa2d30800000000000000
+      internalID: 4407511128781756709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 192
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799bff2c097d13b0800000000000000
+      internalID: -5540138873344255628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 192
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0136bdb27de18f90800000000000000
+      internalID: -6953015272618446582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72205825fe6bf2590800000000000000
+      internalID: -7696732099155000793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 192
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ab83cd64de3660800000000000000
+      internalID: 7367559608321943885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_67
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 192
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ba11324d5aaba0800000000000000
+      internalID: -6076942208310003578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_68
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 192
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c65718cb67c020800000000000000
+      internalID: 2361975036708308947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_69
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 192
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ddd0cf2eca7730800000000000000
+      internalID: 3997734323739283651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_70
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 192
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514587cb370474ea0800000000000000
+      internalID: -5888667121936215019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_71
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 192
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346543a200462090800000000000000
+      internalID: -8059684103059577800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 96
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc570fdd5186602a0800000000000000
+      internalID: -6771610546577836595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_73
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 96
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce9f69e62eef1800800000000000000
+      internalID: 585448327474028225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 96
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd930aee684b4fa30800000000000000
+      internalID: 4248218840139315676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_75
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 96
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443ce8efc2f6fe090800000000000000
+      internalID: -8003055773774068924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 96
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab485114bf892ea60800000000000000
+      internalID: 7701886517653111994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 96
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba601ca47c98af0800000000000000
+      internalID: -393564368538260677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_78
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 96
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31326fb8e70d490800000000000000
+      internalID: -7723534221345352734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_79
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 96
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127316e22a5e99ae0800000000000000
+      internalID: -1541948912672098527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_80
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 96
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651c1eadebe62ced0800000000000000
+      internalID: -2395230285812612778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_81
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 96
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcea2551b1337650800000000000000
+      internalID: 6229377347291376890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_82
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 96
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10592baed3e5fc640800000000000000
+      internalID: 5102400522857649409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_83
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 96
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fecb323cc5bad30800000000000000
+      internalID: 4443747450519088954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d04597b17e6a360800000000000000
+      internalID: 7180680761074519434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3898abf5749699a40800000000000000
+      internalID: 5375443385513052547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a553dab47350ad0800000000000000
+      internalID: -2736720400389678523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6d1415c6745ead0800000000000000
+      internalID: -2673652273229211964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_88
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a406920fe9eb4b0800000000000000
+      internalID: -5422722146983982528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_89
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad04606cbf01c07c0800000000000000
+      internalID: -4103886486896230182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_90
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a24550b692b1bec0800000000000000
+      internalID: -3552862270745394523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_91
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c463b92effdc7310800000000000000
+      internalID: 1404243466547061959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_92
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340eb37a3c76ad780800000000000000
+      internalID: -8657493243644354493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_93
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49b0199bc4503f80800000000000000
+      internalID: -8128904093980640948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_94
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ab799ea3ef5b3e0800000000000000
+      internalID: -2038443727334688159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiBike_95
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178db17fe6578c6e0800000000000000
+      internalID: -1817073330191345551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SciFiBike_0: -5351774494542584844
+      SciFiBike_1: 4793699170556147592
+      SciFiBike_10: 9211983421577488781
+      SciFiBike_11: -4353000416434152292
+      SciFiBike_12: 2210697385901608838
+      SciFiBike_13: 8747299748886388231
+      SciFiBike_14: 7700679285833043376
+      SciFiBike_15: 194017467177174671
+      SciFiBike_16: 9010261843164608044
+      SciFiBike_17: 6471741481128165057
+      SciFiBike_18: 4780772676673256478
+      SciFiBike_19: -3757880382064225933
+      SciFiBike_2: 7711586179946082934
+      SciFiBike_20: 5766876950617445525
+      SciFiBike_21: 2495646015719083389
+      SciFiBike_22: -1664258408065419066
+      SciFiBike_23: 1942470576429325151
+      SciFiBike_24: 1970851297847968716
+      SciFiBike_25: -5807345888059624710
+      SciFiBike_26: -4355832506070096517
+      SciFiBike_27: -1576446969560535956
+      SciFiBike_28: 8883675824283311589
+      SciFiBike_29: -1908554078993816928
+      SciFiBike_3: -4434766000583659177
+      SciFiBike_30: -6089538880718862437
+      SciFiBike_31: -1616121111340706389
+      SciFiBike_32: 4922883527504733137
+      SciFiBike_33: 5977274141204838691
+      SciFiBike_34: 9094758643766553012
+      SciFiBike_35: 3856664970956054636
+      SciFiBike_36: 291338055053601701
+      SciFiBike_37: -3883844418586720047
+      SciFiBike_38: -2636592011572354789
+      SciFiBike_39: -7826225132792829939
+      SciFiBike_4: -5527895991823620520
+      SciFiBike_40: -1158688226968719950
+      SciFiBike_41: 8661373086366403287
+      SciFiBike_42: 639342551340101558
+      SciFiBike_43: -4109941122715626402
+      SciFiBike_44: -1148053221099805103
+      SciFiBike_45: -1999360618364851723
+      SciFiBike_46: 1687334680445032765
+      SciFiBike_47: 7407196504524252100
+      SciFiBike_48: -3058254105884369061
+      SciFiBike_49: -8070433102549173838
+      SciFiBike_5: 7418267907429374654
+      SciFiBike_50: -5204915015407510121
+      SciFiBike_51: 939727236263075365
+      SciFiBike_52: 760490334054372442
+      SciFiBike_53: 5167324216921165531
+      SciFiBike_54: 5976513320721246651
+      SciFiBike_55: -8708739019548667557
+      SciFiBike_56: -1062569449115871214
+      SciFiBike_57: -2774629229563605856
+      SciFiBike_58: 4228702947988585852
+      SciFiBike_59: 1202067823524536215
+      SciFiBike_6: -4475771037541454031
+      SciFiBike_60: -1958009179557161707
+      SciFiBike_61: -8589490111006214013
+      SciFiBike_62: 4407511128781756709
+      SciFiBike_63: -5540138873344255628
+      SciFiBike_64: -6953015272618446582
+      SciFiBike_65: -7696732099155000793
+      SciFiBike_66: 7367559608321943885
+      SciFiBike_67: -6076942208310003578
+      SciFiBike_68: 2361975036708308947
+      SciFiBike_69: 3997734323739283651
+      SciFiBike_7: -152353109032817961
+      SciFiBike_70: -5888667121936215019
+      SciFiBike_71: -8059684103059577800
+      SciFiBike_72: -6771610546577836595
+      SciFiBike_73: 585448327474028225
+      SciFiBike_74: 4248218840139315676
+      SciFiBike_75: -8003055773774068924
+      SciFiBike_76: 7701886517653111994
+      SciFiBike_77: -393564368538260677
+      SciFiBike_78: -7723534221345352734
+      SciFiBike_79: -1541948912672098527
+      SciFiBike_8: -6733326540265151059
+      SciFiBike_80: -2395230285812612778
+      SciFiBike_81: 6229377347291376890
+      SciFiBike_82: 5102400522857649409
+      SciFiBike_83: 4443747450519088954
+      SciFiBike_84: 7180680761074519434
+      SciFiBike_85: 5375443385513052547
+      SciFiBike_86: -2736720400389678523
+      SciFiBike_87: -2673652273229211964
+      SciFiBike_88: -5422722146983982528
+      SciFiBike_89: -4103886486896230182
+      SciFiBike_9: -3901855111085124569
+      SciFiBike_90: -3552862270745394523
+      SciFiBike_91: 1404243466547061959
+      SciFiBike_92: -8657493243644354493
+      SciFiBike_93: -8128904093980640948
+      SciFiBike_94: -2038443727334688159
+      SciFiBike_95: -1817073330191345551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

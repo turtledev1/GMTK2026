@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: bd8fd2a8a6284dc40a8f3bfccb1c3116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6970117590199747813
+    second: Tileset_Modern_Garbage_Rasak_0
+  - first:
+      213: -6580513764133420885
+    second: Tileset_Modern_Garbage_Rasak_1
+  - first:
+      213: -1582374493593336104
+    second: Tileset_Modern_Garbage_Rasak_2
+  - first:
+      213: -6137565824589691546
+    second: Tileset_Modern_Garbage_Rasak_3
+  - first:
+      213: 3232342906501331090
+    second: Tileset_Modern_Garbage_Rasak_4
+  - first:
+      213: 7286707576724056789
+    second: Tileset_Modern_Garbage_Rasak_5
+  - first:
+      213: -2496806964159180074
+    second: Tileset_Modern_Garbage_Rasak_6
+  - first:
+      213: 562863227486797259
+    second: Tileset_Modern_Garbage_Rasak_7
+  - first:
+      213: -4788540046402347146
+    second: Tileset_Modern_Garbage_Rasak_8
+  - first:
+      213: -336220075113931466
+    second: Tileset_Modern_Garbage_Rasak_9
+  - first:
+      213: 1801230608877573543
+    second: Tileset_Modern_Garbage_Rasak_10
+  - first:
+      213: -7754778642701390803
+    second: Tileset_Modern_Garbage_Rasak_11
+  - first:
+      213: -7042500620850432100
+    second: Tileset_Modern_Garbage_Rasak_12
+  - first:
+      213: -1748034425714125031
+    second: Tileset_Modern_Garbage_Rasak_13
+  - first:
+      213: -6254885338436894300
+    second: Tileset_Modern_Garbage_Rasak_14
+  - first:
+      213: 5988863933953794173
+    second: Tileset_Modern_Garbage_Rasak_15
+  - first:
+      213: 2627238903864281247
+    second: Tileset_Modern_Garbage_Rasak_16
+  - first:
+      213: -1349372822449126969
+    second: Tileset_Modern_Garbage_Rasak_17
+  - first:
+      213: 8130730872323899352
+    second: Tileset_Modern_Garbage_Rasak_18
+  - first:
+      213: 2206045308729580864
+    second: Tileset_Modern_Garbage_Rasak_19
+  - first:
+      213: 7782273147963285618
+    second: Tileset_Modern_Garbage_Rasak_20
+  - first:
+      213: -8149372639749512491
+    second: Tileset_Modern_Garbage_Rasak_21
+  - first:
+      213: -7625228064371537590
+    second: Tileset_Modern_Garbage_Rasak_22
+  - first:
+      213: -5258107163420657610
+    second: Tileset_Modern_Garbage_Rasak_23
+  - first:
+      213: 5230586743761012120
+    second: Tileset_Modern_Garbage_Rasak_24
+  - first:
+      213: -7622721627286826937
+    second: Tileset_Modern_Garbage_Rasak_25
+  - first:
+      213: -8922866066426703440
+    second: Tileset_Modern_Garbage_Rasak_26
+  - first:
+      213: -149055940942297553
+    second: Tileset_Modern_Garbage_Rasak_27
+  - first:
+      213: -2835069917191995084
+    second: Tileset_Modern_Garbage_Rasak_28
+  - first:
+      213: -9215567563339270970
+    second: Tileset_Modern_Garbage_Rasak_29
+  - first:
+      213: 9161067203799033738
+    second: Tileset_Modern_Garbage_Rasak_30
+  - first:
+      213: 8938338882370716317
+    second: Tileset_Modern_Garbage_Rasak_31
+  - first:
+      213: -7181685562188077718
+    second: Tileset_Modern_Garbage_Rasak_32
+  - first:
+      213: -243289136627635178
+    second: Tileset_Modern_Garbage_Rasak_33
+  - first:
+      213: -2923439368843669093
+    second: Tileset_Modern_Garbage_Rasak_34
+  - first:
+      213: -1456528837393295118
+    second: Tileset_Modern_Garbage_Rasak_35
+  - first:
+      213: -2489705583048345646
+    second: Tileset_Modern_Garbage_Rasak_36
+  - first:
+      213: 7269538326387653249
+    second: Tileset_Modern_Garbage_Rasak_37
+  - first:
+      213: 3693567382414922635
+    second: Tileset_Modern_Garbage_Rasak_38
+  - first:
+      213: -5870586904593806588
+    second: Tileset_Modern_Garbage_Rasak_39
+  - first:
+      213: 27107419135600077
+    second: Tileset_Modern_Garbage_Rasak_40
+  - first:
+      213: -4498100060701426763
+    second: Tileset_Modern_Garbage_Rasak_41
+  - first:
+      213: 9103515121110490071
+    second: Tileset_Modern_Garbage_Rasak_42
+  - first:
+      213: -3207425068676409528
+    second: Tileset_Modern_Garbage_Rasak_43
+  - first:
+      213: -3086615150328716680
+    second: Tileset_Modern_Garbage_Rasak_44
+  - first:
+      213: -251802718495850435
+    second: Tileset_Modern_Garbage_Rasak_45
+  - first:
+      213: 3277283174610481282
+    second: Tileset_Modern_Garbage_Rasak_46
+  - first:
+      213: 8734932712907376916
+    second: Tileset_Modern_Garbage_Rasak_47
+  - first:
+      213: 8343030523937803381
+    second: Tileset_Modern_Garbage_Rasak_48
+  - first:
+      213: -8060045382358000329
+    second: Tileset_Modern_Garbage_Rasak_49
+  - first:
+      213: 3834953985910919407
+    second: Tileset_Modern_Garbage_Rasak_50
+  - first:
+      213: -8175047769804740060
+    second: Tileset_Modern_Garbage_Rasak_51
+  - first:
+      213: 1788748454373646721
+    second: Tileset_Modern_Garbage_Rasak_52
+  - first:
+      213: -2329701426578515404
+    second: Tileset_Modern_Garbage_Rasak_53
+  - first:
+      213: 729893937070980098
+    second: Tileset_Modern_Garbage_Rasak_54
+  - first:
+      213: -3140872011583417952
+    second: Tileset_Modern_Garbage_Rasak_55
+  - first:
+      213: 5825020385753618627
+    second: Tileset_Modern_Garbage_Rasak_56
+  - first:
+      213: -4506365169711385632
+    second: Tileset_Modern_Garbage_Rasak_57
+  - first:
+      213: 446798147424768068
+    second: Tileset_Modern_Garbage_Rasak_58
+  - first:
+      213: -6710477370242659569
+    second: Tileset_Modern_Garbage_Rasak_59
+  - first:
+      213: -3281447481915566165
+    second: Tileset_Modern_Garbage_Rasak_60
+  - first:
+      213: -2164222292741226519
+    second: Tileset_Modern_Garbage_Rasak_61
+  - first:
+      213: 3358340111268477753
+    second: Tileset_Modern_Garbage_Rasak_62
+  - first:
+      213: 9141140605057656755
+    second: Tileset_Modern_Garbage_Rasak_63
+  - first:
+      213: -8328232343455369514
+    second: Tileset_Modern_Garbage_Rasak_64
+  - first:
+      213: 2342372101495304973
+    second: Tileset_Modern_Garbage_Rasak_65
+  - first:
+      213: -7916808813407693285
+    second: Tileset_Modern_Garbage_Rasak_66
+  - first:
+      213: 8358948040056486854
+    second: Tileset_Modern_Garbage_Rasak_67
+  - first:
+      213: 4189217060229338877
+    second: Tileset_Modern_Garbage_Rasak_68
+  - first:
+      213: 8596804654281755624
+    second: Tileset_Modern_Garbage_Rasak_69
+  - first:
+      213: 2804417588269102594
+    second: Tileset_Modern_Garbage_Rasak_70
+  - first:
+      213: -2322218818077267716
+    second: Tileset_Modern_Garbage_Rasak_71
+  - first:
+      213: -1109060008161412060
+    second: Tileset_Modern_Garbage_Rasak_72
+  - first:
+      213: 4665791192744887948
+    second: Tileset_Modern_Garbage_Rasak_73
+  - first:
+      213: 9171150471006832779
+    second: Tileset_Modern_Garbage_Rasak_74
+  - first:
+      213: -9205982628357678427
+    second: Tileset_Modern_Garbage_Rasak_75
+  - first:
+      213: 6940689210900658040
+    second: Tileset_Modern_Garbage_Rasak_76
+  - first:
+      213: 2808682744713476269
+    second: Tileset_Modern_Garbage_Rasak_77
+  - first:
+      213: -9051513411459136056
+    second: Tileset_Modern_Garbage_Rasak_78
+  - first:
+      213: 2219103691267549560
+    second: Tileset_Modern_Garbage_Rasak_79
+  - first:
+      213: -5391667542618661741
+    second: Tileset_Modern_Garbage_Rasak_80
+  - first:
+      213: 7815052867085264482
+    second: Tileset_Modern_Garbage_Rasak_81
+  - first:
+      213: -5230177285079238975
+    second: Tileset_Modern_Garbage_Rasak_82
+  - first:
+      213: -8356074268203966400
+    second: Tileset_Modern_Garbage_Rasak_83
+  - first:
+      213: -4791543647640320692
+    second: Tileset_Modern_Garbage_Rasak_84
+  - first:
+      213: 7472451492390322553
+    second: Tileset_Modern_Garbage_Rasak_85
+  - first:
+      213: -7635070247252845608
+    second: Tileset_Modern_Garbage_Rasak_86
+  - first:
+      213: -5860745852839600888
+    second: Tileset_Modern_Garbage_Rasak_87
+  - first:
+      213: -410478372402845089
+    second: Tileset_Modern_Garbage_Rasak_88
+  - first:
+      213: -2203766916661176648
+    second: Tileset_Modern_Garbage_Rasak_89
+  - first:
+      213: 843185072477174815
+    second: Tileset_Modern_Garbage_Rasak_90
+  - first:
+      213: -4114187131405159559
+    second: Tileset_Modern_Garbage_Rasak_91
+  - first:
+      213: 7532449854171041743
+    second: Tileset_Modern_Garbage_Rasak_92
+  - first:
+      213: -4705428712543317173
+    second: Tileset_Modern_Garbage_Rasak_93
+  - first:
+      213: 234199962677023658
+    second: Tileset_Modern_Garbage_Rasak_94
+  - first:
+      213: 4917136615921679105
+    second: Tileset_Modern_Garbage_Rasak_95
+  - first:
+      213: 5582436524247319694
+    second: Tileset_Modern_Garbage_Rasak_96
+  - first:
+      213: -2997125737680875532
+    second: Tileset_Modern_Garbage_Rasak_97
+  - first:
+      213: 2583448965148984460
+    second: Tileset_Modern_Garbage_Rasak_98
+  - first:
+      213: 5998098089384760953
+    second: Tileset_Modern_Garbage_Rasak_99
+  - first:
+      213: -9139994836543823973
+    second: Tileset_Modern_Garbage_Rasak_100
+  - first:
+      213: 3701273418477513852
+    second: Tileset_Modern_Garbage_Rasak_101
+  - first:
+      213: 4970285341139314014
+    second: Tileset_Modern_Garbage_Rasak_102
+  - first:
+      213: -4046725576598226211
+    second: Tileset_Modern_Garbage_Rasak_103
+  - first:
+      213: 6699743103942213330
+    second: Tileset_Modern_Garbage_Rasak_104
+  - first:
+      213: 6798162756350270096
+    second: Tileset_Modern_Garbage_Rasak_105
+  - first:
+      213: 7607825757834664752
+    second: Tileset_Modern_Garbage_Rasak_106
+  - first:
+      213: 2822056745604477769
+    second: Tileset_Modern_Garbage_Rasak_107
+  - first:
+      213: -8007838463641038730
+    second: Tileset_Modern_Garbage_Rasak_108
+  - first:
+      213: -1195987234236711278
+    second: Tileset_Modern_Garbage_Rasak_109
+  - first:
+      213: -8719665115202810390
+    second: Tileset_Modern_Garbage_Rasak_110
+  - first:
+      213: 6447824629065185123
+    second: Tileset_Modern_Garbage_Rasak_111
+  - first:
+      213: -3833677454883877824
+    second: Tileset_Modern_Garbage_Rasak_112
+  - first:
+      213: 6188004895872712729
+    second: Tileset_Modern_Garbage_Rasak_113
+  - first:
+      213: 7652293874197880147
+    second: Tileset_Modern_Garbage_Rasak_114
+  - first:
+      213: 3778356711135323927
+    second: Tileset_Modern_Garbage_Rasak_115
+  - first:
+      213: -7951188373625475146
+    second: Tileset_Modern_Garbage_Rasak_116
+  - first:
+      213: -1292948664776816185
+    second: Tileset_Modern_Garbage_Rasak_117
+  - first:
+      213: -3699156515734197988
+    second: Tileset_Modern_Garbage_Rasak_118
+  - first:
+      213: -4810253955664812403
+    second: Tileset_Modern_Garbage_Rasak_119
+  - first:
+      213: -2009872779881556175
+    second: Tileset_Modern_Garbage_Rasak_120
+  - first:
+      213: 7748855223332013498
+    second: Tileset_Modern_Garbage_Rasak_121
+  - first:
+      213: 7111959848636353912
+    second: Tileset_Modern_Garbage_Rasak_122
+  - first:
+      213: 5857836377074816507
+    second: Tileset_Modern_Garbage_Rasak_123
+  - first:
+      213: 1100817677648919710
+    second: Tileset_Modern_Garbage_Rasak_124
+  - first:
+      213: -3962478018829389306
+    second: Tileset_Modern_Garbage_Rasak_125
+  - first:
+      213: 3468919484016102515
+    second: Tileset_Modern_Garbage_Rasak_126
+  - first:
+      213: -4055602481087459416
+    second: Tileset_Modern_Garbage_Rasak_127
+  - first:
+      213: 6151637245818049233
+    second: Tileset_Modern_Garbage_Rasak_128
+  - first:
+      213: 4740251614186247531
+    second: Tileset_Modern_Garbage_Rasak_129
+  - first:
+      213: -1192733064351338482
+    second: Tileset_Modern_Garbage_Rasak_130
+  - first:
+      213: 8671972735519388436
+    second: Tileset_Modern_Garbage_Rasak_131
+  - first:
+      213: -8625741880613487973
+    second: Tileset_Modern_Garbage_Rasak_132
+  - first:
+      213: -6758763802117401609
+    second: Tileset_Modern_Garbage_Rasak_133
+  - first:
+      213: -4336665925062052034
+    second: Tileset_Modern_Garbage_Rasak_134
+  - first:
+      213: -8879875330285755271
+    second: Tileset_Modern_Garbage_Rasak_135
+  - first:
+      213: -7429420514073078521
+    second: Tileset_Modern_Garbage_Rasak_136
+  - first:
+      213: -7574466106048051411
+    second: Tileset_Modern_Garbage_Rasak_137
+  - first:
+      213: 9134107127249621616
+    second: Tileset_Modern_Garbage_Rasak_138
+  - first:
+      213: 693301473446456072
+    second: Tileset_Modern_Garbage_Rasak_139
+  - first:
+      213: -7164064677577097700
+    second: Tileset_Modern_Garbage_Rasak_140
+  - first:
+      213: -3938617319303005827
+    second: Tileset_Modern_Garbage_Rasak_141
+  - first:
+      213: -3867446013369897319
+    second: Tileset_Modern_Garbage_Rasak_142
+  - first:
+      213: 8971981227522741991
+    second: Tileset_Modern_Garbage_Rasak_143
+  - first:
+      213: -6664166543466646737
+    second: Tileset_Modern_Garbage_Rasak_144
+  - first:
+      213: 3612659139219723596
+    second: Tileset_Modern_Garbage_Rasak_145
+  - first:
+      213: -6201408860779029365
+    second: Tileset_Modern_Garbage_Rasak_146
+  - first:
+      213: -22506260657963579
+    second: Tileset_Modern_Garbage_Rasak_147
+  - first:
+      213: 1429999735027809205
+    second: Tileset_Modern_Garbage_Rasak_148
+  - first:
+      213: 2251512685089153398
+    second: Tileset_Modern_Garbage_Rasak_149
+  - first:
+      213: -3426278134941947174
+    second: Tileset_Modern_Garbage_Rasak_150
+  - first:
+      213: 6422787983572609262
+    second: Tileset_Modern_Garbage_Rasak_151
+  - first:
+      213: 6262980350904590774
+    second: Tileset_Modern_Garbage_Rasak_152
+  - first:
+      213: -5660886113219995357
+    second: Tileset_Modern_Garbage_Rasak_153
+  - first:
+      213: 3483106404087613632
+    second: Tileset_Modern_Garbage_Rasak_154
+  - first:
+      213: -2037209777918559692
+    second: Tileset_Modern_Garbage_Rasak_155
+  - first:
+      213: 6918596398925624756
+    second: Tileset_Modern_Garbage_Rasak_156
+  - first:
+      213: -1355374081162266212
+    second: Tileset_Modern_Garbage_Rasak_157
+  - first:
+      213: -5518256804924857140
+    second: Tileset_Modern_Garbage_Rasak_158
+  - first:
+      213: -7276267942531719166
+    second: Tileset_Modern_Garbage_Rasak_159
+  - first:
+      213: -4090602746596249889
+    second: Tileset_Modern_Garbage_Rasak_160
+  - first:
+      213: -3117414728019300781
+    second: Tileset_Modern_Garbage_Rasak_161
+  - first:
+      213: 927986393540453496
+    second: Tileset_Modern_Garbage_Rasak_162
+  - first:
+      213: 8997797487592734822
+    second: Tileset_Modern_Garbage_Rasak_163
+  - first:
+      213: 3693821420340611112
+    second: Tileset_Modern_Garbage_Rasak_164
+  - first:
+      213: -4474210468697599264
+    second: Tileset_Modern_Garbage_Rasak_165
+  - first:
+      213: 134590705092900599
+    second: Tileset_Modern_Garbage_Rasak_166
+  - first:
+      213: 2069984294166607670
+    second: Tileset_Modern_Garbage_Rasak_167
+  - first:
+      213: -4664557077012600606
+    second: Tileset_Modern_Garbage_Rasak_168
+  - first:
+      213: 1489974578870300806
+    second: Tileset_Modern_Garbage_Rasak_169
+  - first:
+      213: -719635830264091152
+    second: Tileset_Modern_Garbage_Rasak_170
+  - first:
+      213: -9134751363901862230
+    second: Tileset_Modern_Garbage_Rasak_171
+  - first:
+      213: 722961713658005459
+    second: Tileset_Modern_Garbage_Rasak_172
+  - first:
+      213: 2339093884119090780
+    second: Tileset_Modern_Garbage_Rasak_173
+  - first:
+      213: 5689874008287066101
+    second: Tileset_Modern_Garbage_Rasak_174
+  - first:
+      213: 2133438428850152003
+    second: Tileset_Modern_Garbage_Rasak_175
+  - first:
+      213: -7596675741165675076
+    second: Tileset_Modern_Garbage_Rasak_176
+  - first:
+      213: 1840615197818913707
+    second: Tileset_Modern_Garbage_Rasak_177
+  - first:
+      213: 5607853598045693405
+    second: Tileset_Modern_Garbage_Rasak_178
+  - first:
+      213: -8929164261134119409
+    second: Tileset_Modern_Garbage_Rasak_179
+  - first:
+      213: -6135861658225331048
+    second: Tileset_Modern_Garbage_Rasak_180
+  - first:
+      213: -5054261263403780174
+    second: Tileset_Modern_Garbage_Rasak_181
+  - first:
+      213: 4793029390830447189
+    second: Tileset_Modern_Garbage_Rasak_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 735
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ce8ed405dab060800000000000000
+      internalID: 6970117590199747813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 731
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04249b8915da4a0800000000000000
+      internalID: -6580513764133420885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 736
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d60bb728c64a0ae0800000000000000
+      internalID: -1582374493593336104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 747
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66501c7966cf2daa0800000000000000
+      internalID: -6137565824589691546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 721
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f34e6fb69bdc20800000000000000
+      internalID: 3232342906501331090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 721
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae8c43fe59f1560800000000000000
+      internalID: 7286707576724056789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 721
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d212947b4f895dd0800000000000000
+      internalID: -2496806964159180074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 721
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdfa7b8f11bfc700800000000000000
+      internalID: 562863227486797259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 735
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f9475d230bb8db0800000000000000
+      internalID: -4788540046402347146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 733
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d9a708f91855bf0800000000000000
+      internalID: -336220075113931466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 719
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a555b802b14ff810800000000000000
+      internalID: 1801230608877573543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 731
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c6ff939ed716490800000000000000
+      internalID: -7754778642701390803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 728
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97fdb38ff2044e90800000000000000
+      internalID: -7042500620850432100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 733
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917d72883fbbdb7e0800000000000000
+      internalID: -1748034425714125031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 731
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18babacee2239a0800000000000000
+      internalID: -6254885338436894300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 720
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70e67f7408bc1350800000000000000
+      internalID: 5988863933953794173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 684
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98cae40dd3d57420800000000000000
+      internalID: 2627238903864281247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 673
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c18a583190164de0800000000000000
+      internalID: -1349372822449126969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 692
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dffa2166a826d070800000000000000
+      internalID: 8130730872323899352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 702
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5e3925827d9e10800000000000000
+      internalID: 2206045308729580864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 698
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a9612230300c60800000000000000
+      internalID: 7782273147963285618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 706
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d26179e2cc97ee80800000000000000
+      internalID: -8149372639749512491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 702
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498bc3c97fbd2690800000000000000
+      internalID: -7625228064371537590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 700
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ff5db4637707b0800000000000000
+      internalID: -5258107163420657610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8950ebc3ee6c69840800000000000000
+      internalID: 5230586743761012120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 623
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74091ef1117a63690800000000000000
+      internalID: -7622721627286826937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 671
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1df34869c9b2480800000000000000
+      internalID: -8922866066426703440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 671
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26097459627eedf0800000000000000
+      internalID: -149055940942297553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 671
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43100606eeec7a8d0800000000000000
+      internalID: -2835069917191995084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 623
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4fc87902abb1080800000000000000
+      internalID: -9215567563339270970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 691
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a872ced9516a22f70800000000000000
+      internalID: 9161067203799033738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 689
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92c4cd2bdb5b0c70800000000000000
+      internalID: 8938338882370716317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 686
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656a390807855c90800000000000000
+      internalID: -7181685562188077718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 696
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c2999b1d9af9cf0800000000000000
+      internalID: -243289136627635178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 688
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915ea1126bdd67d0800000000000000
+      internalID: -2923439368843669093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 689
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f85f0a4dbe59cbe0800000000000000
+      internalID: -1456528837393295118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 689
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7b81796f9c27dd0800000000000000
+      internalID: -2489705583048345646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 676
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a7c69979692e460800000000000000
+      internalID: 7269538326387653249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 672
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b839fc607ff224330800000000000000
+      internalID: 3693567382414922635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 684
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b40a0605c778ea0800000000000000
+      internalID: -5870586904593806588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 679
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ea58dd0e406000800000000000000
+      internalID: 27107419135600077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 685
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb7ab5a3d98391c0800000000000000
+      internalID: -4498100060701426763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 683
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db103925ce265e70800000000000000
+      internalID: 9103515121110490071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 638
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471cd9c4efec73d0800000000000000
+      internalID: -3207425068676409528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 636
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8726156dfd32a25d0800000000000000
+      internalID: -3086615150328716680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 628
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30c39af2ca618cf0800000000000000
+      internalID: -251802718495850435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 637
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280b50bfeaf3b7d20800000000000000
+      internalID: 3277283174610481282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 649
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41988c1d507b83970800000000000000
+      internalID: 8734932712907376916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 644
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ccd89ee0668c370800000000000000
+      internalID: 8343030523937803381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 623
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d160fbd67f42090800000000000000
+      internalID: -8060045382358000329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 653
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0503ce45e783530800000000000000
+      internalID: 3834953985910919407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 628
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a60fadd556c8e80800000000000000
+      internalID: -8175047769804740060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 626
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1816877fd39e2d810800000000000000
+      internalID: 1788748454373646721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 640
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a111455ec3bafd0800000000000000
+      internalID: -2329701426578515404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 635
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cb3da2baa112a00800000000000000
+      internalID: 729893937070980098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 640
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19a98eb816964d0800000000000000
+      internalID: -3140872011583417952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 635
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d046bd21a6d050800000000000000
+      internalID: 5825020385753618627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 637
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f82ff0cc2671c0800000000000000
+      internalID: -4506365169711385632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 624
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4405e8f3c88533600800000000000000
+      internalID: 446798147424768068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 631
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8369a2689fd2a0800000000000000
+      internalID: -6710477370242659569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 527
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7925ba6e4f572d0800000000000000
+      internalID: -3281447481915566165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 583
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef7d229a4327f1e0800000000000000
+      internalID: -2164222292741226519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 583
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7a17b9883b9e20800000000000000
+      internalID: 3358340111268477753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 577
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76c5ec2fadbde70800000000000000
+      internalID: 9141140605057656755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 575
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d67c69fecc2c6c80800000000000000
+      internalID: -8328232343455369514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 549
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03b9611407c18020800000000000000
+      internalID: 2342372101495304973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 575
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16172a4458d12290800000000000000
+      internalID: -7916808813407693285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 575
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbb38f64f2f00470800000000000000
+      internalID: 8358948040056486854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d9f988b6132a30800000000000000
+      internalID: 4189217060229338877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb83e5094cfd4770800000000000000
+      internalID: 8596804654281755624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20633a620fa4be620800000000000000
+      internalID: 2804417588269102594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8e6c1e942d5cfd0800000000000000
+      internalID: -2322218818077267716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c72f27cc3db90f0800000000000000
+      internalID: -1109060008161412060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8684bf8e5830c040800000000000000
+      internalID: 4665791192744887948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 575
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c40633c8764f70800000000000000
+      internalID: 9171150471006832779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 578
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aad25c2397cd3080800000000000000
+      internalID: -9205982628357678427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 575
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877be106018425060800000000000000
+      internalID: 6940689210900658040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 531
+        width: 23
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87a6543127af620800000000000000
+      internalID: 2808682744713476269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 579
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c54b4e5280926280800000000000000
+      internalID: -9051513411459136056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 527
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a2c5cc07dbce10800000000000000
+      internalID: 2219103691267549560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 500
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c163fafe2fc25b0800000000000000
+      internalID: -5391667542618661741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 527
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266e38b3d25a47c60800000000000000
+      internalID: 7815052867085264482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 527
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6f88a487daa67b0800000000000000
+      internalID: -5230177285079238975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040abe6b9b2490c80800000000000000
+      internalID: -8356074268203966400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458e9c6074018db0800000000000000
+      internalID: -4791543647640320692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9714345aa0b73b760800000000000000
+      internalID: 7472451492390322553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db175dff08ca0690800000000000000
+      internalID: -7635070247252845608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dd6aac2b27aaea0800000000000000
+      internalID: -5860745852839600888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa2f85810bd4af0800000000000000
+      internalID: -410478372402845089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 527
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b617a45aa5aa61e0800000000000000
+      internalID: -2203766916661176648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 530
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cf9e42b5893bb00800000000000000
+      internalID: 843185072477174815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 527
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973bc151a9877e6c0800000000000000
+      internalID: -4114187131405159559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 527
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfce46db33a88860800000000000000
+      internalID: 7532449854171041743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 479
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439ee03485f2beb0800000000000000
+      internalID: -4705428712543317173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 479
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa316cd00ab004300800000000000000
+      internalID: 234199962677023658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_95
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 479
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf31833bd2d3440800000000000000
+      internalID: 4917136615921679105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_96
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 479
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848de8117cc87d40800000000000000
+      internalID: 5582436524247319694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_97
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 479
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc95265021866d0800000000000000
+      internalID: -2997125737680875532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_98
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 479
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844e0765214ad320800000000000000
+      internalID: 2583448965148984460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_99
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765ab9de668d3350800000000000000
+      internalID: 5998098089384760953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_100
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f96e63f17382180800000000000000
+      internalID: -9139994836543823973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_101
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca2fc50909d5330800000000000000
+      internalID: 3701273418477513852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_102
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55a0fe1f200af440800000000000000
+      internalID: 4970285341139314014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_103
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaff5f478427d7c0800000000000000
+      internalID: -4046725576598226211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_104
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de39d43bd44afc50800000000000000
+      internalID: 6699743103942213330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_105
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 460
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5c89320de75e50800000000000000
+      internalID: 6798162756350270096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 464
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b5dc0083d649960800000000000000
+      internalID: 7607825757834664752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_107
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943ffb188a5f92720800000000000000
+      internalID: 2822056745604477769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_108
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 461
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67057fb38517ed090800000000000000
+      internalID: -8007838463641038730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_109
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 465
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e3b6372fff66fe0800000000000000
+      internalID: -1195987234236711278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 431
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed88f7c6c68df680800000000000000
+      internalID: -8719665115202810390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_111
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 431
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f17d86564b7950800000000000000
+      internalID: 6447824629065185123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_112
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 431
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c093e9aaa0ccac0800000000000000
+      internalID: -3833677454883877824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_113
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 431
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100fd6daa530e550800000000000000
+      internalID: 6188004895872712729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_114
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d56782cb8623a60800000000000000
+      internalID: 7652293874197880147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_115
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 431
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172fe1096b6f6430800000000000000
+      internalID: 3778356711135323927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_116
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 431
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf66d72d44b7a190800000000000000
+      internalID: -7951188373625475146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9892b2a068e0ee0800000000000000
+      internalID: -1292948664776816185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1967177fb4f9acc0800000000000000
+      internalID: -3699156515734197988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 335
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866e2d538b8e3db0800000000000000
+      internalID: -4810253955664812403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_120
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137de6ffa5f7b14e0800000000000000
+      internalID: -2009872779881556175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_121
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab582aa35c6798b60800000000000000
+      internalID: 7748855223332013498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_122
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8fc23dc1c2b260800000000000000
+      internalID: 7111959848636353912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_123
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d7e716273b4150800000000000000
+      internalID: 5857836377074816507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_124
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cfbbe68d3e64f00800000000000000
+      internalID: 1100817677648919710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60271696c337209c0800000000000000
+      internalID: -3962478018829389306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_126
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 364
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c063f34e3142030800000000000000
+      internalID: 3468919484016102515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 368
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afc69ce70b97b7c0800000000000000
+      internalID: -4055602481087459416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_128
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 365
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d21c087b710f5550800000000000000
+      internalID: 6151637245818049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_129
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 363
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b651b896ab1c8c140800000000000000
+      internalID: 4740251614186247531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_130
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 358
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00b97be89f827fe0800000000000000
+      internalID: -1192733064351338482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_131
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137182c149095870800000000000000
+      internalID: 8671972735519388436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_132
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 239
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ab2d1f5753b4880800000000000000
+      internalID: -8625741880613487973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_133
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31606a12c0432a0800000000000000
+      internalID: -6758763802117401609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_134
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 239
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b22b515111d3c0800000000000000
+      internalID: -4336665925062052034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_135
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 302
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97420984f6854c480800000000000000
+      internalID: -8879875330285755271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_136
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 299
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7059cabb76565e890800000000000000
+      internalID: -7429420514073078521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_137
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 262
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2705c1353712e690800000000000000
+      internalID: -7574466106048051411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_138
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 248
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072d314a90ed2ce70800000000000000
+      internalID: 9134107127249621616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_139
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 251
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80be70f440a1f9900800000000000000
+      internalID: 693301473446456072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_140
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 239
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ef711f121249c90800000000000000
+      internalID: -7164064677577097700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_141
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d793eb07a683759c0800000000000000
+      internalID: -3938617319303005827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_142
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 254
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e26196752145ac0800000000000000
+      internalID: -3867446013369897319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_143
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 251
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e657fd0461e28c70800000000000000
+      internalID: 8971981227522741991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23b0a446df1483a0800000000000000
+      internalID: -6664166543466646737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_145
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 167
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4592cfa85eb22230800000000000000
+      internalID: 3612659139219723596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_146
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c5e426f7b20f9a0800000000000000
+      internalID: -6201408860779029365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_147
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd7248dcaa00bff0800000000000000
+      internalID: -22506260657963579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 196
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb3c3bbe2168d310800000000000000
+      internalID: 1429999735027809205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_149
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 194
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671660aabdafe3f10800000000000000
+      internalID: 2251512685089153398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_150
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 194
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae811803a6370d0800000000000000
+      internalID: -3426278134941947174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_151
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 114
+        width: 38
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee82e7444a3522950800000000000000
+      internalID: 6422787983572609262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_152
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 114
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b16bea42739ae650800000000000000
+      internalID: 6262980350904590774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_153
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 114
+        width: 76
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329949b921e7071b0800000000000000
+      internalID: -5660886113219995357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_154
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 114
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c78af1da765030800000000000000
+      internalID: 3483106404087613632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_155
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 114
+        width: 38
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a363620806ab3e0800000000000000
+      internalID: -2037209777918559692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_156
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 114
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5324eb4cac30060800000000000000
+      internalID: 6918596398925624756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_157
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 133
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993d8a447eb03de0800000000000000
+      internalID: -1355374081162266212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_158
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 132
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc462134ca63b63b0800000000000000
+      internalID: -5518256804924857140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200a5da8bd0850b90800000000000000
+      internalID: -7276267942531719166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_160
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea4e399724b37c0800000000000000
+      internalID: -4090602746596249889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_161
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea6d652d7bcb4d0800000000000000
+      internalID: -3117414728019300781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_162
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874ef5f45bed0ec00800000000000000
+      internalID: 927986393540453496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_163
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600ed084299edc70800000000000000
+      internalID: 8997797487592734822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_164
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 54
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288127d207134330800000000000000
+      internalID: 3693821420340611112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_165
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e212fab84968e1c0800000000000000
+      internalID: -4474210468697599264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_166
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6b12f78892ed100800000000000000
+      internalID: 134590705092900599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_167
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 52
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63730709fbf0abc10800000000000000
+      internalID: 2069984294166607670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_168
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 51
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e821266d0a244fb0800000000000000
+      internalID: -4664557077012600606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_169
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803de93cf37da410800000000000000
+      internalID: 1489974578870300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_170
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd277176075306f0800000000000000
+      internalID: -719635830264091152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_171
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae4d135808da3180800000000000000
+      internalID: -9134751363901862230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d70bc029d9780a00800000000000000
+      internalID: 722961713658005459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_173
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56053b9e71267020800000000000000
+      internalID: 2339093884119090780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_174
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7bda8a34e76fe40800000000000000
+      internalID: 5689874008287066101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 14
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342e7c592fe7b9d10800000000000000
+      internalID: 2133438428850152003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_176
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1efd89af239690800000000000000
+      internalID: -7596675741165675076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_177
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38e2a35cd2b8910800000000000000
+      internalID: 1840615197818913707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_178
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e8efb22913dd40800000000000000
+      internalID: 5607853598045693405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_179
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eccf9c96c351480800000000000000
+      internalID: -8929164261134119409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_180
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8943a8eb45a09daa0800000000000000
+      internalID: -6135861658225331048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_181
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7fcc8d828abd9b0800000000000000
+      internalID: -5054261263403780174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Garbage_Rasak_182
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 8
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aa47e16d2448240800000000000000
+      internalID: 4793029390830447189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Modern_Garbage_Rasak_0: 6970117590199747813
+      Tileset_Modern_Garbage_Rasak_1: -6580513764133420885
+      Tileset_Modern_Garbage_Rasak_10: 1801230608877573543
+      Tileset_Modern_Garbage_Rasak_100: -9139994836543823973
+      Tileset_Modern_Garbage_Rasak_101: 3701273418477513852
+      Tileset_Modern_Garbage_Rasak_102: 4970285341139314014
+      Tileset_Modern_Garbage_Rasak_103: -4046725576598226211
+      Tileset_Modern_Garbage_Rasak_104: 6699743103942213330
+      Tileset_Modern_Garbage_Rasak_105: 6798162756350270096
+      Tileset_Modern_Garbage_Rasak_106: 7607825757834664752
+      Tileset_Modern_Garbage_Rasak_107: 2822056745604477769
+      Tileset_Modern_Garbage_Rasak_108: -8007838463641038730
+      Tileset_Modern_Garbage_Rasak_109: -1195987234236711278
+      Tileset_Modern_Garbage_Rasak_11: -7754778642701390803
+      Tileset_Modern_Garbage_Rasak_110: -8719665115202810390
+      Tileset_Modern_Garbage_Rasak_111: 6447824629065185123
+      Tileset_Modern_Garbage_Rasak_112: -3833677454883877824
+      Tileset_Modern_Garbage_Rasak_113: 6188004895872712729
+      Tileset_Modern_Garbage_Rasak_114: 7652293874197880147
+      Tileset_Modern_Garbage_Rasak_115: 3778356711135323927
+      Tileset_Modern_Garbage_Rasak_116: -7951188373625475146
+      Tileset_Modern_Garbage_Rasak_117: -1292948664776816185
+      Tileset_Modern_Garbage_Rasak_118: -3699156515734197988
+      Tileset_Modern_Garbage_Rasak_119: -4810253955664812403
+      Tileset_Modern_Garbage_Rasak_12: -7042500620850432100
+      Tileset_Modern_Garbage_Rasak_120: -2009872779881556175
+      Tileset_Modern_Garbage_Rasak_121: 7748855223332013498
+      Tileset_Modern_Garbage_Rasak_122: 7111959848636353912
+      Tileset_Modern_Garbage_Rasak_123: 5857836377074816507
+      Tileset_Modern_Garbage_Rasak_124: 1100817677648919710
+      Tileset_Modern_Garbage_Rasak_125: -3962478018829389306
+      Tileset_Modern_Garbage_Rasak_126: 3468919484016102515
+      Tileset_Modern_Garbage_Rasak_127: -4055602481087459416
+      Tileset_Modern_Garbage_Rasak_128: 6151637245818049233
+      Tileset_Modern_Garbage_Rasak_129: 4740251614186247531
+      Tileset_Modern_Garbage_Rasak_13: -1748034425714125031
+      Tileset_Modern_Garbage_Rasak_130: -1192733064351338482
+      Tileset_Modern_Garbage_Rasak_131: 8671972735519388436
+      Tileset_Modern_Garbage_Rasak_132: -8625741880613487973
+      Tileset_Modern_Garbage_Rasak_133: -6758763802117401609
+      Tileset_Modern_Garbage_Rasak_134: -4336665925062052034
+      Tileset_Modern_Garbage_Rasak_135: -8879875330285755271
+      Tileset_Modern_Garbage_Rasak_136: -7429420514073078521
+      Tileset_Modern_Garbage_Rasak_137: -7574466106048051411
+      Tileset_Modern_Garbage_Rasak_138: 9134107127249621616
+      Tileset_Modern_Garbage_Rasak_139: 693301473446456072
+      Tileset_Modern_Garbage_Rasak_14: -6254885338436894300
+      Tileset_Modern_Garbage_Rasak_140: -7164064677577097700
+      Tileset_Modern_Garbage_Rasak_141: -3938617319303005827
+      Tileset_Modern_Garbage_Rasak_142: -3867446013369897319
+      Tileset_Modern_Garbage_Rasak_143: 8971981227522741991
+      Tileset_Modern_Garbage_Rasak_144: -6664166543466646737
+      Tileset_Modern_Garbage_Rasak_145: 3612659139219723596
+      Tileset_Modern_Garbage_Rasak_146: -6201408860779029365
+      Tileset_Modern_Garbage_Rasak_147: -22506260657963579
+      Tileset_Modern_Garbage_Rasak_148: 1429999735027809205
+      Tileset_Modern_Garbage_Rasak_149: 2251512685089153398
+      Tileset_Modern_Garbage_Rasak_15: 5988863933953794173
+      Tileset_Modern_Garbage_Rasak_150: -3426278134941947174
+      Tileset_Modern_Garbage_Rasak_151: 6422787983572609262
+      Tileset_Modern_Garbage_Rasak_152: 6262980350904590774
+      Tileset_Modern_Garbage_Rasak_153: -5660886113219995357
+      Tileset_Modern_Garbage_Rasak_154: 3483106404087613632
+      Tileset_Modern_Garbage_Rasak_155: -2037209777918559692
+      Tileset_Modern_Garbage_Rasak_156: 6918596398925624756
+      Tileset_Modern_Garbage_Rasak_157: -1355374081162266212
+      Tileset_Modern_Garbage_Rasak_158: -5518256804924857140
+      Tileset_Modern_Garbage_Rasak_159: -7276267942531719166
+      Tileset_Modern_Garbage_Rasak_16: 2627238903864281247
+      Tileset_Modern_Garbage_Rasak_160: -4090602746596249889
+      Tileset_Modern_Garbage_Rasak_161: -3117414728019300781
+      Tileset_Modern_Garbage_Rasak_162: 927986393540453496
+      Tileset_Modern_Garbage_Rasak_163: 8997797487592734822
+      Tileset_Modern_Garbage_Rasak_164: 3693821420340611112
+      Tileset_Modern_Garbage_Rasak_165: -4474210468697599264
+      Tileset_Modern_Garbage_Rasak_166: 134590705092900599
+      Tileset_Modern_Garbage_Rasak_167: 2069984294166607670
+      Tileset_Modern_Garbage_Rasak_168: -4664557077012600606
+      Tileset_Modern_Garbage_Rasak_169: 1489974578870300806
+      Tileset_Modern_Garbage_Rasak_17: -1349372822449126969
+      Tileset_Modern_Garbage_Rasak_170: -719635830264091152
+      Tileset_Modern_Garbage_Rasak_171: -9134751363901862230
+      Tileset_Modern_Garbage_Rasak_172: 722961713658005459
+      Tileset_Modern_Garbage_Rasak_173: 2339093884119090780
+      Tileset_Modern_Garbage_Rasak_174: 5689874008287066101
+      Tileset_Modern_Garbage_Rasak_175: 2133438428850152003
+      Tileset_Modern_Garbage_Rasak_176: -7596675741165675076
+      Tileset_Modern_Garbage_Rasak_177: 1840615197818913707
+      Tileset_Modern_Garbage_Rasak_178: 5607853598045693405
+      Tileset_Modern_Garbage_Rasak_179: -8929164261134119409
+      Tileset_Modern_Garbage_Rasak_18: 8130730872323899352
+      Tileset_Modern_Garbage_Rasak_180: -6135861658225331048
+      Tileset_Modern_Garbage_Rasak_181: -5054261263403780174
+      Tileset_Modern_Garbage_Rasak_182: 4793029390830447189
+      Tileset_Modern_Garbage_Rasak_19: 2206045308729580864
+      Tileset_Modern_Garbage_Rasak_2: -1582374493593336104
+      Tileset_Modern_Garbage_Rasak_20: 7782273147963285618
+      Tileset_Modern_Garbage_Rasak_21: -8149372639749512491
+      Tileset_Modern_Garbage_Rasak_22: -7625228064371537590
+      Tileset_Modern_Garbage_Rasak_23: -5258107163420657610
+      Tileset_Modern_Garbage_Rasak_24: 5230586743761012120
+      Tileset_Modern_Garbage_Rasak_25: -7622721627286826937
+      Tileset_Modern_Garbage_Rasak_26: -8922866066426703440
+      Tileset_Modern_Garbage_Rasak_27: -149055940942297553
+      Tileset_Modern_Garbage_Rasak_28: -2835069917191995084
+      Tileset_Modern_Garbage_Rasak_29: -9215567563339270970
+      Tileset_Modern_Garbage_Rasak_3: -6137565824589691546
+      Tileset_Modern_Garbage_Rasak_30: 9161067203799033738
+      Tileset_Modern_Garbage_Rasak_31: 8938338882370716317
+      Tileset_Modern_Garbage_Rasak_32: -7181685562188077718
+      Tileset_Modern_Garbage_Rasak_33: -243289136627635178
+      Tileset_Modern_Garbage_Rasak_34: -2923439368843669093
+      Tileset_Modern_Garbage_Rasak_35: -1456528837393295118
+      Tileset_Modern_Garbage_Rasak_36: -2489705583048345646
+      Tileset_Modern_Garbage_Rasak_37: 7269538326387653249
+      Tileset_Modern_Garbage_Rasak_38: 3693567382414922635
+      Tileset_Modern_Garbage_Rasak_39: -5870586904593806588
+      Tileset_Modern_Garbage_Rasak_4: 3232342906501331090
+      Tileset_Modern_Garbage_Rasak_40: 27107419135600077
+      Tileset_Modern_Garbage_Rasak_41: -4498100060701426763
+      Tileset_Modern_Garbage_Rasak_42: 9103515121110490071
+      Tileset_Modern_Garbage_Rasak_43: -3207425068676409528
+      Tileset_Modern_Garbage_Rasak_44: -3086615150328716680
+      Tileset_Modern_Garbage_Rasak_45: -251802718495850435
+      Tileset_Modern_Garbage_Rasak_46: 3277283174610481282
+      Tileset_Modern_Garbage_Rasak_47: 8734932712907376916
+      Tileset_Modern_Garbage_Rasak_48: 8343030523937803381
+      Tileset_Modern_Garbage_Rasak_49: -8060045382358000329
+      Tileset_Modern_Garbage_Rasak_5: 7286707576724056789
+      Tileset_Modern_Garbage_Rasak_50: 3834953985910919407
+      Tileset_Modern_Garbage_Rasak_51: -8175047769804740060
+      Tileset_Modern_Garbage_Rasak_52: 1788748454373646721
+      Tileset_Modern_Garbage_Rasak_53: -2329701426578515404
+      Tileset_Modern_Garbage_Rasak_54: 729893937070980098
+      Tileset_Modern_Garbage_Rasak_55: -3140872011583417952
+      Tileset_Modern_Garbage_Rasak_56: 5825020385753618627
+      Tileset_Modern_Garbage_Rasak_57: -4506365169711385632
+      Tileset_Modern_Garbage_Rasak_58: 446798147424768068
+      Tileset_Modern_Garbage_Rasak_59: -6710477370242659569
+      Tileset_Modern_Garbage_Rasak_6: -2496806964159180074
+      Tileset_Modern_Garbage_Rasak_60: -3281447481915566165
+      Tileset_Modern_Garbage_Rasak_61: -2164222292741226519
+      Tileset_Modern_Garbage_Rasak_62: 3358340111268477753
+      Tileset_Modern_Garbage_Rasak_63: 9141140605057656755
+      Tileset_Modern_Garbage_Rasak_64: -8328232343455369514
+      Tileset_Modern_Garbage_Rasak_65: 2342372101495304973
+      Tileset_Modern_Garbage_Rasak_66: -7916808813407693285
+      Tileset_Modern_Garbage_Rasak_67: 8358948040056486854
+      Tileset_Modern_Garbage_Rasak_68: 4189217060229338877
+      Tileset_Modern_Garbage_Rasak_69: 8596804654281755624
+      Tileset_Modern_Garbage_Rasak_7: 562863227486797259
+      Tileset_Modern_Garbage_Rasak_70: 2804417588269102594
+      Tileset_Modern_Garbage_Rasak_71: -2322218818077267716
+      Tileset_Modern_Garbage_Rasak_72: -1109060008161412060
+      Tileset_Modern_Garbage_Rasak_73: 4665791192744887948
+      Tileset_Modern_Garbage_Rasak_74: 9171150471006832779
+      Tileset_Modern_Garbage_Rasak_75: -9205982628357678427
+      Tileset_Modern_Garbage_Rasak_76: 6940689210900658040
+      Tileset_Modern_Garbage_Rasak_77: 2808682744713476269
+      Tileset_Modern_Garbage_Rasak_78: -9051513411459136056
+      Tileset_Modern_Garbage_Rasak_79: 2219103691267549560
+      Tileset_Modern_Garbage_Rasak_8: -4788540046402347146
+      Tileset_Modern_Garbage_Rasak_80: -5391667542618661741
+      Tileset_Modern_Garbage_Rasak_81: 7815052867085264482
+      Tileset_Modern_Garbage_Rasak_82: -5230177285079238975
+      Tileset_Modern_Garbage_Rasak_83: -8356074268203966400
+      Tileset_Modern_Garbage_Rasak_84: -4791543647640320692
+      Tileset_Modern_Garbage_Rasak_85: 7472451492390322553
+      Tileset_Modern_Garbage_Rasak_86: -7635070247252845608
+      Tileset_Modern_Garbage_Rasak_87: -5860745852839600888
+      Tileset_Modern_Garbage_Rasak_88: -410478372402845089
+      Tileset_Modern_Garbage_Rasak_89: -2203766916661176648
+      Tileset_Modern_Garbage_Rasak_9: -336220075113931466
+      Tileset_Modern_Garbage_Rasak_90: 843185072477174815
+      Tileset_Modern_Garbage_Rasak_91: -4114187131405159559
+      Tileset_Modern_Garbage_Rasak_92: 7532449854171041743
+      Tileset_Modern_Garbage_Rasak_93: -4705428712543317173
+      Tileset_Modern_Garbage_Rasak_94: 234199962677023658
+      Tileset_Modern_Garbage_Rasak_95: 4917136615921679105
+      Tileset_Modern_Garbage_Rasak_96: 5582436524247319694
+      Tileset_Modern_Garbage_Rasak_97: -2997125737680875532
+      Tileset_Modern_Garbage_Rasak_98: 2583448965148984460
+      Tileset_Modern_Garbage_Rasak_99: 5998098089384760953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

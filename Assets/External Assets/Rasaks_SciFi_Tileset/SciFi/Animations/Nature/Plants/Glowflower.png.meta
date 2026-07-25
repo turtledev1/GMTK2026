@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 1530ab2b1d36c654199bd3bbb9b27ba7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4611929516023314733
+    second: Glowflower_0
+  - first:
+      213: 1300062768253003992
+    second: Glowflower_1
+  - first:
+      213: 4599090148506881954
+    second: Glowflower_2
+  - first:
+      213: 3414156381607916442
+    second: Glowflower_3
+  - first:
+      213: 7662909895030527593
+    second: Glowflower_4
+  - first:
+      213: 2386031218819387544
+    second: Glowflower_5
+  - first:
+      213: 6709767515334799460
+    second: Glowflower_6
+  - first:
+      213: -6576626890540243316
+    second: Glowflower_7
+  - first:
+      213: 6566417241963039677
+    second: Glowflower_8
+  - first:
+      213: 4305845577778418384
+    second: Glowflower_9
+  - first:
+      213: 455932739891167641
+    second: Glowflower_10
+  - first:
+      213: -3574581874854351065
+    second: Glowflower_11
+  - first:
+      213: 1121054663301721998
+    second: Glowflower_12
+  - first:
+      213: -6352682610623690612
+    second: Glowflower_13
+  - first:
+      213: 7669940908382347221
+    second: Glowflower_14
+  - first:
+      213: -8301241629561444554
+    second: Glowflower_15
+  - first:
+      213: -645062623295548737
+    second: Glowflower_16
+  - first:
+      213: 279977962698389404
+    second: Glowflower_17
+  - first:
+      213: 1105862067957272987
+    second: Glowflower_18
+  - first:
+      213: 3365286550343101881
+    second: Glowflower_19
+  - first:
+      213: -198274574418004219
+    second: Glowflower_20
+  - first:
+      213: 5986368394172621390
+    second: Glowflower_21
+  - first:
+      213: -6989711158646169485
+    second: Glowflower_22
+  - first:
+      213: -3541670326922499246
+    second: Glowflower_23
+  - first:
+      213: -9179053138092490406
+    second: Glowflower_24
+  - first:
+      213: -1473444521188381227
+    second: Glowflower_25
+  - first:
+      213: -4320084029732564871
+    second: Glowflower_26
+  - first:
+      213: -7261606393099884215
+    second: Glowflower_27
+  - first:
+      213: 8644766939318628877
+    second: Glowflower_28
+  - first:
+      213: -3851276532282010632
+    second: Glowflower_29
+  - first:
+      213: -6665381625637015182
+    second: Glowflower_30
+  - first:
+      213: -2988983525589521479
+    second: Glowflower_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glowflower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d68a4c4a822fffb0800000000000000
+      internalID: -4611929516023314733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d86e6f1330ca0210800000000000000
+      internalID: 1300062768253003992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 191
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af40cf7f1043df30800000000000000
+      internalID: 4599090148506881954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937f5dd325816f20800000000000000
+      internalID: 3414156381607916442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 191
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966de1f13ff185a60800000000000000
+      internalID: 7662909895030527593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 191
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d8b470c2ec1120800000000000000
+      internalID: 2386031218819387544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4607cfc5102ed1d50800000000000000
+      internalID: 6709767515334799460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 191
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86211100b02bb4a0800000000000000
+      internalID: -6576626890540243316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 191
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb0532f0b9902b50800000000000000
+      internalID: 6566417241963039677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 239
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d25b295dbf61cb30800000000000000
+      internalID: 4305845577778418384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 191
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9910faa496cc35600800000000000000
+      internalID: 455932739891167641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 191
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fa1c849b8846ec0800000000000000
+      internalID: -3574581874854351065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe4e3d649ce8f00800000000000000
+      internalID: 1121054663301721998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 191
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8849f6d2dcb6d7a0800000000000000
+      internalID: -6352682610623690612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 191
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfdd5c7e9a117a60800000000000000
+      internalID: 7669940908382347221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 191
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6372e4348b01ccc80800000000000000
+      internalID: -8301241629561444554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2569836f64c07f0800000000000000
+      internalID: -645062623295548737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c973393497ea2e300800000000000000
+      internalID: 279977962698389404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911c2311bfc85f00800000000000000
+      internalID: 1105862067957272987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda9989946e3be20800000000000000
+      internalID: 3365286550343101881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b2d733569f3df0800000000000000
+      internalID: -198274574418004219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e84d565ad31350800000000000000
+      internalID: 5986368394172621390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370af4afbbe8ffe90800000000000000
+      internalID: -6989711158646169485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2e3c2a9579dec0800000000000000
+      internalID: -3541670326922499246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a510099bdc37d9080800000000000000
+      internalID: -9179053138092490406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 47
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd225eb3064d8be0800000000000000
+      internalID: -1473444521188381227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970d3f7b67afb04c0800000000000000
+      internalID: -4320084029732564871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94963988577993b90800000000000000
+      internalID: -7261606393099884215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b028bab168f770800000000000000
+      internalID: 8644766939318628877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3588916648d8ac0800000000000000
+      internalID: -3851276532282010632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2717d77e9becf73a0800000000000000
+      internalID: -6665381625637015182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowflower_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbedbdd15ff486d0800000000000000
+      internalID: -2988983525589521479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glowflower_0: -4611929516023314733
+      Glowflower_1: 1300062768253003992
+      Glowflower_10: 455932739891167641
+      Glowflower_11: -3574581874854351065
+      Glowflower_12: 1121054663301721998
+      Glowflower_13: -6352682610623690612
+      Glowflower_14: 7669940908382347221
+      Glowflower_15: -8301241629561444554
+      Glowflower_16: -645062623295548737
+      Glowflower_17: 279977962698389404
+      Glowflower_18: 1105862067957272987
+      Glowflower_19: 3365286550343101881
+      Glowflower_2: 4599090148506881954
+      Glowflower_20: -198274574418004219
+      Glowflower_21: 5986368394172621390
+      Glowflower_22: -6989711158646169485
+      Glowflower_23: -3541670326922499246
+      Glowflower_24: -9179053138092490406
+      Glowflower_25: -1473444521188381227
+      Glowflower_26: -4320084029732564871
+      Glowflower_27: -7261606393099884215
+      Glowflower_28: 8644766939318628877
+      Glowflower_29: -3851276532282010632
+      Glowflower_3: 3414156381607916442
+      Glowflower_30: -6665381625637015182
+      Glowflower_31: -2988983525589521479
+      Glowflower_4: 7662909895030527593
+      Glowflower_5: 2386031218819387544
+      Glowflower_6: 6709767515334799460
+      Glowflower_7: -6576626890540243316
+      Glowflower_8: 6566417241963039677
+      Glowflower_9: 4305845577778418384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

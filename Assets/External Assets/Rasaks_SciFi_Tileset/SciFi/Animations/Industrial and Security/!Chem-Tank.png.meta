@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: 3d892553a335e894fa38e0b7e10ca37b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -51683093788105739
+    second: '!Chem-Tank_0'
+  - first:
+      213: -5010086801428747954
+    second: '!Chem-Tank_1'
+  - first:
+      213: 7867412008677846309
+    second: '!Chem-Tank_2'
+  - first:
+      213: 8300168958323055637
+    second: '!Chem-Tank_3'
+  - first:
+      213: -634588386670492797
+    second: '!Chem-Tank_4'
+  - first:
+      213: -1891083333250748138
+    second: '!Chem-Tank_5'
+  - first:
+      213: -1692278443091332027
+    second: '!Chem-Tank_6'
+  - first:
+      213: -4197151802832802889
+    second: '!Chem-Tank_7'
+  - first:
+      213: 6121809000580061799
+    second: '!Chem-Tank_8'
+  - first:
+      213: 120970240866994674
+    second: '!Chem-Tank_9'
+  - first:
+      213: -2965464646682478078
+    second: '!Chem-Tank_10'
+  - first:
+      213: -4985846739635432213
+    second: '!Chem-Tank_11'
+  - first:
+      213: 6921957835410874637
+    second: '!Chem-Tank_12'
+  - first:
+      213: 8125803446304680881
+    second: '!Chem-Tank_13'
+  - first:
+      213: -3437268656000928825
+    second: '!Chem-Tank_14'
+  - first:
+      213: 4194313235040699821
+    second: '!Chem-Tank_15'
+  - first:
+      213: 5027930181244287291
+    second: '!Chem-Tank_16'
+  - first:
+      213: -6522944446962110361
+    second: '!Chem-Tank_17'
+  - first:
+      213: 4912874944320025264
+    second: '!Chem-Tank_18'
+  - first:
+      213: -371015733416630502
+    second: '!Chem-Tank_19'
+  - first:
+      213: 8641214396498958790
+    second: '!Chem-Tank_20'
+  - first:
+      213: -2868989513438233866
+    second: '!Chem-Tank_21'
+  - first:
+      213: -4701060997010010181
+    second: '!Chem-Tank_22'
+  - first:
+      213: -6954668949217954873
+    second: '!Chem-Tank_23'
+  - first:
+      213: 3586684018691968853
+    second: '!Chem-Tank_24'
+  - first:
+      213: -157534238808285985
+    second: '!Chem-Tank_25'
+  - first:
+      213: -974112402671234118
+    second: '!Chem-Tank_26'
+  - first:
+      213: -1520898947414131323
+    second: '!Chem-Tank_27'
+  - first:
+      213: 6283203817804329278
+    second: '!Chem-Tank_28'
+  - first:
+      213: -8596859948002793708
+    second: '!Chem-Tank_29'
+  - first:
+      213: 2763265639727439490
+    second: '!Chem-Tank_30'
+  - first:
+      213: 3394467094385002226
+    second: '!Chem-Tank_31'
+  - first:
+      213: -7600707877870285854
+    second: '!Chem-Tank_32'
+  - first:
+      213: -8546506699073465631
+    second: '!Chem-Tank_33'
+  - first:
+      213: -6448475047026103165
+    second: '!Chem-Tank_34'
+  - first:
+      213: 1076708707551421222
+    second: '!Chem-Tank_35'
+  - first:
+      213: -2883241107736656965
+    second: '!Chem-Tank_36'
+  - first:
+      213: 8808249027981003665
+    second: '!Chem-Tank_37'
+  - first:
+      213: 9002077356035527132
+    second: '!Chem-Tank_38'
+  - first:
+      213: 718853751471036653
+    second: '!Chem-Tank_39'
+  - first:
+      213: -1581663099582794048
+    second: '!Chem-Tank_40'
+  - first:
+      213: -889114954636056628
+    second: '!Chem-Tank_41'
+  - first:
+      213: 9159721850906540074
+    second: '!Chem-Tank_42'
+  - first:
+      213: -2642971858768978545
+    second: '!Chem-Tank_43'
+  - first:
+      213: -5670697369892232419
+    second: '!Chem-Tank_44'
+  - first:
+      213: 2847891248688148216
+    second: '!Chem-Tank_45'
+  - first:
+      213: 8723824301893645413
+    second: '!Chem-Tank_46'
+  - first:
+      213: -3398992367544072627
+    second: '!Chem-Tank_47'
+  - first:
+      213: -510399446277629418
+    second: '!Chem-Tank_48'
+  - first:
+      213: 4328008938369038826
+    second: '!Chem-Tank_49'
+  - first:
+      213: 2124136548527550462
+    second: '!Chem-Tank_50'
+  - first:
+      213: 7148883279828991499
+    second: '!Chem-Tank_51'
+  - first:
+      213: 148316053467634843
+    second: '!Chem-Tank_52'
+  - first:
+      213: -5367904821601482125
+    second: '!Chem-Tank_53'
+  - first:
+      213: -926040299200421654
+    second: '!Chem-Tank_54'
+  - first:
+      213: -5980413914181735769
+    second: '!Chem-Tank_55'
+  - first:
+      213: -205832639676139273
+    second: '!Chem-Tank_56'
+  - first:
+      213: -8026033471006428074
+    second: '!Chem-Tank_57'
+  - first:
+      213: -1246494882929637906
+    second: '!Chem-Tank_58'
+  - first:
+      213: 1022367652666109151
+    second: '!Chem-Tank_59'
+  - first:
+      213: -1585740767612094752
+    second: '!Chem-Tank_60'
+  - first:
+      213: 1306104615096461682
+    second: '!Chem-Tank_61'
+  - first:
+      213: -4126995744533956816
+    second: '!Chem-Tank_62'
+  - first:
+      213: -8056370927321518436
+    second: '!Chem-Tank_63'
+  - first:
+      213: -6121544677469730531
+    second: '!Chem-Tank_64'
+  - first:
+      213: -8227903527273460792
+    second: '!Chem-Tank_65'
+  - first:
+      213: 7330112858304126279
+    second: '!Chem-Tank_66'
+  - first:
+      213: -7990004252509215531
+    second: '!Chem-Tank_67'
+  - first:
+      213: 8988946215537630633
+    second: '!Chem-Tank_68'
+  - first:
+      213: -2739655992226166373
+    second: '!Chem-Tank_69'
+  - first:
+      213: -5298915541483753707
+    second: '!Chem-Tank_70'
+  - first:
+      213: 101911194264708609
+    second: '!Chem-Tank_71'
+  - first:
+      213: 4435624338968608184
+    second: '!Chem-Tank_72'
+  - first:
+      213: 5682434777900377460
+    second: '!Chem-Tank_73'
+  - first:
+      213: 7880690217294574566
+    second: '!Chem-Tank_74'
+  - first:
+      213: -4989734429673329301
+    second: '!Chem-Tank_75'
+  - first:
+      213: -6385361575189745516
+    second: '!Chem-Tank_76'
+  - first:
+      213: 7055114470048281843
+    second: '!Chem-Tank_77'
+  - first:
+      213: -971263912079469973
+    second: '!Chem-Tank_78'
+  - first:
+      213: 1519655905232097172
+    second: '!Chem-Tank_79'
+  - first:
+      213: 6510023727400733560
+    second: '!Chem-Tank_80'
+  - first:
+      213: -2142446022917067469
+    second: '!Chem-Tank_81'
+  - first:
+      213: 4479489246994759332
+    second: '!Chem-Tank_82'
+  - first:
+      213: -5999522664827655314
+    second: '!Chem-Tank_83'
+  - first:
+      213: -7305631132208923189
+    second: '!Chem-Tank_84'
+  - first:
+      213: -2251569694230117947
+    second: '!Chem-Tank_85'
+  - first:
+      213: 13754383652706390
+    second: '!Chem-Tank_86'
+  - first:
+      213: 480753347781782172
+    second: '!Chem-Tank_87'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Chem-Tank_0'
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 462
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3edd10082684ff0800000000000000
+      internalID: -51683093788105739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_1'
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 462
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4967f24998987ab0800000000000000
+      internalID: -5010086801428747954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_2'
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 462
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52da2eed989ae2d60800000000000000
+      internalID: 7867412008677846309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_3'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 456
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cd19001bf103370800000000000000
+      internalID: 8300168958323055637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_4'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 456
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383cae9793d7137f0800000000000000
+      internalID: -634588386670492797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_5'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 456
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117de05ab581c5e0800000000000000
+      internalID: -1891083333250748138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_6'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 456
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5447d7ad8b1d388e0800000000000000
+      internalID: -1692278443091332027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_7'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 456
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba2cb3ca8b0c5c0800000000000000
+      internalID: -4197151802832802889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_8'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 456
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a1d5ee9d805f450800000000000000
+      internalID: 6121809000580061799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_9'
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 397
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9454b0bc5cda100800000000000000
+      internalID: 120970240866994674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_10'
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 397
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af2849d9d88d6d0800000000000000
+      internalID: -2965464646682478078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_11'
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 397
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be49d737ec6becab0800000000000000
+      internalID: -4985846739635432213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_12'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 391
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01a5e92afbbf0060800000000000000
+      internalID: 6921957835410874637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_13'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 391
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba2ab9e27a4c070800000000000000
+      internalID: 8125803446304680881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_14'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 391
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3fa796e5e5c40d0800000000000000
+      internalID: -3437268656000928825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_15'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 391
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da502533aa1353a30800000000000000
+      internalID: 4194313235040699821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_16'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 391
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39f7885cdbc6c540800000000000000
+      internalID: 5027930181244287291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_17'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 391
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7607735e598d975a0800000000000000
+      internalID: -6522944446962110361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_18'
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 333
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2bc1a7bb90e2440800000000000000
+      internalID: 4912874944320025264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_19'
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 333
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ee9bf723e9daf0800000000000000
+      internalID: -371015733416630502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_20'
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 332
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9df43e5b2cbe770800000000000000
+      internalID: 8641214396498958790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_21'
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 332
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7133fc3d4f28d0800000000000000
+      internalID: -2868989513438233866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_22'
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 332
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf46c53ee972ceb0800000000000000
+      internalID: -4701060997010010181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_23'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 326
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3bc67207d0c7f90800000000000000
+      internalID: -6954668949217954873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_24'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 326
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f84b7ac1676c130800000000000000
+      internalID: 3586684018691968853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_25'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 326
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcded7c17350ddf0800000000000000
+      internalID: -157534238808285985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_26'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 326
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39a7b4ee14b72f0800000000000000
+      internalID: -974112402671234118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_27'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 326
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d7d14277ea4eae0800000000000000
+      internalID: -1520898947414131323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_28'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 326
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31fa9b159c623750800000000000000
+      internalID: 6283203817804329278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_29'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 259
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417a287ec61d1b880800000000000000
+      internalID: -8596859948002793708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_30'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 259
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1ffb7577195620800000000000000
+      internalID: 2763265639727439490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_31'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 259
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6029276d19b1f20800000000000000
+      internalID: 3394467094385002226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_32'
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 267
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb4702947cd48690800000000000000
+      internalID: -7600707877870285854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_33'
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 267
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2da334075b46980800000000000000
+      internalID: -8546506699073465631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_34'
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 267
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce9073c1a6286a0800000000000000
+      internalID: -6448475047026103165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_35'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 261
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6232c286ddc31fe00800000000000000
+      internalID: 1076708707551421222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_36'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 261
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38d831d7bacf7d0800000000000000
+      internalID: -2883241107736656965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_37'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 261
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bccf5a2df2d3a70800000000000000
+      internalID: 8808249027981003665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_38'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 261
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d51709adcdec70800000000000000
+      internalID: 9002077356035527132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_39'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 261
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de853e5ada1e9f900800000000000000
+      internalID: 718853751471036653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_40'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 261
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6360b7acdcc0ae0800000000000000
+      internalID: -1581663099582794048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_41'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72e64d8aa39a3f0800000000000000
+      internalID: -889114954636056628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_42'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 194
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28faac3e7edd1f70800000000000000
+      internalID: 9159721850906540074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_43'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d98b6f817425bd0800000000000000
+      internalID: -2642971858768978545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_44'
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 202
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13e4d669c2ad41b0800000000000000
+      internalID: -5670697369892232419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_45'
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 202
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe200d700eb58720800000000000000
+      internalID: 2847891248688148216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_46'
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 202
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5647a455bff311970800000000000000
+      internalID: 8723824301893645413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_47'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 196
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46854a437a54d0d0800000000000000
+      internalID: -3398992367544072627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_48'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 196
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ad0176862bae8f0800000000000000
+      internalID: -510399446277629418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_49'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 196
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b33cd23d201c30800000000000000
+      internalID: 4328008938369038826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_50'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 196
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa86dcfe27a7d10800000000000000
+      internalID: 2124136548527550462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_51'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 196
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ebfe2777fe53360800000000000000
+      internalID: 7148883279828991499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_52'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 196
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1d613aacee0200800000000000000
+      internalID: 148316053467634843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_53'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a4650510f5185b0800000000000000
+      internalID: -5367904821601482125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_54'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 129
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae06676114b0623f0800000000000000
+      internalID: -926040299200421654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_55'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae46b0b3d410da0800000000000000
+      internalID: -5980413914181735769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_56'
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f83ce40e4cb42df0800000000000000
+      internalID: -205832639676139273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_57'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 139
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543445f41dcd9090800000000000000
+      internalID: -8026033471006428074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_58'
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 142
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee503a8128f83bee0800000000000000
+      internalID: -1246494882929637906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_59'
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 139
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc630f96fd203e00800000000000000
+      internalID: 1022367652666109151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_60'
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e630a86c215ef9e0800000000000000
+      internalID: -1585740767612094752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_61'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a2563a37302210800000000000000
+      internalID: 1306104615096461682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_62'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03731817c37f9b6c0800000000000000
+      internalID: -4126995744533956816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_63'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e673a7355023090800000000000000
+      internalID: -8056370927321518436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_64'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19cbb69c87eb0ba0800000000000000
+      internalID: -6121544677469730531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_65'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8ea2d55d90dd80800000000000000
+      internalID: -8227903527273460792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_66'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 131
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d9dbadecac9b560800000000000000
+      internalID: 7330112858304126279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_67'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e357177dcd1190800000000000000
+      internalID: -7990004252509215531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_68'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad563225f62fbc70800000000000000
+      internalID: 8988946215537630633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_69'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99c690f369caf9d0800000000000000
+      internalID: -2739655992226166373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_70'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f601fc3687676b0800000000000000
+      internalID: -5298915541483753707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_71'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a8c4f0bf0a6100800000000000000
+      internalID: 101911194264708609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_72'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 66
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdfc49d5d08e8d30800000000000000
+      internalID: 4435624338968608184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_73'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 66
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475e31cd2501cde40800000000000000
+      internalID: 5682434777900377460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_74'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 66
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33dbabff5dd5d60800000000000000
+      internalID: 7880690217294574566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_75'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 66
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de8c319f6e0cab0800000000000000
+      internalID: -4989734429673329301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_76'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f26c7a73a267a0800000000000000
+      internalID: -6385361575189745516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_77'
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f432fc1b3dc8e160800000000000000
+      internalID: 7055114470048281843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_78'
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d8513e906582f0800000000000000
+      internalID: -971263912079469973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_79'
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f0f2c8ef6e61510800000000000000
+      internalID: 1519655905232097172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_80'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bc517a610485a50800000000000000
+      internalID: 6510023727400733560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_81'
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d649d71b08442e0800000000000000
+      internalID: -2142446022917067469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_82'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aefd4e9cb75a2e30800000000000000
+      internalID: 4479489246994759332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_83'
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bea055ce96dbca0800000000000000
+      internalID: -5999522664827655314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_84'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf6a0313f2d9a90800000000000000
+      internalID: -7305631132208923189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_85'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1016cda41d0c0e0800000000000000
+      internalID: -2251569694230117947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_86'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65859bff98dd03000800000000000000
+      internalID: 13754383652706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Chem-Tank_87'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aec176f9afba600800000000000000
+      internalID: 480753347781782172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!Chem-Tank_0': -51683093788105739
+      '!Chem-Tank_1': -5010086801428747954
+      '!Chem-Tank_10': -2965464646682478078
+      '!Chem-Tank_11': -4985846739635432213
+      '!Chem-Tank_12': 6921957835410874637
+      '!Chem-Tank_13': 8125803446304680881
+      '!Chem-Tank_14': -3437268656000928825
+      '!Chem-Tank_15': 4194313235040699821
+      '!Chem-Tank_16': 5027930181244287291
+      '!Chem-Tank_17': -6522944446962110361
+      '!Chem-Tank_18': 4912874944320025264
+      '!Chem-Tank_19': -371015733416630502
+      '!Chem-Tank_2': 7867412008677846309
+      '!Chem-Tank_20': 8641214396498958790
+      '!Chem-Tank_21': -2868989513438233866
+      '!Chem-Tank_22': -4701060997010010181
+      '!Chem-Tank_23': -6954668949217954873
+      '!Chem-Tank_24': 3586684018691968853
+      '!Chem-Tank_25': -157534238808285985
+      '!Chem-Tank_26': -974112402671234118
+      '!Chem-Tank_27': -1520898947414131323
+      '!Chem-Tank_28': 6283203817804329278
+      '!Chem-Tank_29': -8596859948002793708
+      '!Chem-Tank_3': 8300168958323055637
+      '!Chem-Tank_30': 2763265639727439490
+      '!Chem-Tank_31': 3394467094385002226
+      '!Chem-Tank_32': -7600707877870285854
+      '!Chem-Tank_33': -8546506699073465631
+      '!Chem-Tank_34': -6448475047026103165
+      '!Chem-Tank_35': 1076708707551421222
+      '!Chem-Tank_36': -2883241107736656965
+      '!Chem-Tank_37': 8808249027981003665
+      '!Chem-Tank_38': 9002077356035527132
+      '!Chem-Tank_39': 718853751471036653
+      '!Chem-Tank_4': -634588386670492797
+      '!Chem-Tank_40': -1581663099582794048
+      '!Chem-Tank_41': -889114954636056628
+      '!Chem-Tank_42': 9159721850906540074
+      '!Chem-Tank_43': -2642971858768978545
+      '!Chem-Tank_44': -5670697369892232419
+      '!Chem-Tank_45': 2847891248688148216
+      '!Chem-Tank_46': 8723824301893645413
+      '!Chem-Tank_47': -3398992367544072627
+      '!Chem-Tank_48': -510399446277629418
+      '!Chem-Tank_49': 4328008938369038826
+      '!Chem-Tank_5': -1891083333250748138
+      '!Chem-Tank_50': 2124136548527550462
+      '!Chem-Tank_51': 7148883279828991499
+      '!Chem-Tank_52': 148316053467634843
+      '!Chem-Tank_53': -5367904821601482125
+      '!Chem-Tank_54': -926040299200421654
+      '!Chem-Tank_55': -5980413914181735769
+      '!Chem-Tank_56': -205832639676139273
+      '!Chem-Tank_57': -8026033471006428074
+      '!Chem-Tank_58': -1246494882929637906
+      '!Chem-Tank_59': 1022367652666109151
+      '!Chem-Tank_6': -1692278443091332027
+      '!Chem-Tank_60': -1585740767612094752
+      '!Chem-Tank_61': 1306104615096461682
+      '!Chem-Tank_62': -4126995744533956816
+      '!Chem-Tank_63': -8056370927321518436
+      '!Chem-Tank_64': -6121544677469730531
+      '!Chem-Tank_65': -8227903527273460792
+      '!Chem-Tank_66': 7330112858304126279
+      '!Chem-Tank_67': -7990004252509215531
+      '!Chem-Tank_68': 8988946215537630633
+      '!Chem-Tank_69': -2739655992226166373
+      '!Chem-Tank_7': -4197151802832802889
+      '!Chem-Tank_70': -5298915541483753707
+      '!Chem-Tank_71': 101911194264708609
+      '!Chem-Tank_72': 4435624338968608184
+      '!Chem-Tank_73': 5682434777900377460
+      '!Chem-Tank_74': 7880690217294574566
+      '!Chem-Tank_75': -4989734429673329301
+      '!Chem-Tank_76': -6385361575189745516
+      '!Chem-Tank_77': 7055114470048281843
+      '!Chem-Tank_78': -971263912079469973
+      '!Chem-Tank_79': 1519655905232097172
+      '!Chem-Tank_8': 6121809000580061799
+      '!Chem-Tank_80': 6510023727400733560
+      '!Chem-Tank_81': -2142446022917067469
+      '!Chem-Tank_82': 4479489246994759332
+      '!Chem-Tank_83': -5999522664827655314
+      '!Chem-Tank_84': -7305631132208923189
+      '!Chem-Tank_85': -2251569694230117947
+      '!Chem-Tank_86': 13754383652706390
+      '!Chem-Tank_87': 480753347781782172
+      '!Chem-Tank_9': 120970240866994674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

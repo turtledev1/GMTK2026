@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 68abba10219b73e4f80d991e3acd9ac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1499255539617453052
+    second: Animal_Bugs_0
+  - first:
+      213: -8677590887597814877
+    second: Animal_Bugs_1
+  - first:
+      213: 720983300852061472
+    second: Animal_Bugs_2
+  - first:
+      213: 178353872798528570
+    second: Animal_Bugs_3
+  - first:
+      213: -1387565970724848883
+    second: Animal_Bugs_4
+  - first:
+      213: 6635638375603443148
+    second: Animal_Bugs_5
+  - first:
+      213: -4135554704637122718
+    second: Animal_Bugs_6
+  - first:
+      213: -472541354720112100
+    second: Animal_Bugs_7
+  - first:
+      213: 4961582515515237974
+    second: Animal_Bugs_8
+  - first:
+      213: 2758695015617578077
+    second: Animal_Bugs_9
+  - first:
+      213: -255550793207670074
+    second: Animal_Bugs_10
+  - first:
+      213: 8805639872171246581
+    second: Animal_Bugs_11
+  - first:
+      213: -5707892127112115193
+    second: Animal_Bugs_12
+  - first:
+      213: -7290787229051671415
+    second: Animal_Bugs_13
+  - first:
+      213: 2999971566906973013
+    second: Animal_Bugs_14
+  - first:
+      213: -2181681506552611689
+    second: Animal_Bugs_15
+  - first:
+      213: -3272184310654080915
+    second: Animal_Bugs_16
+  - first:
+      213: 229363004035421536
+    second: Animal_Bugs_17
+  - first:
+      213: 3567096089046095985
+    second: Animal_Bugs_18
+  - first:
+      213: 4487961455850714896
+    second: Animal_Bugs_19
+  - first:
+      213: -8244421137435023258
+    second: Animal_Bugs_20
+  - first:
+      213: 1985860272198183799
+    second: Animal_Bugs_21
+  - first:
+      213: 7382672416456827208
+    second: Animal_Bugs_22
+  - first:
+      213: 6359757337124938436
+    second: Animal_Bugs_23
+  - first:
+      213: -969322230415008009
+    second: Animal_Bugs_24
+  - first:
+      213: -3415851476351853378
+    second: Animal_Bugs_25
+  - first:
+      213: 1940972466903737125
+    second: Animal_Bugs_26
+  - first:
+      213: 8490310617027181767
+    second: Animal_Bugs_27
+  - first:
+      213: -220177735110544876
+    second: Animal_Bugs_28
+  - first:
+      213: -5315980328228088117
+    second: Animal_Bugs_29
+  - first:
+      213: -2236961435942398357
+    second: Animal_Bugs_30
+  - first:
+      213: 4948388555196958992
+    second: Animal_Bugs_31
+  - first:
+      213: -3271618681484038742
+    second: Animal_Bugs_32
+  - first:
+      213: 2866030549143606608
+    second: Animal_Bugs_33
+  - first:
+      213: -1181042944795844616
+    second: Animal_Bugs_34
+  - first:
+      213: -7926571427280639531
+    second: Animal_Bugs_35
+  - first:
+      213: 1517430704333757764
+    second: Animal_Bugs_36
+  - first:
+      213: -2758026950987161465
+    second: Animal_Bugs_37
+  - first:
+      213: 966517955245820059
+    second: Animal_Bugs_38
+  - first:
+      213: 3748914891927851793
+    second: Animal_Bugs_39
+  - first:
+      213: -4134630546886607332
+    second: Animal_Bugs_40
+  - first:
+      213: 6282931969454949943
+    second: Animal_Bugs_41
+  - first:
+      213: 2355765456499630112
+    second: Animal_Bugs_42
+  - first:
+      213: 7515681071837813141
+    second: Animal_Bugs_43
+  - first:
+      213: -4012809348803380397
+    second: Animal_Bugs_44
+  - first:
+      213: 2508626368121294199
+    second: Animal_Bugs_45
+  - first:
+      213: -196173621673186346
+    second: Animal_Bugs_46
+  - first:
+      213: 3409292728331347296
+    second: Animal_Bugs_47
+  - first:
+      213: 2149561016490456585
+    second: Animal_Bugs_48
+  - first:
+      213: 3088634649180338662
+    second: Animal_Bugs_49
+  - first:
+      213: 714143001390971643
+    second: Animal_Bugs_50
+  - first:
+      213: 7420218040496570893
+    second: Animal_Bugs_51
+  - first:
+      213: 7252803926791721323
+    second: Animal_Bugs_52
+  - first:
+      213: -2843346566691291428
+    second: Animal_Bugs_53
+  - first:
+      213: 1642523934944279441
+    second: Animal_Bugs_54
+  - first:
+      213: 3459269717686558106
+    second: Animal_Bugs_55
+  - first:
+      213: 3982890044034407106
+    second: Animal_Bugs_56
+  - first:
+      213: -3924296212405735145
+    second: Animal_Bugs_57
+  - first:
+      213: -6209363640900331533
+    second: Animal_Bugs_58
+  - first:
+      213: -5793119873542585777
+    second: Animal_Bugs_59
+  - first:
+      213: 941083675148106266
+    second: Animal_Bugs_60
+  - first:
+      213: 7170699209625755663
+    second: Animal_Bugs_61
+  - first:
+      213: -2439642187591666643
+    second: Animal_Bugs_62
+  - first:
+      213: -1567409792542582766
+    second: Animal_Bugs_63
+  - first:
+      213: -5071480593235978988
+    second: Animal_Bugs_64
+  - first:
+      213: 684697451096877075
+    second: Animal_Bugs_65
+  - first:
+      213: -1842116248032634164
+    second: Animal_Bugs_66
+  - first:
+      213: -37623410057408025
+    second: Animal_Bugs_67
+  - first:
+      213: -6794217649163440392
+    second: Animal_Bugs_68
+  - first:
+      213: -1813621142897829664
+    second: Animal_Bugs_69
+  - first:
+      213: -912062919885335983
+    second: Animal_Bugs_70
+  - first:
+      213: -4004666968807497800
+    second: Animal_Bugs_71
+  - first:
+      213: 7234345235949643319
+    second: Animal_Bugs_72
+  - first:
+      213: 7683799495214834135
+    second: Animal_Bugs_73
+  - first:
+      213: 8562331341827761348
+    second: Animal_Bugs_74
+  - first:
+      213: 6616264701150820041
+    second: Animal_Bugs_75
+  - first:
+      213: -2112926350535610968
+    second: Animal_Bugs_76
+  - first:
+      213: 4885278012827246787
+    second: Animal_Bugs_77
+  - first:
+      213: -608364186785250568
+    second: Animal_Bugs_78
+  - first:
+      213: 3915567959203759482
+    second: Animal_Bugs_79
+  - first:
+      213: -7159341199411988990
+    second: Animal_Bugs_80
+  - first:
+      213: 5360907785870236719
+    second: Animal_Bugs_81
+  - first:
+      213: -314840092047959545
+    second: Animal_Bugs_82
+  - first:
+      213: -5951511673885480289
+    second: Animal_Bugs_83
+  - first:
+      213: 1557452545346225443
+    second: Animal_Bugs_84
+  - first:
+      213: -3413730326847220301
+    second: Animal_Bugs_85
+  - first:
+      213: 1031272027317914244
+    second: Animal_Bugs_86
+  - first:
+      213: 3838022094762062526
+    second: Animal_Bugs_87
+  - first:
+      213: 8787376715885142572
+    second: Animal_Bugs_88
+  - first:
+      213: -6735345473649794130
+    second: Animal_Bugs_89
+  - first:
+      213: 5820443813797338361
+    second: Animal_Bugs_90
+  - first:
+      213: -6953036602519601580
+    second: Animal_Bugs_91
+  - first:
+      213: 2165177326027865390
+    second: Animal_Bugs_92
+  - first:
+      213: 7517595182132616138
+    second: Animal_Bugs_93
+  - first:
+      213: -77145316577682052
+    second: Animal_Bugs_94
+  - first:
+      213: -554221514060149921
+    second: Animal_Bugs_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Bugs_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 349
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf35f6a48fc6ec410800000000000000
+      internalID: 1499255539617453052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 348
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abc0964011039780800000000000000
+      internalID: -8677590887597814877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 347
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02596400e72710a00800000000000000
+      internalID: 720983300852061472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 342
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b87007e3a97200800000000000000
+      internalID: 178353872798528570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 342
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b768ce9106ebce0800000000000000
+      internalID: -1387565970724848883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 342
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc51bcb02f5861c50800000000000000
+      internalID: 6635638375603443148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 349
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a8e048ee8b96c0800000000000000
+      internalID: -4135554704637122718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 349
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12d93a34223179f0800000000000000
+      internalID: -472541354720112100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 349
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6562311a2051bd440800000000000000
+      internalID: 4961582515515237974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 343
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c681208ad84620800000000000000
+      internalID: 2758695015617578077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 343
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca99c458e9147cf0800000000000000
+      internalID: -255550793207670074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 343
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f388c83fcae33a70800000000000000
+      internalID: 8805639872171246581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 304
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccb332a5e79c0b0800000000000000
+      internalID: -5707892127112115193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cab67b4abe1da90800000000000000
+      internalID: -7290787229051671415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 304
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b13cdde3a02a920800000000000000
+      internalID: 2999971566906973013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 302
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c74e49a3c19b1e0800000000000000
+      internalID: -2181681506552611689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 302
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d686bdbc4bdd692d0800000000000000
+      internalID: -3272184310654080915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 302
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065d52cdf6cde2300800000000000000
+      internalID: 229363004035421536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 301
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17817436efed08130800000000000000
+      internalID: 3567096089046095985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 301
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01770a57a21784e30800000000000000
+      internalID: 4487961455850714896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 301
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a67408aee59d80800000000000000
+      internalID: -8244421137435023258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 308
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77beee165613f8b10800000000000000
+      internalID: 1985860272198183799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 308
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ebfb9275847660800000000000000
+      internalID: 7382672416456827208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 308
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c224094a95624850800000000000000
+      internalID: 6359757337124938436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe593f21964c82f0800000000000000
+      internalID: -969322230415008009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 256
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcdd822e257890d0800000000000000
+      internalID: -3415851476351853378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 256
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5236c98cc28bfea10800000000000000
+      internalID: 1940972466903737125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 254
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf1a8c584a3d570800000000000000
+      internalID: 8490310617027181767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 254
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41239473485c1fcf0800000000000000
+      internalID: -220177735110544876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 254
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc610078e08d936b0800000000000000
+      internalID: -5315980328228088117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 253
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66d76a0d67b4f0e0800000000000000
+      internalID: -2236961435942398357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 253
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0198f1b5c253ca440800000000000000
+      internalID: 4948388555196958992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 253
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadac999420e892d0800000000000000
+      internalID: -3271618681484038742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 260
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0555f1d799f26c720800000000000000
+      internalID: 2866030549143606608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 260
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff56faf2b71c9fe0800000000000000
+      internalID: -1181042944795844616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 260
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d92d2e98492ff190800000000000000
+      internalID: -7926571427280639531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 210
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d95179f2ffe0510800000000000000
+      internalID: 1517430704333757764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 211
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780e479c91589b9d0800000000000000
+      internalID: -2758026950987161465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 212
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98c67f95f2c96d00800000000000000
+      internalID: 966517955245820059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 205
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113188a4b32d60430800000000000000
+      internalID: 3748914891927851793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 205
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e385f7c67de96c0800000000000000
+      internalID: -4134630546886607332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 205
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736ce4b7655713750800000000000000
+      internalID: 6282931969454949943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 205
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ebc8833c51b020800000000000000
+      internalID: 2355765456499630112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 206
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59915047d101d4860800000000000000
+      internalID: 7515681071837813141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 205
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b35357823af48c0800000000000000
+      internalID: -4012809348803380397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 199
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d4c0af36e60d220800000000000000
+      internalID: 2508626368121294199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 199
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db2ed5612d074df0800000000000000
+      internalID: -196173621673186346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 199
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06523875cad305f20800000000000000
+      internalID: 3409292728331347296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 154
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906f0fa0b56c4dd10800000000000000
+      internalID: 2149561016490456585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97b5169d80dda20800000000000000
+      internalID: 3088634649180338662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_50
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 154
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7dbca64529e900800000000000000
+      internalID: 714143001390971643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 145
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d024ebb6ef8e9f660800000000000000
+      internalID: 7420218040496570893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b619af19eb227a460800000000000000
+      internalID: 7252803926791721323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef90fbc576a88d0800000000000000
+      internalID: -2843346566691291428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 155
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3e6df0da6bc610800000000000000
+      internalID: 1642523934944279441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 155
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d19f0fa7bc10030800000000000000
+      internalID: 3459269717686558106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca5c1e8461164730800000000000000
+      internalID: 3982890044034407106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 147
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711352af2691a89c0800000000000000
+      internalID: -3924296212405735145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 146
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d8eecaa8e3d9a0800000000000000
+      internalID: -6209363640900331533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_59
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 146
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f420d341b24ba9fa0800000000000000
+      internalID: -5793119873542585777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a3f11dd966f0d00800000000000000
+      internalID: 941083675148106266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00eaec60f0738360800000000000000
+      internalID: 7170699209625755663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 110
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24ba8d2b56a42ed0800000000000000
+      internalID: -2439642187591666643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 114
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d70229117f3ae0800000000000000
+      internalID: -1567409792542582766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 114
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415d1e2354b7e99b0800000000000000
+      internalID: -5071480593235978988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_65
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 114
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318ae3f34b8808900800000000000000
+      internalID: 684697451096877075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_66
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 111
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca1a09480d7f66e0800000000000000
+      internalID: -1842116248032634164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_67
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 111
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e11a4835b55a7ff0800000000000000
+      internalID: -37623410057408025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 110
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe6cee9b0716b1a0800000000000000
+      internalID: -6794217649163440392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8df64fd29b4d6e0800000000000000
+      internalID: -1813621142897829664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 98
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152dd6f4b93b753f0800000000000000
+      internalID: -912062919885335983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 98
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf1d780c909c68c0800000000000000
+      internalID: -4004666968807497800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 62
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366153b9ae856460800000000000000
+      internalID: 7234345235949643319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 62
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12b9d2ee652aa60800000000000000
+      internalID: 7683799495214834135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c466de7df283d670800000000000000
+      internalID: 8562331341827761348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 66
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6fc04f0b1b1db50800000000000000
+      internalID: 6616264701150820041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 66
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad23cfcda06da2e0800000000000000
+      internalID: -2112926350535610968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 66
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c02897287efbc340800000000000000
+      internalID: 4885278012827246787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_78
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 62
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f28890def7ae87f0800000000000000
+      internalID: -608364186785250568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_79
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 63
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75cd363054e65630800000000000000
+      internalID: 3915567959203759482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 63
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206ba376c19e4ac90800000000000000
+      internalID: -7159341199411988990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 50
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cdb6a5a35c56a40800000000000000
+      internalID: 5360907785870236719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1e68ba9671abf0800000000000000
+      internalID: -314840092047959545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_83
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 50
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a27714aabf76da0800000000000000
+      internalID: -5951511673885480289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c3e796de2d9510800000000000000
+      internalID: 1557452545346225443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_85
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b51b4dba5eff90d0800000000000000
+      internalID: -3413730326847220301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_86
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 10
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac417e170df4e00800000000000000
+      internalID: 1031272027317914244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2b46ea2c4634530800000000000000
+      internalID: 3838022094762062526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c226fd9c09803f970800000000000000
+      internalID: 8787376715885142572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3a1932afe3782a0800000000000000
+      internalID: -6735345473649794130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc92848fce56c050800000000000000
+      internalID: 5820443813797338361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 7
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eb78c7c0ad18f90800000000000000
+      internalID: -6953036602519601580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_92
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 7
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dfe917e414c0e10800000000000000
+      internalID: 2165177326027865390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd33cfcfcd35860800000000000000
+      internalID: 7517595182132616138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5d494ebcedeef0800000000000000
+      internalID: -77145316577682052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Bugs_95
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bc09728720f48f0800000000000000
+      internalID: -554221514060149921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Bugs_0: 1499255539617453052
+      Animal_Bugs_1: -8677590887597814877
+      Animal_Bugs_10: -255550793207670074
+      Animal_Bugs_11: 8805639872171246581
+      Animal_Bugs_12: -5707892127112115193
+      Animal_Bugs_13: -7290787229051671415
+      Animal_Bugs_14: 2999971566906973013
+      Animal_Bugs_15: -2181681506552611689
+      Animal_Bugs_16: -3272184310654080915
+      Animal_Bugs_17: 229363004035421536
+      Animal_Bugs_18: 3567096089046095985
+      Animal_Bugs_19: 4487961455850714896
+      Animal_Bugs_2: 720983300852061472
+      Animal_Bugs_20: -8244421137435023258
+      Animal_Bugs_21: 1985860272198183799
+      Animal_Bugs_22: 7382672416456827208
+      Animal_Bugs_23: 6359757337124938436
+      Animal_Bugs_24: -969322230415008009
+      Animal_Bugs_25: -3415851476351853378
+      Animal_Bugs_26: 1940972466903737125
+      Animal_Bugs_27: 8490310617027181767
+      Animal_Bugs_28: -220177735110544876
+      Animal_Bugs_29: -5315980328228088117
+      Animal_Bugs_3: 178353872798528570
+      Animal_Bugs_30: -2236961435942398357
+      Animal_Bugs_31: 4948388555196958992
+      Animal_Bugs_32: -3271618681484038742
+      Animal_Bugs_33: 2866030549143606608
+      Animal_Bugs_34: -1181042944795844616
+      Animal_Bugs_35: -7926571427280639531
+      Animal_Bugs_36: 1517430704333757764
+      Animal_Bugs_37: -2758026950987161465
+      Animal_Bugs_38: 966517955245820059
+      Animal_Bugs_39: 3748914891927851793
+      Animal_Bugs_4: -1387565970724848883
+      Animal_Bugs_40: -4134630546886607332
+      Animal_Bugs_41: 6282931969454949943
+      Animal_Bugs_42: 2355765456499630112
+      Animal_Bugs_43: 7515681071837813141
+      Animal_Bugs_44: -4012809348803380397
+      Animal_Bugs_45: 2508626368121294199
+      Animal_Bugs_46: -196173621673186346
+      Animal_Bugs_47: 3409292728331347296
+      Animal_Bugs_48: 2149561016490456585
+      Animal_Bugs_49: 3088634649180338662
+      Animal_Bugs_5: 6635638375603443148
+      Animal_Bugs_50: 714143001390971643
+      Animal_Bugs_51: 7420218040496570893
+      Animal_Bugs_52: 7252803926791721323
+      Animal_Bugs_53: -2843346566691291428
+      Animal_Bugs_54: 1642523934944279441
+      Animal_Bugs_55: 3459269717686558106
+      Animal_Bugs_56: 3982890044034407106
+      Animal_Bugs_57: -3924296212405735145
+      Animal_Bugs_58: -6209363640900331533
+      Animal_Bugs_59: -5793119873542585777
+      Animal_Bugs_6: -4135554704637122718
+      Animal_Bugs_60: 941083675148106266
+      Animal_Bugs_61: 7170699209625755663
+      Animal_Bugs_62: -2439642187591666643
+      Animal_Bugs_63: -1567409792542582766
+      Animal_Bugs_64: -5071480593235978988
+      Animal_Bugs_65: 684697451096877075
+      Animal_Bugs_66: -1842116248032634164
+      Animal_Bugs_67: -37623410057408025
+      Animal_Bugs_68: -6794217649163440392
+      Animal_Bugs_69: -1813621142897829664
+      Animal_Bugs_7: -472541354720112100
+      Animal_Bugs_70: -912062919885335983
+      Animal_Bugs_71: -4004666968807497800
+      Animal_Bugs_72: 7234345235949643319
+      Animal_Bugs_73: 7683799495214834135
+      Animal_Bugs_74: 8562331341827761348
+      Animal_Bugs_75: 6616264701150820041
+      Animal_Bugs_76: -2112926350535610968
+      Animal_Bugs_77: 4885278012827246787
+      Animal_Bugs_78: -608364186785250568
+      Animal_Bugs_79: 3915567959203759482
+      Animal_Bugs_8: 4961582515515237974
+      Animal_Bugs_80: -7159341199411988990
+      Animal_Bugs_81: 5360907785870236719
+      Animal_Bugs_82: -314840092047959545
+      Animal_Bugs_83: -5951511673885480289
+      Animal_Bugs_84: 1557452545346225443
+      Animal_Bugs_85: -3413730326847220301
+      Animal_Bugs_86: 1031272027317914244
+      Animal_Bugs_87: 3838022094762062526
+      Animal_Bugs_88: 8787376715885142572
+      Animal_Bugs_89: -6735345473649794130
+      Animal_Bugs_9: 2758695015617578077
+      Animal_Bugs_90: 5820443813797338361
+      Animal_Bugs_91: -6953036602519601580
+      Animal_Bugs_92: 2165177326027865390
+      Animal_Bugs_93: 7517595182132616138
+      Animal_Bugs_94: -77145316577682052
+      Animal_Bugs_95: -554221514060149921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

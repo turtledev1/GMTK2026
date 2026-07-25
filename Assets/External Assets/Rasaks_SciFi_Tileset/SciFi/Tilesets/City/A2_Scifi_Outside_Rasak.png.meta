@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 1e430563fe391c44a98837d9048eac6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7584698620704889411
+    second: A2_Scifi_Outside_Rasak_0
+  - first:
+      213: -3760216064997243235
+    second: A2_Scifi_Outside_Rasak_1
+  - first:
+      213: -5068042273101843135
+    second: A2_Scifi_Outside_Rasak_2
+  - first:
+      213: -2887700642750405576
+    second: A2_Scifi_Outside_Rasak_3
+  - first:
+      213: 365190233105748129
+    second: A2_Scifi_Outside_Rasak_4
+  - first:
+      213: -1986211425897320778
+    second: A2_Scifi_Outside_Rasak_5
+  - first:
+      213: -3597128477513992623
+    second: A2_Scifi_Outside_Rasak_6
+  - first:
+      213: 7490620382269679271
+    second: A2_Scifi_Outside_Rasak_7
+  - first:
+      213: -1904965513421087722
+    second: A2_Scifi_Outside_Rasak_8
+  - first:
+      213: 2003028739671703510
+    second: A2_Scifi_Outside_Rasak_9
+  - first:
+      213: 2579499588193879019
+    second: A2_Scifi_Outside_Rasak_10
+  - first:
+      213: -8145775105908608531
+    second: A2_Scifi_Outside_Rasak_11
+  - first:
+      213: 68445536891535743
+    second: A2_Scifi_Outside_Rasak_12
+  - first:
+      213: -5050862880185561762
+    second: A2_Scifi_Outside_Rasak_13
+  - first:
+      213: 3703850051536503386
+    second: A2_Scifi_Outside_Rasak_14
+  - first:
+      213: 3889005824696968314
+    second: A2_Scifi_Outside_Rasak_15
+  - first:
+      213: 2992052737900584143
+    second: A2_Scifi_Outside_Rasak_16
+  - first:
+      213: 2367932602384163302
+    second: A2_Scifi_Outside_Rasak_17
+  - first:
+      213: 2810750281847828832
+    second: A2_Scifi_Outside_Rasak_18
+  - first:
+      213: -6385757132783155247
+    second: A2_Scifi_Outside_Rasak_19
+  - first:
+      213: -6855763374618916789
+    second: A2_Scifi_Outside_Rasak_20
+  - first:
+      213: 8709318231600222989
+    second: A2_Scifi_Outside_Rasak_21
+  - first:
+      213: -8947627980572505033
+    second: A2_Scifi_Outside_Rasak_22
+  - first:
+      213: -3967921081887366649
+    second: A2_Scifi_Outside_Rasak_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 554
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9287c533424960800000000000000
+      internalID: 7584698620704889411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 527
+        width: 298
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d964f1f496701dbc0800000000000000
+      internalID: -3760216064997243235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 383
+        width: 286
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f91d7762baa9b0800000000000000
+      internalID: -5068042273101843135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 297
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e13ba093dce7d0800000000000000
+      internalID: -2887700642750405576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 290
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d5b7059a611500800000000000000
+      internalID: 365190233105748129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 291
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be61964b3f8f64e0800000000000000
+      internalID: -1986211425897320778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 118
+        width: 289
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156365645be641ec0800000000000000
+      internalID: -3597128477513992623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 132
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a62c78fc8704f760800000000000000
+      internalID: 7490620382269679271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 120
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c9a2f55f33095e0800000000000000
+      internalID: -1904965513421087722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfb707b6003ccb10800000000000000
+      internalID: 2003028739671703510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 108
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3009c65393cc320800000000000000
+      internalID: 2579499588193879019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 96
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f81803b464fe80800000000000000
+      internalID: -8145775105908608531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 71
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7181e86ada23f000800000000000000
+      internalID: 68445536891535743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 71
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d455998fab7e9b0800000000000000
+      internalID: -5050862880185561762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 71
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52452f7ff7b66330800000000000000
+      internalID: 3703850051536503386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 71
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ec76513688f530800000000000000
+      internalID: 3889005824696968314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 61
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9ccfcc18e58920800000000000000
+      internalID: 2992052737900584143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 49
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ac21f7269cd020800000000000000
+      internalID: 2367932602384163302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 37
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617ed54d7ac10720800000000000000
+      internalID: 2810750281847828832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 25
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d70b8e88bb3167a0800000000000000
+      internalID: -6385757132783155247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48c4bfb88f6bd0a0800000000000000
+      internalID: -6855763374618916789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d035d56a9c6bdd870800000000000000
+      internalID: 8709318231600222989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c41ab12c3a3d380800000000000000
+      internalID: -8947627980572505033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Scifi_Outside_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702e1598ccc1fe8c0800000000000000
+      internalID: -3967921081887366649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A2_Scifi_Outside_Rasak_0: 7584698620704889411
+      A2_Scifi_Outside_Rasak_1: -3760216064997243235
+      A2_Scifi_Outside_Rasak_10: 2579499588193879019
+      A2_Scifi_Outside_Rasak_11: -8145775105908608531
+      A2_Scifi_Outside_Rasak_12: 68445536891535743
+      A2_Scifi_Outside_Rasak_13: -5050862880185561762
+      A2_Scifi_Outside_Rasak_14: 3703850051536503386
+      A2_Scifi_Outside_Rasak_15: 3889005824696968314
+      A2_Scifi_Outside_Rasak_16: 2992052737900584143
+      A2_Scifi_Outside_Rasak_17: 2367932602384163302
+      A2_Scifi_Outside_Rasak_18: 2810750281847828832
+      A2_Scifi_Outside_Rasak_19: -6385757132783155247
+      A2_Scifi_Outside_Rasak_2: -5068042273101843135
+      A2_Scifi_Outside_Rasak_20: -6855763374618916789
+      A2_Scifi_Outside_Rasak_21: 8709318231600222989
+      A2_Scifi_Outside_Rasak_22: -8947627980572505033
+      A2_Scifi_Outside_Rasak_23: -3967921081887366649
+      A2_Scifi_Outside_Rasak_3: -2887700642750405576
+      A2_Scifi_Outside_Rasak_4: 365190233105748129
+      A2_Scifi_Outside_Rasak_5: -1986211425897320778
+      A2_Scifi_Outside_Rasak_6: -3597128477513992623
+      A2_Scifi_Outside_Rasak_7: 7490620382269679271
+      A2_Scifi_Outside_Rasak_8: -1904965513421087722
+      A2_Scifi_Outside_Rasak_9: 2003028739671703510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

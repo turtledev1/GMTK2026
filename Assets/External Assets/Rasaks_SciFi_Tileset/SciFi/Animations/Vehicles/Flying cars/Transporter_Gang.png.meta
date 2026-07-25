@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 0194f35c2e5b8ef48bf1154145a5bf38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3358932328354227385
+    second: Transporter_Gang_0
+  - first:
+      213: 6656214757818464635
+    second: Transporter_Gang_1
+  - first:
+      213: 5378949324942924491
+    second: Transporter_Gang_2
+  - first:
+      213: -8058016870437543373
+    second: Transporter_Gang_3
+  - first:
+      213: -7634861408659747398
+    second: Transporter_Gang_4
+  - first:
+      213: 8630410941625398839
+    second: Transporter_Gang_5
+  - first:
+      213: 3671605414655117060
+    second: Transporter_Gang_6
+  - first:
+      213: 2005356796822776444
+    second: Transporter_Gang_7
+  - first:
+      213: -2504758171515318683
+    second: Transporter_Gang_8
+  - first:
+      213: -8124936951907938699
+    second: Transporter_Gang_9
+  - first:
+      213: 5058808183072151708
+    second: Transporter_Gang_10
+  - first:
+      213: -4758451992698293195
+    second: Transporter_Gang_11
+  - first:
+      213: 7940282665957322071
+    second: Transporter_Gang_12
+  - first:
+      213: -5288974103041387855
+    second: Transporter_Gang_13
+  - first:
+      213: -479802242229855891
+    second: Transporter_Gang_14
+  - first:
+      213: -5356794705485050049
+    second: Transporter_Gang_15
+  - first:
+      213: -1191824797509961963
+    second: Transporter_Gang_16
+  - first:
+      213: -2092983848133392471
+    second: Transporter_Gang_17
+  - first:
+      213: -7084273803499644866
+    second: Transporter_Gang_18
+  - first:
+      213: 990748759155913250
+    second: Transporter_Gang_19
+  - first:
+      213: -5757025295982580598
+    second: Transporter_Gang_20
+  - first:
+      213: 4881872776787826020
+    second: Transporter_Gang_21
+  - first:
+      213: -7748521514229739984
+    second: Transporter_Gang_22
+  - first:
+      213: -1083104427463536726
+    second: Transporter_Gang_23
+  - first:
+      213: 4561642502885878935
+    second: Transporter_Gang_24
+  - first:
+      213: 3465067646863385965
+    second: Transporter_Gang_25
+  - first:
+      213: 5661390931469482111
+    second: Transporter_Gang_26
+  - first:
+      213: 368688260055656526
+    second: Transporter_Gang_27
+  - first:
+      213: -2040135195427440155
+    second: Transporter_Gang_28
+  - first:
+      213: -4933326409674472598
+    second: Transporter_Gang_29
+  - first:
+      213: -151495818389171220
+    second: Transporter_Gang_30
+  - first:
+      213: -7141936293956515194
+    second: Transporter_Gang_31
+  - first:
+      213: -7532488080342044230
+    second: Transporter_Gang_32
+  - first:
+      213: 4092425173260550783
+    second: Transporter_Gang_33
+  - first:
+      213: -4717603094360093379
+    second: Transporter_Gang_34
+  - first:
+      213: 4010460108108832499
+    second: Transporter_Gang_35
+  - first:
+      213: -3962260685343299447
+    second: Transporter_Gang_36
+  - first:
+      213: -5641227835394081367
+    second: Transporter_Gang_37
+  - first:
+      213: 5104213076535051437
+    second: Transporter_Gang_38
+  - first:
+      213: 729648922371388912
+    second: Transporter_Gang_39
+  - first:
+      213: 1038827516282528224
+    second: Transporter_Gang_40
+  - first:
+      213: -1936624275328964734
+    second: Transporter_Gang_41
+  - first:
+      213: -155772594823973827
+    second: Transporter_Gang_42
+  - first:
+      213: 5147072479949120703
+    second: Transporter_Gang_43
+  - first:
+      213: 4756193383143117410
+    second: Transporter_Gang_44
+  - first:
+      213: -392650967721244947
+    second: Transporter_Gang_45
+  - first:
+      213: -8006917203675979156
+    second: Transporter_Gang_46
+  - first:
+      213: -9152952113324002119
+    second: Transporter_Gang_47
+  - first:
+      213: 650681490239238839
+    second: Transporter_Gang_48
+  - first:
+      213: -982202639781245619
+    second: Transporter_Gang_49
+  - first:
+      213: 7026570040179475326
+    second: Transporter_Gang_50
+  - first:
+      213: -1094556816822214114
+    second: Transporter_Gang_51
+  - first:
+      213: -2598210909466020250
+    second: Transporter_Gang_52
+  - first:
+      213: -5594281129067433197
+    second: Transporter_Gang_53
+  - first:
+      213: -6876867684340260274
+    second: Transporter_Gang_54
+  - first:
+      213: -3402005130704466260
+    second: Transporter_Gang_55
+  - first:
+      213: -130542092027480543
+    second: Transporter_Gang_56
+  - first:
+      213: 6582227658742434286
+    second: Transporter_Gang_57
+  - first:
+      213: 4264912581168173379
+    second: Transporter_Gang_58
+  - first:
+      213: -170405625905859511
+    second: Transporter_Gang_59
+  - first:
+      213: -3235173182378559175
+    second: Transporter_Gang_60
+  - first:
+      213: -2585532215586413573
+    second: Transporter_Gang_61
+  - first:
+      213: -2186373276775033848
+    second: Transporter_Gang_62
+  - first:
+      213: -3399699133164958233
+    second: Transporter_Gang_63
+  - first:
+      213: 1967242861760774761
+    second: Transporter_Gang_64
+  - first:
+      213: -5234329555902551099
+    second: Transporter_Gang_65
+  - first:
+      213: 7221144631975332369
+    second: Transporter_Gang_66
+  - first:
+      213: -5197191442592219470
+    second: Transporter_Gang_67
+  - first:
+      213: 6954505878923691584
+    second: Transporter_Gang_68
+  - first:
+      213: 2202727161917281906
+    second: Transporter_Gang_69
+  - first:
+      213: 1969765339639536080
+    second: Transporter_Gang_70
+  - first:
+      213: 7851601458812399315
+    second: Transporter_Gang_71
+  - first:
+      213: 8182926319231354501
+    second: Transporter_Gang_72
+  - first:
+      213: 5302515395441917883
+    second: Transporter_Gang_73
+  - first:
+      213: -7649756230921382608
+    second: Transporter_Gang_74
+  - first:
+      213: 1962547270629441158
+    second: Transporter_Gang_75
+  - first:
+      213: -4489846096850002684
+    second: Transporter_Gang_76
+  - first:
+      213: -2350650726470002223
+    second: Transporter_Gang_77
+  - first:
+      213: -9113395168823476528
+    second: Transporter_Gang_78
+  - first:
+      213: -2605888985316991450
+    second: Transporter_Gang_79
+  - first:
+      213: -7792934481533157229
+    second: Transporter_Gang_80
+  - first:
+      213: 4047999314769333597
+    second: Transporter_Gang_81
+  - first:
+      213: -8409130443238867380
+    second: Transporter_Gang_82
+  - first:
+      213: 4953029863981575487
+    second: Transporter_Gang_83
+  - first:
+      213: 5055546300283478701
+    second: Transporter_Gang_84
+  - first:
+      213: -3305396755075172198
+    second: Transporter_Gang_85
+  - first:
+      213: 2202724380777044703
+    second: Transporter_Gang_86
+  - first:
+      213: 3858914673217527682
+    second: Transporter_Gang_87
+  - first:
+      213: 3797719309367605471
+    second: Transporter_Gang_88
+  - first:
+      213: 6284428500458956009
+    second: Transporter_Gang_89
+  - first:
+      213: -4199481034017009656
+    second: Transporter_Gang_90
+  - first:
+      213: -8879694410326850699
+    second: Transporter_Gang_91
+  - first:
+      213: 6929061494628623193
+    second: Transporter_Gang_92
+  - first:
+      213: -7389347448637746978
+    second: Transporter_Gang_93
+  - first:
+      213: -3472684618337203630
+    second: Transporter_Gang_94
+  - first:
+      213: 3524721528478557358
+    second: Transporter_Gang_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Transporter_Gang_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bdedff7dca261d0800000000000000
+      internalID: -3358932328354227385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b797b7c5e00af5c50800000000000000
+      internalID: 6656214757818464635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcadc0289edd5aa40800000000000000
+      internalID: 5378949324942924491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332277b795c2c2090800000000000000
+      internalID: -8058016870437543373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd4f7300068b0690800000000000000
+      internalID: -7634861408659747398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736f939860165c770800000000000000
+      internalID: 8630410941625398839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074befeba924f230800000000000000
+      internalID: 3671605414655117060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_7
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6982c16574db10800000000000000
+      internalID: 2005356796822776444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_8
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e829ab6bf4d3dd0800000000000000
+      internalID: -2504758171515318683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_9
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1347
+        width: 117
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e0517d3ec6e3f80800000000000000
+      internalID: -8124936951907938699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_10
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1346
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98dad26d3f743640800000000000000
+      internalID: 5058808183072151708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_11
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1345
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f77ebf1596fdb0800000000000000
+      internalID: -4758451992698293195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de398e30d813e60800000000000000
+      internalID: 7940282665957322071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25af1531ac996b0800000000000000
+      internalID: -5288974103041387855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1195
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69147d17666759f0800000000000000
+      internalID: -479802242229855891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fcedcc897d8a5b0800000000000000
+      internalID: -5356794705485050049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_16
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517bae549a9c57fe0800000000000000
+      internalID: -1191824797509961963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_17
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1195
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7016b774a34f2e0800000000000000
+      internalID: -2092983848133392471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_18
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385cc2828a9fad90800000000000000
+      internalID: -7084273803499644866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_19
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b52b4fb8dfbd00800000000000000
+      internalID: 990748759155913250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_20
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1195
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c250eceffea10b0800000000000000
+      internalID: -5757025295982580598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_21
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1193
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465961bdc65efb340800000000000000
+      internalID: 4881872776787826020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_22
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1194
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e4dd97cb8b77490800000000000000
+      internalID: -7748521514229739984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_23
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1195
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0262034a08f0f0800000000000000
+      internalID: -1083104427463536726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c26d010b53e4f30800000000000000
+      internalID: 4561642502885878935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65adf58aa4661030800000000000000
+      internalID: 3465067646863385965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f783bdc8e0d419e40800000000000000
+      internalID: 5661390931469482111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_27
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e486975e408dd1500800000000000000
+      internalID: 368688260055656526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e976ce49dbffa3e0800000000000000
+      internalID: -2040135195427440155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_29
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63cc4ea4cd498bb0800000000000000
+      internalID: -4933326409674472598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_30
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d4f71b57c5edf0800000000000000
+      internalID: -151495818389171220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_31
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a804eb7ceb2ec90800000000000000
+      internalID: -7141936293956515194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_32
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab13950fff9377790800000000000000
+      internalID: -7532488080342044230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_33
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1003
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72cf0233073bc830800000000000000
+      internalID: 4092425173260550783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_34
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1002
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d02690bf4b78eb0800000000000000
+      internalID: -4717603094360093379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_35
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1001
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe93b1583408a730800000000000000
+      internalID: 4010460108108832499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988ed9e46e83309c0800000000000000
+      internalID: -3962260685343299447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad3a461c2556b1b0800000000000000
+      internalID: -5641227835394081367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da486c4ffbec5d640800000000000000
+      internalID: 5104213076535051437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f571bc34db302a00800000000000000
+      internalID: 729648922371388912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_40
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1ebe24f18aa6e00800000000000000
+      internalID: 1038827516282528224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_41
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876e957b7abf15e0800000000000000
+      internalID: -1936624275328964734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_42
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b6cb76a596ddf0800000000000000
+      internalID: -155772594823973827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_43
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb46e8076231e6740800000000000000
+      internalID: 5147072479949120703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_44
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2621f4dbea4610240800000000000000
+      internalID: 4756193383143117410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_45
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 775
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6034476060d8af0800000000000000
+      internalID: -392650967721244947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_46
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 776
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ede8c937b1e090800000000000000
+      internalID: -8006917203675979156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_47
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 777
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4792f1c8e2af080800000000000000
+      internalID: -9152952113324002119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 579
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b1af2e5fa70900800000000000000
+      internalID: 650681490239238839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 578
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d436e27e38e52f0800000000000000
+      internalID: -982202639781245619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_50
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 577
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73cc422934638160800000000000000
+      internalID: 7026570040179475326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_51
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 579
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1264d2df5a5fc0f0800000000000000
+      internalID: -1094556816822214114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_52
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 578
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666bbb991fc41fbd0800000000000000
+      internalID: -2598210909466020250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_53
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 577
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b340f3fe1d52b0800000000000000
+      internalID: -5594281129067433197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_54
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 579
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42298bb6457090a0800000000000000
+      internalID: -6876867684340260274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_55
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 578
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caecd44bb56a9c0d0800000000000000
+      internalID: -3402005130704466260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_56
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 577
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263770b8a8303ef0800000000000000
+      internalID: -130542092027480543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_57
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 579
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee908167e25c85b50800000000000000
+      internalID: 6582227658742434286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_58
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 578
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3419f966563003b30800000000000000
+      internalID: 4264912581168173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_59
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 577
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94437207cf892adf0800000000000000
+      internalID: -170405625905859511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 425
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939b47d912b5a13d0800000000000000
+      internalID: -3235173182378559175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 426
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3a4ae06285e1cd0800000000000000
+      internalID: -2585532215586413573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_62
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 427
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804da63b61178a1e0800000000000000
+      internalID: -2186373276775033848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_63
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 425
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edcf7896a7d1d0d0800000000000000
+      internalID: -3399699133164958233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_64
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 426
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9628c2ab5fc0d4b10800000000000000
+      internalID: 1967242861760774761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_65
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 427
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba917600deb57b0800000000000000
+      internalID: -5234329555902551099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_66
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 425
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11acb9498c8a63460800000000000000
+      internalID: 7221144631975332369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_67
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 426
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be379a3beddfd7b0800000000000000
+      internalID: -5197191442592219470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_68
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 427
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046cc95104e538060800000000000000
+      internalID: 6954505878923691584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_69
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 425
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2761f27eea8a19e10800000000000000
+      internalID: 2202727161917281906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_70
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 426
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d95710e323065b10800000000000000
+      internalID: 1969765339639536080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_71
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 427
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dea37e5ded76fc60800000000000000
+      internalID: 7851601458812399315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 235
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586caf0e1289f8170800000000000000
+      internalID: 8182926319231354501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 234
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbffa5188a1569940800000000000000
+      internalID: 5302515395441917883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_74
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 233
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359995fc3b96d590800000000000000
+      internalID: -7649756230921382608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_75
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 235
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb7c8385e5c3b10800000000000000
+      internalID: 1962547270629441158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_76
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 234
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd41d53ccd0b1c0800000000000000
+      internalID: -4489846096850002684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_77
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 233
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9ddb95e9fc06fd0800000000000000
+      internalID: -2350650726470002223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_78
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 235
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def388f067b68180800000000000000
+      internalID: -9113395168823476528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_79
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 234
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ed31246c506dbd0800000000000000
+      internalID: -2605888985316991450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_80
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 233
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c256b06fe9d390800000000000000
+      internalID: -7792934481533157229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_81
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 235
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc9d7fde16d2830800000000000000
+      internalID: 4047999314769333597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_82
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 234
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ef2d45a64cc4b80800000000000000
+      internalID: -8409130443238867380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_83
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 233
+        width: 207
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de5844b62bcb440800000000000000
+      internalID: 4953029863981575487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_84
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2efed1398e82640800000000000000
+      internalID: 5055546300283478701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 8
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98f30cf92fd022d0800000000000000
+      internalID: -3305396755075172198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_86
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 9
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdade4e5726a19e10800000000000000
+      internalID: 2202724380777044703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_87
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f5cab237e9d8530800000000000000
+      internalID: 3858914673217527682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_88
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 8
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87f77379534b430800000000000000
+      internalID: 3797719309367605471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_89
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 9
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e46232cc66c63750800000000000000
+      internalID: 6284428500458956009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_90
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 7
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8001d66df3278b5c0800000000000000
+      internalID: -4199481034017009656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_91
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 8
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573427efafcf4c480800000000000000
+      internalID: -8879694410326850699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_92
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 9
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9532d26b7b8f82060800000000000000
+      internalID: 6929061494628623193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_93
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 7
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0120a55a3c37990800000000000000
+      internalID: -7389347448637746978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_94
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 8
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4c0b1dbb8ecfc0800000000000000
+      internalID: -3472684618337203630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transporter_Gang_95
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 9
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e22d2e835ae030800000000000000
+      internalID: 3524721528478557358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Transporter_Gang_0: -3358932328354227385
+      Transporter_Gang_1: 6656214757818464635
+      Transporter_Gang_10: 5058808183072151708
+      Transporter_Gang_11: -4758451992698293195
+      Transporter_Gang_12: 7940282665957322071
+      Transporter_Gang_13: -5288974103041387855
+      Transporter_Gang_14: -479802242229855891
+      Transporter_Gang_15: -5356794705485050049
+      Transporter_Gang_16: -1191824797509961963
+      Transporter_Gang_17: -2092983848133392471
+      Transporter_Gang_18: -7084273803499644866
+      Transporter_Gang_19: 990748759155913250
+      Transporter_Gang_2: 5378949324942924491
+      Transporter_Gang_20: -5757025295982580598
+      Transporter_Gang_21: 4881872776787826020
+      Transporter_Gang_22: -7748521514229739984
+      Transporter_Gang_23: -1083104427463536726
+      Transporter_Gang_24: 4561642502885878935
+      Transporter_Gang_25: 3465067646863385965
+      Transporter_Gang_26: 5661390931469482111
+      Transporter_Gang_27: 368688260055656526
+      Transporter_Gang_28: -2040135195427440155
+      Transporter_Gang_29: -4933326409674472598
+      Transporter_Gang_3: -8058016870437543373
+      Transporter_Gang_30: -151495818389171220
+      Transporter_Gang_31: -7141936293956515194
+      Transporter_Gang_32: -7532488080342044230
+      Transporter_Gang_33: 4092425173260550783
+      Transporter_Gang_34: -4717603094360093379
+      Transporter_Gang_35: 4010460108108832499
+      Transporter_Gang_36: -3962260685343299447
+      Transporter_Gang_37: -5641227835394081367
+      Transporter_Gang_38: 5104213076535051437
+      Transporter_Gang_39: 729648922371388912
+      Transporter_Gang_4: -7634861408659747398
+      Transporter_Gang_40: 1038827516282528224
+      Transporter_Gang_41: -1936624275328964734
+      Transporter_Gang_42: -155772594823973827
+      Transporter_Gang_43: 5147072479949120703
+      Transporter_Gang_44: 4756193383143117410
+      Transporter_Gang_45: -392650967721244947
+      Transporter_Gang_46: -8006917203675979156
+      Transporter_Gang_47: -9152952113324002119
+      Transporter_Gang_48: 650681490239238839
+      Transporter_Gang_49: -982202639781245619
+      Transporter_Gang_5: 8630410941625398839
+      Transporter_Gang_50: 7026570040179475326
+      Transporter_Gang_51: -1094556816822214114
+      Transporter_Gang_52: -2598210909466020250
+      Transporter_Gang_53: -5594281129067433197
+      Transporter_Gang_54: -6876867684340260274
+      Transporter_Gang_55: -3402005130704466260
+      Transporter_Gang_56: -130542092027480543
+      Transporter_Gang_57: 6582227658742434286
+      Transporter_Gang_58: 4264912581168173379
+      Transporter_Gang_59: -170405625905859511
+      Transporter_Gang_6: 3671605414655117060
+      Transporter_Gang_60: -3235173182378559175
+      Transporter_Gang_61: -2585532215586413573
+      Transporter_Gang_62: -2186373276775033848
+      Transporter_Gang_63: -3399699133164958233
+      Transporter_Gang_64: 1967242861760774761
+      Transporter_Gang_65: -5234329555902551099
+      Transporter_Gang_66: 7221144631975332369
+      Transporter_Gang_67: -5197191442592219470
+      Transporter_Gang_68: 6954505878923691584
+      Transporter_Gang_69: 2202727161917281906
+      Transporter_Gang_7: 2005356796822776444
+      Transporter_Gang_70: 1969765339639536080
+      Transporter_Gang_71: 7851601458812399315
+      Transporter_Gang_72: 8182926319231354501
+      Transporter_Gang_73: 5302515395441917883
+      Transporter_Gang_74: -7649756230921382608
+      Transporter_Gang_75: 1962547270629441158
+      Transporter_Gang_76: -4489846096850002684
+      Transporter_Gang_77: -2350650726470002223
+      Transporter_Gang_78: -9113395168823476528
+      Transporter_Gang_79: -2605888985316991450
+      Transporter_Gang_8: -2504758171515318683
+      Transporter_Gang_80: -7792934481533157229
+      Transporter_Gang_81: 4047999314769333597
+      Transporter_Gang_82: -8409130443238867380
+      Transporter_Gang_83: 4953029863981575487
+      Transporter_Gang_84: 5055546300283478701
+      Transporter_Gang_85: -3305396755075172198
+      Transporter_Gang_86: 2202724380777044703
+      Transporter_Gang_87: 3858914673217527682
+      Transporter_Gang_88: 3797719309367605471
+      Transporter_Gang_89: 6284428500458956009
+      Transporter_Gang_9: -8124936951907938699
+      Transporter_Gang_90: -4199481034017009656
+      Transporter_Gang_91: -8879694410326850699
+      Transporter_Gang_92: 6929061494628623193
+      Transporter_Gang_93: -7389347448637746978
+      Transporter_Gang_94: -3472684618337203630
+      Transporter_Gang_95: 3524721528478557358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

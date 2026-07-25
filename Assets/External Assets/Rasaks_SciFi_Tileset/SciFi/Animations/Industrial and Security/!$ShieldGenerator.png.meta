@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: f181d60bf20a68d48836aa30e3132bed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4245024309009520332
+    second: '!$ShieldGenerator_0'
+  - first:
+      213: 3203839463986506651
+    second: '!$ShieldGenerator_1'
+  - first:
+      213: 6917723480471503431
+    second: '!$ShieldGenerator_2'
+  - first:
+      213: 2579988355944172355
+    second: '!$ShieldGenerator_3'
+  - first:
+      213: 1498838203448095340
+    second: '!$ShieldGenerator_4'
+  - first:
+      213: 8466497467187723101
+    second: '!$ShieldGenerator_5'
+  - first:
+      213: 3204996181052381291
+    second: '!$ShieldGenerator_6'
+  - first:
+      213: -1943788892382933449
+    second: '!$ShieldGenerator_7'
+  - first:
+      213: -8089061399197087994
+    second: '!$ShieldGenerator_8'
+  - first:
+      213: -1241119620808636188
+    second: '!$ShieldGenerator_9'
+  - first:
+      213: -4557142378067422041
+    second: '!$ShieldGenerator_10'
+  - first:
+      213: -6940287483020497702
+    second: '!$ShieldGenerator_11'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_0'
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e69ec1e4a615c0800000000000000
+      internalID: -4245024309009520332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_1'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b2b409403567c20800000000000000
+      internalID: 3203839463986506651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_2'
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 287
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74202e39ad0b00060800000000000000
+      internalID: 6917723480471503431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_3'
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b42b88db5fdc320800000000000000
+      internalID: 2579988355944172355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_4'
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 191
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62fe44a761fcc410800000000000000
+      internalID: 1498838203448095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_5'
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 191
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf777c69a0f7570800000000000000
+      internalID: 8466497467187723101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_6'
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b685c1ebb0f6a7c20800000000000000
+      internalID: 3204996181052381291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_7'
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e4a2f0d464605e0800000000000000
+      internalID: -1943788892382933449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_8'
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 95
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607888ed381edbf80800000000000000
+      internalID: -8089061399197087994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_9'
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e80fe5d748a6cee0800000000000000
+      internalID: -1241119620808636188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_10'
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a49964e627c1c0c0800000000000000
+      internalID: -4557142378067422041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ShieldGenerator_11'
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc297f2e452faf90800000000000000
+      internalID: -6940287483020497702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$ShieldGenerator_0': -4245024309009520332
+      '!$ShieldGenerator_1': 3203839463986506651
+      '!$ShieldGenerator_10': -4557142378067422041
+      '!$ShieldGenerator_11': -6940287483020497702
+      '!$ShieldGenerator_2': 6917723480471503431
+      '!$ShieldGenerator_3': 2579988355944172355
+      '!$ShieldGenerator_4': 1498838203448095340
+      '!$ShieldGenerator_5': 8466497467187723101
+      '!$ShieldGenerator_6': 3204996181052381291
+      '!$ShieldGenerator_7': -1943788892382933449
+      '!$ShieldGenerator_8': -8089061399197087994
+      '!$ShieldGenerator_9': -1241119620808636188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

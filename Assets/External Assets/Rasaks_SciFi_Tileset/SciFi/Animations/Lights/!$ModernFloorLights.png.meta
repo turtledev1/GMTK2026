@@ -1,0 +1,6370 @@
+fileFormatVersion: 2
+guid: 9619324e5d509e24eb1b9483c9cbadee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3018181602561553933
+    second: '!$ModernFloorLights_0'
+  - first:
+      213: -1497143127599968869
+    second: '!$ModernFloorLights_1'
+  - first:
+      213: 3493937408006882546
+    second: '!$ModernFloorLights_2'
+  - first:
+      213: 2354790493466585938
+    second: '!$ModernFloorLights_3'
+  - first:
+      213: -4072228211437477043
+    second: '!$ModernFloorLights_4'
+  - first:
+      213: 60787716246978276
+    second: '!$ModernFloorLights_5'
+  - first:
+      213: -2848787859582750514
+    second: '!$ModernFloorLights_6'
+  - first:
+      213: -5025005552192908792
+    second: '!$ModernFloorLights_7'
+  - first:
+      213: -2736089371664515314
+    second: '!$ModernFloorLights_8'
+  - first:
+      213: -779471661540915374
+    second: '!$ModernFloorLights_9'
+  - first:
+      213: -1882632926950134189
+    second: '!$ModernFloorLights_10'
+  - first:
+      213: 6505004004630038642
+    second: '!$ModernFloorLights_11'
+  - first:
+      213: 1035388749386393649
+    second: '!$ModernFloorLights_12'
+  - first:
+      213: 1329555543151379197
+    second: '!$ModernFloorLights_13'
+  - first:
+      213: -1300882724533705219
+    second: '!$ModernFloorLights_14'
+  - first:
+      213: -7872829613585416547
+    second: '!$ModernFloorLights_15'
+  - first:
+      213: -4919700668311085208
+    second: '!$ModernFloorLights_16'
+  - first:
+      213: 1692396711610359856
+    second: '!$ModernFloorLights_17'
+  - first:
+      213: -8103895399488855658
+    second: '!$ModernFloorLights_18'
+  - first:
+      213: 8964215177489808451
+    second: '!$ModernFloorLights_19'
+  - first:
+      213: -8575399705145032894
+    second: '!$ModernFloorLights_20'
+  - first:
+      213: -4915392724601012450
+    second: '!$ModernFloorLights_21'
+  - first:
+      213: 7728374755525110946
+    second: '!$ModernFloorLights_22'
+  - first:
+      213: 3493018683686133019
+    second: '!$ModernFloorLights_23'
+  - first:
+      213: -8056836031548053349
+    second: '!$ModernFloorLights_24'
+  - first:
+      213: -7336368380281418385
+    second: '!$ModernFloorLights_25'
+  - first:
+      213: 7196826517861300927
+    second: '!$ModernFloorLights_26'
+  - first:
+      213: 4446491411912473713
+    second: '!$ModernFloorLights_27'
+  - first:
+      213: -3410943694656631486
+    second: '!$ModernFloorLights_28'
+  - first:
+      213: -5874504993488324588
+    second: '!$ModernFloorLights_29'
+  - first:
+      213: 1039788969467504527
+    second: '!$ModernFloorLights_30'
+  - first:
+      213: -7184079785091625607
+    second: '!$ModernFloorLights_31'
+  - first:
+      213: -6393364766419872422
+    second: '!$ModernFloorLights_32'
+  - first:
+      213: -1255064575522049832
+    second: '!$ModernFloorLights_33'
+  - first:
+      213: -6621861008819328341
+    second: '!$ModernFloorLights_34'
+  - first:
+      213: 1355159765034280731
+    second: '!$ModernFloorLights_35'
+  - first:
+      213: 4171625193570652896
+    second: '!$ModernFloorLights_36'
+  - first:
+      213: 8969294493786397814
+    second: '!$ModernFloorLights_37'
+  - first:
+      213: 3975184446036983585
+    second: '!$ModernFloorLights_38'
+  - first:
+      213: -4546236035785858154
+    second: '!$ModernFloorLights_39'
+  - first:
+      213: 1652748010430421301
+    second: '!$ModernFloorLights_40'
+  - first:
+      213: 2514430993676525837
+    second: '!$ModernFloorLights_41'
+  - first:
+      213: -3573854473451882360
+    second: '!$ModernFloorLights_42'
+  - first:
+      213: 147982728323714669
+    second: '!$ModernFloorLights_43'
+  - first:
+      213: -8596447825129762369
+    second: '!$ModernFloorLights_44'
+  - first:
+      213: -390737505537397131
+    second: '!$ModernFloorLights_45'
+  - first:
+      213: -7396722538785127330
+    second: '!$ModernFloorLights_46'
+  - first:
+      213: 7191167801023735304
+    second: '!$ModernFloorLights_47'
+  - first:
+      213: -1978578670939485399
+    second: '!$ModernFloorLights_48'
+  - first:
+      213: 9172761087057561489
+    second: '!$ModernFloorLights_49'
+  - first:
+      213: 2958426784601686255
+    second: '!$ModernFloorLights_50'
+  - first:
+      213: 7579897668033513756
+    second: '!$ModernFloorLights_51'
+  - first:
+      213: -8855686636471707363
+    second: '!$ModernFloorLights_52'
+  - first:
+      213: -384994595163997462
+    second: '!$ModernFloorLights_53'
+  - first:
+      213: 9092751875395388869
+    second: '!$ModernFloorLights_54'
+  - first:
+      213: 4739758489525211884
+    second: '!$ModernFloorLights_55'
+  - first:
+      213: 4159993239484141059
+    second: '!$ModernFloorLights_56'
+  - first:
+      213: 132061938851671503
+    second: '!$ModernFloorLights_57'
+  - first:
+      213: 4754742837310623766
+    second: '!$ModernFloorLights_58'
+  - first:
+      213: 841620809073259137
+    second: '!$ModernFloorLights_59'
+  - first:
+      213: 428853765938615815
+    second: '!$ModernFloorLights_60'
+  - first:
+      213: 7159914839472980571
+    second: '!$ModernFloorLights_61'
+  - first:
+      213: 5292814596507805630
+    second: '!$ModernFloorLights_62'
+  - first:
+      213: -9202945774636618467
+    second: '!$ModernFloorLights_63'
+  - first:
+      213: -7962869846470522756
+    second: '!$ModernFloorLights_64'
+  - first:
+      213: 1132793930755027687
+    second: '!$ModernFloorLights_65'
+  - first:
+      213: 884473450750523397
+    second: '!$ModernFloorLights_66'
+  - first:
+      213: -7026778742681283273
+    second: '!$ModernFloorLights_67'
+  - first:
+      213: -7471225451943699997
+    second: '!$ModernFloorLights_68'
+  - first:
+      213: 6098743823052253298
+    second: '!$ModernFloorLights_69'
+  - first:
+      213: 5733477963165145065
+    second: '!$ModernFloorLights_70'
+  - first:
+      213: -5035993453878381608
+    second: '!$ModernFloorLights_71'
+  - first:
+      213: -956450933707983654
+    second: '!$ModernFloorLights_72'
+  - first:
+      213: -5106317099083040774
+    second: '!$ModernFloorLights_73'
+  - first:
+      213: -3435150803010580884
+    second: '!$ModernFloorLights_74'
+  - first:
+      213: 231558135770540741
+    second: '!$ModernFloorLights_75'
+  - first:
+      213: -2115097926835651899
+    second: '!$ModernFloorLights_76'
+  - first:
+      213: -3696564956435871824
+    second: '!$ModernFloorLights_77'
+  - first:
+      213: 2289849405988397694
+    second: '!$ModernFloorLights_78'
+  - first:
+      213: 291422485668640991
+    second: '!$ModernFloorLights_79'
+  - first:
+      213: -1787739731077786715
+    second: '!$ModernFloorLights_80'
+  - first:
+      213: -1670050174266426041
+    second: '!$ModernFloorLights_81'
+  - first:
+      213: -6729439917986186903
+    second: '!$ModernFloorLights_82'
+  - first:
+      213: -5629311170503563241
+    second: '!$ModernFloorLights_83'
+  - first:
+      213: -5053008814637780730
+    second: '!$ModernFloorLights_84'
+  - first:
+      213: -6940284691232825999
+    second: '!$ModernFloorLights_85'
+  - first:
+      213: -8577510953042418217
+    second: '!$ModernFloorLights_86'
+  - first:
+      213: -2966180150264938051
+    second: '!$ModernFloorLights_87'
+  - first:
+      213: -6957457082448188399
+    second: '!$ModernFloorLights_88'
+  - first:
+      213: -472397028857816745
+    second: '!$ModernFloorLights_89'
+  - first:
+      213: 6824601068338498499
+    second: '!$ModernFloorLights_90'
+  - first:
+      213: -55616773578066101
+    second: '!$ModernFloorLights_91'
+  - first:
+      213: -9197029211351257870
+    second: '!$ModernFloorLights_92'
+  - first:
+      213: -3235910906685672432
+    second: '!$ModernFloorLights_93'
+  - first:
+      213: 2006756206196302255
+    second: '!$ModernFloorLights_94'
+  - first:
+      213: 4733697396756021177
+    second: '!$ModernFloorLights_95'
+  - first:
+      213: -5509587876652929833
+    second: '!$ModernFloorLights_96'
+  - first:
+      213: 2143479512563774749
+    second: '!$ModernFloorLights_97'
+  - first:
+      213: -2991253848845838898
+    second: '!$ModernFloorLights_98'
+  - first:
+      213: 4024353247266877239
+    second: '!$ModernFloorLights_99'
+  - first:
+      213: -712666549161267294
+    second: '!$ModernFloorLights_100'
+  - first:
+      213: 4379326637528051554
+    second: '!$ModernFloorLights_101'
+  - first:
+      213: 4011889156034298398
+    second: '!$ModernFloorLights_102'
+  - first:
+      213: 4318637279258213646
+    second: '!$ModernFloorLights_103'
+  - first:
+      213: 1021040587970195941
+    second: '!$ModernFloorLights_104'
+  - first:
+      213: -1834047531248771499
+    second: '!$ModernFloorLights_105'
+  - first:
+      213: -594708201531528026
+    second: '!$ModernFloorLights_106'
+  - first:
+      213: 9016174823147834181
+    second: '!$ModernFloorLights_107'
+  - first:
+      213: 5277156701590782829
+    second: '!$ModernFloorLights_108'
+  - first:
+      213: 8595272118123012487
+    second: '!$ModernFloorLights_109'
+  - first:
+      213: 4119130506074279138
+    second: '!$ModernFloorLights_110'
+  - first:
+      213: -3224441416822885572
+    second: '!$ModernFloorLights_111'
+  - first:
+      213: 7215265081543904956
+    second: '!$ModernFloorLights_112'
+  - first:
+      213: -2640634386981019895
+    second: '!$ModernFloorLights_113'
+  - first:
+      213: 7521835407246876296
+    second: '!$ModernFloorLights_114'
+  - first:
+      213: 75399613400586480
+    second: '!$ModernFloorLights_115'
+  - first:
+      213: 652182334204491054
+    second: '!$ModernFloorLights_116'
+  - first:
+      213: 2111844836025672276
+    second: '!$ModernFloorLights_117'
+  - first:
+      213: -3264119731278843060
+    second: '!$ModernFloorLights_118'
+  - first:
+      213: 139715105052308266
+    second: '!$ModernFloorLights_119'
+  - first:
+      213: -4080341354390884057
+    second: '!$ModernFloorLights_120'
+  - first:
+      213: -4893845823671673180
+    second: '!$ModernFloorLights_121'
+  - first:
+      213: -2215458890703960687
+    second: '!$ModernFloorLights_122'
+  - first:
+      213: 5120815520176968770
+    second: '!$ModernFloorLights_123'
+  - first:
+      213: 1585787277646394127
+    second: '!$ModernFloorLights_124'
+  - first:
+      213: -6567881511230505980
+    second: '!$ModernFloorLights_125'
+  - first:
+      213: 8434983190032014984
+    second: '!$ModernFloorLights_126'
+  - first:
+      213: -7877375893279556465
+    second: '!$ModernFloorLights_127'
+  - first:
+      213: 8527766468710627235
+    second: '!$ModernFloorLights_128'
+  - first:
+      213: 9217605521118809360
+    second: '!$ModernFloorLights_129'
+  - first:
+      213: 2204160765445477233
+    second: '!$ModernFloorLights_130'
+  - first:
+      213: -4915354075422778369
+    second: '!$ModernFloorLights_131'
+  - first:
+      213: -1152192100284871967
+    second: '!$ModernFloorLights_132'
+  - first:
+      213: -6275305384933306943
+    second: '!$ModernFloorLights_133'
+  - first:
+      213: -2204672247218986178
+    second: '!$ModernFloorLights_134'
+  - first:
+      213: 3297661784032092391
+    second: '!$ModernFloorLights_135'
+  - first:
+      213: -2723759657946560241
+    second: '!$ModernFloorLights_136'
+  - first:
+      213: -707281257169611474
+    second: '!$ModernFloorLights_137'
+  - first:
+      213: -4753725111687015453
+    second: '!$ModernFloorLights_138'
+  - first:
+      213: -4993895523738633202
+    second: '!$ModernFloorLights_139'
+  - first:
+      213: 7440670813123950702
+    second: '!$ModernFloorLights_140'
+  - first:
+      213: 5803345336566850617
+    second: '!$ModernFloorLights_141'
+  - first:
+      213: -4893357261787398331
+    second: '!$ModernFloorLights_142'
+  - first:
+      213: -2422000242710565471
+    second: '!$ModernFloorLights_143'
+  - first:
+      213: -8200001798536073323
+    second: '!$ModernFloorLights_144'
+  - first:
+      213: -6310450395116535548
+    second: '!$ModernFloorLights_145'
+  - first:
+      213: -4004981300279685454
+    second: '!$ModernFloorLights_146'
+  - first:
+      213: 9100885700861336070
+    second: '!$ModernFloorLights_147'
+  - first:
+      213: -6417486617645139196
+    second: '!$ModernFloorLights_148'
+  - first:
+      213: 8877262536861817807
+    second: '!$ModernFloorLights_149'
+  - first:
+      213: -2667277192004551919
+    second: '!$ModernFloorLights_150'
+  - first:
+      213: 8825733332864886716
+    second: '!$ModernFloorLights_151'
+  - first:
+      213: -481427275477490658
+    second: '!$ModernFloorLights_152'
+  - first:
+      213: -7412078267460063060
+    second: '!$ModernFloorLights_153'
+  - first:
+      213: -8195106735337097524
+    second: '!$ModernFloorLights_154'
+  - first:
+      213: 4019229340942151525
+    second: '!$ModernFloorLights_155'
+  - first:
+      213: -7202226961217958393
+    second: '!$ModernFloorLights_156'
+  - first:
+      213: -5588990664732479828
+    second: '!$ModernFloorLights_157'
+  - first:
+      213: 8905085823918529338
+    second: '!$ModernFloorLights_158'
+  - first:
+      213: -2698769259777505896
+    second: '!$ModernFloorLights_159'
+  - first:
+      213: -2559996390598054843
+    second: '!$ModernFloorLights_160'
+  - first:
+      213: 4211775748353404360
+    second: '!$ModernFloorLights_161'
+  - first:
+      213: -3621965547901270808
+    second: '!$ModernFloorLights_162'
+  - first:
+      213: -537870192579678789
+    second: '!$ModernFloorLights_163'
+  - first:
+      213: 1038687452402485860
+    second: '!$ModernFloorLights_164'
+  - first:
+      213: 3996671728879462380
+    second: '!$ModernFloorLights_165'
+  - first:
+      213: 3434956817035846822
+    second: '!$ModernFloorLights_166'
+  - first:
+      213: 5446055503948648613
+    second: '!$ModernFloorLights_167'
+  - first:
+      213: -6187871949689624079
+    second: '!$ModernFloorLights_168'
+  - first:
+      213: 1074095227051673918
+    second: '!$ModernFloorLights_169'
+  - first:
+      213: -558416774147562417
+    second: '!$ModernFloorLights_170'
+  - first:
+      213: -5209788134637177866
+    second: '!$ModernFloorLights_171'
+  - first:
+      213: 1887789310689784894
+    second: '!$ModernFloorLights_172'
+  - first:
+      213: -2551329294277469425
+    second: '!$ModernFloorLights_173'
+  - first:
+      213: -6461461321030340869
+    second: '!$ModernFloorLights_174'
+  - first:
+      213: 8019353388619337181
+    second: '!$ModernFloorLights_175'
+  - first:
+      213: -8537506132533220797
+    second: '!$ModernFloorLights_176'
+  - first:
+      213: 7782773790014714398
+    second: '!$ModernFloorLights_177'
+  - first:
+      213: -3107744259778878368
+    second: '!$ModernFloorLights_178'
+  - first:
+      213: -4634910386230697662
+    second: '!$ModernFloorLights_179'
+  - first:
+      213: 7169744373455966862
+    second: '!$ModernFloorLights_180'
+  - first:
+      213: -9162116339334898826
+    second: '!$ModernFloorLights_181'
+  - first:
+      213: -6456811103260946337
+    second: '!$ModernFloorLights_182'
+  - first:
+      213: 7432063861276436262
+    second: '!$ModernFloorLights_183'
+  - first:
+      213: 1154449822490233337
+    second: '!$ModernFloorLights_184'
+  - first:
+      213: -2011752844885207448
+    second: '!$ModernFloorLights_185'
+  - first:
+      213: -1222644957277435602
+    second: '!$ModernFloorLights_186'
+  - first:
+      213: -1297829455235770664
+    second: '!$ModernFloorLights_187'
+  - first:
+      213: 1487228501865048033
+    second: '!$ModernFloorLights_188'
+  - first:
+      213: -6665494328742114126
+    second: '!$ModernFloorLights_189'
+  - first:
+      213: 8612694529093177480
+    second: '!$ModernFloorLights_190'
+  - first:
+      213: 8874953313385882936
+    second: '!$ModernFloorLights_191'
+  - first:
+      213: 3327776976079321019
+    second: '!$ModernFloorLights_192'
+  - first:
+      213: -8597491768488787815
+    second: '!$ModernFloorLights_193'
+  - first:
+      213: -5577994348430435899
+    second: '!$ModernFloorLights_194'
+  - first:
+      213: -4055493278907781794
+    second: '!$ModernFloorLights_195'
+  - first:
+      213: -8382470024552011064
+    second: '!$ModernFloorLights_196'
+  - first:
+      213: -1214917422460930118
+    second: '!$ModernFloorLights_197'
+  - first:
+      213: -6085519427072189372
+    second: '!$ModernFloorLights_198'
+  - first:
+      213: -186332781283316427
+    second: '!$ModernFloorLights_199'
+  - first:
+      213: 9014246918046227832
+    second: '!$ModernFloorLights_200'
+  - first:
+      213: -8075868904358823442
+    second: '!$ModernFloorLights_201'
+  - first:
+      213: -3015868185494084351
+    second: '!$ModernFloorLights_202'
+  - first:
+      213: -5648176601774076260
+    second: '!$ModernFloorLights_203'
+  - first:
+      213: 6974852028300903487
+    second: '!$ModernFloorLights_204'
+  - first:
+      213: -900670817844144330
+    second: '!$ModernFloorLights_205'
+  - first:
+      213: 6211822153782519135
+    second: '!$ModernFloorLights_206'
+  - first:
+      213: 2019830012331117132
+    second: '!$ModernFloorLights_207'
+  - first:
+      213: -724877743462764284
+    second: '!$ModernFloorLights_208'
+  - first:
+      213: -3036458587737740846
+    second: '!$ModernFloorLights_209'
+  - first:
+      213: 5115796247567571046
+    second: '!$ModernFloorLights_210'
+  - first:
+      213: 4738471530195721349
+    second: '!$ModernFloorLights_211'
+  - first:
+      213: 8855859519232375205
+    second: '!$ModernFloorLights_212'
+  - first:
+      213: -2512816516458810619
+    second: '!$ModernFloorLights_213'
+  - first:
+      213: 1720839966695137906
+    second: '!$ModernFloorLights_214'
+  - first:
+      213: -4565189842535425147
+    second: '!$ModernFloorLights_215'
+  - first:
+      213: -6441702274049206420
+    second: '!$ModernFloorLights_216'
+  - first:
+      213: 3091988634445000589
+    second: '!$ModernFloorLights_217'
+  - first:
+      213: 8484127764319192934
+    second: '!$ModernFloorLights_218'
+  - first:
+      213: -8684523173997865438
+    second: '!$ModernFloorLights_219'
+  - first:
+      213: 3854957533812873186
+    second: '!$ModernFloorLights_220'
+  - first:
+      213: -3892326768917971409
+    second: '!$ModernFloorLights_221'
+  - first:
+      213: -4397109811819943962
+    second: '!$ModernFloorLights_222'
+  - first:
+      213: -7503930250716553655
+    second: '!$ModernFloorLights_223'
+  - first:
+      213: 853704465591202786
+    second: '!$ModernFloorLights_224'
+  - first:
+      213: -236504036088777307
+    second: '!$ModernFloorLights_225'
+  - first:
+      213: 6378289902707342426
+    second: '!$ModernFloorLights_226'
+  - first:
+      213: 8765941611458702678
+    second: '!$ModernFloorLights_227'
+  - first:
+      213: 5677711271830061403
+    second: '!$ModernFloorLights_228'
+  - first:
+      213: 8822552320029117897
+    second: '!$ModernFloorLights_229'
+  - first:
+      213: -4999835966899916828
+    second: '!$ModernFloorLights_230'
+  - first:
+      213: -8503724495898861586
+    second: '!$ModernFloorLights_231'
+  - first:
+      213: 5568634915565169758
+    second: '!$ModernFloorLights_232'
+  - first:
+      213: 3253122810064134717
+    second: '!$ModernFloorLights_233'
+  - first:
+      213: -4472137692737751002
+    second: '!$ModernFloorLights_234'
+  - first:
+      213: -5461182507991264544
+    second: '!$ModernFloorLights_235'
+  - first:
+      213: 2618676338678999455
+    second: '!$ModernFloorLights_236'
+  - first:
+      213: -4049665744681439851
+    second: '!$ModernFloorLights_237'
+  - first:
+      213: -1597951062518965629
+    second: '!$ModernFloorLights_238'
+  - first:
+      213: -2122871793377252070
+    second: '!$ModernFloorLights_239'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_0'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06fc403d2cb2e920800000000000000
+      internalID: 3018181602561553933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_1'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d8c75f144193be0800000000000000
+      internalID: -1497143127599968869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_2'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f403b79f85fc7030800000000000000
+      internalID: 3493937408006882546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_3'
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bea834a75eda020800000000000000
+      internalID: 2354790493466585938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_4'
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e1fc640a8c77c0800000000000000
+      internalID: -4072228211437477043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_5'
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eebb991b16f7d000800000000000000
+      internalID: 60787716246978276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_6'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ff1509821778d0800000000000000
+      internalID: -2848787859582750514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_7'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8021d2be218934ab0800000000000000
+      internalID: -5025005552192908792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_8'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ff6308635770ad0800000000000000
+      internalID: -2736089371664515314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_9'
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ce5557a2ce25f0800000000000000
+      internalID: -779471661540915374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_10'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eeeaad35b8fd5e0800000000000000
+      internalID: -1882632926950134189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_11'
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278877e5daa664a50800000000000000
+      internalID: 6505004004630038642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_12'
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138ac93f4907e5e00800000000000000
+      internalID: 1035388749386393649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_13'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df280b2e8b7837210800000000000000
+      internalID: 1329555543151379197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_14'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e9bded0652fde0800000000000000
+      internalID: -1300882724533705219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_15'
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb011bd271eb290800000000000000
+      internalID: -7872829613585416547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_16'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fd010de46b9bbb0800000000000000
+      internalID: -4919700668311085208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_17'
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030239ea7d99c7710800000000000000
+      internalID: 1692396711610359856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_18'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6916b88021e298f80800000000000000
+      internalID: -8103895399488855658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_19'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf170a53a476c70800000000000000
+      internalID: 8964215177489808451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_20'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f37df076f0ef880800000000000000
+      internalID: -8575399705145032894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_21'
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ffd9e1c5409cbb0800000000000000
+      internalID: -4915392724601012450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_22'
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acab2ab4e3b04b60800000000000000
+      internalID: 7728374755525110946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_23'
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1aea6cf1b97030800000000000000
+      internalID: 3493018683686133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_24'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a206f05e503090800000000000000
+      internalID: -8056836031548053349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_25'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d0befe3dbff2a90800000000000000
+      internalID: -7336368380281418385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_26'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbafb3b669340e360800000000000000
+      internalID: 7196826517861300927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_27'
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3edf616c15bd30800000000000000
+      internalID: 4446491411912473713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_28'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d022b18c4e9a0d0800000000000000
+      internalID: -3410943694656631486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_29'
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418bed735d0997ea0800000000000000
+      internalID: -5874504993488324588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_30'
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87ea760f821e6e00800000000000000
+      internalID: 1039788969467504527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_31'
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d8c839f750d4c90800000000000000
+      internalID: -7184079785091625607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_32'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 357
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559b025e943647a0800000000000000
+      internalID: -6393364766419872422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_33'
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f4dd0b6d159ee0800000000000000
+      internalID: -1255064575522049832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_34'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa60512f7c6a14a0800000000000000
+      internalID: -6621861008819328341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_35'
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1725c850ae7ec210800000000000000
+      internalID: 1355159765034280731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_36'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e259d6e20794e930800000000000000
+      internalID: 4171625193570652896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_37'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c510c12d5597c70800000000000000
+      internalID: 8969294493786397814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_38'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f31b63131ba2730800000000000000
+      internalID: 3975184446036983585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_39'
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69367e5996688e0c0800000000000000
+      internalID: -4546236035785858154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_40'
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53950f01f8dbfe610800000000000000
+      internalID: 1652748010430421301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_41'
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01625eaaad05e220800000000000000
+      internalID: 2514430993676525837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_42'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b5fe9a4e176ec0800000000000000
+      internalID: -3573854473451882360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_43'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec0a2e18dbd0200800000000000000
+      internalID: 147982728323714669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_44'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb116fcbf3843b880800000000000000
+      internalID: -8596447825129762369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_45'
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e65061f42d39af0800000000000000
+      internalID: -390737505537397131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_46'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54469d5a00995990800000000000000
+      internalID: -7396722538785127330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_47'
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8062f3cb3092cc360800000000000000
+      internalID: 7191167801023735304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_48'
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bcc768e2daa84e0800000000000000
+      internalID: -1978578670939485399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_49'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197879bfb913c4f70800000000000000
+      internalID: 9172761087057561489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_50'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04f267c717e0920800000000000000
+      internalID: 2958426784601686255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_51'
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1903f0e4c4313960800000000000000
+      internalID: 7579897668033513756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_52'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d191eee6ce74a1580800000000000000
+      internalID: -8855686636471707363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_53'
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeafdca947938aaf0800000000000000
+      internalID: -384994595163997462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_54'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c585bbb7a1ff2e70800000000000000
+      internalID: 9092751875395388869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_55'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2da41eb3107c140800000000000000
+      internalID: 4739758489525211884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_56'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e8a7b8fc34bb930800000000000000
+      internalID: 4159993239484141059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_57'
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd6a9932ad25d100800000000000000
+      internalID: 132061938851671503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_58'
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6109b383b6d3cf140800000000000000
+      internalID: 4754742837310623766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_59'
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827360baa90eab00800000000000000
+      internalID: 841620809073259137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_60'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061c5b5a3893f500800000000000000
+      internalID: 428853765938615815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_61'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c5d49c902d5360800000000000000
+      internalID: 7159914839472980571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_62'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7a9de35dad37940800000000000000
+      internalID: 5292814596507805630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_63'
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d2a97c391984080800000000000000
+      internalID: -9202945774636618467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_64'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78847050143e7190800000000000000
+      internalID: -7962869846470522756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_65'
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23f56041e78bf00800000000000000
+      internalID: 1132793930755027687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_66'
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508bf35dae7464c00800000000000000
+      internalID: 884473450750523397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_67'
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735573786fddb7e90800000000000000
+      internalID: -7026778742681283273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_68'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 309
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9d9042900e05890800000000000000
+      internalID: -7471225451943699997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_69'
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278232dc13713a450800000000000000
+      internalID: 6098743823052253298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_70'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e71df984d7619f40800000000000000
+      internalID: 5733477963165145065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_71'
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3f262b2ae8c1ab0800000000000000
+      internalID: -5035993453878381608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_72'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4be3b71f00ab2f0800000000000000
+      internalID: -956450933707983654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_73'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 276
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7f6ae17a7b229b0800000000000000
+      internalID: -5106317099083040774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_74'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e08ac7b84e350d0800000000000000
+      internalID: -3435150803010580884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_75'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca647bc5e8a63300800000000000000
+      internalID: 231558135770540741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_76'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 276
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cabbcd44a9a5a2e0800000000000000
+      internalID: -2115097926835651899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_77'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b78b72e1c923bcc0800000000000000
+      internalID: -3696564956435871824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_78'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e31117ed27cf10800000000000000
+      internalID: 2289849405988397694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_79'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 276
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd837d9e4375b0400800000000000000
+      internalID: 291422485668640991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_80'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3914abf2ca037e0800000000000000
+      internalID: -1787739731077786715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_81'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d35cdf63ac2d8e0800000000000000
+      internalID: -1670050174266426041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_82'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 276
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96979177c0a3c92a0800000000000000
+      internalID: -6729439917986186903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_83'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7182ff7d05ba0e1b0800000000000000
+      internalID: -5629311170503563241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_84'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601f89c414b10e9b0800000000000000
+      internalID: -5053008814637780730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_85'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d5cf238d72faf90800000000000000
+      internalID: -6940284691232825999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_86'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d562eadb3f86f880800000000000000
+      internalID: -8577510953042418217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_87'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c4ab6ed206d6d0800000000000000
+      internalID: -2966180150264938051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_88'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c66ac45a5227f90800000000000000
+      internalID: -6957457082448188399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_89'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759daf5b765b179f0800000000000000
+      internalID: -472397028857816745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_90'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb411c638ad5be50800000000000000
+      internalID: 6824601068338498499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_91'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47735fc6d86a3ff0800000000000000
+      internalID: -55616773578066101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_92'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc648409a69d5080800000000000000
+      internalID: -9197029211351257870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_93'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014303acc2cb713d0800000000000000
+      internalID: -3235910906685672432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_94'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa12425232e69db10800000000000000
+      internalID: 2006756206196302255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_95'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf75dfb3b871b140800000000000000
+      internalID: 4733697396756021177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_96'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcad4964030a83b0800000000000000
+      internalID: -5509587876652929833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_97'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f0b1924b2fbd10800000000000000
+      internalID: 2143479512563774749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_98'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5168a097eec76d0800000000000000
+      internalID: -2991253848845838898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_99'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f280ad4ff59d730800000000000000
+      internalID: 4024353247266877239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_100'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af60f5ac891c16f0800000000000000
+      internalID: -712666549161267294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_101'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe349cf5e76cc30800000000000000
+      internalID: 4379326637528051554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_102'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e128aa77ee71da730800000000000000
+      internalID: 4011889156034298398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_103'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0df1ff69b1eeeb30800000000000000
+      internalID: 4318637279258213646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_104'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1383b41077b2e00800000000000000
+      internalID: 1021040587970195941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_105'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1cbecc772c86e0800000000000000
+      internalID: -1834047531248771499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_106'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca3b6aa0c2fb7f0800000000000000
+      internalID: -594708201531528026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_107'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b0c8e5b33ef1d70800000000000000
+      internalID: 9016174823147834181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_108'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63046e7f0a3c3940800000000000000
+      internalID: 5277156701590782829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_109'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781aa84a37a884770800000000000000
+      internalID: 8595272118123012487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_110'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec48060f571a2930800000000000000
+      internalID: 4119130506074279138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_111'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f63f7d9b7043d0800000000000000
+      internalID: -3224441416822885572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_112'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe44b11d55c12460800000000000000
+      internalID: 7215265081543904956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_113'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f905604059a5bd0800000000000000
+      internalID: -2640634386981019895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_114'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ed7e3537de26860800000000000000
+      internalID: 7521835407246876296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_115'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f891f48c8fdb0100800000000000000
+      internalID: 75399613400586480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_116'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e253b07a0640d0900800000000000000
+      internalID: 652182334204491054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_117'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ad0870b7ce4d10800000000000000
+      internalID: 2111844836025672276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_118'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f7c0066483b2d0800000000000000
+      internalID: -3264119731278843060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_119'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a233666d52e50f100800000000000000
+      internalID: 139715105052308266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_120'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f1312827bf57c0800000000000000
+      internalID: -4080341354390884057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_121'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae558ee621951cb0800000000000000
+      internalID: -4893845823671673180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_122'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1950c1d70eb1141e0800000000000000
+      internalID: -2215458890703960687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_123'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2449478959ac01740800000000000000
+      internalID: 5120815520176968770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_124'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03727d8029d10610800000000000000
+      internalID: 1585787277646394127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_125'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cff3c40923ad4a0800000000000000
+      internalID: -6567881511230505980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_126'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88edf3855841f0570800000000000000
+      internalID: 8434983190032014984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_127'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb8d67c50fda290800000000000000
+      internalID: -7877375893279556465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_128'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7fbf6db66b85670800000000000000
+      internalID: 8527766468710627235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_129'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d47fd62638bef70800000000000000
+      internalID: 9217605521118809360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_130'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731b3cb980c69e10800000000000000
+      internalID: 2204160765445477233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_131'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb1825d28729cbb0800000000000000
+      internalID: -4915354075422778369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_132'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea428da3679200f0800000000000000
+      internalID: -1152192100284871967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_133'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd44f91003a9e8a0800000000000000
+      internalID: -6275305384933306943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_134'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33a952a54e6761e0800000000000000
+      internalID: -2204672247218986178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_135'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e02d9abbe5a3cd20800000000000000
+      internalID: 3297661784032092391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_136'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094e8ea503433ad0800000000000000
+      internalID: -2723759657946560241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_137'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e251d16a17b3f26f0800000000000000
+      internalID: -707281257169611474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_138'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e39a0e7230670eb0800000000000000
+      internalID: -4753725111687015453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_139'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c352eda7e12bab0800000000000000
+      internalID: -4993895523738633202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_140'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68bed2aea2924760800000000000000
+      internalID: 7440670813123950702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_141'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934acfe06df998050800000000000000
+      internalID: 5803345336566850617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_142'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f751c1f7d471cb0800000000000000
+      internalID: -4893357261787398331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_143'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada35f8c93536ed0800000000000000
+      internalID: -2422000242710565471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_144'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f61b84fcdb33e80800000000000000
+      internalID: -8200001798536073323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_145'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4010b52ccc6cc68a0800000000000000
+      internalID: -6310450395116535548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_146'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4fb80ab27b68c0800000000000000
+      internalID: -4004981300279685454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_147'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a954d8357dc4e70800000000000000
+      internalID: 9100885700861336070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_148'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b307c2ce180f6a0800000000000000
+      internalID: -6417486617645139196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_149'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb18875e3f523b70800000000000000
+      internalID: 8877262536861817807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_150'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b3115968debfad0800000000000000
+      internalID: -2667277192004551919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_151'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb76cbb94bd4b7a70800000000000000
+      internalID: 8825733332864886716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_152'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14eaf39170a159f0800000000000000
+      internalID: -481427275477490658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_153'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca076ac2612032990800000000000000
+      internalID: -7412078267460063060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_154'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 180
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc632dff7d1254e80800000000000000
+      internalID: -8195106735337097524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_155'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2fa17acb27c730800000000000000
+      internalID: 4019229340942151525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_156'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eccd0ecbc8c0c90800000000000000
+      internalID: -7202226961217958393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_157'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae65a72a9aef62b0800000000000000
+      internalID: -5588990664732479828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_158'
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bd70d2068359b70800000000000000
+      internalID: 8905085823918529338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_159'
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c73c28ab0c8ad0800000000000000
+      internalID: -2698769259777505896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_160'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cee10a8d0197cd0800000000000000
+      internalID: -2559996390598054843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_161'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda53a6abb337a30800000000000000
+      internalID: 4211775748353404360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_162'
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e444a036813cbdc0800000000000000
+      internalID: -3621965547901270808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_163'
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd640cd8e91988f0800000000000000
+      internalID: -537870192579678789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_164'
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a0b191cb82a6e00800000000000000
+      internalID: 1038687452402485860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_165'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e4bb13c7077730800000000000000
+      internalID: 3996671728879462380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_166'
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46a32a60b6baf20800000000000000
+      internalID: 3434956817035846822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_167'
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a09beb50a6449b40800000000000000
+      internalID: 5446055503948648613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_168'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9652b1f33402aa0800000000000000
+      internalID: -6187871949689624079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_169'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e398b5f0be3f7ee00800000000000000
+      internalID: 1074095227051673918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_170'
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44a05c07ea1048f0800000000000000
+      internalID: -558416774147562417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_171'
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3f7ef4b4d13b7b0800000000000000
+      internalID: -5209788134637177866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_172'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b17a4066c23a10800000000000000
+      internalID: 1887789310689784894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_173'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b1b8d368bd79cd0800000000000000
+      internalID: -2551329294277469425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_174'
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6f0ea9274456a0800000000000000
+      internalID: -6461461321030340869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_175'
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd0bf82b677a4f60800000000000000
+      internalID: 8019353388619337181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_176'
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a63a6f76fa48980800000000000000
+      internalID: -8537506132533220797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_177'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e123c01f687f10c60800000000000000
+      internalID: 7782773790014714398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_178'
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064ee1faf031fd4d0800000000000000
+      internalID: -3107744259778878368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_179'
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24163fe7f8d7dafb0800000000000000
+      internalID: -4634910386230697662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_180'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82d23e458c008360800000000000000
+      internalID: 7169744373455966862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_181'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 148
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b142b7bbf99d080800000000000000
+      internalID: -9162116339334898826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_182'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f505550e28cc466a0800000000000000
+      internalID: -6456811103260946337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_183'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627666f74bef32760800000000000000
+      internalID: 7432063861276436262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_184'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 148
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f90b8c3ffd650010800000000000000
+      internalID: 1154449822490233337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_185'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8665cb04271d414e0800000000000000
+      internalID: -2011752844885207448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_186'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e294e03a3ea480fe0800000000000000
+      internalID: -1222644957277435602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_187'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 148
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d612a59cfe2dfde0800000000000000
+      internalID: -1297829455235770664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_188'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a0895172b3a410800000000000000
+      internalID: 1487228501865048033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_189'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc02fa29386f73a0800000000000000
+      internalID: -6665494328742114126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_190'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 148
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8809c8dca00768770800000000000000
+      internalID: 8612694529093177480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_191'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835aa8a540b2a2b70800000000000000
+      internalID: 8874953313385882936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_192'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb77ee64783ae2e20800000000000000
+      internalID: 3327776976079321019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_193'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99081ebb9c29fa880800000000000000
+      internalID: -8597491768488787815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_194'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9daae81bbf692b0800000000000000
+      internalID: -5577994348430435899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_195'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5da7b9895ef7b7c0800000000000000
+      internalID: -4055493278907781794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_196'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caa736cceb7bab80800000000000000
+      internalID: -8382470024552011064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_197'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab778ca8a0fb32fe0800000000000000
+      internalID: -1214917422460930118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_198'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9f93d254eb8ba0800000000000000
+      internalID: -6085519427072189372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_199'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de89992530a6df0800000000000000
+      internalID: -186332781283316427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_200'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d1ecbffc9091d70800000000000000
+      internalID: 9014246918046227832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_201'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b11fe400ccef80800000000000000
+      internalID: -8075868904358823442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_202'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10529323ddb7526d0800000000000000
+      internalID: -3015868185494084351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_203'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e45965e45ad91b0800000000000000
+      internalID: -5648176601774076260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_204'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34c9c327f6abc060800000000000000
+      internalID: 6974852028300903487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_205'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d6d2c9ac2083f0800000000000000
+      internalID: -900670817844144330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_206'
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55eb145653d43650800000000000000
+      internalID: 6211822153782519135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_207'
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4ba7d1b0e70c10800000000000000
+      internalID: 2019830012331117132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_208'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b05b6887b0f5f0800000000000000
+      internalID: -724877743462764284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_209'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d925b690055cd5d0800000000000000
+      internalID: -3036458587737740846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_210'
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6689a8f1595fef640800000000000000
+      internalID: 5115796247567571046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_211'
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1e9f40ce62c140800000000000000
+      internalID: 4738471530195721349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_212'
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97b98ff4556ea70800000000000000
+      internalID: 8855859519232375205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_213'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503fcb611bea02dd0800000000000000
+      internalID: -2512816516458810619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_214'
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272a82215d6a1e710800000000000000
+      internalID: 1720839966695137906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_215'
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b547f860035a0c0800000000000000
+      internalID: -4565189842535425147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_216'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67987e49e97a96a0800000000000000
+      internalID: -6441702274049206420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_217'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa3ade743f8ea20800000000000000
+      internalID: 3091988634445000589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_218'
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6674645304dadb570800000000000000
+      internalID: 8484127764319192934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_219'
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22695329f206a7780800000000000000
+      internalID: -8684523173997865438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_220'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d12bd37f8f7530800000000000000
+      internalID: 3854957533812873186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_221'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e76e41d6dabf9c0800000000000000
+      internalID: -3892326768917971409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_222'
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7661c4ce35af2c0800000000000000
+      internalID: -4397109811819943962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_223'
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e5bbac13facd790800000000000000
+      internalID: -7503930250716553655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_224'
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e37ab630b7f8db00800000000000000
+      internalID: 853704465591202786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_225'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57bfc05d4c7bcf0800000000000000
+      internalID: -236504036088777307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_226'
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf4557fdc348850800000000000000
+      internalID: 6378289902707342426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_227'
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dafc0a371e6a970800000000000000
+      internalID: 8765941611458702678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_228'
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5189a6e1584bce40800000000000000
+      internalID: 5677711271830061403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_229'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd42a75790007a70800000000000000
+      internalID: 8822552320029117897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_230'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef65b9ada30d9ab0800000000000000
+      internalID: -4999835966899916828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_231'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef192a20a3bcf980800000000000000
+      internalID: -8503724495898861586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_232'
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c691aa3f3c74d40800000000000000
+      internalID: 5568634915565169758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_233'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32e790c5f9652d20800000000000000
+      internalID: 3253122810064134717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_234'
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6283bbd7676cfe1c0800000000000000
+      internalID: -4472137692737751002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_235'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e29a9d817bf534b0800000000000000
+      internalID: -5461182507991264544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_236'
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99aea47148675420800000000000000
+      internalID: 2618676338678999455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_237'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de1351672bcc7c0800000000000000
+      internalID: -4049665744681439851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_238'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a591699ffe2d9e0800000000000000
+      internalID: -1597951062518965629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$ModernFloorLights_239'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d6d04f95b0a82e0800000000000000
+      internalID: -2122871793377252070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$ModernFloorLights_0': 3018181602561553933
+      '!$ModernFloorLights_1': -1497143127599968869
+      '!$ModernFloorLights_10': -1882632926950134189
+      '!$ModernFloorLights_100': -712666549161267294
+      '!$ModernFloorLights_101': 4379326637528051554
+      '!$ModernFloorLights_102': 4011889156034298398
+      '!$ModernFloorLights_103': 4318637279258213646
+      '!$ModernFloorLights_104': 1021040587970195941
+      '!$ModernFloorLights_105': -1834047531248771499
+      '!$ModernFloorLights_106': -594708201531528026
+      '!$ModernFloorLights_107': 9016174823147834181
+      '!$ModernFloorLights_108': 5277156701590782829
+      '!$ModernFloorLights_109': 8595272118123012487
+      '!$ModernFloorLights_11': 6505004004630038642
+      '!$ModernFloorLights_110': 4119130506074279138
+      '!$ModernFloorLights_111': -3224441416822885572
+      '!$ModernFloorLights_112': 7215265081543904956
+      '!$ModernFloorLights_113': -2640634386981019895
+      '!$ModernFloorLights_114': 7521835407246876296
+      '!$ModernFloorLights_115': 75399613400586480
+      '!$ModernFloorLights_116': 652182334204491054
+      '!$ModernFloorLights_117': 2111844836025672276
+      '!$ModernFloorLights_118': -3264119731278843060
+      '!$ModernFloorLights_119': 139715105052308266
+      '!$ModernFloorLights_12': 1035388749386393649
+      '!$ModernFloorLights_120': -4080341354390884057
+      '!$ModernFloorLights_121': -4893845823671673180
+      '!$ModernFloorLights_122': -2215458890703960687
+      '!$ModernFloorLights_123': 5120815520176968770
+      '!$ModernFloorLights_124': 1585787277646394127
+      '!$ModernFloorLights_125': -6567881511230505980
+      '!$ModernFloorLights_126': 8434983190032014984
+      '!$ModernFloorLights_127': -7877375893279556465
+      '!$ModernFloorLights_128': 8527766468710627235
+      '!$ModernFloorLights_129': 9217605521118809360
+      '!$ModernFloorLights_13': 1329555543151379197
+      '!$ModernFloorLights_130': 2204160765445477233
+      '!$ModernFloorLights_131': -4915354075422778369
+      '!$ModernFloorLights_132': -1152192100284871967
+      '!$ModernFloorLights_133': -6275305384933306943
+      '!$ModernFloorLights_134': -2204672247218986178
+      '!$ModernFloorLights_135': 3297661784032092391
+      '!$ModernFloorLights_136': -2723759657946560241
+      '!$ModernFloorLights_137': -707281257169611474
+      '!$ModernFloorLights_138': -4753725111687015453
+      '!$ModernFloorLights_139': -4993895523738633202
+      '!$ModernFloorLights_14': -1300882724533705219
+      '!$ModernFloorLights_140': 7440670813123950702
+      '!$ModernFloorLights_141': 5803345336566850617
+      '!$ModernFloorLights_142': -4893357261787398331
+      '!$ModernFloorLights_143': -2422000242710565471
+      '!$ModernFloorLights_144': -8200001798536073323
+      '!$ModernFloorLights_145': -6310450395116535548
+      '!$ModernFloorLights_146': -4004981300279685454
+      '!$ModernFloorLights_147': 9100885700861336070
+      '!$ModernFloorLights_148': -6417486617645139196
+      '!$ModernFloorLights_149': 8877262536861817807
+      '!$ModernFloorLights_15': -7872829613585416547
+      '!$ModernFloorLights_150': -2667277192004551919
+      '!$ModernFloorLights_151': 8825733332864886716
+      '!$ModernFloorLights_152': -481427275477490658
+      '!$ModernFloorLights_153': -7412078267460063060
+      '!$ModernFloorLights_154': -8195106735337097524
+      '!$ModernFloorLights_155': 4019229340942151525
+      '!$ModernFloorLights_156': -7202226961217958393
+      '!$ModernFloorLights_157': -5588990664732479828
+      '!$ModernFloorLights_158': 8905085823918529338
+      '!$ModernFloorLights_159': -2698769259777505896
+      '!$ModernFloorLights_16': -4919700668311085208
+      '!$ModernFloorLights_160': -2559996390598054843
+      '!$ModernFloorLights_161': 4211775748353404360
+      '!$ModernFloorLights_162': -3621965547901270808
+      '!$ModernFloorLights_163': -537870192579678789
+      '!$ModernFloorLights_164': 1038687452402485860
+      '!$ModernFloorLights_165': 3996671728879462380
+      '!$ModernFloorLights_166': 3434956817035846822
+      '!$ModernFloorLights_167': 5446055503948648613
+      '!$ModernFloorLights_168': -6187871949689624079
+      '!$ModernFloorLights_169': 1074095227051673918
+      '!$ModernFloorLights_17': 1692396711610359856
+      '!$ModernFloorLights_170': -558416774147562417
+      '!$ModernFloorLights_171': -5209788134637177866
+      '!$ModernFloorLights_172': 1887789310689784894
+      '!$ModernFloorLights_173': -2551329294277469425
+      '!$ModernFloorLights_174': -6461461321030340869
+      '!$ModernFloorLights_175': 8019353388619337181
+      '!$ModernFloorLights_176': -8537506132533220797
+      '!$ModernFloorLights_177': 7782773790014714398
+      '!$ModernFloorLights_178': -3107744259778878368
+      '!$ModernFloorLights_179': -4634910386230697662
+      '!$ModernFloorLights_18': -8103895399488855658
+      '!$ModernFloorLights_180': 7169744373455966862
+      '!$ModernFloorLights_181': -9162116339334898826
+      '!$ModernFloorLights_182': -6456811103260946337
+      '!$ModernFloorLights_183': 7432063861276436262
+      '!$ModernFloorLights_184': 1154449822490233337
+      '!$ModernFloorLights_185': -2011752844885207448
+      '!$ModernFloorLights_186': -1222644957277435602
+      '!$ModernFloorLights_187': -1297829455235770664
+      '!$ModernFloorLights_188': 1487228501865048033
+      '!$ModernFloorLights_189': -6665494328742114126
+      '!$ModernFloorLights_19': 8964215177489808451
+      '!$ModernFloorLights_190': 8612694529093177480
+      '!$ModernFloorLights_191': 8874953313385882936
+      '!$ModernFloorLights_192': 3327776976079321019
+      '!$ModernFloorLights_193': -8597491768488787815
+      '!$ModernFloorLights_194': -5577994348430435899
+      '!$ModernFloorLights_195': -4055493278907781794
+      '!$ModernFloorLights_196': -8382470024552011064
+      '!$ModernFloorLights_197': -1214917422460930118
+      '!$ModernFloorLights_198': -6085519427072189372
+      '!$ModernFloorLights_199': -186332781283316427
+      '!$ModernFloorLights_2': 3493937408006882546
+      '!$ModernFloorLights_20': -8575399705145032894
+      '!$ModernFloorLights_200': 9014246918046227832
+      '!$ModernFloorLights_201': -8075868904358823442
+      '!$ModernFloorLights_202': -3015868185494084351
+      '!$ModernFloorLights_203': -5648176601774076260
+      '!$ModernFloorLights_204': 6974852028300903487
+      '!$ModernFloorLights_205': -900670817844144330
+      '!$ModernFloorLights_206': 6211822153782519135
+      '!$ModernFloorLights_207': 2019830012331117132
+      '!$ModernFloorLights_208': -724877743462764284
+      '!$ModernFloorLights_209': -3036458587737740846
+      '!$ModernFloorLights_21': -4915392724601012450
+      '!$ModernFloorLights_210': 5115796247567571046
+      '!$ModernFloorLights_211': 4738471530195721349
+      '!$ModernFloorLights_212': 8855859519232375205
+      '!$ModernFloorLights_213': -2512816516458810619
+      '!$ModernFloorLights_214': 1720839966695137906
+      '!$ModernFloorLights_215': -4565189842535425147
+      '!$ModernFloorLights_216': -6441702274049206420
+      '!$ModernFloorLights_217': 3091988634445000589
+      '!$ModernFloorLights_218': 8484127764319192934
+      '!$ModernFloorLights_219': -8684523173997865438
+      '!$ModernFloorLights_22': 7728374755525110946
+      '!$ModernFloorLights_220': 3854957533812873186
+      '!$ModernFloorLights_221': -3892326768917971409
+      '!$ModernFloorLights_222': -4397109811819943962
+      '!$ModernFloorLights_223': -7503930250716553655
+      '!$ModernFloorLights_224': 853704465591202786
+      '!$ModernFloorLights_225': -236504036088777307
+      '!$ModernFloorLights_226': 6378289902707342426
+      '!$ModernFloorLights_227': 8765941611458702678
+      '!$ModernFloorLights_228': 5677711271830061403
+      '!$ModernFloorLights_229': 8822552320029117897
+      '!$ModernFloorLights_23': 3493018683686133019
+      '!$ModernFloorLights_230': -4999835966899916828
+      '!$ModernFloorLights_231': -8503724495898861586
+      '!$ModernFloorLights_232': 5568634915565169758
+      '!$ModernFloorLights_233': 3253122810064134717
+      '!$ModernFloorLights_234': -4472137692737751002
+      '!$ModernFloorLights_235': -5461182507991264544
+      '!$ModernFloorLights_236': 2618676338678999455
+      '!$ModernFloorLights_237': -4049665744681439851
+      '!$ModernFloorLights_238': -1597951062518965629
+      '!$ModernFloorLights_239': -2122871793377252070
+      '!$ModernFloorLights_24': -8056836031548053349
+      '!$ModernFloorLights_25': -7336368380281418385
+      '!$ModernFloorLights_26': 7196826517861300927
+      '!$ModernFloorLights_27': 4446491411912473713
+      '!$ModernFloorLights_28': -3410943694656631486
+      '!$ModernFloorLights_29': -5874504993488324588
+      '!$ModernFloorLights_3': 2354790493466585938
+      '!$ModernFloorLights_30': 1039788969467504527
+      '!$ModernFloorLights_31': -7184079785091625607
+      '!$ModernFloorLights_32': -6393364766419872422
+      '!$ModernFloorLights_33': -1255064575522049832
+      '!$ModernFloorLights_34': -6621861008819328341
+      '!$ModernFloorLights_35': 1355159765034280731
+      '!$ModernFloorLights_36': 4171625193570652896
+      '!$ModernFloorLights_37': 8969294493786397814
+      '!$ModernFloorLights_38': 3975184446036983585
+      '!$ModernFloorLights_39': -4546236035785858154
+      '!$ModernFloorLights_4': -4072228211437477043
+      '!$ModernFloorLights_40': 1652748010430421301
+      '!$ModernFloorLights_41': 2514430993676525837
+      '!$ModernFloorLights_42': -3573854473451882360
+      '!$ModernFloorLights_43': 147982728323714669
+      '!$ModernFloorLights_44': -8596447825129762369
+      '!$ModernFloorLights_45': -390737505537397131
+      '!$ModernFloorLights_46': -7396722538785127330
+      '!$ModernFloorLights_47': 7191167801023735304
+      '!$ModernFloorLights_48': -1978578670939485399
+      '!$ModernFloorLights_49': 9172761087057561489
+      '!$ModernFloorLights_5': 60787716246978276
+      '!$ModernFloorLights_50': 2958426784601686255
+      '!$ModernFloorLights_51': 7579897668033513756
+      '!$ModernFloorLights_52': -8855686636471707363
+      '!$ModernFloorLights_53': -384994595163997462
+      '!$ModernFloorLights_54': 9092751875395388869
+      '!$ModernFloorLights_55': 4739758489525211884
+      '!$ModernFloorLights_56': 4159993239484141059
+      '!$ModernFloorLights_57': 132061938851671503
+      '!$ModernFloorLights_58': 4754742837310623766
+      '!$ModernFloorLights_59': 841620809073259137
+      '!$ModernFloorLights_6': -2848787859582750514
+      '!$ModernFloorLights_60': 428853765938615815
+      '!$ModernFloorLights_61': 7159914839472980571
+      '!$ModernFloorLights_62': 5292814596507805630
+      '!$ModernFloorLights_63': -9202945774636618467
+      '!$ModernFloorLights_64': -7962869846470522756
+      '!$ModernFloorLights_65': 1132793930755027687
+      '!$ModernFloorLights_66': 884473450750523397
+      '!$ModernFloorLights_67': -7026778742681283273
+      '!$ModernFloorLights_68': -7471225451943699997
+      '!$ModernFloorLights_69': 6098743823052253298
+      '!$ModernFloorLights_7': -5025005552192908792
+      '!$ModernFloorLights_70': 5733477963165145065
+      '!$ModernFloorLights_71': -5035993453878381608
+      '!$ModernFloorLights_72': -956450933707983654
+      '!$ModernFloorLights_73': -5106317099083040774
+      '!$ModernFloorLights_74': -3435150803010580884
+      '!$ModernFloorLights_75': 231558135770540741
+      '!$ModernFloorLights_76': -2115097926835651899
+      '!$ModernFloorLights_77': -3696564956435871824
+      '!$ModernFloorLights_78': 2289849405988397694
+      '!$ModernFloorLights_79': 291422485668640991
+      '!$ModernFloorLights_8': -2736089371664515314
+      '!$ModernFloorLights_80': -1787739731077786715
+      '!$ModernFloorLights_81': -1670050174266426041
+      '!$ModernFloorLights_82': -6729439917986186903
+      '!$ModernFloorLights_83': -5629311170503563241
+      '!$ModernFloorLights_84': -5053008814637780730
+      '!$ModernFloorLights_85': -6940284691232825999
+      '!$ModernFloorLights_86': -8577510953042418217
+      '!$ModernFloorLights_87': -2966180150264938051
+      '!$ModernFloorLights_88': -6957457082448188399
+      '!$ModernFloorLights_89': -472397028857816745
+      '!$ModernFloorLights_9': -779471661540915374
+      '!$ModernFloorLights_90': 6824601068338498499
+      '!$ModernFloorLights_91': -55616773578066101
+      '!$ModernFloorLights_92': -9197029211351257870
+      '!$ModernFloorLights_93': -3235910906685672432
+      '!$ModernFloorLights_94': 2006756206196302255
+      '!$ModernFloorLights_95': 4733697396756021177
+      '!$ModernFloorLights_96': -5509587876652929833
+      '!$ModernFloorLights_97': 2143479512563774749
+      '!$ModernFloorLights_98': -2991253848845838898
+      '!$ModernFloorLights_99': 4024353247266877239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

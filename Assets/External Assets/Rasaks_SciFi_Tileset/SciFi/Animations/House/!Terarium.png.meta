@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 189661b9ad5e56b4b8a05f65eed1cc78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6501500063548764660
+    second: '!Terarium_0'
+  - first:
+      213: -8018074252404337620
+    second: '!Terarium_1'
+  - first:
+      213: -6757903867972814038
+    second: '!Terarium_2'
+  - first:
+      213: 2663266240478084194
+    second: '!Terarium_3'
+  - first:
+      213: -2182892808731221130
+    second: '!Terarium_4'
+  - first:
+      213: 553793852071489937
+    second: '!Terarium_5'
+  - first:
+      213: 7598883109150451257
+    second: '!Terarium_6'
+  - first:
+      213: 402276187181974747
+    second: '!Terarium_7'
+  - first:
+      213: 714193731172603603
+    second: '!Terarium_8'
+  - first:
+      213: -6897032564350372304
+    second: '!Terarium_9'
+  - first:
+      213: -2504014007208918456
+    second: '!Terarium_10'
+  - first:
+      213: 1483844797003326555
+    second: '!Terarium_11'
+  - first:
+      213: -5312469796547174595
+    second: '!Terarium_12'
+  - first:
+      213: -5809615411095340012
+    second: '!Terarium_13'
+  - first:
+      213: -7535231175511298924
+    second: '!Terarium_14'
+  - first:
+      213: 6192847576867476955
+    second: '!Terarium_15'
+  - first:
+      213: 6974242139963669780
+    second: '!Terarium_16'
+  - first:
+      213: -4128488180012451771
+    second: '!Terarium_17'
+  - first:
+      213: 5630213243290263403
+    second: '!Terarium_18'
+  - first:
+      213: 2590658972313336758
+    second: '!Terarium_19'
+  - first:
+      213: 7014103129287378910
+    second: '!Terarium_20'
+  - first:
+      213: -3156664635854828022
+    second: '!Terarium_21'
+  - first:
+      213: 6081065289239390700
+    second: '!Terarium_22'
+  - first:
+      213: 2478980088002293251
+    second: '!Terarium_23'
+  - first:
+      213: -6521825756600182017
+    second: '!Terarium_24'
+  - first:
+      213: 1203038648216141588
+    second: '!Terarium_25'
+  - first:
+      213: -583346360124369430
+    second: '!Terarium_26'
+  - first:
+      213: -4419135157415674242
+    second: '!Terarium_27'
+  - first:
+      213: -7137356980482098188
+    second: '!Terarium_28'
+  - first:
+      213: -883169054729486740
+    second: '!Terarium_29'
+  - first:
+      213: -8409099318919691439
+    second: '!Terarium_30'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!Terarium_0'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e0ffc732806c5a0800000000000000
+      internalID: -6501500063548764660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_1'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24dbb2f2f31ab090800000000000000
+      internalID: -8018074252404337620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_2'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bfd3bac3a1732a0800000000000000
+      internalID: -6757903867972814038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_3'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7cfdf882d5f420800000000000000
+      internalID: 2663266240478084194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_4'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67322d05e8ec4b1e0800000000000000
+      internalID: -2182892808731221130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_5'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191348703987fa700800000000000000
+      internalID: 553793852071489937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_6'
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 44
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e0aa5de7a47960800000000000000
+      internalID: 7598883109150451257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_7'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 335
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd484969f0c259500800000000000000
+      internalID: 402276187181974747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_8'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 287
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69a5f1a6359e900800000000000000
+      internalID: 714193731172603603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_9'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 335
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036389dbc61d840a0800000000000000
+      internalID: -6897032564350372304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_10'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c5bbf684ff3dd0800000000000000
+      internalID: -2504014007208918456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_11'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 335
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e13b2bfca79410800000000000000
+      internalID: 1483844797003326555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_12'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 239
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f50d0edd05646b0800000000000000
+      internalID: -5312469796547174595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_13'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cf6047099106fa0800000000000000
+      internalID: -5809615411095340012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_14'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c23335b2b7d6790800000000000000
+      internalID: -7535231175511298924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_15'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5135f5f0a61f550800000000000000
+      internalID: 6192847576867476955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_16'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 239
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d3812764c79c060800000000000000
+      internalID: 6974242139963669780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_17'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54875fabfd9a4b6c0800000000000000
+      internalID: -4128488180012451771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_18'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 143
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f14085d19822e40800000000000000
+      internalID: 5630213243290263403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_19'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 143
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb3ae20c9ed3f320800000000000000
+      internalID: 2590658972313336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_20'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7412f32a9175160800000000000000
+      internalID: 7014103129287378910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_21'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ec5d80d364134d0800000000000000
+      internalID: -3156664635854828022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_22'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9621569a8446450800000000000000
+      internalID: 6081065289239390700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_23'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 143
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ea4ae714b176220800000000000000
+      internalID: 2478980088002293251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_24'
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 95
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa5ada4702dd75a0800000000000000
+      internalID: -6521825756600182017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_25'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 95
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f3dfdc64d02b010800000000000000
+      internalID: 1203038648216141588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_26'
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 95
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae515cf739987e7f0800000000000000
+      internalID: -583346360124369430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_27'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7cc7ecf31ca2c0800000000000000
+      internalID: -4419135157415674242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_28'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb53f34a303fc90800000000000000
+      internalID: -7137356980482098188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_29'
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e3b388c6a5eb3f0800000000000000
+      internalID: -883169054729486740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!Terarium_30'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15300d609b0ec4b80800000000000000
+      internalID: -8409099318919691439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!Terarium_0': -6501500063548764660
+      '!Terarium_1': -8018074252404337620
+      '!Terarium_10': -2504014007208918456
+      '!Terarium_11': 1483844797003326555
+      '!Terarium_12': -5312469796547174595
+      '!Terarium_13': -5809615411095340012
+      '!Terarium_14': -7535231175511298924
+      '!Terarium_15': 6192847576867476955
+      '!Terarium_16': 6974242139963669780
+      '!Terarium_17': -4128488180012451771
+      '!Terarium_18': 5630213243290263403
+      '!Terarium_19': 2590658972313336758
+      '!Terarium_2': -6757903867972814038
+      '!Terarium_20': 7014103129287378910
+      '!Terarium_21': -3156664635854828022
+      '!Terarium_22': 6081065289239390700
+      '!Terarium_23': 2478980088002293251
+      '!Terarium_24': -6521825756600182017
+      '!Terarium_25': 1203038648216141588
+      '!Terarium_26': -583346360124369430
+      '!Terarium_27': -4419135157415674242
+      '!Terarium_28': -7137356980482098188
+      '!Terarium_29': -883169054729486740
+      '!Terarium_3': 2663266240478084194
+      '!Terarium_30': -8409099318919691439
+      '!Terarium_4': -2182892808731221130
+      '!Terarium_5': 553793852071489937
+      '!Terarium_6': 7598883109150451257
+      '!Terarium_7': 402276187181974747
+      '!Terarium_8': 714193731172603603
+      '!Terarium_9': -6897032564350372304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 5908a526fd4a5a2448a04561d02f2a02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8802571870902105403
+    second: Animal_Clam_0
+  - first:
+      213: 5469399155567682453
+    second: Animal_Clam_1
+  - first:
+      213: 6343244968326786953
+    second: Animal_Clam_2
+  - first:
+      213: -3017444259443222645
+    second: Animal_Clam_3
+  - first:
+      213: -8374720747131766585
+    second: Animal_Clam_4
+  - first:
+      213: -1453905813019557443
+    second: Animal_Clam_5
+  - first:
+      213: 4611800190278348085
+    second: Animal_Clam_6
+  - first:
+      213: -262248080920397951
+    second: Animal_Clam_7
+  - first:
+      213: 7338816658870506443
+    second: Animal_Clam_8
+  - first:
+      213: -5381176338163374544
+    second: Animal_Clam_9
+  - first:
+      213: -1914629518276388557
+    second: Animal_Clam_10
+  - first:
+      213: 7026985875760535430
+    second: Animal_Clam_11
+  - first:
+      213: -7004077622404278995
+    second: Animal_Clam_12
+  - first:
+      213: -2589737718495969577
+    second: Animal_Clam_13
+  - first:
+      213: -3935995922794476817
+    second: Animal_Clam_14
+  - first:
+      213: -2298877254266067646
+    second: Animal_Clam_15
+  - first:
+      213: -5723100144032199778
+    second: Animal_Clam_16
+  - first:
+      213: 377897140098118751
+    second: Animal_Clam_17
+  - first:
+      213: 4008235150961668725
+    second: Animal_Clam_18
+  - first:
+      213: -4650347213105683056
+    second: Animal_Clam_19
+  - first:
+      213: 4542054942506774616
+    second: Animal_Clam_20
+  - first:
+      213: 7341906610522204291
+    second: Animal_Clam_21
+  - first:
+      213: -2263897584733849148
+    second: Animal_Clam_22
+  - first:
+      213: 3367577519343361140
+    second: Animal_Clam_23
+  - first:
+      213: 5686911260570346531
+    second: Animal_Clam_24
+  - first:
+      213: -5733840872522841622
+    second: Animal_Clam_25
+  - first:
+      213: -9031474619699977656
+    second: Animal_Clam_26
+  - first:
+      213: -4589500963673772870
+    second: Animal_Clam_27
+  - first:
+      213: -4133134672837522012
+    second: Animal_Clam_28
+  - first:
+      213: 4729427920785904384
+    second: Animal_Clam_29
+  - first:
+      213: -518181533741116994
+    second: Animal_Clam_30
+  - first:
+      213: -4025871765685932979
+    second: Animal_Clam_31
+  - first:
+      213: 5289853525235317580
+    second: Animal_Clam_32
+  - first:
+      213: 2452557286599696415
+    second: Animal_Clam_33
+  - first:
+      213: -5063565914011006579
+    second: Animal_Clam_34
+  - first:
+      213: -5350178943737171431
+    second: Animal_Clam_35
+  - first:
+      213: -7027420653637629130
+    second: Animal_Clam_36
+  - first:
+      213: 2151248764533028208
+    second: Animal_Clam_37
+  - first:
+      213: -5275736181777318602
+    second: Animal_Clam_38
+  - first:
+      213: -1829037592610284237
+    second: Animal_Clam_39
+  - first:
+      213: -6940185701076064260
+    second: Animal_Clam_40
+  - first:
+      213: -819438773365192287
+    second: Animal_Clam_41
+  - first:
+      213: -6994141297892300955
+    second: Animal_Clam_42
+  - first:
+      213: 1544944671763715534
+    second: Animal_Clam_43
+  - first:
+      213: -2899742822867677142
+    second: Animal_Clam_44
+  - first:
+      213: 7971840150609422933
+    second: Animal_Clam_45
+  - first:
+      213: 8111447928313343739
+    second: Animal_Clam_46
+  - first:
+      213: 5031199022880683868
+    second: Animal_Clam_47
+  - first:
+      213: -5858578000482569906
+    second: Animal_Clam_48
+  - first:
+      213: -6974211399541351612
+    second: Animal_Clam_49
+  - first:
+      213: 7132610669628177429
+    second: Animal_Clam_50
+  - first:
+      213: 2652371996173574224
+    second: Animal_Clam_51
+  - first:
+      213: -2487442085568046826
+    second: Animal_Clam_52
+  - first:
+      213: 6544522780190700386
+    second: Animal_Clam_53
+  - first:
+      213: -7349881740513566358
+    second: Animal_Clam_54
+  - first:
+      213: 5975889410323888918
+    second: Animal_Clam_55
+  - first:
+      213: -8197639239892734349
+    second: Animal_Clam_56
+  - first:
+      213: 4806575876553943658
+    second: Animal_Clam_57
+  - first:
+      213: -3841442975620894299
+    second: Animal_Clam_58
+  - first:
+      213: -920558668228219802
+    second: Animal_Clam_59
+  - first:
+      213: -3189563604815745567
+    second: Animal_Clam_60
+  - first:
+      213: -3034880046063428034
+    second: Animal_Clam_61
+  - first:
+      213: 1391201033472657008
+    second: Animal_Clam_62
+  - first:
+      213: -5766513486946388130
+    second: Animal_Clam_63
+  - first:
+      213: 4302834880390010883
+    second: Animal_Clam_64
+  - first:
+      213: -947247360516363935
+    second: Animal_Clam_65
+  - first:
+      213: 5243321775738725115
+    second: Animal_Clam_66
+  - first:
+      213: 1830471472760682937
+    second: Animal_Clam_67
+  - first:
+      213: 6776046175174361822
+    second: Animal_Clam_68
+  - first:
+      213: 186622175188711103
+    second: Animal_Clam_69
+  - first:
+      213: -1575532462812445706
+    second: Animal_Clam_70
+  - first:
+      213: 6680036424071259966
+    second: Animal_Clam_71
+  - first:
+      213: 2793432708261257339
+    second: Animal_Clam_72
+  - first:
+      213: -2753306485023861297
+    second: Animal_Clam_73
+  - first:
+      213: -2945042358944056490
+    second: Animal_Clam_74
+  - first:
+      213: 7462602343777208971
+    second: Animal_Clam_75
+  - first:
+      213: -4494146816899726027
+    second: Animal_Clam_76
+  - first:
+      213: -7966199480577573502
+    second: Animal_Clam_77
+  - first:
+      213: 7550869753892374131
+    second: Animal_Clam_78
+  - first:
+      213: 5734618647313277705
+    second: Animal_Clam_79
+  - first:
+      213: 867444567431442208
+    second: Animal_Clam_80
+  - first:
+      213: -7491456538082373862
+    second: Animal_Clam_81
+  - first:
+      213: -4768952399501411487
+    second: Animal_Clam_82
+  - first:
+      213: 3711110472369320587
+    second: Animal_Clam_83
+  - first:
+      213: -7218594299431621079
+    second: Animal_Clam_84
+  - first:
+      213: 2549157927069599404
+    second: Animal_Clam_85
+  - first:
+      213: 8431389363102837863
+    second: Animal_Clam_86
+  - first:
+      213: -8305406393313406527
+    second: Animal_Clam_87
+  - first:
+      213: -7571196956455967977
+    second: Animal_Clam_88
+  - first:
+      213: 8494617554969370162
+    second: Animal_Clam_89
+  - first:
+      213: -7513807121311234570
+    second: Animal_Clam_90
+  - first:
+      213: 3027159916278191285
+    second: Animal_Clam_91
+  - first:
+      213: -7554149434683061050
+    second: Animal_Clam_92
+  - first:
+      213: 5757487228633989595
+    second: Animal_Clam_93
+  - first:
+      213: 6473234884527478129
+    second: Animal_Clam_94
+  - first:
+      213: 5332853275051096339
+    second: Animal_Clam_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Clam_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac80d758bf6d580800000000000000
+      internalID: -8802571870902105403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ee6acd8537eb40800000000000000
+      internalID: 5469399155567682453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fe664d0bbb70850800000000000000
+      internalID: 6343244968326786953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b875852ee62ef16d0800000000000000
+      internalID: -3017444259443222645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8fd160ad307cb80800000000000000
+      internalID: -8374720747131766585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1081ebd50b2dbe0800000000000000
+      internalID: -1453905813019557443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dae94b6d7600040800000000000000
+      internalID: 4611800190278348085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18736b582ce4c5cf0800000000000000
+      internalID: -262248080920397951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc312b75ed6b8d560800000000000000
+      internalID: 7338816658870506443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e80291a83255b0800000000000000
+      internalID: -5381176338163374544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33998a6e89edd65e0800000000000000
+      internalID: -1914629518276388557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 338
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687d4666c6ed48160800000000000000
+      internalID: 7026985875760535430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d259459f2848cce90800000000000000
+      internalID: -7004077622404278995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7defd9b14476f0cd0800000000000000
+      internalID: -2589737718495969577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea0370ef888069c0800000000000000
+      internalID: -3935995922794476817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ee35315fb810e0800000000000000
+      internalID: -2298877254266067646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b49f4cdb67390b0800000000000000
+      internalID: -5723100144032199778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f543f2d527f8e3500800000000000000
+      internalID: 377897140098118751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572fd4d12ac10a730800000000000000
+      internalID: 4008235150961668725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095ab9829d5a67fb0800000000000000
+      internalID: -4650347213105683056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507c66c7ee980f30800000000000000
+      internalID: 4542054942506774616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a446c921b3e560800000000000000
+      internalID: 7341906610522204291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f21e24250590e0800000000000000
+      internalID: -2263897584733849148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 290
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c5d0269e90cbe20800000000000000
+      internalID: 3367577519343361140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324e67339a7fbee40800000000000000
+      internalID: 5686911260570346531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae109aa0b1e4d60b0800000000000000
+      internalID: -5733840872522841622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a3d62fa1c9a280800000000000000
+      internalID: -9031474619699977656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc69e39031de40c0800000000000000
+      internalID: -4589500963673772870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad4ba0d9e724a6c0800000000000000
+      internalID: -4133134672837522012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0031249e2ad42a140800000000000000
+      internalID: 4729427920785904384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19138f3ac0fc8f0800000000000000
+      internalID: -518181533741116994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce30785fa3128c0800000000000000
+      internalID: -4025871765685932979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bbf7d11c5596940800000000000000
+      internalID: 5289853525235317580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f102213abdb390220800000000000000
+      internalID: 2452557286599696415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89099e01a99ab9b0800000000000000
+      internalID: -5063565914011006579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 242
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91275cdd89850c5b0800000000000000
+      internalID: -5350178943737171431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b8facf526997e90800000000000000
+      internalID: -7027420653637629130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753d718a55cadd10800000000000000
+      internalID: 2151248764533028208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dbc7c05e1d8c6b0800000000000000
+      internalID: -5275736181777318602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dd0ab0004fd96e0800000000000000
+      internalID: -1829037592610284237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ad1420e18faf90800000000000000
+      internalID: -6940185701076064260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c266f6c4c0a4f0800000000000000
+      internalID: -819438773365192287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676d3ecb81dfee90800000000000000
+      internalID: -6994141297892300955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5db165efeb07510800000000000000
+      internalID: 1544944671763715534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20dbfe144b02c7d0800000000000000
+      internalID: -2899742822867677142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a654f516aa1ae60800000000000000
+      internalID: 7971840150609422933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee13d1ae6a19070800000000000000
+      internalID: 8111447928313343739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 194
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c577819dad862d540800000000000000
+      internalID: 5031199022880683868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417150495622bea0800000000000000
+      internalID: -5858578000482569906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b9bdddeaf963f90800000000000000
+      internalID: -6974211399541351612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c39542d9f1cf260800000000000000
+      internalID: 7132610669628177429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ae14174e1fc420800000000000000
+      internalID: 2652371996173574224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6191c5a2a94da7dd0800000000000000
+      internalID: -2487442085568046826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f7b15bc0d2da50800000000000000
+      internalID: 6544522780190700386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612f839f79fff990800000000000000
+      internalID: -7349881740513566358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bbf5fc1cf9ee250800000000000000
+      internalID: 5975889410323888918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee3655b822c3e80800000000000000
+      internalID: -8197639239892734349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aa5fb1b4364b240800000000000000
+      internalID: 4806575876553943658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1723d67f370bac0800000000000000
+      internalID: -3841442975620894299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 146
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca951c4c48933f0800000000000000
+      internalID: -920558668228219802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed617aecc46cb3d0800000000000000
+      internalID: -3189563604815745567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed7767da0f1e5d0800000000000000
+      internalID: -3034880046063428034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764b4318f98e4310800000000000000
+      internalID: 1391201033472657008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57bf02398a39ffa0800000000000000
+      internalID: -5766513486946388130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089eccb68db6bb30800000000000000
+      internalID: 4302834880390010883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169eef95b83bad2f0800000000000000
+      internalID: -947247360516363935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf22afdef5504c840800000000000000
+      internalID: 5243321775738725115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f2613b14276910800000000000000
+      internalID: 1830471472760682937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed289e4681a590e50800000000000000
+      internalID: 6776046175174361822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_69
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6755b21e3079200800000000000000
+      internalID: 186622175188711103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_70
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c7f59295922ae0800000000000000
+      internalID: -1575532462812445706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 98
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37207f3cb144bc50800000000000000
+      internalID: 6680036424071259966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70aed77f3444c620800000000000000
+      internalID: 2793432708261257339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59f5ae65a4ac9d0800000000000000
+      internalID: -2753306485023861297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b39aaf39b1127d0800000000000000
+      internalID: -2945042358944056490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a86d80b4d709760800000000000000
+      internalID: 7462602343777208971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5354d32f74591a1c0800000000000000
+      internalID: -4494146816899726027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db54677cf527190800000000000000
+      internalID: -7966199480577573502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3760ff1f8041ac860800000000000000
+      internalID: 7550869753892374131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9036073c645759f40800000000000000
+      internalID: 5734618647313277705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe718fc38c90c00800000000000000
+      internalID: 867444567431442208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f825558fff80890800000000000000
+      internalID: -7491456538082373862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb8f44f0741ddb0800000000000000
+      internalID: -4768952399501411487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 50
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b823ec3ff43808330800000000000000
+      internalID: 3711110472369320587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee7bcfab662db90800000000000000
+      internalID: -7218594299431621079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_85
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6ca5fe0ad606320800000000000000
+      internalID: 2549157927069599404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c60ce44ff420570800000000000000
+      internalID: 8431389363102837863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1db43a3e44dbc80800000000000000
+      internalID: -8305406393313406527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7136ce56b74bde690800000000000000
+      internalID: -7571196956455967977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e1fbae8a1f2e570800000000000000
+      internalID: 8494617554969370162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f58177ab3899b790800000000000000
+      internalID: -7513807121311234570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_91
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41010c7e1a20a20800000000000000
+      internalID: 3027159916278191285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_92
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8f7ddc154a2790800000000000000
+      internalID: -7554149434683061050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_93
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c3954124b6ef40800000000000000
+      internalID: 5757487228633989595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_94
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755defa4dc85d950800000000000000
+      internalID: 6473234884527478129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Clam_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319f2ba8cc9120a40800000000000000
+      internalID: 5332853275051096339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Clam_0: -8802571870902105403
+      Animal_Clam_1: 5469399155567682453
+      Animal_Clam_10: -1914629518276388557
+      Animal_Clam_11: 7026985875760535430
+      Animal_Clam_12: -7004077622404278995
+      Animal_Clam_13: -2589737718495969577
+      Animal_Clam_14: -3935995922794476817
+      Animal_Clam_15: -2298877254266067646
+      Animal_Clam_16: -5723100144032199778
+      Animal_Clam_17: 377897140098118751
+      Animal_Clam_18: 4008235150961668725
+      Animal_Clam_19: -4650347213105683056
+      Animal_Clam_2: 6343244968326786953
+      Animal_Clam_20: 4542054942506774616
+      Animal_Clam_21: 7341906610522204291
+      Animal_Clam_22: -2263897584733849148
+      Animal_Clam_23: 3367577519343361140
+      Animal_Clam_24: 5686911260570346531
+      Animal_Clam_25: -5733840872522841622
+      Animal_Clam_26: -9031474619699977656
+      Animal_Clam_27: -4589500963673772870
+      Animal_Clam_28: -4133134672837522012
+      Animal_Clam_29: 4729427920785904384
+      Animal_Clam_3: -3017444259443222645
+      Animal_Clam_30: -518181533741116994
+      Animal_Clam_31: -4025871765685932979
+      Animal_Clam_32: 5289853525235317580
+      Animal_Clam_33: 2452557286599696415
+      Animal_Clam_34: -5063565914011006579
+      Animal_Clam_35: -5350178943737171431
+      Animal_Clam_36: -7027420653637629130
+      Animal_Clam_37: 2151248764533028208
+      Animal_Clam_38: -5275736181777318602
+      Animal_Clam_39: -1829037592610284237
+      Animal_Clam_4: -8374720747131766585
+      Animal_Clam_40: -6940185701076064260
+      Animal_Clam_41: -819438773365192287
+      Animal_Clam_42: -6994141297892300955
+      Animal_Clam_43: 1544944671763715534
+      Animal_Clam_44: -2899742822867677142
+      Animal_Clam_45: 7971840150609422933
+      Animal_Clam_46: 8111447928313343739
+      Animal_Clam_47: 5031199022880683868
+      Animal_Clam_48: -5858578000482569906
+      Animal_Clam_49: -6974211399541351612
+      Animal_Clam_5: -1453905813019557443
+      Animal_Clam_50: 7132610669628177429
+      Animal_Clam_51: 2652371996173574224
+      Animal_Clam_52: -2487442085568046826
+      Animal_Clam_53: 6544522780190700386
+      Animal_Clam_54: -7349881740513566358
+      Animal_Clam_55: 5975889410323888918
+      Animal_Clam_56: -8197639239892734349
+      Animal_Clam_57: 4806575876553943658
+      Animal_Clam_58: -3841442975620894299
+      Animal_Clam_59: -920558668228219802
+      Animal_Clam_6: 4611800190278348085
+      Animal_Clam_60: -3189563604815745567
+      Animal_Clam_61: -3034880046063428034
+      Animal_Clam_62: 1391201033472657008
+      Animal_Clam_63: -5766513486946388130
+      Animal_Clam_64: 4302834880390010883
+      Animal_Clam_65: -947247360516363935
+      Animal_Clam_66: 5243321775738725115
+      Animal_Clam_67: 1830471472760682937
+      Animal_Clam_68: 6776046175174361822
+      Animal_Clam_69: 186622175188711103
+      Animal_Clam_7: -262248080920397951
+      Animal_Clam_70: -1575532462812445706
+      Animal_Clam_71: 6680036424071259966
+      Animal_Clam_72: 2793432708261257339
+      Animal_Clam_73: -2753306485023861297
+      Animal_Clam_74: -2945042358944056490
+      Animal_Clam_75: 7462602343777208971
+      Animal_Clam_76: -4494146816899726027
+      Animal_Clam_77: -7966199480577573502
+      Animal_Clam_78: 7550869753892374131
+      Animal_Clam_79: 5734618647313277705
+      Animal_Clam_8: 7338816658870506443
+      Animal_Clam_80: 867444567431442208
+      Animal_Clam_81: -7491456538082373862
+      Animal_Clam_82: -4768952399501411487
+      Animal_Clam_83: 3711110472369320587
+      Animal_Clam_84: -7218594299431621079
+      Animal_Clam_85: 2549157927069599404
+      Animal_Clam_86: 8431389363102837863
+      Animal_Clam_87: -8305406393313406527
+      Animal_Clam_88: -7571196956455967977
+      Animal_Clam_89: 8494617554969370162
+      Animal_Clam_9: -5381176338163374544
+      Animal_Clam_90: -7513807121311234570
+      Animal_Clam_91: 3027159916278191285
+      Animal_Clam_92: -7554149434683061050
+      Animal_Clam_93: 5757487228633989595
+      Animal_Clam_94: 6473234884527478129
+      Animal_Clam_95: 5332853275051096339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

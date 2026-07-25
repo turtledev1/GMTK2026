@@ -1,0 +1,3796 @@
+fileFormatVersion: 2
+guid: 52c524a7f561ef648946860fd90abeef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8651806420598527248
+    second: Animal_Lake_0
+  - first:
+      213: 6296476104878297202
+    second: Animal_Lake_1
+  - first:
+      213: -8809978347778087978
+    second: Animal_Lake_2
+  - first:
+      213: -7237542210050110290
+    second: Animal_Lake_3
+  - first:
+      213: -6996713704364150926
+    second: Animal_Lake_4
+  - first:
+      213: 5726217552460330012
+    second: Animal_Lake_5
+  - first:
+      213: 1534539922830978269
+    second: Animal_Lake_6
+  - first:
+      213: 6027585815487631851
+    second: Animal_Lake_7
+  - first:
+      213: 5041707885714516166
+    second: Animal_Lake_8
+  - first:
+      213: 1207540462396501632
+    second: Animal_Lake_9
+  - first:
+      213: 1237317849969079502
+    second: Animal_Lake_10
+  - first:
+      213: -756023212518209673
+    second: Animal_Lake_11
+  - first:
+      213: -214853188901185394
+    second: Animal_Lake_12
+  - first:
+      213: -3812997470151035572
+    second: Animal_Lake_13
+  - first:
+      213: 2948502821210467185
+    second: Animal_Lake_14
+  - first:
+      213: -6960910819359200922
+    second: Animal_Lake_15
+  - first:
+      213: -744339648674791134
+    second: Animal_Lake_16
+  - first:
+      213: -1970616681616966004
+    second: Animal_Lake_17
+  - first:
+      213: 9081061278161569336
+    second: Animal_Lake_18
+  - first:
+      213: 4889685261453194505
+    second: Animal_Lake_19
+  - first:
+      213: 6266108983909420885
+    second: Animal_Lake_20
+  - first:
+      213: -6835080139688994929
+    second: Animal_Lake_21
+  - first:
+      213: 7771410569479254161
+    second: Animal_Lake_22
+  - first:
+      213: 3973959884392825639
+    second: Animal_Lake_23
+  - first:
+      213: 9152827803402938871
+    second: Animal_Lake_24
+  - first:
+      213: 3950421044423588978
+    second: Animal_Lake_25
+  - first:
+      213: 6520910978924329953
+    second: Animal_Lake_26
+  - first:
+      213: 8183906928249899966
+    second: Animal_Lake_27
+  - first:
+      213: -4512056415896454075
+    second: Animal_Lake_28
+  - first:
+      213: -6098086465498319107
+    second: Animal_Lake_29
+  - first:
+      213: -1826947114067283377
+    second: Animal_Lake_30
+  - first:
+      213: 8838512945111183224
+    second: Animal_Lake_31
+  - first:
+      213: 3607147600058803954
+    second: Animal_Lake_32
+  - first:
+      213: 4946186186379704731
+    second: Animal_Lake_33
+  - first:
+      213: -5657162901301926819
+    second: Animal_Lake_34
+  - first:
+      213: -945284929448051202
+    second: Animal_Lake_35
+  - first:
+      213: -5169551699624404784
+    second: Animal_Lake_36
+  - first:
+      213: 5837686723564008992
+    second: Animal_Lake_37
+  - first:
+      213: 1329483567328651570
+    second: Animal_Lake_38
+  - first:
+      213: 2732108169709150368
+    second: Animal_Lake_39
+  - first:
+      213: -7287386849532457204
+    second: Animal_Lake_40
+  - first:
+      213: 936285833395917120
+    second: Animal_Lake_41
+  - first:
+      213: 433408108189160722
+    second: Animal_Lake_42
+  - first:
+      213: 1340951352447965628
+    second: Animal_Lake_43
+  - first:
+      213: -1409669694418051238
+    second: Animal_Lake_44
+  - first:
+      213: -5327664071551963131
+    second: Animal_Lake_45
+  - first:
+      213: -2724390777489733783
+    second: Animal_Lake_46
+  - first:
+      213: 2673568673444974247
+    second: Animal_Lake_47
+  - first:
+      213: 2250336958052182196
+    second: Animal_Lake_48
+  - first:
+      213: -5963132052440995239
+    second: Animal_Lake_49
+  - first:
+      213: 4535087219836227293
+    second: Animal_Lake_50
+  - first:
+      213: 5500728927383153752
+    second: Animal_Lake_51
+  - first:
+      213: -2601483803402938826
+    second: Animal_Lake_52
+  - first:
+      213: 4966097361051245635
+    second: Animal_Lake_53
+  - first:
+      213: 7831418751833325254
+    second: Animal_Lake_54
+  - first:
+      213: -8007782371247801101
+    second: Animal_Lake_55
+  - first:
+      213: -6584732618628305545
+    second: Animal_Lake_56
+  - first:
+      213: 511414894109024211
+    second: Animal_Lake_57
+  - first:
+      213: 7889308237364484419
+    second: Animal_Lake_58
+  - first:
+      213: -4888732961709976428
+    second: Animal_Lake_59
+  - first:
+      213: 2243950708610884358
+    second: Animal_Lake_60
+  - first:
+      213: -3966661777704701341
+    second: Animal_Lake_61
+  - first:
+      213: -1598188837179308118
+    second: Animal_Lake_62
+  - first:
+      213: 6857602229732186661
+    second: Animal_Lake_63
+  - first:
+      213: 2774817439319789999
+    second: Animal_Lake_64
+  - first:
+      213: -9108407873542223973
+    second: Animal_Lake_65
+  - first:
+      213: -7930662707846336717
+    second: Animal_Lake_66
+  - first:
+      213: -3368698347741910374
+    second: Animal_Lake_67
+  - first:
+      213: 5030099514719362831
+    second: Animal_Lake_68
+  - first:
+      213: 4516588498087962100
+    second: Animal_Lake_69
+  - first:
+      213: 7267174435031352880
+    second: Animal_Lake_70
+  - first:
+      213: -6574290690203147262
+    second: Animal_Lake_71
+  - first:
+      213: 5561149460595726254
+    second: Animal_Lake_72
+  - first:
+      213: 6301769044233117591
+    second: Animal_Lake_73
+  - first:
+      213: 5476670237381173009
+    second: Animal_Lake_74
+  - first:
+      213: 4013949557685437137
+    second: Animal_Lake_75
+  - first:
+      213: 3914594532384986694
+    second: Animal_Lake_76
+  - first:
+      213: 5117990106166284466
+    second: Animal_Lake_77
+  - first:
+      213: 1489665953439371233
+    second: Animal_Lake_78
+  - first:
+      213: -3884488371887838297
+    second: Animal_Lake_79
+  - first:
+      213: -1789876841968483665
+    second: Animal_Lake_80
+  - first:
+      213: -1316345510382332767
+    second: Animal_Lake_81
+  - first:
+      213: -2406469065136696919
+    second: Animal_Lake_82
+  - first:
+      213: -6190436392794182857
+    second: Animal_Lake_83
+  - first:
+      213: 4488920596503244119
+    second: Animal_Lake_84
+  - first:
+      213: -8936877035309132465
+    second: Animal_Lake_85
+  - first:
+      213: 8610066981411713148
+    second: Animal_Lake_86
+  - first:
+      213: -4351353505319668576
+    second: Animal_Lake_87
+  - first:
+      213: -6547838026222363082
+    second: Animal_Lake_88
+  - first:
+      213: 3168876375809074627
+    second: Animal_Lake_89
+  - first:
+      213: 3285711036148728767
+    second: Animal_Lake_90
+  - first:
+      213: -5876878087808763716
+    second: Animal_Lake_91
+  - first:
+      213: -1165690173888538694
+    second: Animal_Lake_92
+  - first:
+      213: -2897776491212231113
+    second: Animal_Lake_93
+  - first:
+      213: -5937550652762419678
+    second: Animal_Lake_94
+  - first:
+      213: -959284500951578562
+    second: Animal_Lake_95
+  - first:
+      213: -8725105704344339987
+    second: Animal_Lake_96
+  - first:
+      213: -6331855566459123078
+    second: Animal_Lake_97
+  - first:
+      213: 571790591407412832
+    second: Animal_Lake_98
+  - first:
+      213: 8931359425353474158
+    second: Animal_Lake_99
+  - first:
+      213: 7004870275309524939
+    second: Animal_Lake_100
+  - first:
+      213: 1654072346444307165
+    second: Animal_Lake_101
+  - first:
+      213: -3887488693502825088
+    second: Animal_Lake_102
+  - first:
+      213: -398208016636704268
+    second: Animal_Lake_103
+  - first:
+      213: 5999699683052570073
+    second: Animal_Lake_104
+  - first:
+      213: 418077034864660625
+    second: Animal_Lake_105
+  - first:
+      213: -944110248908007532
+    second: Animal_Lake_106
+  - first:
+      213: -3904702615308431998
+    second: Animal_Lake_107
+  - first:
+      213: 1016838259482784080
+    second: Animal_Lake_108
+  - first:
+      213: -694899052077797351
+    second: Animal_Lake_109
+  - first:
+      213: -8973384832508848250
+    second: Animal_Lake_110
+  - first:
+      213: -5561886505959544666
+    second: Animal_Lake_111
+  - first:
+      213: -105776360029615249
+    second: Animal_Lake_112
+  - first:
+      213: -7971433097327380418
+    second: Animal_Lake_113
+  - first:
+      213: 95846031812083321
+    second: Animal_Lake_114
+  - first:
+      213: 5506763487398774026
+    second: Animal_Lake_115
+  - first:
+      213: -1555540001081360053
+    second: Animal_Lake_116
+  - first:
+      213: -64106898834747640
+    second: Animal_Lake_117
+  - first:
+      213: -6428171260994718381
+    second: Animal_Lake_118
+  - first:
+      213: 4884284267140524440
+    second: Animal_Lake_119
+  - first:
+      213: 2527091515130662401
+    second: Animal_Lake_120
+  - first:
+      213: 6546112787545005448
+    second: Animal_Lake_121
+  - first:
+      213: 4812155977149926601
+    second: Animal_Lake_122
+  - first:
+      213: -1012040469651545775
+    second: Animal_Lake_123
+  - first:
+      213: -4290344601266587096
+    second: Animal_Lake_124
+  - first:
+      213: 5666343567945520033
+    second: Animal_Lake_125
+  - first:
+      213: -1280903031215472534
+    second: Animal_Lake_126
+  - first:
+      213: -5344761717012688098
+    second: Animal_Lake_127
+  - first:
+      213: 4972703107915865690
+    second: Animal_Lake_128
+  - first:
+      213: 7662276889407416589
+    second: Animal_Lake_129
+  - first:
+      213: -6709331271866978832
+    second: Animal_Lake_130
+  - first:
+      213: 3606928369136817565
+    second: Animal_Lake_131
+  - first:
+      213: 7083600927863315325
+    second: Animal_Lake_132
+  - first:
+      213: -5124339517917164193
+    second: Animal_Lake_133
+  - first:
+      213: -3502864973700067917
+    second: Animal_Lake_134
+  - first:
+      213: -8630589135411315765
+    second: Animal_Lake_135
+  - first:
+      213: -4435696925020087202
+    second: Animal_Lake_136
+  - first:
+      213: 8242911806514176975
+    second: Animal_Lake_137
+  - first:
+      213: -2761438588405443640
+    second: Animal_Lake_138
+  - first:
+      213: 8946039222874249814
+    second: Animal_Lake_139
+  - first:
+      213: -9059749258854633775
+    second: Animal_Lake_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Lake_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 350
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015183da914611870800000000000000
+      internalID: 8651806420598527248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 350
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270910048a3916750800000000000000
+      internalID: 6296476104878297202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 350
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3edc5be5bacb580800000000000000
+      internalID: -8809978347778087978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 350
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac4113c4b51f8b90800000000000000
+      internalID: -7237542210050110290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 353
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f6440c4fda6ee90800000000000000
+      internalID: -6996713704364150926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 359
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143101768c977f40800000000000000
+      internalID: 5726217552460330012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 345
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddceef1fde7cb4510800000000000000
+      internalID: 1534539922830978269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 346
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d2591d5946a350800000000000000
+      internalID: 6027585815487631851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 345
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8ac452c9eb7f540800000000000000
+      internalID: 5041707885714516166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 347
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eed0917ab02c010800000000000000
+      internalID: 1207540462396501632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 348
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec438a96706db2110800000000000000
+      internalID: 1237317849969079502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 347
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77707efc4e01285f0800000000000000
+      internalID: -756023212518209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885facb920b40df0800000000000000
+      internalID: -214853188901185394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453f26c003851bc0800000000000000
+      internalID: -3812997470151035572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bac7da1bf2be820800000000000000
+      internalID: 2948502821210467185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 340
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ebe28d70e56f90800000000000000
+      internalID: -6960910819359200922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 341
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221008088039ba5f0800000000000000
+      internalID: -744339648674791134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 340
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ef2cf9196f6a4e0800000000000000
+      internalID: -1970616681616966004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 300
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83600647e19660e70800000000000000
+      internalID: 9081061278161569336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 300
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057160b6d6abd340800000000000000
+      internalID: 4889685261453194505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 300
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f0ecdebe0b5f650800000000000000
+      internalID: 6266108983909420885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f879286a3dae421a0800000000000000
+      internalID: -6835080139688994929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 301
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190f68dfcb899db60800000000000000
+      internalID: 7771410569479254161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 310
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72303ecb577562730800000000000000
+      internalID: 3973959884392825639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 297
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a628b460650f70800000000000000
+      internalID: 9152827803402938871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c781a7207b2d630800000000000000
+      internalID: 3950421044423588978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 298
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebbabe6cfdee7a50800000000000000
+      internalID: 6520910978924329953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_27
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 297
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb8135bdf3139170800000000000000
+      internalID: 8183906928249899966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 303
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c38fb7894f161c0800000000000000
+      internalID: -4512056415896454075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 303
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6fa5e2bae3f5ba0800000000000000
+      internalID: -6098086465498319107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 303
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423892874165a6e0800000000000000
+      internalID: -1826947114067283377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2b04f1b4b8aa70800000000000000
+      internalID: 8838512945111183224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f668e971a92f0230800000000000000
+      internalID: 3607147600058803954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_33
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 292
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b993b18612264a440800000000000000
+      internalID: 4946186186379704731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_34
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 293
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54616f6058bd71b0800000000000000
+      internalID: -5657162901301926819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 292
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdf7b07d5ca1e2f0800000000000000
+      internalID: -945284929448051202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 252
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8dedf5e101248b0800000000000000
+      internalID: -5169551699624404784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 252
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026fb0c4521a30150800000000000000
+      internalID: 5837686723564008992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 252
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239e755b246437210800000000000000
+      internalID: 1329483567328651570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 252
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0e47fa7e56ae520800000000000000
+      internalID: 2732108169709150368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 253
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc3c445400eda90800000000000000
+      internalID: -7287386849532457204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 262
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0415bcb310b5efc00800000000000000
+      internalID: 936285833395917120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 249
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215936bc066c30600800000000000000
+      internalID: 433408108189160722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_43
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb99dbf76240c9210800000000000000
+      internalID: 1340951352447965628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 250
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f1495b1e8df6ce0800000000000000
+      internalID: -1409669694418051238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_45
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 249
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b88c01c55016b0800000000000000
+      internalID: -5327664071551963131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 255
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967cf56b505013ad0800000000000000
+      internalID: -2724390777489733783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 255
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aecc471b8c6a1520800000000000000
+      internalID: 2673568673444974247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_48
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 255
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b822a16a8dca3f10800000000000000
+      internalID: 2250336958052182196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 254
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a22890ef2be3da0800000000000000
+      internalID: -5963132052440995239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 254
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde80cb6ccddfee30800000000000000
+      internalID: 4535087219836227293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 244
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c636ab0d3865c40800000000000000
+      internalID: 5500728927383153752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 245
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6365c39934ca5ebd0800000000000000
+      internalID: -2601483803402938826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_53
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 244
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cd6750d3f1be440800000000000000
+      internalID: 4966097361051245635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 206
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cebb56bcd9ceac60800000000000000
+      internalID: 7831418751833325254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 206
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb3234c54aed090800000000000000
+      internalID: -8007782371247801101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 206
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6bbd12945e94a0800000000000000
+      internalID: -6584732618628305545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 206
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df5638f229e81700800000000000000
+      internalID: 511414894109024211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 209
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3495ca3ea047c7d60800000000000000
+      internalID: 7889308237364484419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 214
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494988fd54bb72cb0800000000000000
+      internalID: -4888732961709976428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 201
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ec30d74d142f10800000000000000
+      internalID: 2243950708610884358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bac3212693f8c0800000000000000
+      internalID: -3966661777704701341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 202
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ceeb58b712d9e0800000000000000
+      internalID: -1598188837179308118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_63
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 201
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a1d1215e81b2f50800000000000000
+      internalID: 6857602229732186661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 204
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1173b62c1228620800000000000000
+      internalID: 2774817439319789999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 202
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9705242c4f689180800000000000000
+      internalID: -9108407873542223973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 204
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fa1612940a0f190800000000000000
+      internalID: -7930662707846336717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_67
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ae56b63baff31d0800000000000000
+      internalID: -3368698347741910374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f56b7abd08ec540800000000000000
+      internalID: 5030099514719362831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_69
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 196
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e5212f452eae30800000000000000
+      internalID: 4516588498087962100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_70
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 197
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03608d045a03ad460800000000000000
+      internalID: 7267174435031352880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_71
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 196
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204a848037d63c4a0800000000000000
+      internalID: -6574290690203147262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d9ad58fb2d2d40800000000000000
+      internalID: 5561149460595726254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f511abe81647750800000000000000
+      internalID: 6301769044233117591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f1f03709a010c40800000000000000
+      internalID: 5476670237381173009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24d2c1bd964b730800000000000000
+      internalID: 4013949557685437137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6465e7e9cfe635630800000000000000
+      internalID: 3914594532384986694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b05102a2e0c60740800000000000000
+      internalID: 5117990106166284466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_78
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef4fb4ca4b5ca410800000000000000
+      internalID: 1489665953439371233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 157
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab6d7b1866871ac0800000000000000
+      internalID: -3884488371887838297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_80
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa245c2de741927e0800000000000000
+      internalID: -1789876841968483665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a41bfb8bb66bbde0800000000000000
+      internalID: -1316345510382332767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 157
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19f81a2218a9ed0800000000000000
+      internalID: -2406469065136696919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_83
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b2ada26e6271aa0800000000000000
+      internalID: -6190436392794182857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_84
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 155
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75da28bcf79db4e30800000000000000
+      internalID: 4488920596503244119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 156
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459d0d9fa5d9f380800000000000000
+      internalID: -8936877035309132465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_86
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 155
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c707d5f2d4a1d7770800000000000000
+      internalID: 8610066981411713148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_87
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 155
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a435479a03ec93c0800000000000000
+      internalID: -4351353505319668576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_88
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 156
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e9830d1086125a0800000000000000
+      internalID: -6547838026222363082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 155
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c52a3d364c1afb20800000000000000
+      internalID: 3168876375809074627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c93867c0399d20800000000000000
+      internalID: 3285711036148728767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8b1e32482217ea0800000000000000
+      internalID: -5876878087808763716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_92
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7d53386f2a2dfe0800000000000000
+      internalID: -1165690173888538694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e21d262a709c7d0800000000000000
+      internalID: -2897776491212231113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_94
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e053ac325999da0800000000000000
+      internalID: -5937550652762419678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_95
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e384e3234dfefa2f0800000000000000
+      internalID: -959284500951578562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de932d8e6923ae680800000000000000
+      internalID: -8725105704344339987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 114
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7acf10f8eab028a0800000000000000
+      internalID: -6331855566459123078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066dfbe63886fe700800000000000000
+      internalID: 571790591407412832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_99
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 123
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60e785b31092fb70800000000000000
+      internalID: 8931359425353474158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_100
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 123
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc75489e66c463160800000000000000
+      internalID: 7004870275309524939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1c92190274f610800000000000000
+      internalID: 1654072346444307165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08daa6b41addc0ac0800000000000000
+      internalID: -3887488693502825088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_103
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 111
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f908ad2be7497af0800000000000000
+      internalID: -398208016636704268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_104
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 111
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54f5fe217334350800000000000000
+      internalID: 5999699683052570073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_105
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 111
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905bdf19de4dc500800000000000000
+      internalID: 418077034864660625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_106
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 111
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49758011bb8d5e2f0800000000000000
+      internalID: -944110248908007532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_107
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 111
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d800dc8a5bfc9c0800000000000000
+      internalID: -3904702615308431998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517f7272098c1e00800000000000000
+      internalID: 1016838259482784080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910b52e6ef83b56f0800000000000000
+      internalID: -694899052077797351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_110
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 55
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879e61b902287380800000000000000
+      internalID: -8973384832508848250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_111
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a82e33e0b530d2b0800000000000000
+      internalID: -5561886505959544666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_112
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 54
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0dc206f4388ef0800000000000000
+      internalID: -105776360029615249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_113
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38720b15d7cf5190800000000000000
+      internalID: -7971433097327380418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_114
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e3a474573845100800000000000000
+      internalID: 95846031812083321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_115
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 54
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05ce783734fb6c40800000000000000
+      internalID: 5506763487398774026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 71
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4182a15c9c996ae0800000000000000
+      internalID: -1555540001081360053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_117
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 70
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8d4b7d1f3c1ff0800000000000000
+      internalID: -64106898834747640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 54
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f809cb4c8ac6a0800000000000000
+      internalID: -6428171260994718381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 71
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899a0f4b9a678c340800000000000000
+      internalID: 4884284267140524440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_120
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e444a0858021320800000000000000
+      internalID: 2527091515130662401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_121
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 63
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d1341c5e678da50800000000000000
+      internalID: 6546112787545005448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc4bc58d5638c240800000000000000
+      internalID: 4812155977149926601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_123
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a91c0e8284f1f0800000000000000
+      internalID: -1012040469651545775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_124
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 63
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a7d7df052a574c0800000000000000
+      internalID: -4290344601266587096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_125
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a356b61475e2ae40800000000000000
+      internalID: 5666343567945520033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a604ea8ca71593ee0800000000000000
+      internalID: -1280903031215472534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_127
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131a50498793d5b0800000000000000
+      internalID: -5344761717012688098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_128
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5ec05127920540800000000000000
+      internalID: 4972703107915865690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_129
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0960d30c30e55a60800000000000000
+      internalID: 7662276889407416589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_130
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde2fb71caa3e2a0800000000000000
+      internalID: -6709331271866978832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_131
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95ddaccd326e0230800000000000000
+      internalID: 3606928369136817565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_132
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9beb63810e4260800000000000000
+      internalID: 7083600927863315325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d0d0ebb50b2e8b0800000000000000
+      internalID: -5124339517917164193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_134
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd037a8dd2536fc0800000000000000
+      internalID: -3502864973700067917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_135
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb767d78ecf93880800000000000000
+      internalID: -8630589135411315765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_136
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 10
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c92e4e52d3172c0800000000000000
+      internalID: -4435696925020087202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_137
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3a62e7d94b46270800000000000000
+      internalID: 8242911806514176975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_138
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3990d0c366da9d0800000000000000
+      internalID: -2761438588405443640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_139
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a912a6647b62c70800000000000000
+      internalID: 8946039222874249814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Lake_140
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de6cd7bc0e454280800000000000000
+      internalID: -9059749258854633775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Lake_0: 8651806420598527248
+      Animal_Lake_1: 6296476104878297202
+      Animal_Lake_10: 1237317849969079502
+      Animal_Lake_100: 7004870275309524939
+      Animal_Lake_101: 1654072346444307165
+      Animal_Lake_102: -3887488693502825088
+      Animal_Lake_103: -398208016636704268
+      Animal_Lake_104: 5999699683052570073
+      Animal_Lake_105: 418077034864660625
+      Animal_Lake_106: -944110248908007532
+      Animal_Lake_107: -3904702615308431998
+      Animal_Lake_108: 1016838259482784080
+      Animal_Lake_109: -694899052077797351
+      Animal_Lake_11: -756023212518209673
+      Animal_Lake_110: -8973384832508848250
+      Animal_Lake_111: -5561886505959544666
+      Animal_Lake_112: -105776360029615249
+      Animal_Lake_113: -7971433097327380418
+      Animal_Lake_114: 95846031812083321
+      Animal_Lake_115: 5506763487398774026
+      Animal_Lake_116: -1555540001081360053
+      Animal_Lake_117: -64106898834747640
+      Animal_Lake_118: -6428171260994718381
+      Animal_Lake_119: 4884284267140524440
+      Animal_Lake_12: -214853188901185394
+      Animal_Lake_120: 2527091515130662401
+      Animal_Lake_121: 6546112787545005448
+      Animal_Lake_122: 4812155977149926601
+      Animal_Lake_123: -1012040469651545775
+      Animal_Lake_124: -4290344601266587096
+      Animal_Lake_125: 5666343567945520033
+      Animal_Lake_126: -1280903031215472534
+      Animal_Lake_127: -5344761717012688098
+      Animal_Lake_128: 4972703107915865690
+      Animal_Lake_129: 7662276889407416589
+      Animal_Lake_13: -3812997470151035572
+      Animal_Lake_130: -6709331271866978832
+      Animal_Lake_131: 3606928369136817565
+      Animal_Lake_132: 7083600927863315325
+      Animal_Lake_133: -5124339517917164193
+      Animal_Lake_134: -3502864973700067917
+      Animal_Lake_135: -8630589135411315765
+      Animal_Lake_136: -4435696925020087202
+      Animal_Lake_137: 8242911806514176975
+      Animal_Lake_138: -2761438588405443640
+      Animal_Lake_139: 8946039222874249814
+      Animal_Lake_14: 2948502821210467185
+      Animal_Lake_140: -9059749258854633775
+      Animal_Lake_15: -6960910819359200922
+      Animal_Lake_16: -744339648674791134
+      Animal_Lake_17: -1970616681616966004
+      Animal_Lake_18: 9081061278161569336
+      Animal_Lake_19: 4889685261453194505
+      Animal_Lake_2: -8809978347778087978
+      Animal_Lake_20: 6266108983909420885
+      Animal_Lake_21: -6835080139688994929
+      Animal_Lake_22: 7771410569479254161
+      Animal_Lake_23: 3973959884392825639
+      Animal_Lake_24: 9152827803402938871
+      Animal_Lake_25: 3950421044423588978
+      Animal_Lake_26: 6520910978924329953
+      Animal_Lake_27: 8183906928249899966
+      Animal_Lake_28: -4512056415896454075
+      Animal_Lake_29: -6098086465498319107
+      Animal_Lake_3: -7237542210050110290
+      Animal_Lake_30: -1826947114067283377
+      Animal_Lake_31: 8838512945111183224
+      Animal_Lake_32: 3607147600058803954
+      Animal_Lake_33: 4946186186379704731
+      Animal_Lake_34: -5657162901301926819
+      Animal_Lake_35: -945284929448051202
+      Animal_Lake_36: -5169551699624404784
+      Animal_Lake_37: 5837686723564008992
+      Animal_Lake_38: 1329483567328651570
+      Animal_Lake_39: 2732108169709150368
+      Animal_Lake_4: -6996713704364150926
+      Animal_Lake_40: -7287386849532457204
+      Animal_Lake_41: 936285833395917120
+      Animal_Lake_42: 433408108189160722
+      Animal_Lake_43: 1340951352447965628
+      Animal_Lake_44: -1409669694418051238
+      Animal_Lake_45: -5327664071551963131
+      Animal_Lake_46: -2724390777489733783
+      Animal_Lake_47: 2673568673444974247
+      Animal_Lake_48: 2250336958052182196
+      Animal_Lake_49: -5963132052440995239
+      Animal_Lake_5: 5726217552460330012
+      Animal_Lake_50: 4535087219836227293
+      Animal_Lake_51: 5500728927383153752
+      Animal_Lake_52: -2601483803402938826
+      Animal_Lake_53: 4966097361051245635
+      Animal_Lake_54: 7831418751833325254
+      Animal_Lake_55: -8007782371247801101
+      Animal_Lake_56: -6584732618628305545
+      Animal_Lake_57: 511414894109024211
+      Animal_Lake_58: 7889308237364484419
+      Animal_Lake_59: -4888732961709976428
+      Animal_Lake_6: 1534539922830978269
+      Animal_Lake_60: 2243950708610884358
+      Animal_Lake_61: -3966661777704701341
+      Animal_Lake_62: -1598188837179308118
+      Animal_Lake_63: 6857602229732186661
+      Animal_Lake_64: 2774817439319789999
+      Animal_Lake_65: -9108407873542223973
+      Animal_Lake_66: -7930662707846336717
+      Animal_Lake_67: -3368698347741910374
+      Animal_Lake_68: 5030099514719362831
+      Animal_Lake_69: 4516588498087962100
+      Animal_Lake_7: 6027585815487631851
+      Animal_Lake_70: 7267174435031352880
+      Animal_Lake_71: -6574290690203147262
+      Animal_Lake_72: 5561149460595726254
+      Animal_Lake_73: 6301769044233117591
+      Animal_Lake_74: 5476670237381173009
+      Animal_Lake_75: 4013949557685437137
+      Animal_Lake_76: 3914594532384986694
+      Animal_Lake_77: 5117990106166284466
+      Animal_Lake_78: 1489665953439371233
+      Animal_Lake_79: -3884488371887838297
+      Animal_Lake_8: 5041707885714516166
+      Animal_Lake_80: -1789876841968483665
+      Animal_Lake_81: -1316345510382332767
+      Animal_Lake_82: -2406469065136696919
+      Animal_Lake_83: -6190436392794182857
+      Animal_Lake_84: 4488920596503244119
+      Animal_Lake_85: -8936877035309132465
+      Animal_Lake_86: 8610066981411713148
+      Animal_Lake_87: -4351353505319668576
+      Animal_Lake_88: -6547838026222363082
+      Animal_Lake_89: 3168876375809074627
+      Animal_Lake_9: 1207540462396501632
+      Animal_Lake_90: 3285711036148728767
+      Animal_Lake_91: -5876878087808763716
+      Animal_Lake_92: -1165690173888538694
+      Animal_Lake_93: -2897776491212231113
+      Animal_Lake_94: -5937550652762419678
+      Animal_Lake_95: -959284500951578562
+      Animal_Lake_96: -8725105704344339987
+      Animal_Lake_97: -6331855566459123078
+      Animal_Lake_98: 571790591407412832
+      Animal_Lake_99: 8931359425353474158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

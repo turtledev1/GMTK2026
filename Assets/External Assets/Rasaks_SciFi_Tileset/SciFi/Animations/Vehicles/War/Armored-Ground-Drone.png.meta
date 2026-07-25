@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: b70a31573e1777e42bd4a9b02ca8d97b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5782892187517033264
+    second: Armored-Ground-Drone_0
+  - first:
+      213: 1660980573945568815
+    second: Armored-Ground-Drone_1
+  - first:
+      213: -1006163747803484162
+    second: Armored-Ground-Drone_2
+  - first:
+      213: -4349400489180618104
+    second: Armored-Ground-Drone_3
+  - first:
+      213: 347654295340280495
+    second: Armored-Ground-Drone_4
+  - first:
+      213: -2480665019377822488
+    second: Armored-Ground-Drone_5
+  - first:
+      213: 7836485351887201239
+    second: Armored-Ground-Drone_6
+  - first:
+      213: -5438628385093698582
+    second: Armored-Ground-Drone_7
+  - first:
+      213: 1615542676249797669
+    second: Armored-Ground-Drone_8
+  - first:
+      213: -4133599925759276963
+    second: Armored-Ground-Drone_9
+  - first:
+      213: 6863271219916096459
+    second: Armored-Ground-Drone_10
+  - first:
+      213: -7955771933098281518
+    second: Armored-Ground-Drone_11
+  - first:
+      213: -8512426986536152673
+    second: Armored-Ground-Drone_12
+  - first:
+      213: 3014360714388382813
+    second: Armored-Ground-Drone_13
+  - first:
+      213: 8365954986013532681
+    second: Armored-Ground-Drone_14
+  - first:
+      213: -3512100853843868964
+    second: Armored-Ground-Drone_15
+  - first:
+      213: 3083529491185572825
+    second: Armored-Ground-Drone_16
+  - first:
+      213: 7245891181774431507
+    second: Armored-Ground-Drone_17
+  - first:
+      213: -1630054617766656899
+    second: Armored-Ground-Drone_18
+  - first:
+      213: 6421996438750964791
+    second: Armored-Ground-Drone_19
+  - first:
+      213: 4894793960390444334
+    second: Armored-Ground-Drone_20
+  - first:
+      213: -7358143719560213688
+    second: Armored-Ground-Drone_21
+  - first:
+      213: -5561169048499642572
+    second: Armored-Ground-Drone_22
+  - first:
+      213: -4862625293139430800
+    second: Armored-Ground-Drone_23
+  - first:
+      213: -4413060943419557893
+    second: Armored-Ground-Drone_24
+  - first:
+      213: 7845028189065418753
+    second: Armored-Ground-Drone_25
+  - first:
+      213: 1594090587368631586
+    second: Armored-Ground-Drone_26
+  - first:
+      213: 3310355962924403868
+    second: Armored-Ground-Drone_27
+  - first:
+      213: 4474699020597426773
+    second: Armored-Ground-Drone_28
+  - first:
+      213: 6110026798643030578
+    second: Armored-Ground-Drone_29
+  - first:
+      213: -3407466966158038272
+    second: Armored-Ground-Drone_30
+  - first:
+      213: -2786682794291387815
+    second: Armored-Ground-Drone_31
+  - first:
+      213: -5560869844615775914
+    second: Armored-Ground-Drone_32
+  - first:
+      213: -6571918614274101688
+    second: Armored-Ground-Drone_33
+  - first:
+      213: -9042380094089211959
+    second: Armored-Ground-Drone_34
+  - first:
+      213: 7750899014379874787
+    second: Armored-Ground-Drone_35
+  - first:
+      213: -3777526981040599080
+    second: Armored-Ground-Drone_36
+  - first:
+      213: -8809103931087175923
+    second: Armored-Ground-Drone_37
+  - first:
+      213: -8928713638791021745
+    second: Armored-Ground-Drone_38
+  - first:
+      213: 4206424721888412525
+    second: Armored-Ground-Drone_39
+  - first:
+      213: -6023682650303362844
+    second: Armored-Ground-Drone_40
+  - first:
+      213: 8704098923221444707
+    second: Armored-Ground-Drone_41
+  - first:
+      213: -7597572991945204255
+    second: Armored-Ground-Drone_42
+  - first:
+      213: 8133108194939655182
+    second: Armored-Ground-Drone_43
+  - first:
+      213: -3794841181757178098
+    second: Armored-Ground-Drone_44
+  - first:
+      213: 4370599411052396225
+    second: Armored-Ground-Drone_45
+  - first:
+      213: 6016811977550181265
+    second: Armored-Ground-Drone_46
+  - first:
+      213: 3041726524021187098
+    second: Armored-Ground-Drone_47
+  - first:
+      213: -2905055937326589227
+    second: Armored-Ground-Drone_48
+  - first:
+      213: 1338764608618824405
+    second: Armored-Ground-Drone_49
+  - first:
+      213: -2569572164815322489
+    second: Armored-Ground-Drone_50
+  - first:
+      213: -8597863832272172713
+    second: Armored-Ground-Drone_51
+  - first:
+      213: 3372199789718941137
+    second: Armored-Ground-Drone_52
+  - first:
+      213: -8525672355327088024
+    second: Armored-Ground-Drone_53
+  - first:
+      213: 3989467912223989603
+    second: Armored-Ground-Drone_54
+  - first:
+      213: 7142568782311177548
+    second: Armored-Ground-Drone_55
+  - first:
+      213: -9199876572775313009
+    second: Armored-Ground-Drone_56
+  - first:
+      213: 8502336235067929455
+    second: Armored-Ground-Drone_57
+  - first:
+      213: 4712723034682331561
+    second: Armored-Ground-Drone_58
+  - first:
+      213: 5283390910652028276
+    second: Armored-Ground-Drone_59
+  - first:
+      213: 1737276137035644924
+    second: Armored-Ground-Drone_60
+  - first:
+      213: -7940513367894566243
+    second: Armored-Ground-Drone_61
+  - first:
+      213: -2244144264881565997
+    second: Armored-Ground-Drone_62
+  - first:
+      213: 6734242634081987506
+    second: Armored-Ground-Drone_63
+  - first:
+      213: 7539803929676130127
+    second: Armored-Ground-Drone_64
+  - first:
+      213: -6115099825860538282
+    second: Armored-Ground-Drone_65
+  - first:
+      213: -1368160388950659363
+    second: Armored-Ground-Drone_66
+  - first:
+      213: -5019930971308089680
+    second: Armored-Ground-Drone_67
+  - first:
+      213: -8396213160914390668
+    second: Armored-Ground-Drone_68
+  - first:
+      213: -8355064536816521306
+    second: Armored-Ground-Drone_69
+  - first:
+      213: -219774334512070190
+    second: Armored-Ground-Drone_70
+  - first:
+      213: -814065292728618481
+    second: Armored-Ground-Drone_71
+  - first:
+      213: -5594844943846623097
+    second: Armored-Ground-Drone_72
+  - first:
+      213: 1865305399446449662
+    second: Armored-Ground-Drone_73
+  - first:
+      213: -904698920570510389
+    second: Armored-Ground-Drone_74
+  - first:
+      213: -9123101994026151123
+    second: Armored-Ground-Drone_75
+  - first:
+      213: -7919329003692087192
+    second: Armored-Ground-Drone_76
+  - first:
+      213: -4699031480829655194
+    second: Armored-Ground-Drone_77
+  - first:
+      213: 5434710008843589701
+    second: Armored-Ground-Drone_78
+  - first:
+      213: -8829730551397845531
+    second: Armored-Ground-Drone_79
+  - first:
+      213: 5634319352383135633
+    second: Armored-Ground-Drone_80
+  - first:
+      213: -7340508302858757733
+    second: Armored-Ground-Drone_81
+  - first:
+      213: 4232127458620559317
+    second: Armored-Ground-Drone_82
+  - first:
+      213: 9115236693837795629
+    second: Armored-Ground-Drone_83
+  - first:
+      213: 556016730526961344
+    second: Armored-Ground-Drone_84
+  - first:
+      213: 1565429957166616999
+    second: Armored-Ground-Drone_85
+  - first:
+      213: -7687157908398384433
+    second: Armored-Ground-Drone_86
+  - first:
+      213: 2680745734037910388
+    second: Armored-Ground-Drone_87
+  - first:
+      213: -2134133363827183166
+    second: Armored-Ground-Drone_88
+  - first:
+      213: -5248493914584989707
+    second: Armored-Ground-Drone_89
+  - first:
+      213: -5224692070539429250
+    second: Armored-Ground-Drone_90
+  - first:
+      213: 3006652253323058851
+    second: Armored-Ground-Drone_91
+  - first:
+      213: -696165513182342794
+    second: Armored-Ground-Drone_92
+  - first:
+      213: 7690698953548732737
+    second: Armored-Ground-Drone_93
+  - first:
+      213: 8728654346576082807
+    second: Armored-Ground-Drone_94
+  - first:
+      213: -4524503039578070771
+    second: Armored-Ground-Drone_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 695
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b95533ec5f04050800000000000000
+      internalID: 5782892187517033264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 695
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e99d0280dfc0710800000000000000
+      internalID: 1660980573945568815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 695
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff2c4af6636902f0800000000000000
+      internalID: -1006163747803484162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 679
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882aa789c43d3a3c0800000000000000
+      internalID: -4349400489180618104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 679
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa656a5dbd13d400800000000000000
+      internalID: 347654295340280495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 679
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e45f39de48e29dd0800000000000000
+      internalID: -2480665019377822488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_6
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 672
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e9c678e9c0cc60800000000000000
+      internalID: 7836485351887201239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 672
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb32218c4c1684b0800000000000000
+      internalID: -5438628385093698582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 672
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5246a59218f8b6610800000000000000
+      internalID: 1615542676249797669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 672
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58898da4c082a6c0800000000000000
+      internalID: -4133599925759276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_10
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 672
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3c244bfcc3f3f50800000000000000
+      internalID: 6863271219916096459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_11
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 672
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d577ad049b679190800000000000000
+      internalID: -7955771933098281518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 575
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91501ba1c8cdd980800000000000000
+      internalID: -8512426986536152673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 575
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d542306591925d920800000000000000
+      internalID: 3014360714388382813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 575
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ae3c2cb7d91470800000000000000
+      internalID: 8365954986013532681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 575
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24a4f91e2824fc0800000000000000
+      internalID: -3512100853843868964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 575
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9e882cb5eaca20800000000000000
+      internalID: 3083529491185572825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 575
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ecc2b3a39e8460800000000000000
+      internalID: 7245891181774431507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 575
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74888726f1e069e0800000000000000
+      internalID: -1630054617766656899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 575
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c23906cb38f1950800000000000000
+      internalID: 6421996438750964791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_20
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 575
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ccc95c2dcde340800000000000000
+      internalID: 4894793960390444334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 575
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b875da54f92e990800000000000000
+      internalID: -7358143719560213688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 575
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f1848f632c2d2b0800000000000000
+      internalID: -5561169048499642572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 575
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07238962f0c748cb0800000000000000
+      internalID: -4862625293139430800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b35f0478a1c2c0800000000000000
+      internalID: -4413060943419557893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 479
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1089b2eb2932fdc60800000000000000
+      internalID: 7845028189065418753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 479
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da6ef71f85f1610800000000000000
+      internalID: 1594090587368631586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 479
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c8432953fb0fd20800000000000000
+      internalID: 3310355962924403868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 479
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a7f7f1d03591e30800000000000000
+      internalID: 4474699020597426773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 479
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a2c35400d2bc450800000000000000
+      internalID: 6110026798643030578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_30
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 479
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba54a09de36b0d0800000000000000
+      internalID: -3407466966158038272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_31
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 479
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952a19853c6b359d0800000000000000
+      internalID: -2786682794291387815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_32
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 479
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659be7dc652d3d2b0800000000000000
+      internalID: -5560869844615775914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_33
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 479
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2a6ff6dadbc4a0800000000000000
+      internalID: -6571918614274101688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_34
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 479
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfcfb78633038280800000000000000
+      internalID: -9042380094089211959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_35
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 479
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9a90a6699b09b60800000000000000
+      internalID: 7750899014379874787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 385
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0f959937839bc0800000000000000
+      internalID: -3777526981040599080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 385
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f3d06b5a6cfb580800000000000000
+      internalID: -8809103931087175923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 385
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bfcaa7046d61480800000000000000
+      internalID: -8928713638791021745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 385
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63849a7ff8306a30800000000000000
+      internalID: 4206424721888412525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 385
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e80cfc5b84976ca0800000000000000
+      internalID: -6023682650303362844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 385
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3686978badb2bc870800000000000000
+      internalID: 8704098923221444707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_42
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 385
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed11041e9fff8690800000000000000
+      internalID: -7597572991945204255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_43
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 385
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04523fefca9ed070800000000000000
+      internalID: 8133108194939655182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_44
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 385
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ff6561d04065bc0800000000000000
+      internalID: -3794841181757178098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 385
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3f47020d77ac30800000000000000
+      internalID: 4370599411052396225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_46
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 385
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193b13a7d92008350800000000000000
+      internalID: 6016811977550181265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_47
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 385
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12aa286822663a20800000000000000
+      internalID: 3041726524021187098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 311
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da5203440b2fa7d0800000000000000
+      internalID: -2905055937326589227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 311
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20796815f349210800000000000000
+      internalID: 1338764608618824405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 311
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7828373fabb075cd0800000000000000
+      internalID: -2569572164815322489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 295
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7590d32e5604ea880800000000000000
+      internalID: -8597863832272172713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 295
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd28d197d57cce20800000000000000
+      internalID: 3372199789718941137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_53
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 295
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6c5de92abea980800000000000000
+      internalID: -8525672355327088024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_54
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 288
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f1ee6ddef6d5730800000000000000
+      internalID: 3989467912223989603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_55
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 288
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db37de6708f1360800000000000000
+      internalID: 7142568782311177548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_56
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 288
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f811a460009735080800000000000000
+      internalID: -9199876572775313009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_57
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 288
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f72c22cd5ef570800000000000000
+      internalID: 8502336235067929455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_58
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 288
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19a0781a4f66140800000000000000
+      internalID: 4712723034682331561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_59
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 288
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47511f66a00625940800000000000000
+      internalID: 5283390910652028276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb5c0317b0c1810800000000000000
+      internalID: 1737276137035644924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a576c9921adc190800000000000000
+      internalID: -7940513367894566243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de010b5ea23bd0e0800000000000000
+      internalID: -2244144264881565997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 191
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb6fb30ff5d47d50800000000000000
+      internalID: 6734242634081987506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_64
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 191
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47a078f9b3c2a860800000000000000
+      internalID: 7539803929676130127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 191
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65097898b1dc22ba0800000000000000
+      internalID: -6115099825860538282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_66
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 191
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddee5d40061530de0800000000000000
+      internalID: -1368160388950659363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_67
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 191
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be133ad06f955ab0800000000000000
+      internalID: -5019930971308089680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_68
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 191
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471fc3d7d98aa7b80800000000000000
+      internalID: -8396213160914390668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 191
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af669f1219dc0c80800000000000000
+      internalID: -8355064536816521306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 191
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d109ac386433fcf0800000000000000
+      internalID: -219774334512070190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_71
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 191
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02bfeaedebd3b4f0800000000000000
+      internalID: -814065292728618481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788b1a49a2e1b52b0800000000000000
+      internalID: -5594844943846623097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdaf93c065e2e910800000000000000
+      internalID: 1865305399446449662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc327b2002dd173f0800000000000000
+      internalID: -904698920570510389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d96c921b346180800000000000000
+      internalID: -9123101994026151123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_76
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 95
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682c73ca34e81290800000000000000
+      internalID: -7919329003692087192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_77
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 95
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66745c4c3cfa9ceb0800000000000000
+      internalID: -4699031480829655194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_78
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 95
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d16e65f7fb6b40800000000000000
+      internalID: 5434710008843589701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_79
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 95
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5748d68de767580800000000000000
+      internalID: -8829730551397845531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_80
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 95
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd7ed599f113e40800000000000000
+      internalID: 5634319352383135633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_81
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 95
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b995c491796412a90800000000000000
+      internalID: -7340508302858757733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_82
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 95
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df414730898bba30800000000000000
+      internalID: 4232127458620559317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_83
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 95
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21decb7a73df7e70800000000000000
+      internalID: 9115236693837795629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cecb30454e57b700800000000000000
+      internalID: 556016730526961344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1dba5804689b510800000000000000
+      internalID: 1565429957166616999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_86
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca54915c9ab15590800000000000000
+      internalID: -7687157908398384433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_87
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473397aba0ce33520800000000000000
+      internalID: 2680745734037910388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c175c143090262e0800000000000000
+      internalID: -2134133363827183166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_89
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffbc57a79a9927b0800000000000000
+      internalID: -5248493914584989707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_90
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a72b25e3a2e77b0800000000000000
+      internalID: -5224692070539429250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_91
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed2726b46c9b920800000000000000
+      internalID: 3006652253323058851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_92
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67193e97729b656f0800000000000000
+      internalID: -696165513182342794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_93
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1499db083f9daba60800000000000000
+      internalID: 7690698953548732737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_94
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77736deb1e8622970800000000000000
+      internalID: 8728654346576082807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored-Ground-Drone_95
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0126c4157cb531c0800000000000000
+      internalID: -4524503039578070771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armored-Ground-Drone_0: 5782892187517033264
+      Armored-Ground-Drone_1: 1660980573945568815
+      Armored-Ground-Drone_10: 6863271219916096459
+      Armored-Ground-Drone_11: -7955771933098281518
+      Armored-Ground-Drone_12: -8512426986536152673
+      Armored-Ground-Drone_13: 3014360714388382813
+      Armored-Ground-Drone_14: 8365954986013532681
+      Armored-Ground-Drone_15: -3512100853843868964
+      Armored-Ground-Drone_16: 3083529491185572825
+      Armored-Ground-Drone_17: 7245891181774431507
+      Armored-Ground-Drone_18: -1630054617766656899
+      Armored-Ground-Drone_19: 6421996438750964791
+      Armored-Ground-Drone_2: -1006163747803484162
+      Armored-Ground-Drone_20: 4894793960390444334
+      Armored-Ground-Drone_21: -7358143719560213688
+      Armored-Ground-Drone_22: -5561169048499642572
+      Armored-Ground-Drone_23: -4862625293139430800
+      Armored-Ground-Drone_24: -4413060943419557893
+      Armored-Ground-Drone_25: 7845028189065418753
+      Armored-Ground-Drone_26: 1594090587368631586
+      Armored-Ground-Drone_27: 3310355962924403868
+      Armored-Ground-Drone_28: 4474699020597426773
+      Armored-Ground-Drone_29: 6110026798643030578
+      Armored-Ground-Drone_3: -4349400489180618104
+      Armored-Ground-Drone_30: -3407466966158038272
+      Armored-Ground-Drone_31: -2786682794291387815
+      Armored-Ground-Drone_32: -5560869844615775914
+      Armored-Ground-Drone_33: -6571918614274101688
+      Armored-Ground-Drone_34: -9042380094089211959
+      Armored-Ground-Drone_35: 7750899014379874787
+      Armored-Ground-Drone_36: -3777526981040599080
+      Armored-Ground-Drone_37: -8809103931087175923
+      Armored-Ground-Drone_38: -8928713638791021745
+      Armored-Ground-Drone_39: 4206424721888412525
+      Armored-Ground-Drone_4: 347654295340280495
+      Armored-Ground-Drone_40: -6023682650303362844
+      Armored-Ground-Drone_41: 8704098923221444707
+      Armored-Ground-Drone_42: -7597572991945204255
+      Armored-Ground-Drone_43: 8133108194939655182
+      Armored-Ground-Drone_44: -3794841181757178098
+      Armored-Ground-Drone_45: 4370599411052396225
+      Armored-Ground-Drone_46: 6016811977550181265
+      Armored-Ground-Drone_47: 3041726524021187098
+      Armored-Ground-Drone_48: -2905055937326589227
+      Armored-Ground-Drone_49: 1338764608618824405
+      Armored-Ground-Drone_5: -2480665019377822488
+      Armored-Ground-Drone_50: -2569572164815322489
+      Armored-Ground-Drone_51: -8597863832272172713
+      Armored-Ground-Drone_52: 3372199789718941137
+      Armored-Ground-Drone_53: -8525672355327088024
+      Armored-Ground-Drone_54: 3989467912223989603
+      Armored-Ground-Drone_55: 7142568782311177548
+      Armored-Ground-Drone_56: -9199876572775313009
+      Armored-Ground-Drone_57: 8502336235067929455
+      Armored-Ground-Drone_58: 4712723034682331561
+      Armored-Ground-Drone_59: 5283390910652028276
+      Armored-Ground-Drone_6: 7836485351887201239
+      Armored-Ground-Drone_60: 1737276137035644924
+      Armored-Ground-Drone_61: -7940513367894566243
+      Armored-Ground-Drone_62: -2244144264881565997
+      Armored-Ground-Drone_63: 6734242634081987506
+      Armored-Ground-Drone_64: 7539803929676130127
+      Armored-Ground-Drone_65: -6115099825860538282
+      Armored-Ground-Drone_66: -1368160388950659363
+      Armored-Ground-Drone_67: -5019930971308089680
+      Armored-Ground-Drone_68: -8396213160914390668
+      Armored-Ground-Drone_69: -8355064536816521306
+      Armored-Ground-Drone_7: -5438628385093698582
+      Armored-Ground-Drone_70: -219774334512070190
+      Armored-Ground-Drone_71: -814065292728618481
+      Armored-Ground-Drone_72: -5594844943846623097
+      Armored-Ground-Drone_73: 1865305399446449662
+      Armored-Ground-Drone_74: -904698920570510389
+      Armored-Ground-Drone_75: -9123101994026151123
+      Armored-Ground-Drone_76: -7919329003692087192
+      Armored-Ground-Drone_77: -4699031480829655194
+      Armored-Ground-Drone_78: 5434710008843589701
+      Armored-Ground-Drone_79: -8829730551397845531
+      Armored-Ground-Drone_8: 1615542676249797669
+      Armored-Ground-Drone_80: 5634319352383135633
+      Armored-Ground-Drone_81: -7340508302858757733
+      Armored-Ground-Drone_82: 4232127458620559317
+      Armored-Ground-Drone_83: 9115236693837795629
+      Armored-Ground-Drone_84: 556016730526961344
+      Armored-Ground-Drone_85: 1565429957166616999
+      Armored-Ground-Drone_86: -7687157908398384433
+      Armored-Ground-Drone_87: 2680745734037910388
+      Armored-Ground-Drone_88: -2134133363827183166
+      Armored-Ground-Drone_89: -5248493914584989707
+      Armored-Ground-Drone_9: -4133599925759276963
+      Armored-Ground-Drone_90: -5224692070539429250
+      Armored-Ground-Drone_91: 3006652253323058851
+      Armored-Ground-Drone_92: -696165513182342794
+      Armored-Ground-Drone_93: 7690698953548732737
+      Armored-Ground-Drone_94: 8728654346576082807
+      Armored-Ground-Drone_95: -4524503039578070771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4540a993b645d6d438b420c0ab45fcac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8662866842669422353
+    second: A2_Industrial_Rasak_0
+  - first:
+      213: -1133481431709356912
+    second: A2_Industrial_Rasak_1
+  - first:
+      213: 1201004907698759570
+    second: A2_Industrial_Rasak_2
+  - first:
+      213: 5349355313644559626
+    second: A2_Industrial_Rasak_3
+  - first:
+      213: -3878247316839413483
+    second: A2_Industrial_Rasak_4
+  - first:
+      213: 2675240261906361177
+    second: A2_Industrial_Rasak_5
+  - first:
+      213: 42054247486703790
+    second: A2_Industrial_Rasak_6
+  - first:
+      213: 8018095510728940116
+    second: A2_Industrial_Rasak_7
+  - first:
+      213: -8985756876167129243
+    second: A2_Industrial_Rasak_8
+  - first:
+      213: 3576810956309340949
+    second: A2_Industrial_Rasak_9
+  - first:
+      213: 4490030970601025684
+    second: A2_Industrial_Rasak_10
+  - first:
+      213: -765410682559978646
+    second: A2_Industrial_Rasak_11
+  - first:
+      213: 5414953993081159539
+    second: A2_Industrial_Rasak_12
+  - first:
+      213: 5172120264767898469
+    second: A2_Industrial_Rasak_13
+  - first:
+      213: -2064297446259318454
+    second: A2_Industrial_Rasak_14
+  - first:
+      213: 6242077290127882947
+    second: A2_Industrial_Rasak_15
+  - first:
+      213: 243593914700591791
+    second: A2_Industrial_Rasak_16
+  - first:
+      213: 2649693362982080857
+    second: A2_Industrial_Rasak_17
+  - first:
+      213: -3900180488939889333
+    second: A2_Industrial_Rasak_18
+  - first:
+      213: -7359363420645263953
+    second: A2_Industrial_Rasak_19
+  - first:
+      213: 790387912567610462
+    second: A2_Industrial_Rasak_20
+  - first:
+      213: -7714239419264213425
+    second: A2_Industrial_Rasak_21
+  - first:
+      213: -6191157139677228776
+    second: A2_Industrial_Rasak_22
+  - first:
+      213: 945885174086236598
+    second: A2_Industrial_Rasak_23
+  - first:
+      213: -6932157603598076684
+    second: A2_Industrial_Rasak_24
+  - first:
+      213: 632990904564538272
+    second: A2_Industrial_Rasak_25
+  - first:
+      213: 1802102282589635778
+    second: A2_Industrial_Rasak_26
+  - first:
+      213: 5256181802525532759
+    second: A2_Industrial_Rasak_27
+  - first:
+      213: -4620650732358030403
+    second: A2_Industrial_Rasak_28
+  - first:
+      213: -2793446800782707271
+    second: A2_Industrial_Rasak_29
+  - first:
+      213: -7025578125330825628
+    second: A2_Industrial_Rasak_30
+  - first:
+      213: -7786055132153912913
+    second: A2_Industrial_Rasak_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 625
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8ed22218057c780800000000000000
+      internalID: -8662866842669422353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 567
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c667fa4a01540f0800000000000000
+      internalID: -1133481431709356912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 527
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297a2e0b993daa010800000000000000
+      internalID: 1201004907698759570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 535
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd12fc05abc3a40800000000000000
+      internalID: 5349355313644559626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 527
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519cca8fc92bd2ac0800000000000000
+      internalID: -3878247316839413483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 535
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b60cb18dc502520800000000000000
+      internalID: 2675240261906361177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 535
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8cdb28d18659000800000000000000
+      internalID: 42054247486703790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 487
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a1724a26ff54f60800000000000000
+      internalID: 8018095510728940116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 471
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d80ecabd2c4380800000000000000
+      internalID: -8985756876167129243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 439
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5132b8f2d9263a130800000000000000
+      internalID: 3576810956309340949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 439
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4903d29e06bcf4e30800000000000000
+      internalID: 4490030970601025684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 444
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6329be1a07b065f0800000000000000
+      internalID: -765410682559978646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7fa097f7c52b40800000000000000
+      internalID: 5414953993081159539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563071d4aff07c740800000000000000
+      internalID: 5172120264767898469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 385
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a7f4e8642a53e0800000000000000
+      internalID: -2064297446259318454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafa92393050a650800000000000000
+      internalID: 6242077290127882947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 427
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2fc23ff5b616300800000000000000
+      internalID: 243593914700591791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 289
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951d140331a95c420800000000000000
+      internalID: 2649693362982080857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 383
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d14d46286cfd9c0800000000000000
+      internalID: -3900180488939889333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 383
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57f63e5f94ed990800000000000000
+      internalID: -7359363420645263953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 289
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cda5b6e9508fa00800000000000000
+      internalID: 790387912567610462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 383
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed076be1481f490800000000000000
+      internalID: -7714239419264213425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 383
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115ae43267941aa0800000000000000
+      internalID: -6191157139677228776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 211
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9f7b7ed85702d00800000000000000
+      internalID: 945885174086236598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 201
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4738e33670ccf90800000000000000
+      internalID: -6932157603598076684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 201
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab5f9cbfd5d8c800800000000000000
+      internalID: 632990904564538272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c40da26a7a520910800000000000000
+      internalID: 1802102282589635778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 57
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752286e3085b1f840800000000000000
+      internalID: 5256181802525532759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 143
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbba6a2e3a620efb0800000000000000
+      internalID: -4620650732358030403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 57
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5356c5feeab39d0800000000000000
+      internalID: -2793446800782707271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb6e90be1208e90800000000000000
+      internalID: -7025578125330825628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A2_Industrial_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1eb5e0c1062f390800000000000000
+      internalID: -7786055132153912913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A2_Industrial_Rasak_0: -8662866842669422353
+      A2_Industrial_Rasak_1: -1133481431709356912
+      A2_Industrial_Rasak_10: 4490030970601025684
+      A2_Industrial_Rasak_11: -765410682559978646
+      A2_Industrial_Rasak_12: 5414953993081159539
+      A2_Industrial_Rasak_13: 5172120264767898469
+      A2_Industrial_Rasak_14: -2064297446259318454
+      A2_Industrial_Rasak_15: 6242077290127882947
+      A2_Industrial_Rasak_16: 243593914700591791
+      A2_Industrial_Rasak_17: 2649693362982080857
+      A2_Industrial_Rasak_18: -3900180488939889333
+      A2_Industrial_Rasak_19: -7359363420645263953
+      A2_Industrial_Rasak_2: 1201004907698759570
+      A2_Industrial_Rasak_20: 790387912567610462
+      A2_Industrial_Rasak_21: -7714239419264213425
+      A2_Industrial_Rasak_22: -6191157139677228776
+      A2_Industrial_Rasak_23: 945885174086236598
+      A2_Industrial_Rasak_24: -6932157603598076684
+      A2_Industrial_Rasak_25: 632990904564538272
+      A2_Industrial_Rasak_26: 1802102282589635778
+      A2_Industrial_Rasak_27: 5256181802525532759
+      A2_Industrial_Rasak_28: -4620650732358030403
+      A2_Industrial_Rasak_29: -2793446800782707271
+      A2_Industrial_Rasak_3: 5349355313644559626
+      A2_Industrial_Rasak_30: -7025578125330825628
+      A2_Industrial_Rasak_31: -7786055132153912913
+      A2_Industrial_Rasak_4: -3878247316839413483
+      A2_Industrial_Rasak_5: 2675240261906361177
+      A2_Industrial_Rasak_6: 42054247486703790
+      A2_Industrial_Rasak_7: 8018095510728940116
+      A2_Industrial_Rasak_8: -8985756876167129243
+      A2_Industrial_Rasak_9: 3576810956309340949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

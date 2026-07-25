@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: d9fed7077b484ff4c8461e414e1ab0c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9031468793124696605
+    second: Tileset_Modern_Industrial_2_Rasak_0
+  - first:
+      213: -3258488103546259969
+    second: Tileset_Modern_Industrial_2_Rasak_1
+  - first:
+      213: -8573863973633187372
+    second: Tileset_Modern_Industrial_2_Rasak_2
+  - first:
+      213: -376288368915209650
+    second: Tileset_Modern_Industrial_2_Rasak_3
+  - first:
+      213: 7665620213526961601
+    second: Tileset_Modern_Industrial_2_Rasak_4
+  - first:
+      213: -8669800028062625980
+    second: Tileset_Modern_Industrial_2_Rasak_5
+  - first:
+      213: -3289863411328474877
+    second: Tileset_Modern_Industrial_2_Rasak_6
+  - first:
+      213: 6394792021002754979
+    second: Tileset_Modern_Industrial_2_Rasak_7
+  - first:
+      213: -4608827897036187220
+    second: Tileset_Modern_Industrial_2_Rasak_8
+  - first:
+      213: -8375457012297410711
+    second: Tileset_Modern_Industrial_2_Rasak_9
+  - first:
+      213: 1313873551002831953
+    second: Tileset_Modern_Industrial_2_Rasak_10
+  - first:
+      213: -7751831043204880022
+    second: Tileset_Modern_Industrial_2_Rasak_11
+  - first:
+      213: 8052440410133596029
+    second: Tileset_Modern_Industrial_2_Rasak_12
+  - first:
+      213: -1964507418352488283
+    second: Tileset_Modern_Industrial_2_Rasak_13
+  - first:
+      213: 24392701803780676
+    second: Tileset_Modern_Industrial_2_Rasak_14
+  - first:
+      213: 8445678583514951925
+    second: Tileset_Modern_Industrial_2_Rasak_15
+  - first:
+      213: 1502446826599457740
+    second: Tileset_Modern_Industrial_2_Rasak_16
+  - first:
+      213: -4827450841385702213
+    second: Tileset_Modern_Industrial_2_Rasak_17
+  - first:
+      213: 5104751436797519763
+    second: Tileset_Modern_Industrial_2_Rasak_18
+  - first:
+      213: 6546865785534061607
+    second: Tileset_Modern_Industrial_2_Rasak_19
+  - first:
+      213: -5744487597192009106
+    second: Tileset_Modern_Industrial_2_Rasak_20
+  - first:
+      213: 7245907196737376793
+    second: Tileset_Modern_Industrial_2_Rasak_21
+  - first:
+      213: -2090742514227890054
+    second: Tileset_Modern_Industrial_2_Rasak_22
+  - first:
+      213: 9166500372556856860
+    second: Tileset_Modern_Industrial_2_Rasak_23
+  - first:
+      213: -1436025879768316181
+    second: Tileset_Modern_Industrial_2_Rasak_24
+  - first:
+      213: -3086443057829286348
+    second: Tileset_Modern_Industrial_2_Rasak_25
+  - first:
+      213: -871022268798010067
+    second: Tileset_Modern_Industrial_2_Rasak_26
+  - first:
+      213: 8537132013290785281
+    second: Tileset_Modern_Industrial_2_Rasak_27
+  - first:
+      213: 5565957900245793475
+    second: Tileset_Modern_Industrial_2_Rasak_28
+  - first:
+      213: 4943480920007262226
+    second: Tileset_Modern_Industrial_2_Rasak_29
+  - first:
+      213: -3655678939639070014
+    second: Tileset_Modern_Industrial_2_Rasak_30
+  - first:
+      213: -7675708428359842172
+    second: Tileset_Modern_Industrial_2_Rasak_31
+  - first:
+      213: 4027796476187629757
+    second: Tileset_Modern_Industrial_2_Rasak_32
+  - first:
+      213: -6932646452155534925
+    second: Tileset_Modern_Industrial_2_Rasak_33
+  - first:
+      213: 2792909636576396189
+    second: Tileset_Modern_Industrial_2_Rasak_34
+  - first:
+      213: 8616845357737494644
+    second: Tileset_Modern_Industrial_2_Rasak_35
+  - first:
+      213: 142527109432997736
+    second: Tileset_Modern_Industrial_2_Rasak_36
+  - first:
+      213: -1131575042414760199
+    second: Tileset_Modern_Industrial_2_Rasak_37
+  - first:
+      213: 7012259690382796107
+    second: Tileset_Modern_Industrial_2_Rasak_38
+  - first:
+      213: -1807720112044708914
+    second: Tileset_Modern_Industrial_2_Rasak_39
+  - first:
+      213: 7301907336655241491
+    second: Tileset_Modern_Industrial_2_Rasak_40
+  - first:
+      213: 729253366329692946
+    second: Tileset_Modern_Industrial_2_Rasak_41
+  - first:
+      213: -676141542695134723
+    second: Tileset_Modern_Industrial_2_Rasak_42
+  - first:
+      213: -6251480349399110345
+    second: Tileset_Modern_Industrial_2_Rasak_43
+  - first:
+      213: 8271634601699869505
+    second: Tileset_Modern_Industrial_2_Rasak_44
+  - first:
+      213: 4008601166318413437
+    second: Tileset_Modern_Industrial_2_Rasak_45
+  - first:
+      213: -2244571565533503826
+    second: Tileset_Modern_Industrial_2_Rasak_46
+  - first:
+      213: 2529719455437324660
+    second: Tileset_Modern_Industrial_2_Rasak_47
+  - first:
+      213: -4769338600914519399
+    second: Tileset_Modern_Industrial_2_Rasak_48
+  - first:
+      213: 8111095994274484350
+    second: Tileset_Modern_Industrial_2_Rasak_49
+  - first:
+      213: -7996158085224690866
+    second: Tileset_Modern_Industrial_2_Rasak_50
+  - first:
+      213: 4862533519770386883
+    second: Tileset_Modern_Industrial_2_Rasak_51
+  - first:
+      213: -7865779951263735428
+    second: Tileset_Modern_Industrial_2_Rasak_52
+  - first:
+      213: -5270139732001996151
+    second: Tileset_Modern_Industrial_2_Rasak_53
+  - first:
+      213: -2153169829322106688
+    second: Tileset_Modern_Industrial_2_Rasak_54
+  - first:
+      213: -8206669734471572067
+    second: Tileset_Modern_Industrial_2_Rasak_55
+  - first:
+      213: -724073316015736093
+    second: Tileset_Modern_Industrial_2_Rasak_56
+  - first:
+      213: -5414329543903421883
+    second: Tileset_Modern_Industrial_2_Rasak_57
+  - first:
+      213: -313291253346328473
+    second: Tileset_Modern_Industrial_2_Rasak_58
+  - first:
+      213: -5336280670034568056
+    second: Tileset_Modern_Industrial_2_Rasak_59
+  - first:
+      213: -4478973130125745003
+    second: Tileset_Modern_Industrial_2_Rasak_60
+  - first:
+      213: 3241635018134955132
+    second: Tileset_Modern_Industrial_2_Rasak_61
+  - first:
+      213: 4598601086030800944
+    second: Tileset_Modern_Industrial_2_Rasak_62
+  - first:
+      213: -8594645676402367971
+    second: Tileset_Modern_Industrial_2_Rasak_63
+  - first:
+      213: 6814279078487606871
+    second: Tileset_Modern_Industrial_2_Rasak_64
+  - first:
+      213: -4903736156227761125
+    second: Tileset_Modern_Industrial_2_Rasak_65
+  - first:
+      213: 129074753207402183
+    second: Tileset_Modern_Industrial_2_Rasak_66
+  - first:
+      213: 4430795355974104833
+    second: Tileset_Modern_Industrial_2_Rasak_67
+  - first:
+      213: 2022534687879928754
+    second: Tileset_Modern_Industrial_2_Rasak_68
+  - first:
+      213: 1918200633799486297
+    second: Tileset_Modern_Industrial_2_Rasak_69
+  - first:
+      213: -6056692844211307661
+    second: Tileset_Modern_Industrial_2_Rasak_70
+  - first:
+      213: 593601970413068128
+    second: Tileset_Modern_Industrial_2_Rasak_71
+  - first:
+      213: 415866396343224214
+    second: Tileset_Modern_Industrial_2_Rasak_72
+  - first:
+      213: -2309613046824736310
+    second: Tileset_Modern_Industrial_2_Rasak_73
+  - first:
+      213: 2392986121587365377
+    second: Tileset_Modern_Industrial_2_Rasak_74
+  - first:
+      213: -4815058663526650538
+    second: Tileset_Modern_Industrial_2_Rasak_75
+  - first:
+      213: 5861417106154701354
+    second: Tileset_Modern_Industrial_2_Rasak_76
+  - first:
+      213: -5151250485419328525
+    second: Tileset_Modern_Industrial_2_Rasak_77
+  - first:
+      213: -3677893071866526289
+    second: Tileset_Modern_Industrial_2_Rasak_78
+  - first:
+      213: -4856098764922661499
+    second: Tileset_Modern_Industrial_2_Rasak_79
+  - first:
+      213: -2214627340723498953
+    second: Tileset_Modern_Industrial_2_Rasak_80
+  - first:
+      213: 7549202348996598782
+    second: Tileset_Modern_Industrial_2_Rasak_81
+  - first:
+      213: 8386235271463847170
+    second: Tileset_Modern_Industrial_2_Rasak_82
+  - first:
+      213: -4398105865278380046
+    second: Tileset_Modern_Industrial_2_Rasak_83
+  - first:
+      213: 5460065886946131026
+    second: Tileset_Modern_Industrial_2_Rasak_84
+  - first:
+      213: 5957889461315499458
+    second: Tileset_Modern_Industrial_2_Rasak_85
+  - first:
+      213: -1822503563818927743
+    second: Tileset_Modern_Industrial_2_Rasak_86
+  - first:
+      213: 4321382898023113692
+    second: Tileset_Modern_Industrial_2_Rasak_87
+  - first:
+      213: -1217529057769996162
+    second: Tileset_Modern_Industrial_2_Rasak_88
+  - first:
+      213: 3123764819193719409
+    second: Tileset_Modern_Industrial_2_Rasak_89
+  - first:
+      213: -246696013085832366
+    second: Tileset_Modern_Industrial_2_Rasak_90
+  - first:
+      213: 8682615350661363427
+    second: Tileset_Modern_Industrial_2_Rasak_91
+  - first:
+      213: -7127811347758802130
+    second: Tileset_Modern_Industrial_2_Rasak_92
+  - first:
+      213: -2175380797652060281
+    second: Tileset_Modern_Industrial_2_Rasak_93
+  - first:
+      213: 949582710561241167
+    second: Tileset_Modern_Industrial_2_Rasak_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_0
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 742
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12393e3409365d70800000000000000
+      internalID: 9031468793124696605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 749
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5f943855687c2d0800000000000000
+      internalID: -3258488103546259969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 628
+        width: 28
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1231b6424830980800000000000000
+      internalID: -8573863973633187372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 628
+        width: 8
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42a2bdd8b727caf0800000000000000
+      internalID: -376288368915209650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 628
+        width: 8
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd145258f0c16a60800000000000000
+      internalID: 7665620213526961601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 628
+        width: 8
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fc7ad1fceaea780800000000000000
+      internalID: -8669800028062625980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 738
+        width: 144
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301263868ae0852d0800000000000000
+      internalID: -3289863411328474877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 738
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab1f58467ddeb850800000000000000
+      internalID: 6394792021002754979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 671
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95f3e32772a00c0800000000000000
+      internalID: -4608827897036187220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 623
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967557ee83664cb80800000000000000
+      internalID: -8375457012297410711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 623
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c0e4f8801db3210800000000000000
+      internalID: 1313873551002831953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 623
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696de6bcb6fb6490800000000000000
+      internalID: -7751831043204880022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 623
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77830da3e300cf60800000000000000
+      internalID: 8052440410133596029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 653
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0fa7259eaacb4e0800000000000000
+      internalID: -1964507418352488283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 653
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a50267809a65000800000000000000
+      internalID: 24392701803780676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 641
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07881bce3153570800000000000000
+      internalID: 8445678583514951925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 700
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3af51bd63c9d410800000000000000
+      internalID: 1502446826599457740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 675
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc6b846903710db0800000000000000
+      internalID: -4827450841385702213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 692
+        width: 144
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3972bf8b268b7d640800000000000000
+      internalID: 5104751436797519763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 692
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c9ae2ceb32bda50800000000000000
+      internalID: 6546865785534061607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 605
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aabb847fa7740b0800000000000000
+      internalID: -5744487597192009106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 615
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9125af87432ae8460800000000000000
+      internalID: 7245907196737376793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 594
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b3a2b2c03cf2e0800000000000000
+      internalID: -2090742514227890054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 641
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ebcbbc583f53f70800000000000000
+      internalID: 9166500372556856860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_24
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 648
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6442c1216321ce0800000000000000
+      internalID: -1436025879768316181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 470
+        width: 86
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6d9e3460ca25d0800000000000000
+      internalID: -3086443057829286348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 470
+        width: 86
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df6d48cd189e3f0800000000000000
+      internalID: -871022268798010067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 470
+        width: 86
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a00dc955cf97670800000000000000
+      internalID: 8537132013290785281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 590
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafde678314e3d40800000000000000
+      internalID: 5565957900245793475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 580
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21044fe74b5ca9440800000000000000
+      internalID: 4943480920007262226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 580
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2cfed7f5b644dc0800000000000000
+      internalID: -3655678939639070014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 580
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c3202ad76a7590800000000000000
+      internalID: -7675708428359842172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 580
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8dbbe0e8b95e730800000000000000
+      internalID: 4027796476187629757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 598
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b5e158ca4acf90800000000000000
+      internalID: -6932646452155534925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_34
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 598
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c6e9548862c620800000000000000
+      internalID: 2792909636576396189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 509
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ca68e23f259770800000000000000
+      internalID: 8616845357737494644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 509
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fd90a6ab5af100800000000000000
+      internalID: 142527109432997736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 566
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feab288e76db40f0800000000000000
+      internalID: -1131575042414760199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_38
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 566
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45ae0e290d805160800000000000000
+      internalID: 7012259690382796107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_39
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 566
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbee34c220b9e6e0800000000000000
+      internalID: -1807720112044708914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 500
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31187281906955560800000000000000
+      internalID: 7301907336655241491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 553
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d65ba214de1a00800000000000000
+      internalID: 729253366329692946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_42
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 553
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df995c969dcdd96f0800000000000000
+      internalID: -676141542695134723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_43
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 550
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2bb57eb74e39a0800000000000000
+      internalID: -6251480349399110345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_44
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 550
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143862268dfbac270800000000000000
+      internalID: 8271634601699869505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 431
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7620a4b58961a730800000000000000
+      internalID: 4008601166318413437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_46
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 431
+        width: 254
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaede6bad0ea9d0e0800000000000000
+      internalID: -2244571565533503826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 508
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4718cb2117e5b1320800000000000000
+      internalID: 2529719455437324660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 413
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a7eeebfc7efcdb0800000000000000
+      internalID: -4769338600914519399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 413
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7013d515d6609070800000000000000
+      internalID: 8111095994274484350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 413
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b80524690f70190800000000000000
+      internalID: -7996158085224690866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 456
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1085239703b7340800000000000000
+      internalID: 4862533519770386883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71298b1fc227d290800000000000000
+      internalID: -7865779951263735428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 398
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982495d06d3bcd6b0800000000000000
+      internalID: -5270139732001996151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 398
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8da2eb2776e12e0800000000000000
+      internalID: -2153169829322106688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 398
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956fd77b5d0c1e80800000000000000
+      internalID: -8206669734471572067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 398
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eafa87c72393f5f0800000000000000
+      internalID: -724073316015736093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 398
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54adbb657ff6cd4b0800000000000000
+      internalID: -5414329543903421883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 351
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7602e05d347f6abf0800000000000000
+      internalID: -313291253346328473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 95
+        width: 144
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c5ec0e009b1f5b0800000000000000
+      internalID: -5336280670034568056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_60
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 306
+        width: 49
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594e5543bad77d1c0800000000000000
+      internalID: -4478973130125745003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_61
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 306
+        width: 9
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a663cfd99cfc20800000000000000
+      internalID: 3241635018134955132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 350
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0386794c25381df30800000000000000
+      internalID: 4598601086030800944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 350
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12a0bf2b4fa9b880800000000000000
+      internalID: -8594645676402367971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 301
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75641a1e7be219e50800000000000000
+      internalID: 6814279078487606871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c0ecf62fd62fbb0800000000000000
+      internalID: -4903736156227761125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 302
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef56eddc09ac100800000000000000
+      internalID: 129074753207402183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 302
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077941a6e85d7d30800000000000000
+      internalID: 4430795355974104833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 175
+        width: 94
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb1df0359c711c10800000000000000
+      internalID: 2022534687879928754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_69
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 309
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b2c893051de9a10800000000000000
+      internalID: 1918200633799486297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 194
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b722ba2fd42fba0800000000000000
+      internalID: -6056692844211307661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_71
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 205
+        width: 132
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f5178d8d5ec3800800000000000000
+      internalID: 593601970413068128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_72
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 241
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6974f0cb84475c500800000000000000
+      internalID: 415866396343224214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_73
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 239
+        width: 94
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac96767bb2b92ffd0800000000000000
+      internalID: -2309613046824736310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 145
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10697a1f238953120800000000000000
+      internalID: 2392986121587365377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_75
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 199
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da3d328a97d2db0800000000000000
+      internalID: -4815058663526650538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_76
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 217
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22cfbc8dcfe75150800000000000000
+      internalID: 5861417106154701354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_77
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 204
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb58bd9f41388b0800000000000000
+      internalID: -5151250485419328525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_78
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 217
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa58689ccbf75fcc0800000000000000
+      internalID: -3677893071866526289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_79
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 204
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585529ae6ebab9cb0800000000000000
+      internalID: -4856098764922661499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730de4eca201441e0800000000000000
+      internalID: -2214627340723498953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb9c7df98724c860800000000000000
+      internalID: 7549202348996598782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 95
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20544761c84e16470800000000000000
+      internalID: 8386235271463847170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72587840ac6f2c0800000000000000
+      internalID: -4398105865278380046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 97
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf6a9defc06cb40800000000000000
+      internalID: 5460065886946131026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 109
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5f0c816ecaea250800000000000000
+      internalID: 5957889461315499458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_86
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 23
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18970bc2aaa25b6e0800000000000000
+      internalID: -1822503563818927743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 95
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3ad1f99d2a8fb30800000000000000
+      internalID: 4321382898023113692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_88
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 183
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7047efc5c77a1fe0800000000000000
+      internalID: -1217529057769996162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_89
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a67e97d87d95b20800000000000000
+      internalID: 3123764819193719409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 121
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b838c784f839cf0800000000000000
+      internalID: -246696013085832366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_91
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 47
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e63681b8a8de7870800000000000000
+      internalID: 8682615350661363427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_92
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 13
+        width: 132
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b96de085de41d90800000000000000
+      internalID: -7127811347758802130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_93
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 20
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873eb0b0be7fc1e0800000000000000
+      internalID: -2175380797652060281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_Industrial_2_Rasak_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fad3b1789d2d00800000000000000
+      internalID: 949582710561241167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Modern_Industrial_2_Rasak_0: 9031468793124696605
+      Tileset_Modern_Industrial_2_Rasak_1: -3258488103546259969
+      Tileset_Modern_Industrial_2_Rasak_10: 1313873551002831953
+      Tileset_Modern_Industrial_2_Rasak_11: -7751831043204880022
+      Tileset_Modern_Industrial_2_Rasak_12: 8052440410133596029
+      Tileset_Modern_Industrial_2_Rasak_13: -1964507418352488283
+      Tileset_Modern_Industrial_2_Rasak_14: 24392701803780676
+      Tileset_Modern_Industrial_2_Rasak_15: 8445678583514951925
+      Tileset_Modern_Industrial_2_Rasak_16: 1502446826599457740
+      Tileset_Modern_Industrial_2_Rasak_17: -4827450841385702213
+      Tileset_Modern_Industrial_2_Rasak_18: 5104751436797519763
+      Tileset_Modern_Industrial_2_Rasak_19: 6546865785534061607
+      Tileset_Modern_Industrial_2_Rasak_2: -8573863973633187372
+      Tileset_Modern_Industrial_2_Rasak_20: -5744487597192009106
+      Tileset_Modern_Industrial_2_Rasak_21: 7245907196737376793
+      Tileset_Modern_Industrial_2_Rasak_22: -2090742514227890054
+      Tileset_Modern_Industrial_2_Rasak_23: 9166500372556856860
+      Tileset_Modern_Industrial_2_Rasak_24: -1436025879768316181
+      Tileset_Modern_Industrial_2_Rasak_25: -3086443057829286348
+      Tileset_Modern_Industrial_2_Rasak_26: -871022268798010067
+      Tileset_Modern_Industrial_2_Rasak_27: 8537132013290785281
+      Tileset_Modern_Industrial_2_Rasak_28: 5565957900245793475
+      Tileset_Modern_Industrial_2_Rasak_29: 4943480920007262226
+      Tileset_Modern_Industrial_2_Rasak_3: -376288368915209650
+      Tileset_Modern_Industrial_2_Rasak_30: -3655678939639070014
+      Tileset_Modern_Industrial_2_Rasak_31: -7675708428359842172
+      Tileset_Modern_Industrial_2_Rasak_32: 4027796476187629757
+      Tileset_Modern_Industrial_2_Rasak_33: -6932646452155534925
+      Tileset_Modern_Industrial_2_Rasak_34: 2792909636576396189
+      Tileset_Modern_Industrial_2_Rasak_35: 8616845357737494644
+      Tileset_Modern_Industrial_2_Rasak_36: 142527109432997736
+      Tileset_Modern_Industrial_2_Rasak_37: -1131575042414760199
+      Tileset_Modern_Industrial_2_Rasak_38: 7012259690382796107
+      Tileset_Modern_Industrial_2_Rasak_39: -1807720112044708914
+      Tileset_Modern_Industrial_2_Rasak_4: 7665620213526961601
+      Tileset_Modern_Industrial_2_Rasak_40: 7301907336655241491
+      Tileset_Modern_Industrial_2_Rasak_41: 729253366329692946
+      Tileset_Modern_Industrial_2_Rasak_42: -676141542695134723
+      Tileset_Modern_Industrial_2_Rasak_43: -6251480349399110345
+      Tileset_Modern_Industrial_2_Rasak_44: 8271634601699869505
+      Tileset_Modern_Industrial_2_Rasak_45: 4008601166318413437
+      Tileset_Modern_Industrial_2_Rasak_46: -2244571565533503826
+      Tileset_Modern_Industrial_2_Rasak_47: 2529719455437324660
+      Tileset_Modern_Industrial_2_Rasak_48: -4769338600914519399
+      Tileset_Modern_Industrial_2_Rasak_49: 8111095994274484350
+      Tileset_Modern_Industrial_2_Rasak_5: -8669800028062625980
+      Tileset_Modern_Industrial_2_Rasak_50: -7996158085224690866
+      Tileset_Modern_Industrial_2_Rasak_51: 4862533519770386883
+      Tileset_Modern_Industrial_2_Rasak_52: -7865779951263735428
+      Tileset_Modern_Industrial_2_Rasak_53: -5270139732001996151
+      Tileset_Modern_Industrial_2_Rasak_54: -2153169829322106688
+      Tileset_Modern_Industrial_2_Rasak_55: -8206669734471572067
+      Tileset_Modern_Industrial_2_Rasak_56: -724073316015736093
+      Tileset_Modern_Industrial_2_Rasak_57: -5414329543903421883
+      Tileset_Modern_Industrial_2_Rasak_58: -313291253346328473
+      Tileset_Modern_Industrial_2_Rasak_59: -5336280670034568056
+      Tileset_Modern_Industrial_2_Rasak_6: -3289863411328474877
+      Tileset_Modern_Industrial_2_Rasak_60: -4478973130125745003
+      Tileset_Modern_Industrial_2_Rasak_61: 3241635018134955132
+      Tileset_Modern_Industrial_2_Rasak_62: 4598601086030800944
+      Tileset_Modern_Industrial_2_Rasak_63: -8594645676402367971
+      Tileset_Modern_Industrial_2_Rasak_64: 6814279078487606871
+      Tileset_Modern_Industrial_2_Rasak_65: -4903736156227761125
+      Tileset_Modern_Industrial_2_Rasak_66: 129074753207402183
+      Tileset_Modern_Industrial_2_Rasak_67: 4430795355974104833
+      Tileset_Modern_Industrial_2_Rasak_68: 2022534687879928754
+      Tileset_Modern_Industrial_2_Rasak_69: 1918200633799486297
+      Tileset_Modern_Industrial_2_Rasak_7: 6394792021002754979
+      Tileset_Modern_Industrial_2_Rasak_70: -6056692844211307661
+      Tileset_Modern_Industrial_2_Rasak_71: 593601970413068128
+      Tileset_Modern_Industrial_2_Rasak_72: 415866396343224214
+      Tileset_Modern_Industrial_2_Rasak_73: -2309613046824736310
+      Tileset_Modern_Industrial_2_Rasak_74: 2392986121587365377
+      Tileset_Modern_Industrial_2_Rasak_75: -4815058663526650538
+      Tileset_Modern_Industrial_2_Rasak_76: 5861417106154701354
+      Tileset_Modern_Industrial_2_Rasak_77: -5151250485419328525
+      Tileset_Modern_Industrial_2_Rasak_78: -3677893071866526289
+      Tileset_Modern_Industrial_2_Rasak_79: -4856098764922661499
+      Tileset_Modern_Industrial_2_Rasak_8: -4608827897036187220
+      Tileset_Modern_Industrial_2_Rasak_80: -2214627340723498953
+      Tileset_Modern_Industrial_2_Rasak_81: 7549202348996598782
+      Tileset_Modern_Industrial_2_Rasak_82: 8386235271463847170
+      Tileset_Modern_Industrial_2_Rasak_83: -4398105865278380046
+      Tileset_Modern_Industrial_2_Rasak_84: 5460065886946131026
+      Tileset_Modern_Industrial_2_Rasak_85: 5957889461315499458
+      Tileset_Modern_Industrial_2_Rasak_86: -1822503563818927743
+      Tileset_Modern_Industrial_2_Rasak_87: 4321382898023113692
+      Tileset_Modern_Industrial_2_Rasak_88: -1217529057769996162
+      Tileset_Modern_Industrial_2_Rasak_89: 3123764819193719409
+      Tileset_Modern_Industrial_2_Rasak_9: -8375457012297410711
+      Tileset_Modern_Industrial_2_Rasak_90: -246696013085832366
+      Tileset_Modern_Industrial_2_Rasak_91: 8682615350661363427
+      Tileset_Modern_Industrial_2_Rasak_92: -7127811347758802130
+      Tileset_Modern_Industrial_2_Rasak_93: -2175380797652060281
+      Tileset_Modern_Industrial_2_Rasak_94: 949582710561241167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

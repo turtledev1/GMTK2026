@@ -1,0 +1,3588 @@
+fileFormatVersion: 2
+guid: df6c3f275a1b93443811cd57b2b7a06d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5604140353761029588
+    second: Animal_Ducks_0
+  - first:
+      213: 5609481254638564106
+    second: Animal_Ducks_1
+  - first:
+      213: -5944817272209294951
+    second: Animal_Ducks_2
+  - first:
+      213: -407770334915201796
+    second: Animal_Ducks_3
+  - first:
+      213: -5887253227086250143
+    second: Animal_Ducks_4
+  - first:
+      213: -4937752685029345025
+    second: Animal_Ducks_5
+  - first:
+      213: -164958847790749398
+    second: Animal_Ducks_6
+  - first:
+      213: 7612284875945239009
+    second: Animal_Ducks_7
+  - first:
+      213: -7844030726047278284
+    second: Animal_Ducks_8
+  - first:
+      213: 2666600859894166274
+    second: Animal_Ducks_9
+  - first:
+      213: 9189012371365478621
+    second: Animal_Ducks_10
+  - first:
+      213: 4985231192225078233
+    second: Animal_Ducks_11
+  - first:
+      213: -6626599244296260377
+    second: Animal_Ducks_12
+  - first:
+      213: -4885332225391513457
+    second: Animal_Ducks_13
+  - first:
+      213: 815121552558015143
+    second: Animal_Ducks_14
+  - first:
+      213: -429280881684339938
+    second: Animal_Ducks_15
+  - first:
+      213: 3958333760787602417
+    second: Animal_Ducks_16
+  - first:
+      213: -7185818826517782855
+    second: Animal_Ducks_17
+  - first:
+      213: 5068880992697724094
+    second: Animal_Ducks_18
+  - first:
+      213: -8167630264416948460
+    second: Animal_Ducks_19
+  - first:
+      213: -1263495345302689923
+    second: Animal_Ducks_20
+  - first:
+      213: 7866158076588275109
+    second: Animal_Ducks_21
+  - first:
+      213: 9033935568288263929
+    second: Animal_Ducks_22
+  - first:
+      213: -3212196472527222299
+    second: Animal_Ducks_23
+  - first:
+      213: 3977727778310450282
+    second: Animal_Ducks_24
+  - first:
+      213: -3797331244881828606
+    second: Animal_Ducks_25
+  - first:
+      213: 6227446716240225857
+    second: Animal_Ducks_26
+  - first:
+      213: 416316519377351184
+    second: Animal_Ducks_27
+  - first:
+      213: -4605293342800195101
+    second: Animal_Ducks_28
+  - first:
+      213: 7462526294522539891
+    second: Animal_Ducks_29
+  - first:
+      213: 4848924567436226774
+    second: Animal_Ducks_30
+  - first:
+      213: -1698184328594571742
+    second: Animal_Ducks_31
+  - first:
+      213: 2299587359293340223
+    second: Animal_Ducks_32
+  - first:
+      213: -6318671679446680743
+    second: Animal_Ducks_33
+  - first:
+      213: 2868419694656600639
+    second: Animal_Ducks_34
+  - first:
+      213: -2316712953635995475
+    second: Animal_Ducks_35
+  - first:
+      213: -1893796481086709663
+    second: Animal_Ducks_36
+  - first:
+      213: 2408496036684874869
+    second: Animal_Ducks_37
+  - first:
+      213: -755311933659076614
+    second: Animal_Ducks_38
+  - first:
+      213: 8731056870710071591
+    second: Animal_Ducks_39
+  - first:
+      213: -6074247663137090325
+    second: Animal_Ducks_40
+  - first:
+      213: 6518598012996929939
+    second: Animal_Ducks_41
+  - first:
+      213: -1468788383092194379
+    second: Animal_Ducks_42
+  - first:
+      213: 6278814138099009699
+    second: Animal_Ducks_43
+  - first:
+      213: 3949050981840748376
+    second: Animal_Ducks_44
+  - first:
+      213: 7861520856147402082
+    second: Animal_Ducks_45
+  - first:
+      213: 5462473701505981933
+    second: Animal_Ducks_46
+  - first:
+      213: -7257039765226239471
+    second: Animal_Ducks_47
+  - first:
+      213: -7889277571031788839
+    second: Animal_Ducks_48
+  - first:
+      213: 1178417502728866329
+    second: Animal_Ducks_49
+  - first:
+      213: 5060231494184198433
+    second: Animal_Ducks_50
+  - first:
+      213: -7653236346551382507
+    second: Animal_Ducks_51
+  - first:
+      213: 7800184284867125239
+    second: Animal_Ducks_52
+  - first:
+      213: 6275108468068527948
+    second: Animal_Ducks_53
+  - first:
+      213: 8954103165255736733
+    second: Animal_Ducks_54
+  - first:
+      213: 8469581830769632004
+    second: Animal_Ducks_55
+  - first:
+      213: -339881272338307111
+    second: Animal_Ducks_56
+  - first:
+      213: 5503439310454238563
+    second: Animal_Ducks_57
+  - first:
+      213: 5255299914917205138
+    second: Animal_Ducks_58
+  - first:
+      213: -6294468576817493317
+    second: Animal_Ducks_59
+  - first:
+      213: 7780602838709477356
+    second: Animal_Ducks_60
+  - first:
+      213: -4797064134287317582
+    second: Animal_Ducks_61
+  - first:
+      213: 4999454998441232830
+    second: Animal_Ducks_62
+  - first:
+      213: 7202067737327164847
+    second: Animal_Ducks_63
+  - first:
+      213: 4484925083605155873
+    second: Animal_Ducks_64
+  - first:
+      213: -6590500479402858577
+    second: Animal_Ducks_65
+  - first:
+      213: -5520872867717918791
+    second: Animal_Ducks_66
+  - first:
+      213: 7694195950960686300
+    second: Animal_Ducks_67
+  - first:
+      213: 841203408399993449
+    second: Animal_Ducks_68
+  - first:
+      213: 1312453177047494464
+    second: Animal_Ducks_69
+  - first:
+      213: -387256787528170866
+    second: Animal_Ducks_70
+  - first:
+      213: 3323060846153675024
+    second: Animal_Ducks_71
+  - first:
+      213: 6683524209249662423
+    second: Animal_Ducks_72
+  - first:
+      213: -8722825640207703916
+    second: Animal_Ducks_73
+  - first:
+      213: -1222036667633888419
+    second: Animal_Ducks_74
+  - first:
+      213: -5816023628717607658
+    second: Animal_Ducks_75
+  - first:
+      213: 5652642214263673949
+    second: Animal_Ducks_76
+  - first:
+      213: 7762565488912490287
+    second: Animal_Ducks_77
+  - first:
+      213: -5249470305318749668
+    second: Animal_Ducks_78
+  - first:
+      213: -7499807680964909046
+    second: Animal_Ducks_79
+  - first:
+      213: 8309578762320430803
+    second: Animal_Ducks_80
+  - first:
+      213: 7767204673307302849
+    second: Animal_Ducks_81
+  - first:
+      213: 5089800112248258330
+    second: Animal_Ducks_82
+  - first:
+      213: 8595547837722966377
+    second: Animal_Ducks_83
+  - first:
+      213: -6474680842246090185
+    second: Animal_Ducks_84
+  - first:
+      213: -2088703984899679312
+    second: Animal_Ducks_85
+  - first:
+      213: 1102539964029219216
+    second: Animal_Ducks_86
+  - first:
+      213: 6962457152134527872
+    second: Animal_Ducks_87
+  - first:
+      213: -4193237311924849141
+    second: Animal_Ducks_88
+  - first:
+      213: 6661554884527554292
+    second: Animal_Ducks_89
+  - first:
+      213: -5641601228728857497
+    second: Animal_Ducks_90
+  - first:
+      213: -4446136488970526204
+    second: Animal_Ducks_91
+  - first:
+      213: -6915982336048961346
+    second: Animal_Ducks_92
+  - first:
+      213: -3243481865716022428
+    second: Animal_Ducks_93
+  - first:
+      213: 3348824781981476737
+    second: Animal_Ducks_94
+  - first:
+      213: 6202107465100845424
+    second: Animal_Ducks_95
+  - first:
+      213: -7803087171731797960
+    second: Animal_Ducks_96
+  - first:
+      213: 3424965887711839285
+    second: Animal_Ducks_97
+  - first:
+      213: 8390041525813218503
+    second: Animal_Ducks_98
+  - first:
+      213: -4349572068610314696
+    second: Animal_Ducks_99
+  - first:
+      213: 6761664920021692103
+    second: Animal_Ducks_100
+  - first:
+      213: 2193172775264418397
+    second: Animal_Ducks_101
+  - first:
+      213: -1421862308519675573
+    second: Animal_Ducks_102
+  - first:
+      213: -2732168656448402193
+    second: Animal_Ducks_103
+  - first:
+      213: -2523246009583580684
+    second: Animal_Ducks_104
+  - first:
+      213: 2080407832939575564
+    second: Animal_Ducks_105
+  - first:
+      213: -5508040359785527753
+    second: Animal_Ducks_106
+  - first:
+      213: -7719605663143153333
+    second: Animal_Ducks_107
+  - first:
+      213: 2798396828334871157
+    second: Animal_Ducks_108
+  - first:
+      213: 5919298763071280869
+    second: Animal_Ducks_109
+  - first:
+      213: 7152039687479267959
+    second: Animal_Ducks_110
+  - first:
+      213: -7660979163399743467
+    second: Animal_Ducks_111
+  - first:
+      213: -1256955901752051564
+    second: Animal_Ducks_112
+  - first:
+      213: 7310981878338043225
+    second: Animal_Ducks_113
+  - first:
+      213: -8497210266494882017
+    second: Animal_Ducks_114
+  - first:
+      213: 2471841620025991531
+    second: Animal_Ducks_115
+  - first:
+      213: 6442235885374584360
+    second: Animal_Ducks_116
+  - first:
+      213: -830597251654596252
+    second: Animal_Ducks_117
+  - first:
+      213: 4942367436312204907
+    second: Animal_Ducks_118
+  - first:
+      213: -6356449919486943062
+    second: Animal_Ducks_119
+  - first:
+      213: -2324967501587186555
+    second: Animal_Ducks_120
+  - first:
+      213: 3335456211215833161
+    second: Animal_Ducks_121
+  - first:
+      213: -5034346326233932875
+    second: Animal_Ducks_122
+  - first:
+      213: -3096470476083645734
+    second: Animal_Ducks_123
+  - first:
+      213: 7723923485323200589
+    second: Animal_Ducks_124
+  - first:
+      213: 6967984614524023823
+    second: Animal_Ducks_125
+  - first:
+      213: 6845118310176613597
+    second: Animal_Ducks_126
+  - first:
+      213: 483753339270787665
+    second: Animal_Ducks_127
+  - first:
+      213: -1400398765604965490
+    second: Animal_Ducks_128
+  - first:
+      213: -720475593915259304
+    second: Animal_Ducks_129
+  - first:
+      213: -1425390854113121343
+    second: Animal_Ducks_130
+  - first:
+      213: -5315031792472942606
+    second: Animal_Ducks_131
+  - first:
+      213: 3471573656767319338
+    second: Animal_Ducks_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal_Ducks_0
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 336
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddab51b5f7e5cd40800000000000000
+      internalID: 5604140353761029588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_1
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 336
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03b1f41b71e8dd40800000000000000
+      internalID: 5609481254638564106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 357
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999bb5b1034cf7da0800000000000000
+      internalID: -5944817272209294951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 336
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ff657a0f475af0800000000000000
+      internalID: -407770334915201796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 335
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f70c8c1664c4ea0800000000000000
+      internalID: -5887253227086250143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff838142814997bb0800000000000000
+      internalID: -4937752685029345025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 335
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29efda4dc2f5bdf0800000000000000
+      internalID: -164958847790749398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 335
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e16bc753c444a960800000000000000
+      internalID: 7612284875945239009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bd3b63d97642390800000000000000
+      internalID: -7844030726047278284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 335
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2033eb39a5ba10520800000000000000
+      internalID: 2666600859894166274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 336
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0c8e7f01ee58f70800000000000000
+      internalID: 9189012371365478621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 336
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd5cf3b591f2540800000000000000
+      internalID: 4985231192225078233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 336
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e479d6b8179904a0800000000000000
+      internalID: -6626599244296260377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8035cf7930d33cb0800000000000000
+      internalID: -4885332225391513457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a24cfcbbb4ef4b00800000000000000
+      internalID: 815121552558015143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 287
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a6520053ea0af0800000000000000
+      internalID: -429280881684339938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 288
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb5e225593dee630800000000000000
+      internalID: 3958333760787602417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 287
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bed71179d7d64c90800000000000000
+      internalID: -7185818826517782855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 287
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc2a722868485640800000000000000
+      internalID: 5068880992697724094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 288
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa2b86c8fb6ae80800000000000000
+      internalID: -8167630264416948460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77afdf7da9277ee0800000000000000
+      internalID: -1263495345302689923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a53d1e08153a2d60800000000000000
+      internalID: 7866158076588275109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 289
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea697198cfe5d70800000000000000
+      internalID: 9033935568288263929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e98042c35cfb63d0800000000000000
+      internalID: -3212196472527222299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 288
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ce567e65ab33730800000000000000
+      internalID: 3977727778310450282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 289
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a3561a5b2d4bc0800000000000000
+      internalID: -3797331244881828606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146eb234bc55c6650800000000000000
+      internalID: 6227446716240225857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0123d9b2bad07c500800000000000000
+      internalID: 416316519377351184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 289
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e15ce7ca16b610c0800000000000000
+      internalID: -4605293342800195101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 288
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f27007028309760800000000000000
+      internalID: 7462526294522539891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d073b01437da4340800000000000000
+      internalID: 4848924567436226774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e3cfab956de68e0800000000000000
+      internalID: -1698184328594571742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 239
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a78a00586c9ef10800000000000000
+      internalID: 2299587359293340223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7246d5919f48a0800000000000000
+      internalID: -6318671679446680743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3abdb6c38caec720800000000000000
+      internalID: 2868419694656600639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 239
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00bf7d7d169dfd0800000000000000
+      internalID: -2316712953635995475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 240
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16021fb5222e7b5e0800000000000000
+      internalID: -1893796481086709663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 240
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c9857262bc6120800000000000000
+      internalID: 2408496036684874869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af723a35cc79485f0800000000000000
+      internalID: -755311933659076614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 240
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721586cf6f1fa2970800000000000000
+      internalID: 8731056870710071591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_40
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 240
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be497f0eeefe3bba0800000000000000
+      internalID: -6074247663137090325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 240
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399cf361b56b67a50800000000000000
+      internalID: 6518598012996929939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 241
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3c19f5fb0dd9be0800000000000000
+      internalID: -1468788383092194379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a887182134d22750800000000000000
+      internalID: 6278814138099009699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_44
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f768ce1f8ddc630800000000000000
+      internalID: 3949050981840748376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_45
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d9df8019bb91d60800000000000000
+      internalID: 7861520856147402082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_46
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 240
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5d2dd3ea9ecb40800000000000000
+      internalID: 5462473701505981933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_47
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 240
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a4ec078c0d94b90800000000000000
+      internalID: -7257039765226239471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_48
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 241
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2913c29d7a38290800000000000000
+      internalID: -7889277571031788839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 192
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ac147a9749a5010800000000000000
+      internalID: 1178417502728866329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_50
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 192
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121e714dbbd893640800000000000000
+      internalID: 5060231494184198433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 203
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e42b5671e3ac590800000000000000
+      internalID: -7653236346551382507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 213
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd61aa742df3c60800000000000000
+      internalID: 7800184284867125239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f254e97e9a51750800000000000000
+      internalID: 6275108468068527948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd44f436d534c70800000000000000
+      internalID: 8954103165255736733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40360232dcff98570800000000000000
+      internalID: 8469581830769632004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a77898cf784bf0800000000000000
+      internalID: -339881272338307111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 191
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dab86f4e4206c40800000000000000
+      internalID: 5503439310454238563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 191
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294d7c8cd639ee840800000000000000
+      internalID: 5255299914917205138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 192
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba4feccd2e85a8a0800000000000000
+      internalID: -6294468576817493317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_60
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef9ca3fe014afb60800000000000000
+      internalID: 7780602838709477356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 192
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5a907f5976d6db0800000000000000
+      internalID: -4797064134287317582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_62
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 192
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb904a435d1a16540800000000000000
+      internalID: 4999454998441232830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 164
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faddfabe272e2f360800000000000000
+      internalID: 7202067737327164847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 153
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204684f997ad3e30800000000000000
+      internalID: 4484925083605155873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 165
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a6216bb6d984a0800000000000000
+      internalID: -6590500479402858577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_66
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 155
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc49da06be163b0800000000000000
+      internalID: -5520872867717918791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_67
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 165
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b249a37647ca60800000000000000
+      internalID: 7694195950960686300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_68
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 155
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a87850b0e8cab00800000000000000
+      internalID: 841203408399993449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04faf3af535c63210800000000000000
+      internalID: 1312453177047494464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 143
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e824686e00030aaf0800000000000000
+      internalID: -387256787528170866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011bff5bb32ed1e20800000000000000
+      internalID: 3323060846153675024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5bc048bd5a0cc50800000000000000
+      internalID: 6683524209249662423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 143
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49020c5bb4c42f680800000000000000
+      internalID: -8722825640207703916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d531e2b10247a0fe0800000000000000
+      internalID: -1222036667633888419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 144
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61532050355594fa0800000000000000
+      internalID: -5816023628717607658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_76
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 144
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5450971528327e40800000000000000
+      internalID: 5652642214263673949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 143
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fd5503f2c2abb60800000000000000
+      internalID: 7762565488912490287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 144
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab388f1922627b0800000000000000
+      internalID: -5249470305318749668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 144
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08275c56a45be790800000000000000
+      internalID: -7499807680964909046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64d39bbdd815370800000000000000
+      internalID: 8309578762320430803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb5c3a7f77aacb60800000000000000
+      internalID: 7767204673307302849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_82
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ffc443c3a92a640800000000000000
+      internalID: 5089800112248258330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_83
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ba5d9735894770800000000000000
+      internalID: 8595547837722966377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73215eb04105526a0800000000000000
+      internalID: -6474680842246090185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb9c1bcace6303e0800000000000000
+      internalID: -2088703984899679312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_86
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09132aa71420d4f00800000000000000
+      internalID: 1102539964029219216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_87
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 96
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b3bd424ed9f9060800000000000000
+      internalID: 6962457152134527872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_88
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 96
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b063ecba1e0aec5c0800000000000000
+      internalID: -4193237311924849141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_89
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 95
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe78008fd8927c50800000000000000
+      internalID: 6661554884527554292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_90
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c853da29105b1b0800000000000000
+      internalID: -5641601228728857497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_91
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 95
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40262008b662c42c0800000000000000
+      internalID: -4446136488970526204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_92
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 95
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ece235be7500a0800000000000000
+      internalID: -6915982336048961346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_93
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 96
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46343968d66dcf2d0800000000000000
+      internalID: -3243481865716022428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_94
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e709756a697e20800000000000000
+      internalID: 3348824781981476737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 96
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071622c11ef421650800000000000000
+      internalID: 6202107465100845424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_96
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 95
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c4815f8dd5b390800000000000000
+      internalID: -7803087171731797960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_97
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53405e0245ce78f20800000000000000
+      internalID: 3424965887711839285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 47
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc8fdcb05a6f6470800000000000000
+      internalID: 8390041525813218503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_99
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 48
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6585af3733a3c0800000000000000
+      internalID: -4349572068610314696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 48
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceec108b6246dd50800000000000000
+      internalID: 6761664920021692103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_101
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 47
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a71b8e407bf6e10800000000000000
+      internalID: 2193172775264418397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49fa2583c7844ce0800000000000000
+      internalID: -1421862308519675573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_103
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 48
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feccfe52513651ad0800000000000000
+      internalID: -2732168656448402193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_104
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 48
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f949dd7f11abfcd0800000000000000
+      internalID: -2523246009583580684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_105
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 48
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09bd4ec6e71fdc10800000000000000
+      internalID: 2080407832939575564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7360872c9728f83b0800000000000000
+      internalID: -5508040359785527753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_107
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413242bc837ed490800000000000000
+      internalID: -7719605663143153333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_108
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572da7db617e5d620800000000000000
+      internalID: 2798396828334871157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_109
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 47
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d54cfcd2952250800000000000000
+      internalID: 5919298763071280869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_110
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 48
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77292bfd336214360800000000000000
+      internalID: 7152039687479267959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_111
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 48
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51893ed5a0cbea590800000000000000
+      internalID: -7660979163399743467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_112
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498fcb954456e8ee0800000000000000
+      internalID: -1256955901752051564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_113
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d38a97843d57560800000000000000
+      internalID: 7310981878338043225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_114
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 49
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f25c36848d31a80800000000000000
+      internalID: -8497210266494882017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61eca66bdebd4220800000000000000
+      internalID: 2471841620025991531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826b603c76b676950800000000000000
+      internalID: 6442235885374584360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46946b743302974f0800000000000000
+      internalID: -830597251654596252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_118
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 20
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66d8de5ff0d69440800000000000000
+      internalID: 4942367436312204907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_119
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 11
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ab64e97a59c7a0800000000000000
+      internalID: -6356449919486943062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_120
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c7191206e0cbfd0800000000000000
+      internalID: -2324967501587186555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d36980cbe94e20800000000000000
+      internalID: 3335456211215833161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_122
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb988c70b8622ab0800000000000000
+      internalID: -5034346326233932875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2bc8ff1802705d0800000000000000
+      internalID: -3096470476083645734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d488cfe9c73e03b60800000000000000
+      internalID: 7723923485323200589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_125
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f047715c61143b060800000000000000
+      internalID: 6967984614524023823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4699b06debefe50800000000000000
+      internalID: 6845118310176613597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_127
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152f42a5913a6b600800000000000000
+      internalID: 483753339270787665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_128
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8378380eb8c09ce0800000000000000
+      internalID: -1400398765604965490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_129
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a75bb34b5006f0800000000000000
+      internalID: -720475593915259304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_130
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb2f7af19ef73ce0800000000000000
+      internalID: -1425390854113121343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_131
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71eb7beb63d36b0800000000000000
+      internalID: -5315031792472942606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal_Ducks_132
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d483ff8d18d2030800000000000000
+      internalID: 3471573656767319338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animal_Ducks_0: 5604140353761029588
+      Animal_Ducks_1: 5609481254638564106
+      Animal_Ducks_10: 9189012371365478621
+      Animal_Ducks_100: 6761664920021692103
+      Animal_Ducks_101: 2193172775264418397
+      Animal_Ducks_102: -1421862308519675573
+      Animal_Ducks_103: -2732168656448402193
+      Animal_Ducks_104: -2523246009583580684
+      Animal_Ducks_105: 2080407832939575564
+      Animal_Ducks_106: -5508040359785527753
+      Animal_Ducks_107: -7719605663143153333
+      Animal_Ducks_108: 2798396828334871157
+      Animal_Ducks_109: 5919298763071280869
+      Animal_Ducks_11: 4985231192225078233
+      Animal_Ducks_110: 7152039687479267959
+      Animal_Ducks_111: -7660979163399743467
+      Animal_Ducks_112: -1256955901752051564
+      Animal_Ducks_113: 7310981878338043225
+      Animal_Ducks_114: -8497210266494882017
+      Animal_Ducks_115: 2471841620025991531
+      Animal_Ducks_116: 6442235885374584360
+      Animal_Ducks_117: -830597251654596252
+      Animal_Ducks_118: 4942367436312204907
+      Animal_Ducks_119: -6356449919486943062
+      Animal_Ducks_12: -6626599244296260377
+      Animal_Ducks_120: -2324967501587186555
+      Animal_Ducks_121: 3335456211215833161
+      Animal_Ducks_122: -5034346326233932875
+      Animal_Ducks_123: -3096470476083645734
+      Animal_Ducks_124: 7723923485323200589
+      Animal_Ducks_125: 6967984614524023823
+      Animal_Ducks_126: 6845118310176613597
+      Animal_Ducks_127: 483753339270787665
+      Animal_Ducks_128: -1400398765604965490
+      Animal_Ducks_129: -720475593915259304
+      Animal_Ducks_13: -4885332225391513457
+      Animal_Ducks_130: -1425390854113121343
+      Animal_Ducks_131: -5315031792472942606
+      Animal_Ducks_132: 3471573656767319338
+      Animal_Ducks_14: 815121552558015143
+      Animal_Ducks_15: -429280881684339938
+      Animal_Ducks_16: 3958333760787602417
+      Animal_Ducks_17: -7185818826517782855
+      Animal_Ducks_18: 5068880992697724094
+      Animal_Ducks_19: -8167630264416948460
+      Animal_Ducks_2: -5944817272209294951
+      Animal_Ducks_20: -1263495345302689923
+      Animal_Ducks_21: 7866158076588275109
+      Animal_Ducks_22: 9033935568288263929
+      Animal_Ducks_23: -3212196472527222299
+      Animal_Ducks_24: 3977727778310450282
+      Animal_Ducks_25: -3797331244881828606
+      Animal_Ducks_26: 6227446716240225857
+      Animal_Ducks_27: 416316519377351184
+      Animal_Ducks_28: -4605293342800195101
+      Animal_Ducks_29: 7462526294522539891
+      Animal_Ducks_3: -407770334915201796
+      Animal_Ducks_30: 4848924567436226774
+      Animal_Ducks_31: -1698184328594571742
+      Animal_Ducks_32: 2299587359293340223
+      Animal_Ducks_33: -6318671679446680743
+      Animal_Ducks_34: 2868419694656600639
+      Animal_Ducks_35: -2316712953635995475
+      Animal_Ducks_36: -1893796481086709663
+      Animal_Ducks_37: 2408496036684874869
+      Animal_Ducks_38: -755311933659076614
+      Animal_Ducks_39: 8731056870710071591
+      Animal_Ducks_4: -5887253227086250143
+      Animal_Ducks_40: -6074247663137090325
+      Animal_Ducks_41: 6518598012996929939
+      Animal_Ducks_42: -1468788383092194379
+      Animal_Ducks_43: 6278814138099009699
+      Animal_Ducks_44: 3949050981840748376
+      Animal_Ducks_45: 7861520856147402082
+      Animal_Ducks_46: 5462473701505981933
+      Animal_Ducks_47: -7257039765226239471
+      Animal_Ducks_48: -7889277571031788839
+      Animal_Ducks_49: 1178417502728866329
+      Animal_Ducks_5: -4937752685029345025
+      Animal_Ducks_50: 5060231494184198433
+      Animal_Ducks_51: -7653236346551382507
+      Animal_Ducks_52: 7800184284867125239
+      Animal_Ducks_53: 6275108468068527948
+      Animal_Ducks_54: 8954103165255736733
+      Animal_Ducks_55: 8469581830769632004
+      Animal_Ducks_56: -339881272338307111
+      Animal_Ducks_57: 5503439310454238563
+      Animal_Ducks_58: 5255299914917205138
+      Animal_Ducks_59: -6294468576817493317
+      Animal_Ducks_6: -164958847790749398
+      Animal_Ducks_60: 7780602838709477356
+      Animal_Ducks_61: -4797064134287317582
+      Animal_Ducks_62: 4999454998441232830
+      Animal_Ducks_63: 7202067737327164847
+      Animal_Ducks_64: 4484925083605155873
+      Animal_Ducks_65: -6590500479402858577
+      Animal_Ducks_66: -5520872867717918791
+      Animal_Ducks_67: 7694195950960686300
+      Animal_Ducks_68: 841203408399993449
+      Animal_Ducks_69: 1312453177047494464
+      Animal_Ducks_7: 7612284875945239009
+      Animal_Ducks_70: -387256787528170866
+      Animal_Ducks_71: 3323060846153675024
+      Animal_Ducks_72: 6683524209249662423
+      Animal_Ducks_73: -8722825640207703916
+      Animal_Ducks_74: -1222036667633888419
+      Animal_Ducks_75: -5816023628717607658
+      Animal_Ducks_76: 5652642214263673949
+      Animal_Ducks_77: 7762565488912490287
+      Animal_Ducks_78: -5249470305318749668
+      Animal_Ducks_79: -7499807680964909046
+      Animal_Ducks_8: -7844030726047278284
+      Animal_Ducks_80: 8309578762320430803
+      Animal_Ducks_81: 7767204673307302849
+      Animal_Ducks_82: 5089800112248258330
+      Animal_Ducks_83: 8595547837722966377
+      Animal_Ducks_84: -6474680842246090185
+      Animal_Ducks_85: -2088703984899679312
+      Animal_Ducks_86: 1102539964029219216
+      Animal_Ducks_87: 6962457152134527872
+      Animal_Ducks_88: -4193237311924849141
+      Animal_Ducks_89: 6661554884527554292
+      Animal_Ducks_9: 2666600859894166274
+      Animal_Ducks_90: -5641601228728857497
+      Animal_Ducks_91: -4446136488970526204
+      Animal_Ducks_92: -6915982336048961346
+      Animal_Ducks_93: -3243481865716022428
+      Animal_Ducks_94: 3348824781981476737
+      Animal_Ducks_95: 6202107465100845424
+      Animal_Ducks_96: -7803087171731797960
+      Animal_Ducks_97: 3424965887711839285
+      Animal_Ducks_98: 8390041525813218503
+      Animal_Ducks_99: -4349572068610314696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
