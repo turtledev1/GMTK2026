@@ -72,8 +72,6 @@ public class RocketSystem : MonoBehaviour {
         Debug.Log($"{Type} permanently failed!");
 
         RepairsManagerUI.Instance.CloseRepair();
-
-        // TODO save that to the game manager so we can trigger the first end sequence
     }
 
     public RepairMiniGame GetMiniGamePrefab() {
