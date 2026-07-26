@@ -20,6 +20,7 @@ public class CommMiniGameUI : RepairMiniGame {
     [SerializeField] private Button yellowButton;
     [SerializeField] private Button greenButton;
 
+    private readonly List<Transform> sequenceObjects = new();
     private readonly List<int> sequence = new();
     private int progress;
 
@@ -60,7 +61,7 @@ public class CommMiniGameUI : RepairMiniGame {
             Destroy(child.gameObject);
 
         foreach (int color in sequence) {
-            Instantiate(GetPrefab(color), sequenceContainer);
+            sequenceObjects.Add(Instantiate(GetPrefab(color), sequenceContainer));
         }
     }
 
@@ -77,6 +78,12 @@ public class CommMiniGameUI : RepairMiniGame {
     public void PressColor(int color) {
         if (color == sequence[progress]) {
             SoundManager.Instance.PlayClickPositive();
+
+            Transform checkmark = sequenceObjects[progress].Find("Checkmark");
+
+            if (checkmark != null)
+                checkmark.gameObject.SetActive(true);
+
             progress++;
 
             if (progress >= sequence.Count) {
@@ -85,6 +92,16 @@ public class CommMiniGameUI : RepairMiniGame {
         } else {
             SoundManager.Instance.PlayClickNegative();
             progress = 0;
+            HideCheckmarks();
+        }
+    }
+
+    private void HideCheckmarks() {
+        foreach (Transform obj in sequenceObjects) {
+            Transform checkmark = obj.Find("Checkmark");
+
+            if (checkmark != null)
+                checkmark.gameObject.SetActive(false);
         }
     }
 }
