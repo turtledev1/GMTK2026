@@ -4,6 +4,7 @@ using UnityEngine;
 public class RocketSystem : MonoBehaviour {
     [SerializeField] private RepairDefinitionSO repairDefinitionSO;
     [SerializeField] private BreakingTimerUI timerUI;
+    [SerializeField] private GameObject sparks;
 
     private AudioSource audioSource;
 
@@ -20,6 +21,7 @@ public class RocketSystem : MonoBehaviour {
     }
 
     private void Start() {
+        sparks.SetActive(false);
         FailuresManager.Instance.Register(this);
         UpAndRunningSystems.RegisterSystem(this);
     }
@@ -76,6 +78,7 @@ public class RocketSystem : MonoBehaviour {
         IsBroken = false;
         IsPermanentlyBroken = true;
         audioSource.Play();
+        sparks.SetActive(true);
         BrokenIndicatorsUI.Instance.ImRepaired(this);
 
         Debug.Log($"{Type} permanently failed!");
