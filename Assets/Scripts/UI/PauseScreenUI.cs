@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,10 +9,12 @@ public class PauseScreenUI : MonoBehaviour {
 
     private void Awake() {
         mainMenuButton.onClick.AddListener(() => {
-            SceneLoader.Load(SceneLoader.Scene.MainMenu);
+            SoundManager.Instance.PlayClickPositive();
+            StartCoroutine(QuitAfterDelay());
         });
 
         closeButton.onClick.AddListener(() => {
+            SoundManager.Instance.PlayClickPositive();
             GameManager.Instance.Unpause();
         });
     }
@@ -35,5 +38,10 @@ public class PauseScreenUI : MonoBehaviour {
 
     private void Show() {
         screen.SetActive(true);
+    }
+
+    private IEnumerator QuitAfterDelay() {
+        yield return new WaitForSeconds(1f);
+        SceneLoader.Load(SceneLoader.Scene.MainMenu);
     }
 }

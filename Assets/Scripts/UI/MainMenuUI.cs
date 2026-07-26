@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,10 +8,23 @@ public class MainMenuUI : MonoBehaviour {
 
     private void Awake() {
         playButton.onClick.AddListener(() => {
-            SceneLoader.Load(SceneLoader.Scene.Game);
+            SoundManager.Instance.PlayClickPositive();
+            StartCoroutine(LoadGameAfterDelay());
         });
+
         quitButton.onClick.AddListener(() => {
-            Application.Quit();
+            SoundManager.Instance.PlayClickNegative();
+            StartCoroutine(QuitAfterDelay());
         });
+    }
+
+    private IEnumerator LoadGameAfterDelay() {
+        yield return new WaitForSeconds(1f);
+        SceneLoader.Load(SceneLoader.Scene.Game);
+    }
+
+    private IEnumerator QuitAfterDelay() {
+        yield return new WaitForSeconds(1f);
+        Application.Quit();
     }
 }

@@ -10,9 +10,11 @@ public class NavigationMiniGame : RepairMiniGame {
     [SerializeField] private float targetTolerance = 5f;
     [SerializeField] private float lockDuration = 2f;
     [SerializeField] private float arrowDistance = 50f;
+    [SerializeField] private AudioSource chargingSound;
 
     private float targetAngle;
     private float lockTimer;
+    private bool isRightAngle = false;
 
     private Vector2 arrowStartPosition;
 
@@ -39,12 +41,20 @@ public class NavigationMiniGame : RepairMiniGame {
             lockTimer += Time.deltaTime;
 
             MoveArrowForward(lockTimer / lockDuration);
+            if (!isRightAngle) {
+                isRightAngle = true;
+                chargingSound.Play();
+            }
 
             if (lockTimer >= lockDuration) {
                 Complete();
             }
         } else {
             lockTimer = 0f;
+            if (isRightAngle) {
+                isRightAngle = false;
+                chargingSound.Stop();
+            }
             ResetArrow();
         }
     }

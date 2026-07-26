@@ -5,6 +5,8 @@ public class RocketSystem : MonoBehaviour {
     [SerializeField] private RepairDefinitionSO repairDefinitionSO;
     [SerializeField] private BreakingTimerUI timerUI;
 
+    private AudioSource audioSource;
+
     public bool IsBroken { get; private set; }
     public bool IsPermanentlyBroken { get; private set; }
     public float TimeRemaining { get; private set; }
@@ -12,6 +14,10 @@ public class RocketSystem : MonoBehaviour {
     private float RepairTime => repairDefinitionSO.repairTime;
     public RocketSystemType Type => repairDefinitionSO.type;
     public int Priority => repairDefinitionSO.priority;
+
+    private void Awake() {
+        audioSource = GetComponent<AudioSource>();
+    }
 
     private void Start() {
         FailuresManager.Instance.Register(this);
@@ -69,6 +75,7 @@ public class RocketSystem : MonoBehaviour {
     private void PermanentlyBreak() {
         IsBroken = false;
         IsPermanentlyBroken = true;
+        audioSource.Play();
         BrokenIndicatorsUI.Instance.ImRepaired(this);
 
         Debug.Log($"{Type} permanently failed!");

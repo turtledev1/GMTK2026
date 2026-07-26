@@ -76,14 +76,14 @@ public class CommMiniGameUI : RepairMiniGame {
 
     public void PressColor(int color) {
         if (color == sequence[progress]) {
+            SoundManager.Instance.PlayClickPositive();
             progress++;
-            Debug.Log("Good press, now at " + progress);
 
             if (progress >= sequence.Count) {
                 Complete();
             }
         } else {
-            Debug.Log("Bad press, restarting");
+            SoundManager.Instance.PlayClickNegative();
             progress = 0;
         }
     }

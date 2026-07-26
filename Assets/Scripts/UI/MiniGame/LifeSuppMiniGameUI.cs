@@ -18,7 +18,6 @@ public class LifeSuppMiniGameUI : RepairMiniGame {
             float targetY = Mathf.Lerp(-200f, 130f, targetValues[i] / 100f);
             targets[i].anchoredPosition = new Vector2(targets[i].anchoredPosition.x, targetY);
         }
-        Debug.Log("Target values: " + string.Join(", ", targetValues));
     }
 
     private void Update() {
